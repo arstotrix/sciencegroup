@@ -1,0 +1,455 @@
+T1	lex_item_choice 358 362	last
+A1	Cause T1 Other
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	previous
+T2	Spelling 438 440	it
+A4	Cause T2 Typo
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	It
+T3	lex_part_choice 528 530	to
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Critical
+#3	AnnotatorNotes T3	of
+T4	Standard 987 1063	The second biggest increase in cargo traffic had Dubai International Airport
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	Dubai International Airport had the second biggest increase in cargo traffic.
+T5	lex_part_choice 1212 1214	to
+A13	Cause T5 Other
+A14	Weight-language T5 Critical
+A15	Weight-understanding T5 Critical
+A16	Delete T5
+T6	Numerals 1380 1384	28th
+A17	Cause T6 Other
+A18	Weight-language T6 Critical
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	the 28th
+T7	Numerals 1388 1392	25th
+A20	Cause T7 Other
+A21	Weight-language T7 Critical
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	the 25th
+T8	pos_DT 0 4	This
+#7	AnnotatorNotes T8	lemma = 'this'
+T9	pos_VBZ 5 7	is
+#8	AnnotatorNotes T9	lemma = 'be'
+T10	pos_DT 8 9	a
+#9	AnnotatorNotes T10	lemma = 'a'
+T11	pos_NN 10 15	table
+#10	AnnotatorNotes T11	lemma = 'table'
+T12	pos_WDT 16 20	that
+#11	AnnotatorNotes T12	lemma = 'that'
+T13	pos_VBZ 21 29	compares
+#12	AnnotatorNotes T13	lemma = 'compare'
+T14	pos_Z 30 34	2005
+#13	AnnotatorNotes T14	lemma = '2005'
+T15	pos_CC 35 38	and
+#14	AnnotatorNotes T15	lemma = 'and'
+T16	pos_Z 39 43	2006
+#15	AnnotatorNotes T16	lemma = '2006'
+T17	pos_NNS 44 54	statistics
+#16	AnnotatorNotes T17	lemma = 'statistic'
+T18	pos_IN 55 58	for
+#17	AnnotatorNotes T18	lemma = 'for'
+T19	pos_NN 59 64	cargo
+#18	AnnotatorNotes T19	lemma = 'cargo'
+T20	pos_NN 65 72	traffic
+#19	AnnotatorNotes T20	lemma = 'traffic'
+T21	pos_IN 73 75	at
+#20	AnnotatorNotes T21	lemma = 'at'
+T22	pos_Z 76 78	30
+#21	AnnotatorNotes T22	lemma = '30'
+T23	pos_NN 79 84	world
+#22	AnnotatorNotes T23	lemma = 'world'
+T24	pos_Fw 84 85	’
+#23	AnnotatorNotes T24	lemma = '’'
+T25	pos_NNS 85 86	s
+#24	AnnotatorNotes T25	lemma = 's'
+T26	pos_JJS 87 94	busiest
+#25	AnnotatorNotes T26	lemma = 'busiest'
+T27	pos_JJ 95 108	international
+#26	AnnotatorNotes T27	lemma = 'international'
+T28	pos_NNS 109 117	airports
+#27	AnnotatorNotes T28	lemma = 'airport'
+T29	pos_Fd 117 118	:
+#28	AnnotatorNotes T29	lemma = ':'
+T30	pos_NP 119 148	Memphis International Airport
+#29	AnnotatorNotes T30	lemma = 'memphis_international_airport'
+T31	pos_Fc 148 149	,
+#30	AnnotatorNotes T31	lemma = ','
+T32	pos_NP 150 181	Hong Kong International Airport
+#31	AnnotatorNotes T32	lemma = 'hong_kong_international_airport'
+T33	pos_Fc 181 182	,
+#32	AnnotatorNotes T33	lemma = ','
+T34	pos_NP 183 214	Frankfurt International Airport
+#33	AnnotatorNotes T34	lemma = 'frankfurt_international_airport'
+T35	pos_Fc 214 215	,
+#34	AnnotatorNotes T35	lemma = ','
+T36	pos_NP 216 243	Dubai International Airport
+#35	AnnotatorNotes T36	lemma = 'dubai_international_airport'
+T37	pos_Fc 243 244	,
+#36	AnnotatorNotes T37	lemma = ','
+T38	pos_NP 245 274	Beijing International Airport
+#37	AnnotatorNotes T38	lemma = 'beijing_international_airport'
+T39	pos_CC 275 278	and
+#38	AnnotatorNotes T39	lemma = 'and'
+T40	pos_NP 279 319	Hartsfield-Jackson International Airport
+#39	AnnotatorNotes T40	lemma = 'hartsfield-jackson_international_airport'
+T41	pos_RB 320 333	in particular
+#40	AnnotatorNotes T41	lemma = 'in_particular'
+T42	pos_Fp 333 334	.
+#41	AnnotatorNotes T42	lemma = '.'
+T43	pos_IN 335 337	In
+#42	AnnotatorNotes T43	lemma = 'in'
+T44	pos_NN 338 348	comparison
+#43	AnnotatorNotes T44	lemma = 'comparison'
+T45	pos_IN 349 353	with
+#44	AnnotatorNotes T45	lemma = 'with'
+T46	pos_DT 354 357	the
+#45	AnnotatorNotes T46	lemma = 'the'
+T47	pos_JJ 358 362	last
+#46	AnnotatorNotes T47	lemma = 'last'
+T48	pos_NN 363 367	year
+#47	AnnotatorNotes T48	lemma = 'year'
+T49	pos_Fc 367 368	,
+#48	AnnotatorNotes T49	lemma = ','
+T50	pos_NP 369 398	Beijing International Airport
+#49	AnnotatorNotes T50	lemma = 'beijing_international_airport'
+T51	pos_VBD 399 408	increased
+#50	AnnotatorNotes T51	lemma = 'increase'
+T52	pos_PRP2 409 412	its
+#51	AnnotatorNotes T52	lemma = 'its'
+T53	pos_NN 413 418	cargo
+#52	AnnotatorNotes T53	lemma = 'cargo'
+T54	pos_NN 419 426	traffic
+#53	AnnotatorNotes T54	lemma = 'traffic'
+T55	pos_IN 427 429	by
+#54	AnnotatorNotes T55	lemma = 'by'
+T56	pos_Zp 430 436	31,6 %
+#55	AnnotatorNotes T56	lemma = '31,6/100'
+T57	pos_Fp 436 437	.
+#56	AnnotatorNotes T57	lemma = '.'
+T58	pos_PRP 438 440	it
+#57	AnnotatorNotes T58	lemma = 'it'
+T59	pos_VBD 441 450	increased
+#58	AnnotatorNotes T59	lemma = 'increase'
+T60	pos_DT 451 454	the
+#59	AnnotatorNotes T60	lemma = 'the'
+T61	pos_RBS 455 459	most
+#60	AnnotatorNotes T61	lemma = 'many'
+T62	pos_Fpa 459 460	(
+#61	AnnotatorNotes T62	lemma = '('
+T63	pos_PRP2 460 463	its
+#62	AnnotatorNotes T63	lemma = 'its'
+T64	pos_JJ 464 469	total
+#63	AnnotatorNotes T64	lemma = 'total'
+T65	pos_NN 470 475	cargo
+#64	AnnotatorNotes T65	lemma = 'cargo'
+T66	pos_VBD 476 484	composed
+#65	AnnotatorNotes T66	lemma = 'compose'
+T67	pos_Z 485 494	1,028,908
+#66	AnnotatorNotes T67	lemma = '1028908'
+T68	pos_NNS 495 501	tonnes
+#67	AnnotatorNotes T68	lemma = 'tonne'
+T69	pos_Fpt 501 502	)
+#68	AnnotatorNotes T69	lemma = ')'
+T70	pos_Fp 502 503	.
+#69	AnnotatorNotes T70	lemma = '.'
+T71	pos_RB 504 513	Similarly
+#70	AnnotatorNotes T71	lemma = 'similarly'
+T72	pos_Fc 513 514	,
+#71	AnnotatorNotes T72	lemma = ','
+T73	pos_NP 515 517	In
+#72	AnnotatorNotes T73	lemma = 'in'
+T74	pos_NN 518 527	reference
+#73	AnnotatorNotes T74	lemma = 'reference'
+T75	pos_TO 528 530	to
+#74	AnnotatorNotes T75	lemma = 'to'
+T76	pos_DT 531 534	the
+#75	AnnotatorNotes T76	lemma = 'the'
+T77	pos_NN 535 542	airport
+#76	AnnotatorNotes T77	lemma = 'airport'
+T78	pos_WDT 543 547	that
+#77	AnnotatorNotes T78	lemma = 'that'
+T79	pos_VBD 548 557	decreased
+#78	AnnotatorNotes T79	lemma = 'decrease'
+T80	pos_PRP2 558 561	its
+#79	AnnotatorNotes T80	lemma = 'its'
+T81	pos_NN 562 567	cargo
+#80	AnnotatorNotes T81	lemma = 'cargo'
+T82	pos_NN 568 575	traffic
+#81	AnnotatorNotes T82	lemma = 'traffic'
+T83	pos_Fc 575 576	,
+#82	AnnotatorNotes T83	lemma = ','
+T84	pos_PRP 577 579	it
+#83	AnnotatorNotes T84	lemma = 'it'
+T85	pos_VBD 580 583	was
+#84	AnnotatorNotes T85	lemma = 'be'
+T86	pos_NP 584 624	Hartsfield-Jackson International Airport
+#85	AnnotatorNotes T86	lemma = 'hartsfield-jackson_international_airport'
+T87	pos_IN 625 627	in
+#86	AnnotatorNotes T87	lemma = 'in'
+T88	pos_NP 628 635	Atlanta
+#87	AnnotatorNotes T88	lemma = 'atlanta'
+T89	pos_Fc 635 636	,
+#88	AnnotatorNotes T89	lemma = ','
+T90	pos_NP 637 650	United States
+#89	AnnotatorNotes T90	lemma = 'united_states'
+T91	pos_Fc 650 651	,
+#90	AnnotatorNotes T91	lemma = ','
+T92	pos_WDT 652 656	that
+#91	AnnotatorNotes T92	lemma = 'that'
+T93	pos_VBD 657 666	decreased
+#92	AnnotatorNotes T93	lemma = 'decrease'
+T94	pos_PRP2 667 670	its
+#93	AnnotatorNotes T94	lemma = 'its'
+T95	pos_NN 671 676	cargo
+#94	AnnotatorNotes T95	lemma = 'cargo'
+T96	pos_NN 677 684	traffic
+#95	AnnotatorNotes T96	lemma = 'traffic'
+T97	pos_IN 685 687	by
+#96	AnnotatorNotes T97	lemma = 'by'
+T98	pos_Zp 688 693	2,8 %
+#97	AnnotatorNotes T98	lemma = '2,8/100'
+T99	pos_Fpa 693 694	(
+#98	AnnotatorNotes T99	lemma = '('
+T100	pos_PRP2 694 697	its
+#99	AnnotatorNotes T100	lemma = 'its'
+T101	pos_JJ 698 703	total
+#100	AnnotatorNotes T101	lemma = 'total'
+T102	pos_NN 704 709	cargo
+#101	AnnotatorNotes T102	lemma = 'cargo'
+T103	pos_VBD 710 713	was
+#102	AnnotatorNotes T103	lemma = 'be'
+T104	pos_Z 714 721	746,500
+#103	AnnotatorNotes T104	lemma = '746500'
+T105	pos_NNS 722 728	tonnes
+#104	AnnotatorNotes T105	lemma = 'tonne'
+T106	pos_Fpt 728 729	)
+#105	AnnotatorNotes T106	lemma = ')'
+T107	pos_Fp 729 730	.
+#106	AnnotatorNotes T107	lemma = '.'
+T108	pos_RB 731 746	On the one hand
+#107	AnnotatorNotes T108	lemma = 'on_the_one_hand'
+T109	pos_Fc 746 747	,
+#108	AnnotatorNotes T109	lemma = ','
+T110	pos_NP 748 777	Memphis International Airport
+#109	AnnotatorNotes T110	lemma = 'memphis_international_airport'
+T111	pos_IN 778 780	in
+#110	AnnotatorNotes T111	lemma = 'in'
+T112	pos_NP 781 794	United States
+#111	AnnotatorNotes T112	lemma = 'united_states'
+T113	pos_VBD 795 803	occupied
+#112	AnnotatorNotes T113	lemma = 'occupy'
+T114	pos_DT 804 807	the
+#113	AnnotatorNotes T114	lemma = 'the'
+T115	pos_JJ 808 813	first
+#114	AnnotatorNotes T115	lemma = '1'
+T116	pos_NN 814 819	place
+#115	AnnotatorNotes T116	lemma = 'place'
+T117	pos_IN 820 822	in
+#116	AnnotatorNotes T117	lemma = 'in'
+T118	pos_DT 823 827	this
+#117	AnnotatorNotes T118	lemma = 'this'
+T119	pos_NN 828 835	ranking
+#118	AnnotatorNotes T119	lemma = 'ranking'
+T120	pos_Fp 835 836	.
+#119	AnnotatorNotes T120	lemma = '.'
+T121	pos_PRP2 837 840	Its
+#120	AnnotatorNotes T121	lemma = 'its'
+T122	pos_JJ 841 846	total
+#121	AnnotatorNotes T122	lemma = 'total'
+T123	pos_NN 847 852	cargo
+#122	AnnotatorNotes T123	lemma = 'cargo'
+T124	pos_VBD 853 861	composed
+#123	AnnotatorNotes T124	lemma = 'compose'
+T125	pos_Z 862 871	3,692,205
+#124	AnnotatorNotes T125	lemma = '3692205'
+T126	pos_NNS 872 878	tonnes
+#125	AnnotatorNotes T126	lemma = 'tonne'
+T127	pos_Fp 878 879	.
+#126	AnnotatorNotes T127	lemma = '.'
+T128	pos_CC 880 883	But
+#127	AnnotatorNotes T128	lemma = 'but'
+T129	pos_RB 884 901	on the other hand
+#128	AnnotatorNotes T129	lemma = 'on_the_other_hand'
+T130	pos_Fc 901 902	,
+#129	AnnotatorNotes T130	lemma = ','
+T131	pos_DT 903 907	this
+#130	AnnotatorNotes T131	lemma = 'this'
+T132	pos_NN 908 915	airport
+#131	AnnotatorNotes T132	lemma = 'airport'
+T133	pos_VBD 916 925	increased
+#132	AnnotatorNotes T133	lemma = 'increase'
+T134	pos_DT 926 929	the
+#133	AnnotatorNotes T134	lemma = 'the'
+T135	pos_JJS 930 935	least
+#134	AnnotatorNotes T135	lemma = 'little'
+T136	pos_IN 936 938	in
+#135	AnnotatorNotes T136	lemma = 'in'
+T137	pos_W 939 943	2006
+#136	AnnotatorNotes T137	lemma = '[??:??/??/2006:??.??:??]'
+T138	pos_Fpa 944 945	(
+#137	AnnotatorNotes T138	lemma = '('
+T139	pos_Zp 945 951	+2,6 %
+#138	AnnotatorNotes T139	lemma = '+2,6/100'
+T140	pos_Fpt 951 952	)
+#139	AnnotatorNotes T140	lemma = ')'
+T141	pos_CC 953 956	but
+#140	AnnotatorNotes T141	lemma = 'but'
+T142	pos_VBD 957 962	saved
+#141	AnnotatorNotes T142	lemma = 'save'
+T143	pos_PRP2 963 966	its
+#142	AnnotatorNotes T143	lemma = 'its'
+T144	pos_NN 967 972	place
+#143	AnnotatorNotes T144	lemma = 'place'
+T145	pos_IN 973 975	in
+#144	AnnotatorNotes T145	lemma = 'in'
+T146	pos_DT 976 979	the
+#145	AnnotatorNotes T146	lemma = 'the'
+T147	pos_NN 980 985	table
+#146	AnnotatorNotes T147	lemma = 'table'
+T148	pos_Fp 985 986	.
+#147	AnnotatorNotes T148	lemma = '.'
+T149	pos_DT 987 990	The
+#148	AnnotatorNotes T149	lemma = 'the'
+T150	pos_JJ 991 997	second
+#149	AnnotatorNotes T150	lemma = '2'
+T151	pos_JJS 998 1005	biggest
+#150	AnnotatorNotes T151	lemma = 'big'
+T152	pos_NN 1006 1014	increase
+#151	AnnotatorNotes T152	lemma = 'increase'
+T153	pos_IN 1015 1017	in
+#152	AnnotatorNotes T153	lemma = 'in'
+T154	pos_NN 1018 1023	cargo
+#153	AnnotatorNotes T154	lemma = 'cargo'
+T155	pos_NN 1024 1031	traffic
+#154	AnnotatorNotes T155	lemma = 'traffic'
+T156	pos_VBD 1032 1035	had
+#155	AnnotatorNotes T156	lemma = 'have'
+T157	pos_NP 1036 1063	Dubai International Airport
+#156	AnnotatorNotes T157	lemma = 'dubai_international_airport'
+T158	pos_Fp 1063 1064	.
+#157	AnnotatorNotes T158	lemma = '.'
+T159	pos_PRP2 1065 1068	Its
+#158	AnnotatorNotes T159	lemma = 'its'
+T160	pos_NN 1069 1075	change
+#159	AnnotatorNotes T160	lemma = 'change'
+T161	pos_VBD 1076 1084	composed
+#160	AnnotatorNotes T161	lemma = 'compose'
+T162	pos_Zp 1085 1091	14,4 %
+#161	AnnotatorNotes T162	lemma = '14,4/100'
+T163	pos_Fc 1091 1092	,
+#162	AnnotatorNotes T163	lemma = ','
+T164	pos_CC 1093 1096	but
+#163	AnnotatorNotes T164	lemma = 'but'
+T165	pos_DT 1097 1101	this
+#164	AnnotatorNotes T165	lemma = 'this'
+T166	pos_NN 1102 1108	change
+#165	AnnotatorNotes T166	lemma = 'change'
+T167	pos_NN 1109 1113	didn
+#166	AnnotatorNotes T167	lemma = 'didn'
+T168	pos_Fw 1113 1114	’
+#167	AnnotatorNotes T168	lemma = '’'
+T169	pos_RB 1114 1115	t
+#168	AnnotatorNotes T169	lemma = 't'
+T170	pos_VB 1116 1121	allow
+#169	AnnotatorNotes T170	lemma = 'allow'
+T171	pos_DT 1122 1126	this
+#170	AnnotatorNotes T171	lemma = 'this'
+T172	pos_NN 1127 1134	airport
+#171	AnnotatorNotes T172	lemma = 'airport'
+T173	pos_TO 1135 1137	to
+#172	AnnotatorNotes T173	lemma = 'to'
+T174	pos_VB 1138 1142	rank
+#173	AnnotatorNotes T174	lemma = 'rank'
+T175	pos_JJR 1143 1149	higher
+#174	AnnotatorNotes T175	lemma = 'high'
+T176	pos_NN 1150 1155	place
+#175	AnnotatorNotes T176	lemma = 'place'
+T177	pos_Fp 1155 1156	.
+#176	AnnotatorNotes T177	lemma = '.'
+T178	pos_PRP2 1158 1161	Its
+#177	AnnotatorNotes T178	lemma = 'its'
+T179	pos_JJ 1162 1167	total
+#178	AnnotatorNotes T179	lemma = 'total'
+T180	pos_NN 1168 1173	cargo
+#179	AnnotatorNotes T180	lemma = 'cargo'
+T181	pos_VBD 1174 1182	composed
+#180	AnnotatorNotes T181	lemma = 'compose'
+T182	pos_Z 1183 1192	1,503,696
+#181	AnnotatorNotes T182	lemma = '1503696'
+T183	pos_NNS 1193 1199	tonnes
+#182	AnnotatorNotes T183	lemma = 'tonne'
+T184	pos_Fp 1199 1200	.
+#183	AnnotatorNotes T184	lemma = '.'
+T185	pos_VBG 1201 1211	Concerning
+#184	AnnotatorNotes T185	lemma = 'concern'
+T186	pos_TO 1212 1214	to
+#185	AnnotatorNotes T186	lemma = 'to'
+T187	pos_DT 1215 1218	the
+#186	AnnotatorNotes T187	lemma = 'the'
+T188	pos_NN 1219 1224	table
+#187	AnnotatorNotes T188	lemma = 'table'
+T189	pos_Fc 1224 1225	,
+#188	AnnotatorNotes T189	lemma = ','
+T190	pos_NP 1226 1253	Dubai International Airport
+#189	AnnotatorNotes T190	lemma = 'dubai_international_airport'
+T191	pos_CC 1254 1257	and
+#190	AnnotatorNotes T191	lemma = 'and'
+T192	pos_NP 1258 1287	Beijing International Airport
+#191	AnnotatorNotes T192	lemma = 'beijing_international_airport'
+T193	pos_VBD 1288 1292	lost
+#192	AnnotatorNotes T193	lemma = 'lose'
+T194	pos_PRP2 1293 1298	their
+#193	AnnotatorNotes T194	lemma = 'their'
+T195	pos_NNS 1299 1305	places
+#194	AnnotatorNotes T195	lemma = 'place'
+T196	pos_IN 1306 1308	in
+#195	AnnotatorNotes T196	lemma = 'in'
+T197	pos_DT 1309 1312	the
+#196	AnnotatorNotes T197	lemma = 'the'
+T198	pos_NN 1313 1320	ranking
+#197	AnnotatorNotes T198	lemma = 'ranking'
+T199	pos_IN 1321 1326	while
+#198	AnnotatorNotes T199	lemma = 'while'
+T200	pos_NP 1327 1367	Hartsfield-Jackson International Airport
+#199	AnnotatorNotes T200	lemma = 'hartsfield-jackson_international_airport'
+T201	pos_VBD 1368 1371	was
+#200	AnnotatorNotes T201	lemma = 'be'
+T202	pos_RP 1372 1374	up
+#201	AnnotatorNotes T202	lemma = 'up'
+T203	pos_IN 1375 1379	from
+#202	AnnotatorNotes T203	lemma = 'from'
+T204	pos_JJ 1380 1384	28th
+#203	AnnotatorNotes T204	lemma = '28'
+T205	pos_TO 1385 1387	to
+#204	AnnotatorNotes T205	lemma = 'to'
+T206	pos_JJ 1388 1392	25th
+#205	AnnotatorNotes T206	lemma = '25'
+T207	pos_NN 1393 1398	place
+#206	AnnotatorNotes T207	lemma = 'place'
+T208	pos_Fp 1398 1399	.
+#207	AnnotatorNotes T208	lemma = '.'
+T209	pos_NP 1400 1407	Memphis
+#208	AnnotatorNotes T209	lemma = 'memphis'
+T210	pos_Fc 1407 1408	,
+#209	AnnotatorNotes T210	lemma = ','
+T211	pos_NP 1409 1418	Hong Kong
+#210	AnnotatorNotes T211	lemma = 'hong_kong'
+T212	pos_CC 1419 1422	and
+#211	AnnotatorNotes T212	lemma = 'and'
+T213	pos_NP 1423 1455	Frankfurt International Airports
+#212	AnnotatorNotes T213	lemma = 'frankfurt_international_airports'
+T214	pos_VBD 1456 1461	saved
+#213	AnnotatorNotes T214	lemma = 'save'
+T215	pos_PRP2 1462 1467	their
+#214	AnnotatorNotes T215	lemma = 'their'
+T216	pos_NNS 1468 1473	ranks
+#215	AnnotatorNotes T216	lemma = 'rank'
+T217	pos_Fp 1473 1474	.
+#216	AnnotatorNotes T217	lemma = '.'

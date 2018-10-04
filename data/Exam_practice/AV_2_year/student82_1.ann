@@ -1,0 +1,114 @@
+T1	Spelling 29 37	programs
+T3	Punctuation 188 191	and
+T4	Category_confusion 283 290	injures
+T6	lex_item_choice 615 623	consider
+T8	Agreement_errors 730 737	happens
+T10	lex_item_choice 853 856	all
+T11	Redundant_comp 905 912	of them
+T12	Ref_device 939 941	it
+T13	lex_item_choice 1008 1013	needs
+T15	Verb_adj 1227 1233	afraid
+T16	lex_item_choice 1219 1226	mustn’t
+T17	lex_item_choice 1299 1303	play
+T7	suggestion 1227 1239	afraid of it
+T20	lex_item_choice 1074 1090	do anything well
+T14	Standard 1147 1178	sport without pain isn’t useful
+T22	Determiners 1304 1307	any
+T23	Transitive 122 136	influence with
+A1	Cause T23 L1_interference
+A2	Weight-understanding T23 Minor
+#1	AnnotatorNotes T23	influence
+A3	Cause T4 Other
+A4	Weight-understanding T4 Minor
+#2	AnnotatorNotes T4	injuries
+T2	Modals 343 359	cannot dissuades
+A5	Cause T2 Other
+A6	Weight-understanding T2 Minor
+#3	AnnotatorNotes T2	cannot dissuade
+T5	Absence_comp_colloc 644 672	prevent teenagers from sport
+A7	Cause T5 Other
+A8	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	prevent teenagers from doing sport
+T24	note 644 672	prevent teenagers from sport
+#5	AnnotatorNotes T24	Alternatively, you could use a different verb: put teenagers off sport
+T9	lex_part_choice 815 832	On the other side
+A9	Cause T9 L1_interference
+A10	Weight-understanding T9 Minor
+#6	AnnotatorNotes T9	On the other hand
+A11	Cause T8 Other
+A12	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	happen
+A13	Cause T1 Other
+A14	Weight-understanding T1 Minor
+#8	AnnotatorNotes T1	programmes
+T25	note 29 37	programs
+#9	AnnotatorNotes T25	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A15	Cause T10 Other
+A16	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	the whole
+A17	Cause T11 Other
+A18	Weight-understanding T11 Minor
+A19	Delete T11
+A20	Weight-language T23 Major
+A21	Weight-language T4 Critical
+A22	Weight-language T2 Major
+A23	Weight-language T5 Major
+A24	Weight-language T8 Major
+A25	Weight-language T9 Major
+A26	Weight-language T10 Minor
+A27	Weight-language T11 Minor
+A28	Cause T13 L1_interference
+A29	Weight-language T13 Minor
+A30	Weight-understanding T13 Minor
+#11	AnnotatorNotes T13	takes
+A31	Cause T20 Other
+A32	Weight-language T20 Minor
+A33	Weight-understanding T20 Major
+#12	AnnotatorNotes T20	do well OR succeed
+A34	Cause T14 L1_interference
+A35	Weight-language T14 Major
+A36	Weight-understanding T14 Minor
+#13	AnnotatorNotes T14	sport isn't useful without pain
+T26	note 1166 1178	isn’t useful
+#14	AnnotatorNotes T26	Maybe you meant something like "is impossible"?
+A37	Cause T16 L1_interference
+A38	Weight-language T16 Major
+A39	Weight-understanding T16 Major
+#15	AnnotatorNotes T16	shouldn't
+A40	Cause T15 L1_interference
+A41	Weight-language T15 Critical
+A42	Weight-understanding T15 Minor
+#16	AnnotatorNotes T15	be afraid
+T27	lex_item_choice 1422 1433	in front of
+A43	Cause T27 L1_interference
+A44	Weight-language T27 Minor
+A45	Weight-understanding T27 Minor
+#17	AnnotatorNotes T27	for
+A46	Cause T22 Other
+A47	Weight-language T22 Minor
+A48	Weight-understanding T22 Minor
+#18	AnnotatorNotes T22	a
+A49	Cause T17 Other
+A50	Weight-language T17 Minor
+A51	Weight-understanding T17 Minor
+#19	AnnotatorNotes T17	do
+T18	Defining 719 737	situations happens
+A52	Cause T18 Other
+A53	Weight-language T18 Critical
+A54	Weight-understanding T18 Major
+#20	AnnotatorNotes T18	situations that happen
+T28	note 719 737	situations happens
+#21	AnnotatorNotes T28	Alternatively, you could say "situations happening"
+A55	Cause T6 Other
+A56	Weight-language T6 Minor
+A57	Weight-understanding T6 Minor
+#22	AnnotatorNotes T6	believe
+A58	Cause T3 Other
+A59	Weight-language T3 Minor
+A60	Weight-understanding T3 Minor
+#23	AnnotatorNotes T3	, and
+T19	Often_confused 959 964	needs
+A61	Cause T19 L1_interference
+A62	Weight-language T19 Minor
+A63	Weight-understanding T19 Minor
+#24	AnnotatorNotes T19	takes

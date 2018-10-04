@@ -1,0 +1,32 @@
+T2	Noun_number 230 241	competition
+#2	AnnotatorNotes T2	competitions
+T3	Articles 434 443	equipment
+#3	AnnotatorNotes T3	the equipment 
+T4	Tense_form 918 923	think
+#4	AnnotatorNotes T4	thinks
+T5	Tense_choice 953 957	made
+#5	AnnotatorNotes T5	makes
+T8	lex_item_choice 1290 1299	sportsmen
+#7	AnnotatorNotes T8	sports professionals
+T1	Vocabulary 226 229	any
+A1	Delete T1
+T6	lex_item_choice 1073 1079	Though
+#1	AnnotatorNotes T6	However
+T9	Prepositional_noun 1096 1110	exceptions for
+#8	AnnotatorNotes T9	exceptions to
+T10	lex_item_choice 1215 1224	sportsmen
+#9	AnnotatorNotes T1	delete
+T11	Tense_choice 120 129	dedicated
+T12	Determiners 1197 1209	the examples
+#10	AnnotatorNotes T12	some examples
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T13	Discourse 167 179	of all types
+A2	Delete T13
+#6	AnnotatorNotes T10	athletes
+#11	AnnotatorNotes T11	dedicate OR have dedicated
+T7	lex_item_choice 110 119	sportsmen
+#12	AnnotatorNotes T7	sportsmen and women
+T14	lex_item_choice 189 198	sportsman
+#13	AnnotatorNotes T14	person in sports
+T15	suggestion 548 554	Mostly
+T16	suggestion 1015 1021	at all

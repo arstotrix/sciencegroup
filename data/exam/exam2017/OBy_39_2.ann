@@ -1,0 +1,58 @@
+T1	Punctuation 7 22	, this problem,
+#1	AnnotatorNotes T1	this problem
+T2	lex_item_choice 23 25	it
+#2	AnnotatorNotes T2	has
+T3	Redundant_comp 26 29	has
+A1	Delete T3
+T4	Spelling 30 33	koz
+#3	AnnotatorNotes T4	happend
+T5	Tense_choice 52 59	grow up
+#4	AnnotatorNotes T5	has grown up
+T6	Punctuation 59 64	, and
+#5	AnnotatorNotes T6	and
+T7	lex_item_choice 65 70	human
+#6	AnnotatorNotes T7	people
+T8	Absence_comp_sent 71 74	too
+#7	AnnotatorNotes T8	should too
+T9	Ref_device 88 92	this
+#8	AnnotatorNotes T9	it
+T10	Tense_form 93 100	is have
+#9	AnnotatorNotes T10	has
+T11	Articles 101 105	name
+#10	AnnotatorNotes T11	the name
+T12	Absence_comp_sent 125 129	that
+#11	AnnotatorNotes T12	that is
+T13	Inappropriate_register 130 134	cool
+#12	AnnotatorNotes T13	amazing
+T14	Punctuation 134 143	, because
+#13	AnnotatorNotes T14	because
+T15	Tense_form 147 156	are don’t
+#14	AnnotatorNotes T15	do not do
+T16	Inappropriate_register 151 156	don’t
+#15	AnnotatorNotes T16	do not
+T17	Noun_number 157 161	spot
+#16	AnnotatorNotes T17	sports
+T18	Redundant_comp 181 190	seen have
+A2	Delete T18
+T19	Word_order 177 199	bad seen have a future
+#17	AnnotatorNotes T19	a bad future
+T20	Redundant_comp 222 231	a reduced
+A3	Delete T20
+T21	Ref_device 207 211	this
+#18	AnnotatorNotes T21	it is
+T22	Absence_comp_sent 207 211	this
+#19	AnnotatorNotes T22	it is
+T23	Articles 212 221	‘problem’
+#20	AnnotatorNotes T23	a problem
+T24	Redundant_comp 244 259	, of humans and
+A4	Delete T24
+T25	Spelling 260 264	than
+#21	AnnotatorNotes T25	thay
+T26	Absence_comp_sent 265 275	wery nicce
+#22	AnnotatorNotes T26	they are very nice
+T27	Spelling 265 269	wery
+#23	AnnotatorNotes T27	very
+T28	Spelling 270 275	nicce
+#24	AnnotatorNotes T28	nice
+T29	Redundant_comp 276 282	living
+A5	Delete T29

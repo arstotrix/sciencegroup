@@ -1,0 +1,138 @@
+T2	lex_item_choice 77 81	make
+#2	AnnotatorNotes T2	commit
+T3	note 1745 1746	.
+#3	AnnotatorNotes T3	Oleynik
+T4	Tense_form 95 104	separetes
+#4	AnnotatorNotes T4	separate
+T5	Noun_number 165 171	crimes
+#5	AnnotatorNotes T5	crime
+T6	Capitalisation 1631 1638	Fulfill
+#6	AnnotatorNotes T6	fulfill
+T7	Articles 1434 1442	a prison
+#7	AnnotatorNotes T7	prison
+T8	Capitalisation 1387 1393	Killer
+#8	AnnotatorNotes T8	killer
+T9	Redundant_comp 1466 1495	that one of them was among us
+#9	AnnotatorNotes T9	that one to be among us
+T10	Infinitive_constr 1483 1486	was
+#10	AnnotatorNotes T10	to be
+T11	Capitalisation 1395 1398	Who
+#11	AnnotatorNotes T11	who
+T12	Spelling 842 853	alternrtive
+#12	AnnotatorNotes T12	alternative
+T13	Ref_device 231 235	they
+#13	AnnotatorNotes T13	criminals
+T14	Conditionals 236 242	become
+#14	AnnotatorNotes T14	will get
+T15	lex_item_choice 291 305	reducing crime
+#15	AnnotatorNotes T15	punishment for crime
+T16	lex_item_choice 258 267	are given
+#16	AnnotatorNotes T16	receive
+T17	Spelling 371 379	garantie
+#17	AnnotatorNotes T17	guarantee
+T18	Absence_comp_sent 380 396	of their changes
+#18	AnnotatorNotes T18	that criminals will change
+T19	lex_item_choice 450 478	make there works, hard works
+#19	AnnotatorNotes T19	work hard there
+T20	lex_item_choice 565 568	bad
+#20	AnnotatorNotes T20	wrong
+T21	lex_item_choice 615 617	do
+#21	AnnotatorNotes T21	commit
+T22	lex_item_choice 734 738	time
+#22	AnnotatorNotes T22	sentence
+T23	Punctuation 734 738	time
+#23	AnnotatorNotes T23	sentence,
+T24	lex_item_choice 796 800	time
+#24	AnnotatorNotes T24	experience
+T25	Ref_device 889 893	they
+#25	AnnotatorNotes T25	criminals
+T26	Articles 1578 1589	this person
+#26	AnnotatorNotes T26	a criminal
+T27	lex_item_choice 1578 1589	this person
+#27	AnnotatorNotes T27	a criminal
+T28	lex_item_choice 407 411	have
+#28	AnnotatorNotes T28	serve
+T29	Prepositions 697 712	at the same way
+#29	AnnotatorNotes T29	the same way
+T30	Pronouns 679 696	behave themselves
+#30	AnnotatorNotes T30	behave
+T31	lex_item_choice 748 750	be
+#31	AnnotatorNotes T31	get
+T32	Spelling 95 104	separetes
+#32	AnnotatorNotes T32	separate
+T33	lex_item_choice 236 242	become
+#33	AnnotatorNotes T33	will get
+T34	Tense_choice 772 776	want
+#34	AnnotatorNotes T34	will want
+T36	lex_part_choice 1053 1070	have a punishment
+#36	AnnotatorNotes T36	be punished
+T37	lex_item_choice 954 971	killed one person
+#37	AnnotatorNotes T37	committing a murder
+T38	lex_item_choice 983 987	have
+#38	AnnotatorNotes T38	serve
+T39	Noun_number 988 1004	prison sentences
+#39	AnnotatorNotes T39	a prison sentence
+T40	Standard 931 1004	they can think if they killed one person and do not have prison sentences
+#40	AnnotatorNotes T40	if they do not serve a prison sentence for committing a murder
+T41	Absence_comp_sent 1006 1070	they will can kill another person and will not have a punishment
+#41	AnnotatorNotes T41	they may think that they will not be punished for killing someone else in the future
+T35	Modals 1006 1070	they will can kill another person and will not have a punishment
+#35	AnnotatorNotes T35	they may think that they will not be punished for killing someone else in the future
+T42	lex_item_choice 1151 1154	has
+#42	AnnotatorNotes T42	serves
+T43	lex_item_choice 41 55	the prisoniers
+#43	AnnotatorNotes T43	convicts
+T1	Articles 41 55	the prisoniers
+#1	AnnotatorNotes T1	convicts
+T44	lex_item_choice 22 25	two
+#44	AnnotatorNotes T44	several
+T45	Ref_device 90 94	They
+#45	AnnotatorNotes T45	These opinions
+T46	lex_item_choice 589 593	only
+#46	AnnotatorNotes T46	just
+T47	Spelling 1158 1169	alternitive
+#47	AnnotatorNotes T47	alternative
+T48	Noun_number 1332 1342	the crimes
+#48	AnnotatorNotes T48	crime
+T49	Articles 1332 1342	the crimes
+#49	AnnotatorNotes T49	crime
+T50	Articles 1311 1321	better way
+#50	AnnotatorNotes T50	a better way
+T51	lex_item_choice 1399 1405	killed
+#51	AnnotatorNotes T51	murdered
+R1	Parallel_construction Arg1:T51 Arg2:T8	
+T52	Infinitive_constr 1649 1653	want
+#52	AnnotatorNotes T52	want to
+T53	lex_item_choice 1722 1726	have
+#53	AnnotatorNotes T53	do
+T54	Prepositions 1727 1729	at
+#54	AnnotatorNotes T54	in
+T55	Punctuation 1674 1678	all,
+#55	AnnotatorNotes T55	everything
+T56	Pronouns 1674 1678	all,
+#56	AnnotatorNotes T56	everything
+T57	Redundant_comp 1654 1713	give to this killer all, that can give him the same felling
+#57	AnnotatorNotes T57	make this killer feel everything
+T58	lex_item_choice 1735 1738	bad
+#58	AnnotatorNotes T58	unpleasant
+T59	lex_item_choice 1739 1745	moment
+#59	AnnotatorNotes T59	situation
+R2	Dependent_change Arg1:T41 Arg2:T40	
+T60	lex_item_choice 1108 1110	be
+#60	AnnotatorNotes T60	occur
+T61	Prepositions 1091 1095	with
+#61	AnnotatorNotes T61	about
+T62	Modals 1104 1107	can
+#62	AnnotatorNotes T62	may
+T63	Linking_device 1115 1137	in this sutuation when
+#63	AnnotatorNotes T63	then
+T64	lex_item_choice 1276 1280	time
+#64	AnnotatorNotes T64	experience
+T65	Redundant_comp 1185 1217	after that way of reducing crime
+#65	AnnotatorNotes T65	after that
+T66	Participial_constr 1252 1256	want
+#66	AnnotatorNotes T66	willing
+T67	Prepositions 1260 1266	forget
+#67	AnnotatorNotes T67	forget about
+T68	lex_item_choice 1235 1247	lifefriendly
+#68	AnnotatorNotes T68	friendly

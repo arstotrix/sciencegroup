@@ -1,0 +1,56 @@
+T1	Absence_explanation 36 46	widespread
+#1	AnnotatorNotes T1	the widespread use
+T2	Tense_choice 61 71	is causing
+#2	AnnotatorNotes T2	causes
+T3	Noun_number 160 174	the technology
+#3	AnnotatorNotes T3	technologies
+T4	Agreement_errors 175 185	has spread
+#4	AnnotatorNotes T4	have spreaded
+T5	Tense_form 175 185	has spread
+#5	AnnotatorNotes T5	have spreaded
+T6	Inappropriate_register 198 203	can’t
+#6	AnnotatorNotes T6	cannot
+R1	Dependent_change Arg1:T4 Arg2:T3	
+T7	Ref_device 222 224	it
+#7	AnnotatorNotes T7	them
+R2	Dependent_change Arg1:T7 Arg2:T3	
+T8	Tense_choice 229 247	are always staring
+#8	AnnotatorNotes T8	always stare
+T9	Prepositions 248 267	on the tiny screens
+#9	AnnotatorNotes T9	at tiny screens
+T10	Articles 251 267	the tiny screens
+#10	AnnotatorNotes T10	tiny screens
+T11	Prepositions 286 296	on screens
+#11	AnnotatorNotes T11	at screens
+T12	Spelling 315 327	Thisconstant
+#12	AnnotatorNotes T12	This constant
+T13	lex_item_choice 336 339	has
+#13	AnnotatorNotes T13	makes
+T14	Spelling 423 429	imagin
+#14	AnnotatorNotes T14	imagine
+T15	Spelling 663 672	computers
+#15	AnnotatorNotes T15	computer
+T16	Prepositions 842 852	Worst case
+#16	AnnotatorNotes T16	In the worst case
+T17	Articles 842 852	Worst case
+#17	AnnotatorNotes T17	In the worst case
+T18	Tense_choice 866 869	got
+#18	AnnotatorNotes T18	get
+T19	lex_item_choice 1039 1046	perform
+#19	AnnotatorNotes T19	do
+T20	lex_item_choice 1062 1075	ever so often
+#20	AnnotatorNotes T20	regularly
+T21	lex_item_choice 1110 1114	sigt
+#21	AnnotatorNotes T21	eyes
+T22	Articles 1239 1255	a little workout
+#22	AnnotatorNotes T22	small workouts
+T23	Noun_number 1239 1255	a little workout
+#23	AnnotatorNotes T23	small workouts
+T24	lex_item_choice 1241 1247	little
+#24	AnnotatorNotes T24	small
+T25	Spelling 1378 1380	of
+#25	AnnotatorNotes T25	if
+T26	Conditionals 1390 1410	just started running
+#26	AnnotatorNotes T26	would have just started running
+T27	Articles 1507 1513	health
+#27	AnnotatorNotes T27	the health

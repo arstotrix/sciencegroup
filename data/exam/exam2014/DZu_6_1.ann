@@ -1,0 +1,92 @@
+T1	Agreement_errors 28 32	show
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	shows
+T2	Suffix 137 144	develop
+A4	Cause T2 Typo
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	developed 
+T3	Punctuation 254 263	route For
+A7	Cause T3 Typo
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	route. For
+T4	Superlative_adj 273 281	most old
+A10	Cause T4 Typo
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	the oldest 
+T5	Nouns 294 301	systems
+A13	Cause T5 Typo
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	system 
+T6	Often_confused 376 380	then
+A16	Cause T6 Typo
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	than 
+T7	Absence_explanation 358 363	Kyoto
+A19	Cause T7 Typo
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	Kyoto underground system
+T8	Comparative_adj 367 375	more old
+A22	Cause T8 Typo
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	older 
+T9	Suffix 381 392	Los Angeles
+A25	Cause T9 Typo
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	Los Angeles's 
+T10	Punctuation 426 437	shows, that
+A28	Cause T10 Typo
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	shows that 
+T11	Adjectives 585 597	very biggest
+A31	Cause T11 Typo
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	very big 
+T12	Often_confused 722 726	then
+A34	Cause T12 Typo
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	than 
+T13	Absence_explanation 727 734	railway
+#13	AnnotatorNotes T13	underground railway 
+T14	Prepositions 710 712	at
+A37	Cause T14 Typo
+A38	Weight-language T14 Minor
+A39	Weight-understanding T14 Major
+#14	AnnotatorNotes T14	in 
+T15	lex_item_choice 754 758	size
+A40	Cause T15 Typo
+A41	Weight-language T15 Minor
+A42	Weight-understanding T15 Major
+#15	AnnotatorNotes T15	the length 
+T16	Suffix 789 795	opened
+A43	Cause T16 Typo
+A44	Weight-language T16 Major
+A45	Weight-understanding T16 Major
+#16	AnnotatorNotes T16	opening 
+T17	Often_confused 568 574	effect
+A46	Cause T17 Typo
+A47	Weight-language T17 Major
+A48	Weight-understanding T17 Major
+#17	AnnotatorNotes T17	affect 
+T18	Redundant_comp 858 864	effect
+A49	Cause T18 Typo
+A50	Weight-language T18 Major
+A51	Weight-understanding T18 Major
+T19	Redundant_comp 811 826	passengers date
+A52	Cause T19 Typo
+A53	Weight-language T19 Major
+A54	Weight-understanding T19 Major
+#19	AnnotatorNotes T19	passengers 
+A55	Delete T18

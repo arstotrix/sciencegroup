@@ -1,0 +1,79 @@
+T1	Interrogative 128 133	It is
+T2	Countable_uncountable 588 598	profession
+T3	Spelling 893 906	unbelieveuble
+T5	Agreement_errors 1193 1196	are
+T7	Punctuation 8 9	,
+A1	Cause T7 L1_interference
+#1	AnnotatorNotes T7	no comma
+T8	Punctuation 76 77	,
+A2	Cause T8 L1_interference
+#2	AnnotatorNotes T8	no comma
+#3	AnnotatorNotes T1	Is it
+T9	Spelling 164 168	casy
+#4	AnnotatorNotes T9	easy
+T10	Punctuation 526 533	example
+#5	AnnotatorNotes T10	,
+T11	Word_choice 599 604	where
+#6	AnnotatorNotes T11	in which
+T12	Word_choice 624 632	teaching
+#7	AnnotatorNotes T12	teacher
+T13	Word_choice 635 642	cooking
+#8	AnnotatorNotes T13	cook
+T14	lex_item_choice 686 689	our
+#9	AnnotatorNotes T14	these
+T15	lex_item_choice 690 700	categories
+#10	AnnotatorNotes T15	genders 
+T16	Gerund_phrase 733 738	treat
+#11	AnnotatorNotes T16	treating
+T17	Redundant_comp 730 732	to
+T18	Gerund_phrase 746 750	look
+#12	AnnotatorNotes T18	looking
+T19	Articles 46 54	equality
+#13	AnnotatorNotes T19	the equality 
+T20	Prepositions 371 376	apply
+#14	AnnotatorNotes T20	apply to
+T21	lex_item_choice 782 790	whenever
+#15	AnnotatorNotes T21	while
+#16	AnnotatorNotes T3	unbelievable
+T22	lex_item_choice 919 925	growth
+#17	AnnotatorNotes T22	development
+T23	Determiners 940 949	qualities
+#18	AnnotatorNotes T23	and other qualities
+T24	Word_choice 972 1011	there is no question only in psychology
+#19	AnnotatorNotes T24	concerns not only psychology
+T25	Absence_comp_sent 1154 1166	fire fighter
+#21	AnnotatorNotes T25	as a firefighter
+T30	Absence_comp_sent 74 76	so
+#27	AnnotatorNotes T30	so that
+#28	AnnotatorNotes T2	professions
+T31	Often_confused 1028 1034	remind
+#29	AnnotatorNotes T31	remember
+T32	Noun_number 1330 1337	student
+#30	AnnotatorNotes T32	students
+T33	Linking_device 938 949	, qualities
+#31	AnnotatorNotes T33	and other qualities
+T34	Determiners 953 959	person
+#32	AnnotatorNotes T34	any person
+T35	lex_item_choice 1061 1068	suggest
+#33	AnnotatorNotes T35	suppose
+T27	Word_choice 1080 1108	is low population of females
+#23	AnnotatorNotes T27	few girls
+T28	Category_confusion 1101 1108	females
+#24	AnnotatorNotes T28	girls
+T36	Redundant_comp 1109 1112	are
+A3	Delete T36
+T4	Word_choice 1127 1150	profwssion of policeman
+#20	AnnotatorNotes T4	working in the police
+R1	Dependent_change Arg1:T4 Arg2:T25	
+#34	AnnotatorNotes T5	is
+T26	Punctuation 1234 1275	Taking all these facts into consideration
+#22	AnnotatorNotes T26	Taking all these facts into consideration,
+T29	Noun_number 1304 1310	number
+#25	AnnotatorNotes T29	numbers
+T37	Agreement_errors 1355 1357	is
+#35	AnnotatorNotes T37	are
+R2	Dependent_change Arg1:T29 Arg2:T37	
+T6	Defining 1482 1489	, which
+#26	AnnotatorNotes T6	which
+T38	Spelling 1516 1523	can not
+#36	AnnotatorNotes T38	cannot

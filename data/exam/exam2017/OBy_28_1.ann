@@ -1,0 +1,89 @@
+T1	Agreement_errors 22 32	illustrate
+#1	AnnotatorNotes T1	illustrates
+T2	Category_confusion 53 65	transporting
+#2	AnnotatorNotes T2	transported
+T3	Voice 139 146	provide
+#3	AnnotatorNotes T3	is provided
+T4	lex_item_choice 193 205	clearly seen
+#4	AnnotatorNotes T4	obvious
+T5	Category_confusion 232 244	transporting
+#5	AnnotatorNotes T5	transported
+T6	Redundant 261 265	more
+A1	Delete T6
+T7	Often_confused 273 277	then
+#6	AnnotatorNotes T7	than
+T8	Category_confusion 285 297	transporting
+#7	AnnotatorNotes T8	transported
+T9	Word_order 313 336	respectivly 35% and 11%
+#8	AnnotatorNotes T9	35% and 11% respectively
+T10	Spelling 313 324	respectivly
+#9	AnnotatorNotes T10	respectively
+T11	Articles 344 370	nearly three time increase
+#10	AnnotatorNotes T11	a nearly three times increase
+T12	Noun_number 357 361	time
+#11	AnnotatorNotes T12	times
+T13	Articles 375 387	the contrast
+#12	AnnotatorNotes T13	contrast
+T14	Category_confusion 471 483	transporting
+#13	AnnotatorNotes T14	transported
+T15	Category_confusion 533 545	transporting
+#14	AnnotatorNotes T15	transported
+T16	Noun_number 549 554	roads
+#15	AnnotatorNotes T16	road
+T17	Absence_comp_sent 556 571	much more highe
+#16	AnnotatorNotes T17	is higher
+T18	Comparative_adj 556 571	much more highe
+#17	AnnotatorNotes T18	is hgher
+T19	Punctuation 554 572	, much more highe,
+#18	AnnotatorNotes T19	is higher
+T20	Often_confused 573 577	then
+#19	AnnotatorNotes T20	than
+T21	Category_confusion 594 606	transporting
+#20	AnnotatorNotes T21	transported
+T22	Voice 619 626	is rise
+#21	AnnotatorNotes T22	rose
+T23	Punctuation 660 671	In addition
+#22	AnnotatorNotes T23	In addition,
+T24	Category_confusion 682 694	transporting
+#23	AnnotatorNotes T24	transported
+T25	Category_confusion 712 720	compared
+#24	AnnotatorNotes T25	comparison
+T26	Absence_explanation 726 731	roads
+#25	AnnotatorNotes T26	road transportation
+T27	Noun_number 726 731	roads
+#26	AnnotatorNotes T27	road transportation
+T28	Agreement_errors 703 708	score
+#27	AnnotatorNotes T28	scrores
+T29	Often_confused 733 740	Another
+#28	AnnotatorNotes T29	The other
+T30	Noun_number 741 745	good
+#29	AnnotatorNotes T30	goods
+T31	Punctuation 762 769	Overall
+#30	AnnotatorNotes T31	Overall,
+T32	Spelling 776 785	analazing
+#31	AnnotatorNotes T32	analyzing
+T33	Spelling 813 820	started
+#32	AnnotatorNotes T33	stated
+T34	Conjunctions 821 825	then
+#33	AnnotatorNotes T34	that
+T35	Category_confusion 861 875	transportation
+#34	AnnotatorNotes T35	transported
+T36	Agreement_errors 884 892	increase
+#35	AnnotatorNotes T36	increases
+T37	Category_confusion 968 980	transporting
+#36	AnnotatorNotes T37	transported
+T38	Noun_number 984 989	rails
+#37	AnnotatorNotes T38	rail
+T39	Redundant_comp 991 1003	dramatically
+A2	Delete T39
+T40	Agreement_errors 1004 1012	decrease
+#38	AnnotatorNotes T40	decreases
+T41	Category_confusion 1016 1024	compared
+#39	AnnotatorNotes T41	comparison
+T42	Ref_device 1030 1034	this
+#40	AnnotatorNotes T42	these
+T43	Noun_number 1035 1039	good
+#41	AnnotatorNotes T43	goods
+R1	Dependent_change Arg1:T42 Arg2:T43	
+T44	Punctuation 981 990	by rails,
+#42	AnnotatorNotes T44	by rail

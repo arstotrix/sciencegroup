@@ -1,0 +1,150 @@
+T1	Determiners 0 10	This graph
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	The graph
+T2	Possessive 117 120	men
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	men's
+T3	Possessive 125 130	women
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	women's
+T4	Category_confusion 185 193	vocation
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	vocational
+T6	Absence_explanation 203 220	The number of men
+A16	Cause T6 Other
+A17	Weight-language T6 Minor
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	The number of men here
+T7	Absence_comp_sent 221 230	much more
+A19	Cause T7 L1_interference
+A20	Weight-language T7 Critical
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	is much more
+T9	Spelling 268 278	categoryes
+A25	Cause T9 Typo
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	categories
+T10	lex_item_choice 263 267	over
+A28	Cause T10 Other
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Critical
+#10	AnnotatorNotes T10	other
+T11	Voice 327 331	have
+A31	Cause T11 L1_interference
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Major
+#11	AnnotatorNotes T11	was taken
+T12	Word_choice 327 331	have
+A34	Cause T12 Other
+A35	Weight-language T12 Minor
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	was taken
+T13	Absence_comp_sent 332 358	the equal number of people
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Major
+#13	AnnotatorNotes T13	by the equal numbers of men and women
+T14	Noun_number 342 348	number
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Major
+#14	AnnotatorNotes T14	numbers
+T15	Word_choice 352 358	people
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Major
+#15	AnnotatorNotes T15	men and women
+T16	Voice 381 385	have
+A46	Cause T16 L1_interference
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Major
+#16	AnnotatorNotes T16	was taken
+T17	Word_choice 381 385	have
+A49	Cause T17 Other
+A50	Weight-language T17 Minor
+A51	Weight-understanding T17 Minor
+#17	AnnotatorNotes T17	was taken
+T18	Absence_comp_sent 386 408	seventy percent of men
+#18	AnnotatorNotes T18	by seventy per cent of men
+A52	Cause T18 Other
+A53	Weight-language T18 Major
+A54	Weight-understanding T18 Major
+T20	Spelling 413 425	twenty eight
+A58	Cause T20 Typo
+A59	Weight-language T20 Major
+A60	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	twenty-eight
+T23	Tense_choice 465 469	have
+A67	Cause T23 Other
+A68	Weight-language T23 Major
+A69	Weight-understanding T23 Major
+#23	AnnotatorNotes T23	had
+T24	Tense_choice 381 385	have
+A70	Cause T24 Other
+A71	Weight-language T24 Major
+A72	Weight-understanding T24 Major
+#24	AnnotatorNotes T24	was taken
+T25	Tense_choice 327 331	have
+A73	Cause T25 Other
+A74	Weight-language T25 Major
+A75	Weight-understanding T25 Major
+#25	AnnotatorNotes T25	was taken
+T27	Tense_choice 539 543	have
+A79	Cause T27 Other
+A80	Weight-language T27 Major
+A81	Weight-understanding T27 Major
+#27	AnnotatorNotes T27	had
+T28	Punctuation 493 509	At the same time
+A82	Cause T28 Other
+A83	Weight-language T28 Minor
+A84	Weight-understanding T28 Minor
+#28	AnnotatorNotes T28	At the same time,
+T29	Articles 585 591	number
+A85	Cause T29 Absence_of_Category_in_L1
+A86	Weight-language T29 Minor
+A87	Weight-understanding T29 Minor
+#29	AnnotatorNotes T29	the number
+T30	Absence_comp_sent 634 643	much more
+A88	Cause T30 L1_interference
+A89	Weight-language T30 Critical
+A90	Weight-understanding T30 Minor
+#30	AnnotatorNotes T30	was much more
+T31	Absence_comp_sent 649 652	men
+A91	Cause T31 Other
+A92	Weight-language T31 Major
+A93	Weight-understanding T31 Minor
+#31	AnnotatorNotes T31	the number of men
+T33	Tense_choice 681 685	have
+A97	Cause T33 Other
+A98	Weight-language T33 Major
+A99	Weight-understanding T33 Major
+#33	AnnotatorNotes T33	had
+T35	Tense_choice 757 761	have
+A103	Cause T35 Other
+A104	Weight-language T35 Major
+A105	Weight-understanding T35 Major
+#35	AnnotatorNotes T35	had
+T36	Spelling 803 812	resaultes
+A106	Cause T36 Other
+A107	Weight-language T36 Major
+A108	Weight-understanding T36 Minor
+#36	AnnotatorNotes T36	results
+T37	Tense_choice 845 848	are
+A109	Cause T37 Other
+A110	Weight-language T37 Major
+A111	Weight-understanding T37 Major
+#37	AnnotatorNotes T37	were
+T38	Determiners 817 827	this chart
+A112	Cause T38 Other
+A113	Weight-language T38 Minor
+A114	Weight-understanding T38 Minor
+#38	AnnotatorNotes T38	the chart

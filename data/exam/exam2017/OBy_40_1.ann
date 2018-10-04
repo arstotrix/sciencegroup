@@ -1,0 +1,36 @@
+T1	Articles 19 30	information
+#1	AnnotatorNotes T1	the information
+T2	Articles 34 48	transportation
+#2	AnnotatorNotes T2	the transportation
+T3	lex_item_choice 60 66	things
+#3	AnnotatorNotes T3	goods
+T4	Absence_comp_sent 415 425	it obvious
+#4	AnnotatorNotes T4	it is obvious
+T5	Noun_number 435 445	proportion
+#5	AnnotatorNotes T5	proportions
+T6	Agreement_errors 488 490	is
+#6	AnnotatorNotes T6	are
+R1	Dependent_change Arg1:T6 Arg2:T5	
+T7	Punctuation 541 548	, which
+#7	AnnotatorNotes T7	which
+T8	Absence_explanation 565 568	all
+#8	AnnotatorNotes T8	all goods
+T9	lex_item_choice 521 527	former
+#9	AnnotatorNotes T9	first chart
+T10	lex_item_choice 583 588	later
+#10	AnnotatorNotes T10	second chart
+T11	Determiners 650 672	metals transportations
+#11	AnnotatorNotes T11	the metals transportations
+T12	Ref_device 677 681	they
+#12	AnnotatorNotes T12	it
+T13	lex_item_choice 741 750	the least
+#13	AnnotatorNotes T13	The smallest one
+T14	Absence_comp_colloc 741 750	the least
+#14	AnnotatorNotes T14	The smallest one
+T15	Noun_number 780 790	proportion
+#15	AnnotatorNotes T15	proportions
+T16	Agreement_errors 838 840	is
+#16	AnnotatorNotes T16	are
+R2	Dependent_change Arg1:T16 Arg2:T15	
+T17	Determiners 863 875	a difference
+#17	AnnotatorNotes T17	the difference

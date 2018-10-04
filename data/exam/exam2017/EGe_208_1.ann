@@ -1,0 +1,18 @@
+T1	Agreement_errors 17 27	illustrate
+#1	AnnotatorNotes T1	illustrates
+T2	Agreement_errors 11 16	chart
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T3	Articles 198 204	Second
+#2	AnnotatorNotes T3	The second
+T4	Punctuation 256 294	As it can be seen from the first chart
+#3	AnnotatorNotes T4	As it can be seen from the first chart, 
+T5	Spelling 484 490	reaaly
+#4	AnnotatorNotes T5	really 
+T6	Tense_choice 475 479	have
+#5	AnnotatorNotes T6	had
+T7	Tense_choice 681 689	consider
+#6	AnnotatorNotes T7	considered
+T8	Tense_choice 779 782	see
+#7	AnnotatorNotes T8	saw
+T9	note 1212 1213	n
+#8	AnnotatorNotes T9	Zavyalov

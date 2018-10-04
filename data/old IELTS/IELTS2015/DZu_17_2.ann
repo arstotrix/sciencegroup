@@ -1,0 +1,135 @@
+T1	lex_item_choice 94 100	influe
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	influence 
+T2	Spelling 139 147	behavior
+A4	Cause T2 Typo
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	behaviour 
+T3	Spelling 282 291	completly
+A7	Cause T3 Typo
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	completely
+T4	Transitive 275 296	depend completly from
+A10	Cause T4 Typo
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	depend completely on 
+T5	Punctuation 297 306	ancestors
+A13	Cause T5 Typo
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	ancestors' 
+T6	Spelling 312 313	I
+A16	Cause T6 Typo
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	In 
+T7	lex_item_choice 488 494	influe
+A19	Cause T7 Typo
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	influence 
+T8	Redundant_comp 511 530	personal individual
+A22	Cause T8 Typo
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	personal 
+T9	Articles 607 611	main
+A25	Cause T9 Typo
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	the main 
+T10	Punctuation 650 656	D.N.A.
+A28	Cause T10 Typo
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	DNA
+T12	Tense_choice 808 812	told
+A34	Cause T12 Typo
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	tells 
+T13	Spelling 822 828	stumul
+A37	Cause T13 Typo
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Major
+#13	AnnotatorNotes T13	stimulus 
+T14	Redundant 879 882	for
+A40	Cause T14 Typo
+A41	Weight-language T14 Minor
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	nowadays
+T15	Spelling 893 905	Behaviorists
+A43	Cause T15 Typo
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	Behaviourists 
+T16	Prepositions 948 964	example domestic
+A46	Cause T16 Typo
+A47	Weight-language T16 Minor
+A48	Weight-understanding T16 Major
+#16	AnnotatorNotes T16	example of domestic 
+T17	Spelling 1081 1089	behavior
+A49	Cause T17 Typo
+A50	Weight-language T17 Major
+A51	Weight-understanding T17 Minor
+#17	AnnotatorNotes T17	behaviour 
+T18	suggestion 1129 1155	human been and animal been
+A52	Weight-language T18 Major
+A53	Weight-understanding T18 Major
+#18	AnnotatorNotes T18	people and animals
+T19	Punctuation 1119 1155	Comparing human been and animal been
+A54	Cause T19 Typo
+A55	Weight-language T19 Major
+A56	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	Comparing human and animal,
+T20	Absence_explanation 1209 1217	behavior
+A57	Cause T20 Typo
+A58	Weight-language T20 Major
+A59	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	rules of behaviour
+T21	suggestion 1321 1325	have
+A60	Cause T21 Typo
+A61	Weight-language T21 Major
+A62	Weight-understanding T21 Major
+#21	AnnotatorNotes T21	has
+T22	Punctuation 1376 1382	D.N.A.
+A63	Cause T22 Typo
+A64	Weight-language T22 Major
+A65	Weight-understanding T22 Major
+#22	AnnotatorNotes T22	DNA
+T23	suggestion 1451 1459	behavior
+A66	Cause T23 Typo
+A67	Weight-language T23 Major
+A68	Weight-understanding T23 Minor
+#23	AnnotatorNotes T23	behavioural
+T24	Spelling 1460 1470	principels
+A69	Cause T24 Typo
+A70	Weight-language T24 Major
+A71	Weight-understanding T24 Major
+#24	AnnotatorNotes T24	principles 
+T25	suggestion 1176 1180	same
+#25	AnnotatorNotes T25	similar
+T26	suggestion 1181 1199	sides of character
+#26	AnnotatorNotes T26	personality traits
+T27	suggestion 1218 1223	human
+#27	AnnotatorNotes T27	people
+T29	suggestion 1234 1260	such personality as animal
+#29	AnnotatorNotes T29	animal-like personality 
+T30	suggestion 1265 1279	the conclusion
+#30	AnnotatorNotes T30	conclusion
+T31	suggestion 1388 1396	consists
+#31	AnnotatorNotes T31	is responsible for
+T32	note 1486 1493	enhaste
+#32	AnnotatorNotes T32	NOT CLEAR
+T33	suggestion 1494 1501	himself
+#33	AnnotatorNotes T33	themselves
+T34	Absence_comp_colloc 1477 1482	human
+#34	AnnotatorNotes T34	human beings
+T36	Spelling 871 878	actuall
+#36	AnnotatorNotes T36	actual
+R1	Dependent_change Arg1:T34 Arg2:T33	

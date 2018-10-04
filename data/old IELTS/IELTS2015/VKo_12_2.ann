@@ -1,0 +1,45 @@
+T1	Spelling 145 156	inceporable
+T3	Spelling 238 246	soeciety
+T4	Spelling 250 258	develope
+T5	Pronouns 350 358	themself
+T6	Spelling 685 697	masterpience
+T7	lex_item_choice 129 131	is
+#1	AnnotatorNotes T7	constitute
+T8	Standard 129 141	is certainly
+#2	AnnotatorNotes T8	certainly constitute
+#3	AnnotatorNotes T1	inseparable
+T2	Word_choice 217 232	are [ir?]tal fo
+#5	AnnotatorNotes T2	help
+#6	AnnotatorNotes T3	society
+#7	AnnotatorNotes T4	develop
+T10	Punctuation 289 290	,
+A1	Delete T10
+T11	Spelling 283 289	Though
+#8	AnnotatorNotes T11	Although
+T12	Redundant_comp 308 311	are
+A2	Delete T12
+#9	AnnotatorNotes T5	themselves
+T13	Category_confusion 468 477	necessary
+#10	AnnotatorNotes T13	necessarily
+T14	lex_item_choice 482 483	i
+#11	AnnotatorNotes T14	defined
+T15	Agreement_errors 636 642	artist
+#12	AnnotatorNotes T15	artists
+#13	AnnotatorNotes T6	masterpieces
+T16	Noun_number 685 697	masterpience
+#14	AnnotatorNotes T16	masterpieces
+T17	Spelling 718 725	can not
+#15	AnnotatorNotes T17	cannot
+T18	Agreement_errors 805 812	suppose
+#16	AnnotatorNotes T18	supposes
+T19	Articles 951 961	the people
+#17	AnnotatorNotes T19	people
+T20	lex_item_choice 1223 1226	put
+#18	AnnotatorNotes T20	impose
+T21	Agreement_errors 1280 1286	artist
+#19	AnnotatorNotes T21	artists
+T22	Absence_comp_colloc 1432 1442	compromise
+#20	AnnotatorNotes T22	find a compromise
+T23	Spelling 157 162	peace
+#21	AnnotatorNotes T23	piece
+R1	Dependent_change Arg1:T7 Arg2:T8	

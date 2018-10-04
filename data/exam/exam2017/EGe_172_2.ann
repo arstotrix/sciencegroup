@@ -1,0 +1,34 @@
+T2	Spelling 1539 1548	potensial
+#2	AnnotatorNotes T2	potential
+T3	Absence_explanation 1528 1548	if see the potensial
+#3	AnnotatorNotes T3	if they see the potential
+T4	note 1589 1590	r
+#4	AnnotatorNotes T4	DBatov
+T7	Ref_device 406 427	locally produced ones
+#7	AnnotatorNotes T7	those produced locally 
+T8	Spelling 1433 1443	masterpies
+#8	AnnotatorNotes T8	masterpiece
+T6	Redundant_comp 98 106	watching
+A1	Delete T6
+T5	Standard 407 427	ocally produced ones
+#5	AnnotatorNotes T5	those produced locally
+R1	Dependent_change Arg1:T7 Arg2:T5	
+T10	Spelling 509 519	governmets
+#6	AnnotatorNotes T10	governments
+T11	Spelling 560 569	intersted
+#9	AnnotatorNotes T11	interested
+T12	Noun_number 661 665	plot
+#10	AnnotatorNotes T12	plots
+T13	lex_part_choice 992 1006	very developed
+#11	AnnotatorNotes T13	highly developed
+T15	Prepositions 1124 1131	through
+#12	AnnotatorNotes T15	on
+T16	Spelling 1325 1334	programes
+#13	AnnotatorNotes T16	programs
+T17	Prepositional_noun 1362 1369	need in
+#14	AnnotatorNotes T17	need for
+T18	Punctuation 1459 1461	,I
+#15	AnnotatorNotes T18	, I
+T19	Standard 1528 1550;1551 1591	if see the potensial.
+ But of course governments should support
+#1	AnnotatorNotes T19	But of course governments should support local films if they see the potential.  

@@ -1,0 +1,79 @@
+T1	Articles 17 25	integral
+#1	AnnotatorNotes T1	an integral
+T2	Articles 117 122	human
+#2	AnnotatorNotes T2	a human
+T3	Transitive 187 204	influence on this
+#3	AnnotatorNotes T3	influence this
+T4	Spelling 206 214	polution
+#4	AnnotatorNotes T4	pollution
+T5	Spelling 216 228	enviromental
+#5	AnnotatorNotes T5	environmental
+T6	Ref_device 412 421	different
+#6	AnnotatorNotes T6	other
+T7	Punctuation 474 477	and
+#7	AnnotatorNotes T7	, and
+T8	Often_confused 520 524	then
+#8	AnnotatorNotes T8	than
+T9	lex_item_choice 551 557	growth
+#9	AnnotatorNotes T9	increase
+T10	Punctuation 593 596	and
+#10	AnnotatorNotes T10	, and
+T11	Category_confusion 736 746	phisically
+#11	AnnotatorNotes T11	physical
+T12	Spelling 736 746	phisically
+#12	AnnotatorNotes T12	physical
+T13	Articles 780 795	muscular system
+#13	AnnotatorNotes T13	the muscular system
+T14	Spelling 796 802	formes
+#14	AnnotatorNotes T14	forms
+T15	Articles 806 815	childhood
+#15	AnnotatorNotes T15	the childhood
+T16	Comparative_adj 848 859	more strong
+#16	AnnotatorNotes T16	stronger
+T17	Spelling 919 928	aditional
+#17	AnnotatorNotes T17	additional
+T18	Spelling 929 937	phisical
+#18	AnnotatorNotes T18	physical
+T19	Ref_device 986 989	his
+#19	AnnotatorNotes T19	his or her
+T20	Spelling 990 998	immunite
+#20	AnnotatorNotes T20	immunity
+T21	Spelling 1020 1028	phisical
+#21	AnnotatorNotes T21	physical
+T22	Spelling 1042 1048	sience
+#22	AnnotatorNotes T22	science
+T23	Transitive 1087 1105	help to your heath
+#23	AnnotatorNotes T23	help your health
+T24	Spelling 1120 1129	enjoiment
+#24	AnnotatorNotes T24	enjoyment
+T25	Linking_device 1107 1111	when
+#25	AnnotatorNotes T25	while
+T26	Transitive 1116 1134	get enjoiment from
+#26	AnnotatorNotes T26	enjoy
+T27	Spelling 1205 1212	obesety
+#27	AnnotatorNotes T27	obesity
+T28	Redundant_comp 1197 1201	ills
+T29	lex_item_choice 1164 1167	fit
+#29	AnnotatorNotes T29	good shape
+T30	Redundant 1226 1228	it
+A1	Delete T30
+T31	Spelling 1235 1241	belive
+#30	AnnotatorNotes T31	believe
+T32	Spelling 1267 1272	spent
+#31	AnnotatorNotes T32	spend
+T33	Punctuation 1391 1395	than
+#32	AnnotatorNotes T33	, then
+T34	lex_item_choice 1391 1395	than
+#33	AnnotatorNotes T34	then
+T35	Prepositions 1278 1281	for
+#34	AnnotatorNotes T35	on
+T36	Ref_device 1303 1306	his
+#35	AnnotatorNotes T36	his or her
+T37	Conjunctions 1296 1299	and
+A2	Delete T37
+T38	Ref_device 1325 1328	his
+#36	AnnotatorNotes T38	his or her
+A3	Delete T28
+T39	suggestion 1213 1217	ills
+A4	Delete T39
+R1	Parallel_construction Arg1:T28 Arg2:T39	

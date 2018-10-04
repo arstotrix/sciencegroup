@@ -1,0 +1,18 @@
+T1	Redundant_comp 105 118	in percentage
+T2	Absence_explanation 27 32	usage
+#1	AnnotatorNotes T2	percentage use
+R1	Dependent_change Arg1:T2 Arg2:T1	
+#2	AnnotatorNotes T1	-
+T3	Prepositions 308 311	and
+#3	AnnotatorNotes T3	to
+T4	Prepositions 456 460	with
+#4	AnnotatorNotes T4	for
+T5	Absence_explanation 576 579	age
+#5	AnnotatorNotes T5	older age
+T6	Determiners 758 763	users
+#6	AnnotatorNotes T6	its users
+T8	note 1144 1145	.
+#8	AnnotatorNotes T8	F. Baykov
+T7	suggestion 748 754	number
+#7	AnnotatorNotes T7	percentage numbers
+T9	suggestion 576 579	age

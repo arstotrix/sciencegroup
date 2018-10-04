@@ -1,0 +1,67 @@
+T1	Spelling 154 156	of
+#1	AnnotatorNotes T1	or
+T2	Word_choice 141 145	near
+#2	AnnotatorNotes T2	on the side of
+T3	lex_item_choice 181 187	fourth
+#3	AnnotatorNotes T3	quarters
+T4	Redundant_comp 207 222	on the float or
+A1	Delete T4
+T5	Tense_choice 307 316	consisted
+#4	AnnotatorNotes T5	consists
+T6	Word_choice 354 360	raging
+#5	AnnotatorNotes T6	rising and falling
+T7	Prefix 362 376	interconnected
+#6	AnnotatorNotes T7	connected
+T8	Redundant_comp 393 411	one, formed by two
+A2	Delete T8
+T9	Noun_number 412 419	columns
+#7	AnnotatorNotes T9	column
+R1	Dependent_change Arg1:T8 Arg2:T9	
+T10	Prepositions 440 447	between
+#8	AnnotatorNotes T10	inside
+T11	Noun_number 453 460	columns
+#9	AnnotatorNotes T11	column
+T12	Word_choice 573 587	causes flowing
+#10	AnnotatorNotes T12	generates
+T13	Word_choice 529 548	active air entrance
+#11	AnnotatorNotes T13	air pressure
+T14	Word_choice 549 571	up from waves and down
+#12	AnnotatorNotes T14	from waves going up and down
+T15	lex_item_choice 494 501	Rolling
+#13	AnnotatorNotes T15	Rotation
+T16	lex_item_choice 647 653	return
+#14	AnnotatorNotes T16	proceed
+T17	Standard 661 693	described stages of this process
+#15	AnnotatorNotes T17	stages of this process shown in the diagrams
+T18	Word_choice 701 764	inflow and raging, intensifying with a chamber in the reservoir
+#16	AnnotatorNotes T18	are forced into the reservoir
+T19	suggestion 766 807	comes up to the vertical one to a turbine
+#17	AnnotatorNotes T19	water applies pressure on the air in the column, and it escapes through the turbine
+T20	lex_item_choice 823 848	moving in clockwise order
+#18	AnnotatorNotes T20	clockwise rotation
+T21	Linking_device 851 863	Comparing to
+#19	AnnotatorNotes T21	The second diagram shows
+T22	lex_item_choice 888 895	outflow
+#20	AnnotatorNotes T22	retreat
+T23	Word_choice 910 955	goes down from the vertical one back to a sea
+#21	AnnotatorNotes T23	is sucked back in through the turbine
+T24	Linking_device 957 1000	a turbine rolls in the same clockwise order
+#22	AnnotatorNotes T24	while the turbine rotates in the same clockwise direction
+T25	lex_item_choice 967 972	rolls
+#23	AnnotatorNotes T25	rotates
+T26	lex_item_choice 995 1000	order
+#24	AnnotatorNotes T26	direction
+T27	lex_item_choice 1008 1015	feature
+#25	AnnotatorNotes T27	structure
+T28	Absence_explanation 1034 1045	electrivity
+#26	AnnotatorNotes T28	generation of electricity
+T29	Redundant_comp 1046 1074	entry to some needed contact
+A3	Delete T29
+T30	lex_item_choice 1210 1215	entry
+#27	AnnotatorNotes T30	generation
+T31	Spelling 1034 1045	electrivity
+#28	AnnotatorNotes T31	electricity
+T32	Spelling 1171 1181	omptimized
+#29	AnnotatorNotes T32	optimized
+T33	Spelling 1186 1197	convienient
+#30	AnnotatorNotes T33	convenient

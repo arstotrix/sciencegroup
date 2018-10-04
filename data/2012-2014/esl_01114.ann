@@ -1,0 +1,626 @@
+T1	Articles 43 52	education
+#1	AnnotatorNotes T1	the education
+T2	note 43 70	education of their children
+#2	AnnotatorNotes T2	THE education OF (of-phrase). Alternatively, you could say "start educating their children".
+T3	Absence_comp_colloc 179 191	7 or 8 years
+#3	AnnotatorNotes T3	7 or 8 years old
+T4	Punctuation 309 312	and
+#4	AnnotatorNotes T4	, and
+T5	Standard 417 459	This can do the school and others courses.
+#5	AnnotatorNotes T5	School and other educational institutions can do that//it.
+T6	Pronouns 417 421	This
+#6	AnnotatorNotes T6	that (OR it)
+T7	Articles 429 439	the school
+#7	AnnotatorNotes T7	school
+T8	Ref_device 444 450	others
+#8	AnnotatorNotes T8	other
+T9	lex_item_choice 451 458	courses
+A1	Cause T9 L1_interference
+#9	AnnotatorNotes T9	educational institutions
+T10	Linking_device 460 464	Also
+#10	AnnotatorNotes T10	Besides
+T11	Spelling 542 550	need not
+#11	AnnotatorNotes T11	needn't
+T12	lex_item_choice 551 554	sit
+#12	AnnotatorNotes T12	stay
+T14	Standard 578 612	In other countries on the contrary
+#14	AnnotatorNotes T14	On the contrary, in other countries
+T15	Absence_comp_sent 613 618	think
+#15	AnnotatorNotes T15	people think
+T16	lex_part_choice 655 670	going to school
+A2	Cause T16 L1_interference
+#16	AnnotatorNotes T16	starting school
+A3	Cause T12 L1_interference
+T13	lex_item_choice 563 575	so much time
+#13	AnnotatorNotes T13	for such a long time
+T17	Articles 672 685	Modern family
+#17	AnnotatorNotes T17	A modern family
+T18	lex_item_choice 715 722	persons
+#18	AnnotatorNotes T18	people
+T19	Punctuation 800 802	as
+#19	AnnotatorNotes T19	, as
+T20	Redundant_comp 803 845	the number of them is not more than 2 or 3
+#20	AnnotatorNotes T20	You repeat what you already said in the previous sentence.
+T21	Ref_device 857 861	they
+#21	AnnotatorNotes T21	people who share this opinion OR point of view
+T22	Lack_par_constr 936 964	is not useful and irrelevant
+#22	AnnotatorNotes T22	is useless and irrelevant OR is not useful or relevant
+T23	Prepositions 965 967	to
+#23	AnnotatorNotes T23	for
+T24	lex_item_choice 1077 1104	non-native people at school
+#24	AnnotatorNotes T24	people at school who are not related to them
+T25	note 1077 1087	non-native
+#25	AnnotatorNotes T25	non-native = a person who is not a native of a particular place or country
+T26	Word_choice 1050 1057	acts of
+#26	AnnotatorNotes T26	that of(?)
+T27	Articles 1248 1265	the Russian human
+#27	AnnotatorNotes T27	a Russian person
+T28	lex_item_choice 1260 1265	human
+#28	AnnotatorNotes T28	person
+T29	Category_confusion 1298 1307	obviously
+A4	Cause T29 L1_interference
+#29	AnnotatorNotes T29	obvious
+T30	Comparative_adj 1353 1364	more better
+#30	AnnotatorNotes T30	better
+T31	note 1190 1233	From country to country this choice differs
+#31	AnnotatorNotes T31	If you say that it is only the parents who should decide whether or not to send their children to school, choices are different from family to family, rather than from country to country.
+T32	Articles 1171 1178	parents
+#32	AnnotatorNotes T32	the parents
+T33	pos_NNS 0 6	People
+#33	AnnotatorNotes T33	lemma = 'people'
+T34	pos_IN 7 11	from
+#34	AnnotatorNotes T34	lemma = 'from'
+T35	pos_DT 12 16	some
+#35	AnnotatorNotes T35	lemma = 'some'
+T36	pos_NNS 17 26	countries
+#36	AnnotatorNotes T36	lemma = 'country'
+T37	pos_VBP 27 33	prefer
+#37	AnnotatorNotes T37	lemma = 'prefer'
+T38	pos_TO 34 36	to
+#38	AnnotatorNotes T38	lemma = 'to'
+T39	pos_VB 37 42	start
+#39	AnnotatorNotes T39	lemma = 'start'
+T40	pos_NN 43 52	education
+#40	AnnotatorNotes T40	lemma = 'education'
+T41	pos_IN 53 55	of
+#41	AnnotatorNotes T41	lemma = 'of'
+T42	pos_PRP2 56 61	their
+#42	AnnotatorNotes T42	lemma = 'their'
+T43	pos_NNS 62 70	children
+#43	AnnotatorNotes T43	lemma = 'child'
+T44	pos_IN 71 73	at
+#44	AnnotatorNotes T44	lemma = 'at'
+T45	pos_DT 74 77	the
+#45	AnnotatorNotes T45	lemma = 'the'
+T46	pos_NN 78 81	age
+#46	AnnotatorNotes T46	lemma = 'age'
+T47	pos_IN 82 84	of
+#47	AnnotatorNotes T47	lemma = 'of'
+T48	pos_Z 85 86	4
+#48	AnnotatorNotes T48	lemma = '4'
+T49	pos_Fc 86 87	,
+#49	AnnotatorNotes T49	lemma = ','
+T50	pos_CC 88 91	but
+#50	AnnotatorNotes T50	lemma = 'but'
+T51	pos_NNS 92 98	people
+#51	AnnotatorNotes T51	lemma = 'people'
+T52	pos_IN 99 103	from
+#52	AnnotatorNotes T52	lemma = 'from'
+T53	pos_JJ 104 109	other
+#53	AnnotatorNotes T53	lemma = 'other'
+T54	pos_NNS 110 119	countries
+#54	AnnotatorNotes T54	lemma = 'country'
+T55	pos_VBP 120 122	do
+#55	AnnotatorNotes T55	lemma = 'do'
+T56	pos_RB 123 126	not
+#56	AnnotatorNotes T56	lemma = 'not'
+T57	pos_VB 127 132	agree
+#57	AnnotatorNotes T57	lemma = 'agree'
+T58	pos_IN 133 137	with
+#58	AnnotatorNotes T58	lemma = 'with'
+T59	pos_PRP 138 140	it
+#59	AnnotatorNotes T59	lemma = 'it'
+T60	pos_CC 141 144	and
+#60	AnnotatorNotes T60	lemma = 'and'
+T61	pos_VB 145 149	keep
+#61	AnnotatorNotes T61	lemma = 'keep'
+T62	pos_PRP2 150 155	their
+#62	AnnotatorNotes T62	lemma = 'their'
+T63	pos_NNS 156 164	children
+#63	AnnotatorNotes T63	lemma = 'child'
+T64	pos_IN 165 167	at
+#64	AnnotatorNotes T64	lemma = 'at'
+T65	pos_NN 168 172	home
+#65	AnnotatorNotes T65	lemma = 'home'
+T66	pos_IN 173 178	until
+#66	AnnotatorNotes T66	lemma = 'until'
+T67	pos_Z 179 180	7
+#67	AnnotatorNotes T67	lemma = '7'
+T68	pos_CC 181 183	or
+#68	AnnotatorNotes T68	lemma = 'or'
+T69	pos_Z 184 185	8
+#69	AnnotatorNotes T69	lemma = '8'
+T70	pos_NNS 186 191	years
+#70	AnnotatorNotes T70	lemma = 'year'
+T71	pos_Fp 191 192	.
+#71	AnnotatorNotes T71	lemma = '.'
+T72	pos_PRP 193 197	Many
+#72	AnnotatorNotes T72	lemma = 'many'
+T73	pos_NNS 198 207	countries
+#73	AnnotatorNotes T73	lemma = 'country'
+T74	pos_RB 208 216	nowadays
+#74	AnnotatorNotes T74	lemma = 'nowadays'
+T75	pos_VBP 217 223	become
+#75	AnnotatorNotes T75	lemma = 'become'
+T76	pos_JJ 224 234	industrial
+#76	AnnotatorNotes T76	lemma = 'industrial'
+T77	pos_CC 235 238	and
+#77	AnnotatorNotes T77	lemma = 'and'
+T78	pos_DT 239 242	the
+#78	AnnotatorNotes T78	lemma = 'the'
+T79	pos_NN 243 250	culture
+#79	AnnotatorNotes T79	lemma = 'culture'
+T80	pos_CC 251 254	and
+#80	AnnotatorNotes T80	lemma = 'and'
+T81	pos_NNS 255 262	customs
+#81	AnnotatorNotes T81	lemma = 'custom'
+T82	pos_IN 263 265	of
+#82	AnnotatorNotes T82	lemma = 'of'
+T83	pos_DT 266 269	the
+#83	AnnotatorNotes T83	lemma = 'the'
+T84	pos_NN 270 276	family
+#84	AnnotatorNotes T84	lemma = 'family'
+T85	pos_NN 277 283	change
+#85	AnnotatorNotes T85	lemma = 'change'
+T86	pos_Fp 283 284	.
+#86	AnnotatorNotes T86	lemma = '.'
+T87	pos_PRP2 285 288	Our
+#87	AnnotatorNotes T87	lemma = 'our'
+T88	pos_NN 289 293	life
+#88	AnnotatorNotes T88	lemma = 'life'
+T89	pos_VBZ 294 301	becomes
+#89	AnnotatorNotes T89	lemma = 'become'
+T90	pos_RBR 302 308	faster
+#90	AnnotatorNotes T90	lemma = 'fast'
+T91	pos_CC 309 312	and
+#91	AnnotatorNotes T91	lemma = 'and'
+T92	pos_NNS 313 320	parents
+#92	AnnotatorNotes T92	lemma = 'parent'
+T93	pos_VBP 321 325	have
+#93	AnnotatorNotes T93	lemma = 'have'
+T94	pos_RB 326 329	not
+#94	AnnotatorNotes T94	lemma = 'not'
+T95	pos_VBN 330 333	got
+#95	AnnotatorNotes T95	lemma = 'get'
+T96	pos_JJ 334 340	enough
+#96	AnnotatorNotes T96	lemma = 'enough'
+T97	pos_NN 341 345	time
+#97	AnnotatorNotes T97	lemma = 'time'
+T98	pos_TO 346 348	to
+#98	AnnotatorNotes T98	lemma = 'to'
+T99	pos_VB 349 353	take
+#99	AnnotatorNotes T99	lemma = 'take'
+T100	pos_NN 354 358	care
+#100	AnnotatorNotes T100	lemma = 'care'
+T101	pos_IN 359 361	of
+#101	AnnotatorNotes T101	lemma = 'of'
+T102	pos_PRP2 362 367	their
+#102	AnnotatorNotes T102	lemma = 'their'
+T103	pos_NN 368 373	child
+#103	AnnotatorNotes T103	lemma = 'child'
+T104	pos_CC 374 376	or
+#104	AnnotatorNotes T104	lemma = 'or'
+T105	pos_NNS 377 385	children
+#105	AnnotatorNotes T105	lemma = 'child'
+T106	pos_IN 386 391	until
+#106	AnnotatorNotes T106	lemma = 'until'
+T107	pos_PRP 392 396	they
+#107	AnnotatorNotes T107	lemma = 'they'
+T108	pos_VBP 397 403	become
+#108	AnnotatorNotes T108	lemma = 'become'
+T109	pos_Z 404 405	7
+#109	AnnotatorNotes T109	lemma = '7'
+T110	pos_NNS 406 411	years
+#110	AnnotatorNotes T110	lemma = 'year'
+T111	pos_JJ 412 415	old
+#111	AnnotatorNotes T111	lemma = 'old'
+T112	pos_Fp 415 416	.
+#112	AnnotatorNotes T112	lemma = '.'
+T113	pos_DT 417 421	This
+#113	AnnotatorNotes T113	lemma = 'this'
+T114	pos_MD 422 425	can
+#114	AnnotatorNotes T114	lemma = 'can'
+T115	pos_VB 426 428	do
+#115	AnnotatorNotes T115	lemma = 'do'
+T116	pos_DT 429 432	the
+#116	AnnotatorNotes T116	lemma = 'the'
+T117	pos_NN 433 439	school
+#117	AnnotatorNotes T117	lemma = 'school'
+T118	pos_CC 440 443	and
+#118	AnnotatorNotes T118	lemma = 'and'
+T119	pos_NNS 444 450	others
+#119	AnnotatorNotes T119	lemma = 'other'
+T120	pos_NNS 451 458	courses
+#120	AnnotatorNotes T120	lemma = 'course'
+T121	pos_Fp 458 459	.
+#121	AnnotatorNotes T121	lemma = '.'
+T122	pos_RB 460 464	Also
+#122	AnnotatorNotes T122	lemma = 'also'
+T123	pos_Fc 464 465	,
+#123	AnnotatorNotes T123	lemma = ','
+T124	pos_IN 466 468	as
+#124	AnnotatorNotes T124	lemma = 'as'
+T125	pos_EX 469 474	there
+#125	AnnotatorNotes T125	lemma = 'there'
+T126	pos_VBP 475 478	are
+#126	AnnotatorNotes T126	lemma = 'be'
+T127	pos_DT 479 487	a lot of
+#127	AnnotatorNotes T127	lemma = 'a_lot_of'
+T128	pos_NNS 488 500	technologies
+#128	AnnotatorNotes T128	lemma = 'technology'
+T129	pos_IN 501 507	around
+#129	AnnotatorNotes T129	lemma = 'around'
+T130	pos_NNS 508 516	children
+#130	AnnotatorNotes T130	lemma = 'child'
+T131	pos_Fc 516 517	,
+#131	AnnotatorNotes T131	lemma = ','
+T132	pos_PRP 518 522	they
+#132	AnnotatorNotes T132	lemma = 'they'
+T133	pos_VB 523 530	develop
+#133	AnnotatorNotes T133	lemma = 'develop'
+T134	pos_RBR 531 537	faster
+#134	AnnotatorNotes T134	lemma = 'fast'
+T135	pos_CC 538 541	and
+#135	AnnotatorNotes T135	lemma = 'and'
+T136	pos_VBP 542 546	need
+#136	AnnotatorNotes T136	lemma = 'need'
+T137	pos_RB 547 550	not
+#137	AnnotatorNotes T137	lemma = 'not'
+T138	pos_VB 551 554	sit
+#138	AnnotatorNotes T138	lemma = 'sit'
+T139	pos_IN 555 557	at
+#139	AnnotatorNotes T139	lemma = 'at'
+T140	pos_NN 558 562	home
+#140	AnnotatorNotes T140	lemma = 'home'
+T141	pos_IN 563 565	so
+#141	AnnotatorNotes T141	lemma = 'so'
+T142	pos_JJ 566 570	much
+#142	AnnotatorNotes T142	lemma = 'much'
+T143	pos_NN 571 575	time
+#143	AnnotatorNotes T143	lemma = 'time'
+T144	pos_Fp 575 576	.
+#144	AnnotatorNotes T144	lemma = '.'
+T145	pos_IN 578 580	In
+#145	AnnotatorNotes T145	lemma = 'in'
+T146	pos_JJ 581 586	other
+#146	AnnotatorNotes T146	lemma = 'other'
+T147	pos_NNS 587 596	countries
+#147	AnnotatorNotes T147	lemma = 'country'
+T148	pos_IN 597 599	on
+#148	AnnotatorNotes T148	lemma = 'on'
+T149	pos_DT 600 603	the
+#149	AnnotatorNotes T149	lemma = 'the'
+T150	pos_JJ 604 612	contrary
+#150	AnnotatorNotes T150	lemma = 'contrary'
+T151	pos_VBP 613 618	think
+#151	AnnotatorNotes T151	lemma = 'think'
+T152	pos_WDT 619 623	that
+#152	AnnotatorNotes T152	lemma = 'that'
+T153	pos_NNS 624 632	children
+#153	AnnotatorNotes T153	lemma = 'child'
+T154	pos_VBP 633 637	need
+#154	AnnotatorNotes T154	lemma = 'need'
+T155	pos_RBR 638 642	more
+#155	AnnotatorNotes T155	lemma = 'many'
+T156	pos_NN 643 647	time
+#156	AnnotatorNotes T156	lemma = 'time'
+T157	pos_IN 648 654	before
+#157	AnnotatorNotes T157	lemma = 'before'
+T158	pos_VBG 655 660	going
+#158	AnnotatorNotes T158	lemma = 'go'
+T159	pos_TO 661 663	to
+#159	AnnotatorNotes T159	lemma = 'to'
+T160	pos_NN 664 670	school
+#160	AnnotatorNotes T160	lemma = 'school'
+T161	pos_Fp 670 671	.
+#161	AnnotatorNotes T161	lemma = '.'
+T162	pos_JJ 672 678	Modern
+#162	AnnotatorNotes T162	lemma = 'modern'
+T163	pos_NN 679 685	family
+#163	AnnotatorNotes T163	lemma = 'family'
+T164	pos_VBZ 686 690	does
+#164	AnnotatorNotes T164	lemma = 'do'
+T165	pos_RB 691 694	not
+#165	AnnotatorNotes T165	lemma = 'not'
+T166	pos_VB 695 702	consist
+#166	AnnotatorNotes T166	lemma = 'consist'
+T167	pos_IN 703 705	of
+#167	AnnotatorNotes T167	lemma = 'of'
+T168	pos_Z 706 708	10
+#168	AnnotatorNotes T168	lemma = '10'
+T169	pos_CC 709 711	or
+#169	AnnotatorNotes T169	lemma = 'or'
+T170	pos_Z 712 714	15
+#170	AnnotatorNotes T170	lemma = '15'
+T171	pos_NNS 715 722	persons
+#171	AnnotatorNotes T171	lemma = 'person'
+T172	pos_Fc 722 723	,
+#172	AnnotatorNotes T172	lemma = ','
+T173	pos_EX 724 729	there
+#173	AnnotatorNotes T173	lemma = 'there'
+T174	pos_VBP 730 733	are
+#174	AnnotatorNotes T174	lemma = 'be'
+T175	pos_JJ 734 738	only
+#175	AnnotatorNotes T175	lemma = 'only'
+T176	pos_Z 739 740	3
+#176	AnnotatorNotes T176	lemma = '3'
+T177	pos_CC 741 743	or
+#177	AnnotatorNotes T177	lemma = 'or'
+T178	pos_Z 744 745	4
+#178	AnnotatorNotes T178	lemma = '4'
+T179	pos_NNS 746 752	people
+#179	AnnotatorNotes T179	lemma = 'people'
+T180	pos_IN 753 755	in
+#180	AnnotatorNotes T180	lemma = 'in'
+T181	pos_PRP 756 758	it
+#181	AnnotatorNotes T181	lemma = 'it'
+T182	pos_Fp 758 759	.
+#182	AnnotatorNotes T182	lemma = '.'
+T183	pos_RB 760 762	So
+#183	AnnotatorNotes T183	lemma = 'so'
+T184	pos_Fc 762 763	,
+#184	AnnotatorNotes T184	lemma = ','
+T185	pos_PRP 764 766	it
+#185	AnnotatorNotes T185	lemma = 'it'
+T186	pos_VBZ 767 769	is
+#186	AnnotatorNotes T186	lemma = 'be'
+T187	pos_JJR 770 776	easier
+#187	AnnotatorNotes T187	lemma = 'easier'
+T188	pos_TO 777 779	to
+#188	AnnotatorNotes T188	lemma = 'to'
+T189	pos_VB 780 784	look
+#189	AnnotatorNotes T189	lemma = 'look'
+T190	pos_IN 785 790	after
+#190	AnnotatorNotes T190	lemma = 'after'
+T191	pos_NNS 791 799	children
+#191	AnnotatorNotes T191	lemma = 'child'
+T192	pos_IN 800 802	as
+#192	AnnotatorNotes T192	lemma = 'as'
+T193	pos_DT 803 806	the
+#193	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 807 813	number
+#194	AnnotatorNotes T194	lemma = 'number'
+T195	pos_IN 814 816	of
+#195	AnnotatorNotes T195	lemma = 'of'
+T196	pos_PRP 817 821	them
+#196	AnnotatorNotes T196	lemma = 'them'
+T197	pos_VBZ 822 824	is
+#197	AnnotatorNotes T197	lemma = 'be'
+T198	pos_RB 825 828	not
+#198	AnnotatorNotes T198	lemma = 'not'
+T199	pos_RBR 829 833	more
+#199	AnnotatorNotes T199	lemma = 'many'
+T200	pos_IN 834 838	than
+#200	AnnotatorNotes T200	lemma = 'than'
+T201	pos_Z 839 840	2
+#201	AnnotatorNotes T201	lemma = '2'
+T202	pos_CC 841 843	or
+#202	AnnotatorNotes T202	lemma = 'or'
+T203	pos_Z 844 845	3
+#203	AnnotatorNotes T203	lemma = '3'
+T204	pos_Fp 845 846	.
+#204	AnnotatorNotes T204	lemma = '.'
+T205	pos_RB 847 855	Moreover
+#205	AnnotatorNotes T205	lemma = 'moreover'
+T206	pos_Fc 855 856	,
+#206	AnnotatorNotes T206	lemma = ','
+T207	pos_PRP 857 861	they
+#207	AnnotatorNotes T207	lemma = 'they'
+T208	pos_VBP 862 867	think
+#208	AnnotatorNotes T208	lemma = 'think'
+T209	pos_DT 868 872	that
+#209	AnnotatorNotes T209	lemma = 'that'
+T210	pos_NN 873 882	knowledge
+#210	AnnotatorNotes T210	lemma = 'knowledge'
+T211	pos_WDT 883 887	that
+#211	AnnotatorNotes T211	lemma = 'that'
+T212	pos_VBZ 888 890	is
+#212	AnnotatorNotes T212	lemma = 'be'
+T213	pos_VBN 891 896	given
+#213	AnnotatorNotes T213	lemma = 'give'
+T214	pos_IN 897 899	at
+#214	AnnotatorNotes T214	lemma = 'at'
+T215	pos_NN 900 906	school
+#215	AnnotatorNotes T215	lemma = 'school'
+T216	pos_Fc 906 907	,
+#216	AnnotatorNotes T216	lemma = ','
+T217	pos_WRB 908 912	when
+#217	AnnotatorNotes T217	lemma = 'when'
+T218	pos_NNS 913 921	children
+#218	AnnotatorNotes T218	lemma = 'child'
+T219	pos_VBP 922 925	are
+#219	AnnotatorNotes T219	lemma = 'be'
+T220	pos_RB 926 928	so
+#220	AnnotatorNotes T220	lemma = 'so'
+T221	pos_JJ 929 934	young
+#221	AnnotatorNotes T221	lemma = 'young'
+T222	pos_Fc 934 935	,
+#222	AnnotatorNotes T222	lemma = ','
+T223	pos_VBZ 936 938	is
+#223	AnnotatorNotes T223	lemma = 'be'
+T224	pos_RB 939 942	not
+#224	AnnotatorNotes T224	lemma = 'not'
+T225	pos_JJ 943 949	useful
+#225	AnnotatorNotes T225	lemma = 'useful'
+T226	pos_CC 950 953	and
+#226	AnnotatorNotes T226	lemma = 'and'
+T227	pos_JJ 954 964	irrelevant
+#227	AnnotatorNotes T227	lemma = 'irrelevant'
+T228	pos_TO 965 967	to
+#228	AnnotatorNotes T228	lemma = 'to'
+T229	pos_PRP 968 972	them
+#229	AnnotatorNotes T229	lemma = 'them'
+T230	pos_Fp 972 973	.
+#230	AnnotatorNotes T230	lemma = '.'
+T231	pos_NN 974 978	Love
+#231	AnnotatorNotes T231	lemma = 'love'
+T232	pos_CC 979 982	and
+#232	AnnotatorNotes T232	lemma = 'and'
+T233	pos_NN 983 987	care
+#233	AnnotatorNotes T233	lemma = 'care'
+T234	pos_WDT 988 992	that
+#234	AnnotatorNotes T234	lemma = 'that'
+T235	pos_VBZ 993 995	is
+#235	AnnotatorNotes T235	lemma = 'be'
+T236	pos_VBN 996 1001	given
+#236	AnnotatorNotes T236	lemma = 'give'
+T237	pos_TO 1002 1004	to
+#237	AnnotatorNotes T237	lemma = 'to'
+T238	pos_PRP 1005 1009	them
+#238	AnnotatorNotes T238	lemma = 'them'
+T239	pos_IN 1010 1012	by
+#239	AnnotatorNotes T239	lemma = 'by'
+T240	pos_PRP2 1013 1018	their
+#240	AnnotatorNotes T240	lemma = 'their'
+T241	pos_NNS 1019 1026	parents
+#241	AnnotatorNotes T241	lemma = 'parent'
+T242	pos_VBZ 1027 1029	is
+#242	AnnotatorNotes T242	lemma = 'be'
+T243	pos_RB 1030 1033	not
+#243	AnnotatorNotes T243	lemma = 'not'
+T244	pos_JJ 1034 1044	comparable
+#244	AnnotatorNotes T244	lemma = 'comparable'
+T245	pos_IN 1045 1049	with
+#245	AnnotatorNotes T245	lemma = 'with'
+T246	pos_NNS 1050 1054	acts
+#246	AnnotatorNotes T246	lemma = 'act'
+T247	pos_IN 1055 1057	of
+#247	AnnotatorNotes T247	lemma = 'of'
+T248	pos_NNS 1058 1066	teachers
+#248	AnnotatorNotes T248	lemma = 'teacher'
+T249	pos_CC 1067 1070	and
+#249	AnnotatorNotes T249	lemma = 'and'
+T250	pos_JJ 1071 1076	other
+#250	AnnotatorNotes T250	lemma = 'other'
+T251	pos_JJ 1077 1087	non-native
+#251	AnnotatorNotes T251	lemma = 'non-native'
+T252	pos_NNS 1088 1094	people
+#252	AnnotatorNotes T252	lemma = 'people'
+T253	pos_IN 1095 1097	at
+#253	AnnotatorNotes T253	lemma = 'at'
+T254	pos_NN 1098 1104	school
+#254	AnnotatorNotes T254	lemma = 'school'
+T255	pos_Fp 1104 1105	.
+#255	AnnotatorNotes T255	lemma = '.'
+T256	pos_RB 1106 1117	In addition
+#256	AnnotatorNotes T256	lemma = 'in_addition'
+T257	pos_Fc 1117 1118	,
+#257	AnnotatorNotes T257	lemma = ','
+T258	pos_DT 1119 1122	the
+#258	AnnotatorNotes T258	lemma = 'the'
+T259	pos_NN 1123 1129	choice
+#259	AnnotatorNotes T259	lemma = 'choice'
+T260	pos_TO 1130 1132	to
+#260	AnnotatorNotes T260	lemma = 'to'
+T261	pos_VB 1133 1137	send
+#261	AnnotatorNotes T261	lemma = 'send'
+T262	pos_PRP2 1138 1143	their
+#262	AnnotatorNotes T262	lemma = 'their'
+T263	pos_NNS 1144 1152	children
+#263	AnnotatorNotes T263	lemma = 'child'
+T264	pos_TO 1153 1155	to
+#264	AnnotatorNotes T264	lemma = 'to'
+T265	pos_NN 1156 1162	school
+#265	AnnotatorNotes T265	lemma = 'school'
+T266	pos_VBZ 1163 1165	is
+#266	AnnotatorNotes T266	lemma = 'be'
+T267	pos_JJ 1166 1170	only
+#267	AnnotatorNotes T267	lemma = 'only'
+T268	pos_NNS 1171 1178	parents
+#268	AnnotatorNotes T268	lemma = 'parent'
+T269	pos_Fw 1178 1179	’
+#269	AnnotatorNotes T269	lemma = '’'
+T270	pos_NN 1180 1188	decision
+#270	AnnotatorNotes T270	lemma = 'decision'
+T271	pos_Fp 1188 1189	.
+#271	AnnotatorNotes T271	lemma = '.'
+T272	pos_IN 1190 1194	From
+#272	AnnotatorNotes T272	lemma = 'from'
+T273	pos_NN 1195 1202	country
+#273	AnnotatorNotes T273	lemma = 'country'
+T274	pos_TO 1203 1205	to
+#274	AnnotatorNotes T274	lemma = 'to'
+T275	pos_NN 1206 1213	country
+#275	AnnotatorNotes T275	lemma = 'country'
+T276	pos_DT 1214 1218	this
+#276	AnnotatorNotes T276	lemma = 'this'
+T277	pos_NN 1219 1225	choice
+#277	AnnotatorNotes T277	lemma = 'choice'
+T278	pos_VBZ 1226 1233	differs
+#278	AnnotatorNotes T278	lemma = 'differ'
+T279	pos_Fc 1233 1234	,
+#279	AnnotatorNotes T279	lemma = ','
+T280	pos_CC 1235 1238	but
+#280	AnnotatorNotes T280	lemma = 'but'
+T281	pos_IN 1239 1242	for
+#281	AnnotatorNotes T281	lemma = 'for'
+T282	pos_PRP 1243 1245	me
+#282	AnnotatorNotes T282	lemma = 'me'
+T283	pos_– 1246 1247	–
+#283	AnnotatorNotes T283	lemma = '–'
+T284	pos_DT 1248 1251	the
+#284	AnnotatorNotes T284	lemma = 'the'
+T285	pos_NP 1252 1259	Russian
+#285	AnnotatorNotes T285	lemma = 'russian'
+T286	pos_JJ 1260 1265	human
+#286	AnnotatorNotes T286	lemma = 'human'
+T287	pos_IN 1266 1270	with
+#287	AnnotatorNotes T287	lemma = 'with'
+T288	pos_JJ 1271 1277	strong
+#288	AnnotatorNotes T288	lemma = 'strong'
+T289	pos_NN 1278 1284	family
+#289	AnnotatorNotes T289	lemma = 'family'
+T290	pos_NNS 1285 1289	ties
+#290	AnnotatorNotes T290	lemma = 'tie'
+T291	pos_– 1290 1291	–
+#291	AnnotatorNotes T291	lemma = '–'
+T292	pos_PRP 1292 1294	it
+#292	AnnotatorNotes T292	lemma = 'it'
+T293	pos_VBZ 1295 1297	is
+#293	AnnotatorNotes T293	lemma = 'be'
+T294	pos_RB 1298 1307	obviously
+#294	AnnotatorNotes T294	lemma = 'obviously'
+T295	pos_IN 1308 1312	that
+#295	AnnotatorNotes T295	lemma = 'that'
+T296	pos_VBG 1313 1320	sending
+#296	AnnotatorNotes T296	lemma = 'send'
+T297	pos_NNS 1321 1329	children
+#297	AnnotatorNotes T297	lemma = 'child'
+T298	pos_TO 1330 1332	to
+#298	AnnotatorNotes T298	lemma = 'to'
+T299	pos_NN 1333 1339	school
+#299	AnnotatorNotes T299	lemma = 'school'
+T300	pos_IN 1340 1342	at
+#300	AnnotatorNotes T300	lemma = 'at'
+T301	pos_Z 1343 1344	7
+#301	AnnotatorNotes T301	lemma = '7'
+T302	pos_VBZ 1345 1347	is
+#302	AnnotatorNotes T302	lemma = 'be'
+T303	pos_RB 1348 1352	much
+#303	AnnotatorNotes T303	lemma = 'much'
+T304	pos_RBR 1353 1357	more
+#304	AnnotatorNotes T304	lemma = 'many'
+T305	pos_JJ 1358 1364	better
+#305	AnnotatorNotes T305	lemma = 'better'
+T306	pos_IN 1365 1369	than
+#306	AnnotatorNotes T306	lemma = 'than'
+T307	pos_VBG 1370 1375	doing
+#307	AnnotatorNotes T307	lemma = 'do'
+T308	pos_PRP 1376 1378	it
+#308	AnnotatorNotes T308	lemma = 'it'
+T309	pos_IN 1379 1381	at
+#309	AnnotatorNotes T309	lemma = 'at'
+T310	pos_Z 1382 1383	4
+#310	AnnotatorNotes T310	lemma = '4'
+T311	pos_Fp 1383 1384	.
+#311	AnnotatorNotes T311	lemma = '.'

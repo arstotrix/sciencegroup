@@ -1,0 +1,41 @@
+T1	Tense_choice 180 184	wont
+T2	Articles 354 360	second
+T3	Non_defining 366 389	which is in town centre
+T4	Spelling 583 587	wont
+T5	Redundant 636 642	by car
+A1	Delete T5
+T6	Articles 537 552	no traffic zone
+#1	AnnotatorNotes T6	a no-traffic zone
+T7	Redundant_comp 671 675	zone
+A2	Delete T7
+T9	Articles 860 865	first
+T10	Determiners 945 956	both of the
+#3	AnnotatorNotes T10	either
+T11	Punctuation 778 859	as many children from nearby towns Sturry and Chartham go to school in Canterbury
+#4	AnnotatorNotes T11	as many children from nearby towns Sturry and Chartham go to school in Canterbury,
+#5	AnnotatorNotes T1	are not going to
+T12	Redundant_comp 202 214	from lessons
+A3	Delete T12
+T13	Punctuation 216 250	the air there is also rather clean
+#6	AnnotatorNotes T13	the air there is also rather clean,
+T14	lex_item_choice 272 278	bustle
+#7	AnnotatorNotes T14	pollution
+#8	AnnotatorNotes T2	the second
+#9	AnnotatorNotes T3	, which is in town centre,
+T15	Spelling 537 547	no traffic
+#10	AnnotatorNotes T15	no-traffic
+#11	AnnotatorNotes T4	won't
+T16	Articles 378 389	town centre
+#12	AnnotatorNotes T16	the town centre
+T17	Articles 679 690	town centre
+#13	AnnotatorNotes T17	the town centre
+T8	Punctuation 56 59	and
+#2	AnnotatorNotes T8	, and
+T18	note 49 55	school
+#14	AnnotatorNotes T18	ADD WHERE
+#15	AnnotatorNotes T9	the first
+T19	Absence_explanation 924 939	at the distance
+#16	AnnotatorNotes T19	the same distance away 
+T20	Noun_number 957 962	towns
+#17	AnnotatorNotes T20	town
+R1	Dependent_change Arg1:T10 Arg2:T20	

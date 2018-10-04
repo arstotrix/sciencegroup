@@ -1,0 +1,20 @@
+T1	Noun_number 89 94	moves
+#1	AnnotatorNotes T1	move
+T2	Agreement_errors 79 88	companies
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Spelling 565 576	undertading
+#2	AnnotatorNotes T3	understanding
+T4	Spelling 599 609	assuarence
+#3	AnnotatorNotes T4	assurance
+T5	Inappropriate_register 884 901	level of wellness
+#4	AnnotatorNotes T5	standard of living
+T6	Noun_number 1108 1112	this
+#5	AnnotatorNotes T6	these
+T7	Agreement_errors 1113 1118	costs
+R2	Dependent_change Arg1:T6 Arg2:T7	
+T8	Category_confusion 1198 1208	developing
+#6	AnnotatorNotes T8	development
+T10	lex_item_choice 1390 1397	fiances
+#7	AnnotatorNotes T10	investors?
+T9	Punctuation 1629 1636	However
+#8	AnnotatorNotes T9	However,

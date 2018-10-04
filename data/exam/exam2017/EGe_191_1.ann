@@ -1,0 +1,67 @@
+T1	Redundant_comp 12 17	below
+T2	Articles 28 30	an
+T3	lex_part_choice 241 257	with comparasion
+T4	Redundant_comp 344 349	about
+T5	Often_confused 377 381	then
+T6	Spelling 480 487	desctop
+T7	Spelling 522 527	usres
+T8	lex_item_choice 553 558	while
+T9	Spelling 660 665	amont
+T10	lex_item_choice 726 731	women
+T12	Tense_choice 852 855	was
+T14	Spelling 956 960	firs
+T15	Spelling 990 996	photoa
+T16	Redundant_comp 1037 1040	the
+T17	Spelling 1111 1116	seein
+T18	Spelling 1163 1168	groop
+T19	Spelling 31 42	infotmation
+#1	AnnotatorNotes T19	information
+A1	Delete T1
+#2	AnnotatorNotes T2	the
+T20	Prepositions 160 162	On
+#3	AnnotatorNotes T20	In
+#5	AnnotatorNotes T3	in comparison 
+#6	AnnotatorNotes T5	than
+#7	AnnotatorNotes T6	desktop
+#8	AnnotatorNotes T7	users
+#9	AnnotatorNotes T8	but
+T22	lex_item_choice 559 565	nearly
+T23	Absence_comp_sent 553 577	while nearly 95 millions
+#10	AnnotatorNotes T23	but only around 95 millions
+#11	AnnotatorNotes T22	around
+#12	AnnotatorNotes T9	among
+#13	AnnotatorNotes T10	female
+T24	Tense_choice 738 748	have named
+#14	AnnotatorNotes T24	had named
+T11	Tense_choice 811 814	was
+#15	AnnotatorNotes T11	is
+#16	AnnotatorNotes T12	is
+R1	Parallel_construction Arg1:T11 Arg2:T12	
+T13	Spelling 942 947	Amont
+#17	AnnotatorNotes T13	Among
+#18	AnnotatorNotes T14	first
+#19	AnnotatorNotes T15	photos
+A2	Delete T16
+T25	Standard 1028 1078	named by the 39% of respondents as the main reson.
+#20	AnnotatorNotes T25	named as the main reason by 39% of respondents
+#21	AnnotatorNotes T17	seeing
+T26	Absence_explanation 967 1008	was shared by "sharing photoa and videos"
+#22	AnnotatorNotes T26	was shared by "sharing photos and videos" and
+#23	AnnotatorNotes T18	group
+T27	lex_item_choice 1147 1149	as
+#24	AnnotatorNotes T27	like
+T28	Spelling 246 257	comparasion
+#25	AnnotatorNotes T28	comparison
+T29	lex_item_choice 401 407	amount
+#26	AnnotatorNotes T29	number
+T30	lex_item_choice 199 205	amount
+#27	AnnotatorNotes T30	number
+T21	Articles 199 205	amount
+#4	AnnotatorNotes T21	the number
+A3	Delete T4
+T31	Spelling 842 847	trird
+#28	AnnotatorNotes T31	third
+T32	Spelling 1072 1077	reson
+#29	AnnotatorNotes T32	reason
+T33	lex_item_choice 1157 1162	women
+#30	AnnotatorNotes T33	female

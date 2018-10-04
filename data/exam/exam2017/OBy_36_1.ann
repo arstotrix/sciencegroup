@@ -1,0 +1,48 @@
+T1	Noun_number 4 9	chart
+#1	AnnotatorNotes T1	charts
+T2	Agreement_errors 10 15	shows
+#2	AnnotatorNotes T2	show
+T3	Articles 16 26	difference
+#3	AnnotatorNotes T3	the difference
+T4	Possessive 30 50	goods transportation
+#4	AnnotatorNotes T4	goods' transportation
+T5	Spelling 142 148	leaded
+#5	AnnotatorNotes T5	 the leader
+T6	Articles 142 148	leaded
+#6	AnnotatorNotes T6	the leader
+T7	Articles 299 318	rail transportation
+#7	AnnotatorNotes T7	the rail transportation
+T8	lex_item_choice 427 432	above
+#8	AnnotatorNotes T8	about
+T9	lex_item_choice 442 446	part
+#9	AnnotatorNotes T9	percentage
+T10	Articles 452 466	road transport
+#10	AnnotatorNotes T10	the road transportation
+T11	lex_item_choice 457 466	transport
+#11	AnnotatorNotes T11	transportation
+T12	Redundant_comp 467 470	way
+A1	Delete T12
+T13	Ref_device 471 473	it
+#12	AnnotatorNotes T13	there
+T14	Tense_choice 474 483	had to be
+#13	AnnotatorNotes T14	was
+T15	Standard 449 505	In road transport way it had to be a different situation
+#14	AnnotatorNotes T15	There was a different situation in the road transportation
+T16	Category_confusion 511 515	lead
+#15	AnnotatorNotes T16	leading
+T17	Redundant 543 548	goods
+A2	Delete T17
+T18	Spelling 550 554	whes
+#16	AnnotatorNotes T18	when
+T19	lex_item_choice 595 599	part
+#17	AnnotatorNotes T19	percentage
+T20	Spelling 625 628	sun
+#18	AnnotatorNotes T20	sum
+T21	Articles 633 640	percent
+#19	AnnotatorNotes T21	the percentages
+T22	Often_confused 633 640	percent
+#20	AnnotatorNotes T22	the percentages
+T23	Tense_choice 717 721	were
+#21	AnnotatorNotes T23	had
+T24	Absence_explanation 722 730	the same
+#22	AnnotatorNotes T24	the same proportions

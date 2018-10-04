@@ -1,0 +1,61 @@
+T1	lex_item_choice 198 202	sake
+#1	AnnotatorNotes T1	benefit
+T2	Ref_device 253 255	it
+#2	AnnotatorNotes T2	this phenomenon
+T3	Prepositions 268 286	every possible way
+#3	AnnotatorNotes T3	in every possible way
+T4	Articles 380 385	world
+#4	AnnotatorNotes T4	the world
+T5	Possessive 777 785	machines
+#5	AnnotatorNotes T5	machines'
+T6	Ref_device 806 810	its'
+#6	AnnotatorNotes T6	their
+T7	Category_confusion 820 826	evolve
+#7	AnnotatorNotes T7	evolution
+T8	Prepositions 827 830	and
+#8	AnnotatorNotes T8	towards
+T9	Ref_device 840 844	its'
+#9	AnnotatorNotes T9	their
+T10	Category_confusion 902 915	too fantastic
+#10	AnnotatorNotes T10	a fantasy
+T11	Category_confusion 985 995	revolution
+#11	AnnotatorNotes T11	revolt
+T12	Articles 1055 1062	the set
+#12	AnnotatorNotes T12	a set
+T13	Negation 1177 1191	It also cannot
+#13	AnnotatorNotes T13	Neither can
+T14	Ref_device 1177 1179	It
+#14	AnnotatorNotes T14	They
+T15	Ref_device 1197 1201	it's
+#15	AnnotatorNotes T15	their
+T18	Category_confusion 1317 1327	psychology
+#18	AnnotatorNotes T18	a psyche
+T19	Redundant_comp 1454 1456	it
+A1	Delete T19
+T21	Coherence 1534 1548	it is our high
+#20	AnnotatorNotes T21	we
+T22	Agreement_errors 187 189	is
+#21	AnnotatorNotes T22	are
+T23	Ref_device 663 665	it
+#22	AnnotatorNotes T23	information overload
+T24	Spelling 723 746	Big Brother watching us
+#23	AnnotatorNotes T24	Big-Brother-watching-us
+R1	Parallel_construction Arg1:T6 Arg2:T9	
+T25	Emphatic 1177 1191	It also cannot
+#24	AnnotatorNotes T25	Neither can they
+R2	Dependent_change Arg1:T14 Arg2:T15	
+T26	Ref_device 1219 1221	it
+#25	AnnotatorNotes T26	they
+T27	Agreement_errors 1222 1228	relies
+#26	AnnotatorNotes T27	rely
+R3	Dependent_change Arg1:T26 Arg2:T27	
+T16	Lack_par_constr 1236 1260	mathematical and physics
+#16	AnnotatorNotes T16	mathematics and physics
+T17	Linking_device 1482 1484	so
+#17	AnnotatorNotes T17	and
+T20	Word_choice 1506 1533	is the loose of the control
+#19	AnnotatorNotes T20	makes the control loose
+T28	lex_part_choice 1600 1617	make an advantage
+#27	AnnotatorNotes T28	take advantage
+T29	Punctuation 1485 1533	as willful ignorance is the loose of the control
+#28	AnnotatorNotes T29	as willful ignorance makes the control loose, 

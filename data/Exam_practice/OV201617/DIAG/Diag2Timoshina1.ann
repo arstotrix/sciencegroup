@@ -1,0 +1,45 @@
+T1	Punctuation 120 140	of amount of people,
+T2	lex_item_choice 206 212	number
+T6	Prepositions 501 503	at
+A4	Delete T6
+T7	lex_item_choice 446 451	level
+#2	AnnotatorNotes T7	number
+T9	lex_item_choice 622 627	level
+#3	AnnotatorNotes T9	the numbers
+T10	Articles 622 627	level
+#4	AnnotatorNotes T10	the numbers
+T12	Tense_choice 751 760	has risen
+T13	Tense_choice 882 893	has reached
+T14	lex_item_choice 931 938	Another
+#6	AnnotatorNotes T14	A different
+T15	Tense_choice 1023 1036	has increased
+T16	Numerals 1052 1063	20 millions
+#7	AnnotatorNotes T16	20 million
+T17	Numerals 1067 1078	50 millions
+#8	AnnotatorNotes T17	50 million
+T18	Agreement_errors 1107 1114	reflect
+T19	Comparative_adj 1188 1199	more faster
+T20	lex_item_choice 1298 1304	amount
+T21	lex_item_choice 1356 1365	in future
+#9	AnnotatorNotes T21	with time
+T22	lex_item_choice 984 990	amount
+T23	lex_item_choice 688 694	amount
+T24	Prepositions 330 332	at
+T3	Ref_device 388 392	here
+T4	Prepositions 402 404	at
+#1	AnnotatorNotes T1	of amount of people
+#10	AnnotatorNotes T2	amount
+A1	Delete T24
+A2	Delete T4
+T5	Prepositions 539 541	at
+A3	Delete T5
+#11	AnnotatorNotes T23	number
+T8	Prepositions 721 723	in
+#12	AnnotatorNotes T8	to
+#5	AnnotatorNotes T12	rised
+#13	AnnotatorNotes T13	reached
+#14	AnnotatorNotes T22	number
+#15	AnnotatorNotes T15	increased
+#16	AnnotatorNotes T18	reflects
+#17	AnnotatorNotes T19	faster
+#18	AnnotatorNotes T20	number

@@ -1,0 +1,219 @@
+T1	Articles 48 51	job
+T2	Agreement_errors 148 150	do
+T3	Articles 111 129	a “long shillings”
+T4	Absence_comp_colloc 186 188	of
+T5	Defining 235 247	place, which
+T7	Word_choice 329 344	in their career
+T8	Word_choice 491 501	on retired
+T9	Absence_explanation 593 604	participate
+T11	Redundant_comp 882 891	a crucial
+T12	Punctuation 937 952	countries, with
+T14	Tense_choice 1016 1024	fighting
+T15	Spelling 1121 1125	feet
+T16	Articles 1185 1190	hobby
+T18	Articles 1262 1265	job
+T20	Punctuation 1295 1303	easy, to
+T21	Punctuation 1326 1327	:
+T22	Articles 1328 1339	good salary
+T23	Articles 1343 1356	enjoyable job
+T24	lex_item_choice 1304 1313	deal with
+T26	Defining 1386 1403	occupation, which
+T28	Ref_device 1367 1370	you
+T19	Ref_device 1509 1512	you
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	a job
+A4	Cause T2 Other
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	does
+A7	Cause T3 Absence_of_Category_in_L1
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	"long shillings"
+A10	Cause T4 Typo
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	of view
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	job which
+T30	lex_item_choice 235 240	place
+A16	Cause T30 Other
+A17	Weight-language T30 Minor
+A18	Weight-understanding T30 Minor
+#6	AnnotatorNotes T30	job
+T31	note 225 240	enjoyable place
+#7	AnnotatorNotes T31	these two words don't collocate very well
+T32	lex_item_choice 214 221	work in
+A19	Cause T32 Other
+A20	Weight-language T32 Minor
+A21	Weight-understanding T32 Minor
+#8	AnnotatorNotes T32	do
+T33	note 211 263	to work in an enjoyable place, which makes you happy
+#9	AnnotatorNotes T33	Alternatively, you could say "to work in an interesting place where you feel happy".
+T6	Redundant_comp 294 302	spending
+A22	Cause T6 Other
+A23	Weight-language T6 Minor
+A24	Weight-understanding T6 Minor
+A25	Delete T6
+A26	Cause T7 Other
+A27	Weight-language T7 Minor
+A28	Weight-understanding T7 Minor
+#10	AnnotatorNotes T7	at work
+T34	Ref_device 486 490	life
+A29	Cause T34 Absence_of_Category_in_L1
+A30	Weight-language T34 Major
+A31	Weight-understanding T34 Minor
+#11	AnnotatorNotes T34	your life
+A32	Cause T8 L1_interference
+A33	Weight-language T8 Major
+A34	Weight-understanding T8 Minor
+#12	AnnotatorNotes T8	when you retire OR when you are retired
+A35	Cause T9 Other
+A36	Weight-language T9 Critical
+A37	Weight-understanding T9 Critical
+#13	AnnotatorNotes T9	Meaning not quite clear (participate in what?)
+T35	note 593 618	participate more actively
+#14	AnnotatorNotes T35	Suggested correction: "active".
+T36	Articles 658 671	higher salary
+A38	Cause T36 Absence_of_Category_in_L1
+A39	Weight-language T36 Major
+A40	Weight-understanding T36 Minor
+#15	AnnotatorNotes T36	a higher salary
+T10	Absence_comp_sent 695 708	a better life
+A41	Cause T10 Other
+A42	Weight-language T10 Minor
+A43	Weight-understanding T10 Minor
+#16	AnnotatorNotes T10	in a better life
+T37	Linking_device 673 682	therefore
+A44	Cause T37 Other
+A45	Weight-language T37 Minor
+A46	Weight-understanding T37 Minor
+#17	AnnotatorNotes T37	and therefore
+T38	Determiners 788 789	a
+A47	Cause T38 Other
+A48	Weight-language T38 Minor
+A49	Weight-understanding T38 Minor
+#18	AnnotatorNotes T38	his
+T39	lex_item_choice 874 878	wage
+A50	Cause T39 Other
+A51	Weight-language T39 Minor
+A52	Weight-understanding T39 Minor
+#19	AnnotatorNotes T39	salary
+T40	Articles 869 878	high wage
+A53	Cause T40 Absence_of_Category_in_L1
+A54	Weight-language T40 Major
+A55	Weight-understanding T40 Minor
+#20	AnnotatorNotes T40	a high salary
+A56	Cause T11 Absence_of_Category_in_L1
+A57	Weight-language T11 Major
+A58	Weight-understanding T11 Minor
+#21	AnnotatorNotes T11	crucial
+A59	Cause T12 Typo
+A60	Weight-language T12 Critical
+A61	Weight-understanding T12 Minor
+#22	AnnotatorNotes T12	countries with
+T41	Noun_number 958 968	population
+A62	Cause T41 L1_interference
+A63	Weight-language T41 Minor
+A64	Weight-understanding T41 Minor
+#23	AnnotatorNotes T41	populations
+T13	Word_choice 970 981	for example
+A65	Cause T13 L1_interference
+A66	Weight-language T13 Minor
+A67	Weight-understanding T13 Minor
+#24	AnnotatorNotes T13	such as
+A68	Cause T14 Absence_of_Category_in_L1
+A69	Weight-language T14 Critical
+A70	Weight-understanding T14 Minor
+#25	AnnotatorNotes T14	fight
+T42	Spelling 1066 1072	Chines
+A71	Cause T42 Other
+A72	Weight-language T42 Critical
+A73	Weight-understanding T42 Minor
+#26	AnnotatorNotes T42	Chinese
+A74	Cause T15 Typo
+A75	Weight-language T15 Critical
+A76	Weight-understanding T15 Minor
+#27	AnnotatorNotes T15	feed
+A77	Cause T16 Absence_of_Category_in_L1
+A78	Weight-language T16 Major
+A79	Weight-understanding T16 Minor
+#28	AnnotatorNotes T16	a hobby
+T17	Articles 1194 1212	unimaginable thing
+A80	Cause T17 Absence_of_Category_in_L1
+A81	Weight-language T17 Major
+A82	Weight-understanding T17 Minor
+#29	AnnotatorNotes T17	an unimaginable thing
+A83	Cause T18 Absence_of_Category_in_L1
+A84	Weight-language T18 Major
+A85	Weight-understanding T18 Minor
+#30	AnnotatorNotes T18	a job
+T43	Linking_device 1267 1281	In conclusion,
+A86	Cause T43 Other
+A87	Weight-language T43 Minor
+A88	Weight-understanding T43 Minor
+#31	AnnotatorNotes T43	In conclusion, it must be admitted//said
+A89	Cause T20 Typo
+A90	Weight-language T20 Critical
+A91	Weight-understanding T20 Minor
+A92	Cause T24 Other
+A93	Weight-language T24 Major
+A94	Weight-understanding T24 Minor
+#32	AnnotatorNotes T24	combine
+A95	Cause T21 L1_interference
+A96	Weight-language T21 Minor
+A97	Weight-understanding T21 Minor
+#33	AnnotatorNotes T21	-
+A98	Cause T22 Absence_of_Category_in_L1
+A99	Weight-language T22 Major
+A100	Weight-understanding T22 Minor
+#34	AnnotatorNotes T22	a good salary
+A101	Cause T23 Absence_of_Category_in_L1
+A102	Weight-language T23 Major
+A103	Weight-understanding T23 Minor
+#35	AnnotatorNotes T23	an enjoyable job
+A104	Cause T28 Other
+A105	Weight-language T28 Minor
+A106	Weight-understanding T28 Minor
+#36	AnnotatorNotes T28	one
+T25	Punctuation 1358 1366	I think,
+A107	Cause T25 L1_interference
+A108	Weight-language T25 Minor
+A109	Weight-understanding T25 Minor
+#37	AnnotatorNotes T25	I think
+A110	Cause T26 L1_interference
+A111	Weight-language T26 Major
+A112	Weight-understanding T26 Minor
+#38	AnnotatorNotes T26	occupation which
+T27	Word_choice 1404 1431	includes both these factors
+A116	Cause T27 Other
+A117	Weight-language T27 Minor
+A118	Weight-understanding T27 Minor
+#40	AnnotatorNotes T27	meets//answers both these demands
+T29	Ref_device 1440 1448	you find
+A113	Cause T29 Other
+A114	Weight-language T29 Minor
+A115	Weight-understanding T29 Minor
+#39	AnnotatorNotes T29	one finds
+T44	Absence_comp_sent 1490 1493	try
+A119	Cause T44 Other
+A120	Weight-understanding T44 Minor
+#41	AnnotatorNotes T44	one should try
+A121	Cause T19 Other
+A122	Weight-language T19 Minor
+A123	Weight-understanding T19 Minor
+#42	AnnotatorNotes T19	one
+T45	Punctuation 1505 1508	and
+A124	Cause T45 Other
+A125	Weight-language T45 Minor
+A126	Weight-understanding T45 Minor
+#43	AnnotatorNotes T45	, and
+T46	Tense_choice 1513 1517	make
+A127	Cause T46 Other
+A128	Weight-language T46 Major
+A129	Weight-understanding T46 Minor
+#44	AnnotatorNotes T46	will make

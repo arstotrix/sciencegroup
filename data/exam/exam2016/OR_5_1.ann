@@ -1,0 +1,71 @@
+T1	Redundant_comp 26 37	the data of
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+A4	Delete T1
+T2	Ref_device 61 65	that
+A5	Cause T2 Other
+A6	Weight-language T2 Minor
+A7	Weight-understanding T2 Minor
+#1	AnnotatorNotes T2	who
+T3	Determiners 77 88	possibility
+A8	Cause T3 Absence_of_Category_in_L1
+A9	Weight-language T3 Major
+A10	Weight-understanding T3 Minor
+#2	AnnotatorNotes T3	a possibility
+T4	Redundant_comp 116 129	in the period
+A11	Cause T4 Other
+A12	Weight-language T4 Minor
+A13	Weight-understanding T4 Minor
+A14	Delete T4
+T5	Spelling 246 250	stdy
+A15	Cause T5 Typo
+A16	Weight-language T5 Minor
+A17	Weight-understanding T5 Minor
+#3	AnnotatorNotes T5	study
+T6	Determiners 301 316	observed period
+A18	Cause T6 Absence_of_Category_in_L1
+A19	Weight-language T6 Major
+A20	Weight-understanding T6 Minor
+#4	AnnotatorNotes T6	the observed period
+T7	Redundant_comp 327 356	both of Africa and South Asia
+A21	Cause T7 Other
+A22	Weight-language T7 Major
+A23	Weight-understanding T7 Minor
+#5	AnnotatorNotes T7	both Africa and South Asia
+T8	Capitalisation 432 437	World
+A24	Cause T8 Other
+A25	Weight-language T8 Minor
+A26	Weight-understanding T8 Minor
+#6	AnnotatorNotes T8	world
+T9	Capitalisation 553 558	World
+A27	Cause T9 Other
+A28	Weight-language T9 Minor
+A29	Weight-understanding T9 Minor
+#7	AnnotatorNotes T9	world
+T10	Often_confused 675 679	that
+A30	Cause T10 Other
+A31	Weight-language T10 Major
+A32	Weight-understanding T10 Major
+#8	AnnotatorNotes T10	than
+T11	Punctuation 786 803	on the other hand
+A33	Cause T11 Other
+A34	Weight-language T11 Minor
+A35	Weight-understanding T11 Minor
+#9	AnnotatorNotes T11	On the other hand,
+T12	Redundant_comp 780 785	, and
+A36	Cause T12 Other
+A37	Weight-language T12 Minor
+A38	Weight-understanding T12 Minor
+A39	Delete T12
+#10	AnnotatorNotes T12	.
+T13	Ref_device 906 911	girls
+A40	Cause T13 Other
+A41	Weight-language T13 Major
+A42	Weight-understanding T13 Major
+#11	AnnotatorNotes T13	the amount of girls
+T14	Ref_device 680 688	the boys
+A43	Cause T14 Other
+A44	Weight-language T14 Minor
+A45	Weight-understanding T14 Minor
+#12	AnnotatorNotes T14	the amount of boys

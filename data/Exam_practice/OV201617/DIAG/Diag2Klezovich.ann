@@ -1,0 +1,63 @@
+T1	Spelling 6 15	argueable
+T3	Punctuation 248 254	, that
+#1	AnnotatorNotes T3	that
+T4	Category_confusion 299 312	earning money
+#2	AnnotatorNotes T4	money to be earned
+T5	Punctuation 449 455	, that
+#3	AnnotatorNotes T5	that
+T6	Spelling 456 464	perconal
+T7	Spelling 496 501	paths
+T8	Spelling 537 549	frusstrating
+T9	Articles 629 635	planet
+T10	lex_item_choice 640 646	denied
+T11	Spelling 679 686	spehere
+T12	Often_confused 722 727	after
+#4	AnnotatorNotes T12	later
+T13	Absence_comp_sent 769 813	this person will regret the earlier decision
+#5	AnnotatorNotes T13	and this person will regret the earlier decision
+T14	Punctuation 1110 1116	, that
+#6	AnnotatorNotes T14	that
+T15	Punctuation 1181 1187	, that
+#7	AnnotatorNotes T15	that
+T16	Punctuation 1198 1272	who has found his or her vocation and achieved a goal of getting this job,
+#8	AnnotatorNotes T16	who has found his or her vocation and achieved a goal of getting this job
+T17	Articles 1288 1297	a harmony
+T18	Punctuation 1566 1572	, that
+#9	AnnotatorNotes T18	that
+T19	lex_item_choice 1713 1717	such
+T20	Tense_choice 1726 1742	will never found
+T21	Spelling 1862 1871	motiveted
+#11	AnnotatorNotes T1	arguable
+A1	Addition T1
+A3	Addition T3
+A5	Addition T4
+A7	Addition T5
+A9	Addition T6
+#12	AnnotatorNotes T6	personal
+#13	AnnotatorNotes T7	passes
+A11	Addition T7
+A13	Addition T8
+#14	AnnotatorNotes T8	frustrating
+A15	Addition T9
+#15	AnnotatorNotes T9	the planet
+A17	Addition T11
+#16	AnnotatorNotes T11	sphere
+A19	Addition T12
+A21	Addition T14
+A23	Addition T13
+A25	Addition T10
+#17	AnnotatorNotes T10	refused
+A27	Addition T15
+A29	Addition T21
+#18	AnnotatorNotes T21	motivated
+T2	Absence_comp_sent 2040 2045	fact,
+A31	Addition T2
+#10	AnnotatorNotes T2	fact that
+A33	Addition T18
+A35	Addition T16
+A37	Addition T17
+#19	AnnotatorNotes T17	the harmony
+#20	AnnotatorNotes T20	will never find
+A39	Addition T19
+#21	AnnotatorNotes T19	this kind of
+A41	Addition T20

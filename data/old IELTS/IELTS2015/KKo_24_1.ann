@@ -1,0 +1,63 @@
+T1	Absence_explanation 44 51	minutes
+#1	AnnotatorNotes T1	number of minutes
+T2	Prepositions 116 117	-
+#2	AnnotatorNotes T2	to
+T4	Superlative_adj 300 304	less
+#4	AnnotatorNotes T4	the least
+T5	Tense_choice 354 358	tend
+#5	AnnotatorNotes T5	started
+T6	Comparative_constr 481 485	much
+#6	AnnotatorNotes T6	much more
+T9	Spelling 682 689	paining
+#7	AnnotatorNotes T9	gaining
+T10	Determiners 782 786	this
+#8	AnnotatorNotes T10	that
+T11	lex_item_choice 740 743	had
+#9	AnnotatorNotes T11	reached
+T12	Spelling 1032 1037	ether
+#10	AnnotatorNotes T12	either
+T13	Tense_choice 1027 1031	have
+#11	AnnotatorNotes T13	had
+T14	Tense_choice 939 950	have became
+T15	Articles 38 51	total minutes
+#12	AnnotatorNotes T15	the total number of minutes
+T16	Punctuation 171 172	/
+#13	AnnotatorNotes T16	,
+T17	Word_choice 186 196	fixed line
+#14	AnnotatorNotes T17	landline
+T18	Punctuation 385 465	, having relatively low numbers at the beginning of the period from 1995 to 2000
+#15	AnnotatorNotes T18	, having relatively low numbers at the beginning of the period from 1995 to 2000,
+T19	Punctuation 501 507	2000s.
+#16	AnnotatorNotes T19	2000s
+T20	Numerals 696 708	2-5 billions
+#17	AnnotatorNotes T20	2.5 billion
+T21	Word_choice 723 733	fixed line
+#18	AnnotatorNotes T21	landline
+T23	Noun_number 813 822	positions
+T24	Category_confusion 847 852	after
+#20	AnnotatorNotes T24	afterwards
+T26	Standard 1027 1037	have ether
+#22	AnnotatorNotes T26	either had
+T27	Lack_par_constr 1116 1127	maintaining
+#23	AnnotatorNotes T27	maintained
+T28	Numerical 529 533	more
+#3	AnnotatorNotes T28	as many
+T29	Comparative_constr 559 563	than
+#24	AnnotatorNotes T29	as
+R1	Dependent_change Arg1:T28 Arg2:T29	
+T7	Prepositions 776 781	until
+#19	AnnotatorNotes T7	before
+#25	AnnotatorNotes T23	position
+T32	Articles 892 904	total number
+#26	AnnotatorNotes T32	the total number
+#27	AnnotatorNotes T14	became
+T3	Absence_explanation 153 171	local and national
+#21	AnnotatorNotes T3	local and national landline
+T25	Word_choice 1188 1198	fixed line
+#28	AnnotatorNotes T25	landline
+T33	lex_item_choice 354 358	tend
+#29	AnnotatorNotes T33	started
+T34	Tense_choice 474 480	become
+#30	AnnotatorNotes T34	became
+T8	Tense_choice 296 299	are
+#31	AnnotatorNotes T8	were

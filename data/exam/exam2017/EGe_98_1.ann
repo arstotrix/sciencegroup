@@ -1,0 +1,84 @@
+T1	Category_confusion 113 119	German
+#1	AnnotatorNotes T1	Germany
+T2	Spelling 121 126	Chine
+#2	AnnotatorNotes T2	China
+T4	Linking_device 127 133	the UK
+#4	AnnotatorNotes T4	 and the UK
+T6	Category_confusion 204 210	German
+#6	AnnotatorNotes T6	Germany
+T7	lex_part_choice 258 268	In details
+#7	AnnotatorNotes T7	In detail
+T10	Numerals 457 460	1,5
+#9	AnnotatorNotes T10	1.5
+In details, in 2014 year print market got about 6 billion of dollars and this number is expected to be the same in four years,also eBook market is going to increase insignificantly from 1 billion to 1,5 billion per year. Although, in t
+T14	Punctuation 586 597	for example
+#13	AnnotatorNotes T14	for example,
+T15	Numerals 661 665	10,5
+#14	AnnotatorNotes T15	10.5
+T16	lex_item_choice 40 63	many billion of dollars
+#15	AnnotatorNotes T16	much money (in billion dollars)
+T17	suggestion 64 68	were
+#16	AnnotatorNotes T17	was
+R2	Dependent_change Arg1:T16 Arg2:T17	
+T18	suggestion 166 170	with
+#17	AnnotatorNotes T18	and
+T5	Modals 223 229	remain
+#5	AnnotatorNotes T5	are to remain
+T19	Prepositions 237 244	through
+#18	AnnotatorNotes T19	in
+T22	lex_item_choice 384 388	also
+#20	AnnotatorNotes T22	while
+T23	Noun_number 560 564	book
+#21	AnnotatorNotes T23	books
+T24	Tense_form 624 634	forecasted
+#22	AnnotatorNotes T24	forecast
+T25	Lack_par_constr 670 674	lost
+#23	AnnotatorNotes T25	to lose
+T26	Linking_device 479 487	Although
+#25	AnnotatorNotes T26	Overall
+T28	Redundant_comp 724 728	this
+A3	Delete T28
+T9	Articles 782 791	countries
+#24	AnnotatorNotes T9	the countries
+T31	Prepositional_noun 1077 1089	interest for
+#28	AnnotatorNotes T31	interest in
+T32	Noun_number 1090 1094	book
+#29	AnnotatorNotes T32	books
+T33	Redundant_comp 712 714	at
+A4	Delete T33
+T34	Articles 934 945	development
+#30	AnnotatorNotes T34	 the development
+T35	Spelling 1020 1026	garget
+#31	AnnotatorNotes T35	gadget
+T37	Comparative_adj 979 995	much more easier
+#33	AnnotatorNotes T37	much easier
+T38	Redundant 270 282	in 2014 year
+#34	AnnotatorNotes T38	in 2014
+T39	Noun_number 1004 1008	book
+#35	AnnotatorNotes T39	books
+T11	lex_item_choice 774 778	rest
+#10	AnnotatorNotes T11	majority
+T3	Absence_comp_sent 283 288	print
+#3	AnnotatorNotes T3	printed books
+T20	Redundant_comp 306 326	6 billion of dollars
+#19	AnnotatorNotes T20	6 billion dollars
+T21	Punctuation 327 330	and
+#26	AnnotatorNotes T21	, and
+T8	Absence_comp_sent 296 299	got
+#8	AnnotatorNotes T8	got sales of
+T12	lex_item_choice 549 556	version
+#11	AnnotatorNotes T12	format
+T13	Absence_comp_sent 570 584	electronic one
+#12	AnnotatorNotes T13	the electronic one
+T27	lex_item_choice 699 706	benefit
+#27	AnnotatorNotes T27	revenues
+T29	Voice 745 758	will be spend
+#32	AnnotatorNotes T29	will be spent
+T30	Participial_constr 845 850	print
+#36	AnnotatorNotes T30	printed
+T36	Noun_number 851 855	book
+#37	AnnotatorNotes T36	books
+T40	note 1049 1065	mean that people
+#38	AnnotatorNotes T40	Легась А.В
+T41	Prepositions 316 318	of
+A1	Delete T41

@@ -1,0 +1,48 @@
+T1	Tense_choice 123 126	use
+#1	AnnotatorNotes T1	used
+T2	Tense_choice 235 238	are
+#2	AnnotatorNotes T2	were
+T3	Absence_comp_colloc 297 303	mobile
+#3	AnnotatorNotes T3	mobile phones
+T4	Category_confusion 332 336	tend
+#4	AnnotatorNotes T4	tendency
+T5	Numerals 392 404	150 millions
+#5	AnnotatorNotes T5	150 million
+T6	Numerals 445 457	130 millions
+#6	AnnotatorNotes T6	130 million
+T7	Numerals 527 538	60 millions
+#7	AnnotatorNotes T7	60 million
+T8	Numerals 563 575	100 millions
+#8	AnnotatorNotes T8	100 million
+T9	Tense_choice 692 694	is
+#9	AnnotatorNotes T9	was
+T10	lex_item_choice 925 928	had
+#10	AnnotatorNotes T10	was
+T11	Punctuation 1009 1022	as we can see
+#11	AnnotatorNotes T11	as we can see,
+T12	Punctuation 208 209	,
+A1	Delete T12
+T13	Lack_par_constr 297 303	mobile
+#12	AnnotatorNotes T13	via mobile phones
+T14	Category_confusion 340 352	decrease for
+#13	AnnotatorNotes T14	the decrease in
+T15	Inappropriate_register 431 434	bit
+A2	Delete T15
+T16	Punctuation 473 476	and
+#14	AnnotatorNotes T16	, and
+T17	Punctuation 477 493	for mobile users
+#15	AnnotatorNotes T17	for mobile users, 
+T18	Articles 497 505	increase
+#16	AnnotatorNotes T18	the increase
+T19	lex_item_choice 618 622	next
+#17	AnnotatorNotes T19	the following
+T20	Determiners 775 785	the reason
+#18	AnnotatorNotes T20	this reason
+T21	Inappropriate_register 906 909	bit
+A3	Delete T21
+T22	Punctuation 948 951	and
+#19	AnnotatorNotes T22	, and
+T23	lex_item_choice 1057 1065	resource
+#20	AnnotatorNotes T23	media
+T24	Punctuation 1084 1087	and
+#21	AnnotatorNotes T24	, and

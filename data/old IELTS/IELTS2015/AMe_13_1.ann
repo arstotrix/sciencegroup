@@ -1,0 +1,9 @@
+T1	Agreement_errors 205 208	man
+#1	AnnotatorNotes T1	men
+T2	Redundant_comp 700 706	almost
+T3	Redundant_comp 895 901	people
+T4	Agreement_errors 674 677	was
+#2	AnnotatorNotes T4	were
+T5	Agreement_errors 687 693	trends
+R1	Dependent_change Arg1:T5 Arg2:T4	
+#3	AnnotatorNotes R1	were trends

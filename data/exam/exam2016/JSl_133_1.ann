@@ -1,0 +1,26 @@
+T1	Articles 0 5	Graph
+#1	AnnotatorNotes T1	The given graph
+T2	Articles 24 34	investment
+#2	AnnotatorNotes T2	the investment 
+T3	Redundant_comp 124 128	year
+A1	Delete T3
+T4	Punctuation 151 152	,
+A2	Delete T4
+T5	Spelling 196 201	until
+#3	AnnotatorNotes T5	untill
+T6	Spelling 196 201	until
+#4	AnnotatorNotes T6	untill
+T7	lex_item_choice 271 278	go down
+#5	AnnotatorNotes T7	decrease
+T8	Punctuation 290 291	,
+A3	Delete T8
+T9	lex_item_choice 422 424	if
+#6	AnnotatorNotes T9	it
+T10	Articles 502 513	investments
+#7	AnnotatorNotes T10	the investments
+T11	Tense_choice 634 638	take
+#8	AnnotatorNotes T11	took
+T12	Punctuation 839 840	,
+A4	Delete T12
+T13	Prepositions 1074 1076	in
+#9	AnnotatorNotes T13	at

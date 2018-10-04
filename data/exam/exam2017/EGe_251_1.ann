@@ -1,0 +1,34 @@
+T1	Spelling 16 25	presentes
+#1	AnnotatorNotes T1	presents
+T2	Redundant_comp 26 28	us
+A1	Delete T2
+T3	Spelling 33 43	persantage
+#2	AnnotatorNotes T3	percentage
+T4	Spelling 112 118	Easten
+#3	AnnotatorNotes T4	Eastern
+T5	Redundant_comp 134 138	year
+A2	Delete T5
+T6	Spelling 151 156	wnich
+#4	AnnotatorNotes T6	which
+T7	Agreement_errors 168 176	consists
+#5	AnnotatorNotes T7	consist
+T8	Agreement_errors 143 149	graphs
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Spelling 199 208	macninery
+#6	AnnotatorNotes T9	machinery
+T10	Spelling 339 349	persantage
+#7	AnnotatorNotes T10	percentage
+T11	Punctuation 485 508	, which are transported
+#8	AnnotatorNotes T11	which are transported
+T12	Spelling 602 613	differentes
+#9	AnnotatorNotes T12	difference
+T13	Noun_number 602 613	differentes
+#10	AnnotatorNotes T13	difference
+T14	Agreement_errors 1045 1050	shows
+#11	AnnotatorNotes T14	show
+T15	Agreement_errors 1038 1044	charts
+R2	Dependent_change Arg1:T14 Arg2:T15	
+T16	Redundant_comp 1136 1140	year
+A3	Delete T16
+T17	note 1139 1140	r
+#12	AnnotatorNotes T17	Zavyalov

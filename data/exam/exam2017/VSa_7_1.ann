@@ -1,0 +1,55 @@
+T2	Prefix 15 25	represents
+#2	AnnotatorNotes T2	present
+T5	lex_item_choice 54 60	market
+#5	AnnotatorNotes T5	trade
+T3	Redundant 48 54	world-
+T6	lex_item_choice 92 97	kinds
+#3	AnnotatorNotes T6	ways
+T7	Punctuation 181 188	whereas
+#6	AnnotatorNotes T7	, whereas
+T8	lex_item_choice 272 280	fourfold
+#7	AnnotatorNotes T8	a quarter
+T9	Tense_choice 328 331	are
+#8	AnnotatorNotes T9	were
+T12	Noun_number 567 582	transportations
+T13	suggestion 601 616	transportations
+T14	lex_item_choice 642 654	appropriates
+T15	lex_item_choice 680 687	decimal
+T16	Spelling 744 752	six fold
+T17	suggestion 772 782	percentage
+T18	lex_item_choice 856 869	in comparison
+T19	suggestion 1030 1040	percentage
+T20	Agreement_errors 1041 1052	illustrates
+T21	Tense_form 1082 1094	are not rely
+#9	AnnotatorNotes T21	do not rely
+#10	AnnotatorNotes T20	illustrate
+#11	AnnotatorNotes T19	percentage numbers
+R1	Dependent_change Arg1:T19 Arg2:T20	
+#12	AnnotatorNotes T16	sixfold
+#13	AnnotatorNotes T17	the percentage numbers
+T22	Articles 772 782	percentage
+#14	AnnotatorNotes T22	the percentage numbers
+#15	AnnotatorNotes T18	correspondingly
+#16	AnnotatorNotes T15	tenth
+T23	Spelling 676 687	one decimal
+#17	AnnotatorNotes T23	one-tenth
+#18	AnnotatorNotes T12	transportation
+#19	AnnotatorNotes T13	goods transported 
+#20	AnnotatorNotes T14	approximates
+T24	suggestion 15 25	represents
+T25	Word_choice 48 54	world-
+#23	AnnotatorNotes T25	international 
+T4	suggestion 181 188	whereas
+T26	suggestion 328 331	are
+T27	suggestion 370 395	chemicals' transportation
+#4	AnnotatorNotes T27	transported chemicals
+T10	suggestion 485 492	by road
+#21	AnnotatorNotes T10	of those carried by road
+T11	suggestion 493 505	respectively
+A1	Delete T11
+#1	AnnotatorNotes T24	present
+T1	Coherence 541 551	pie charts
+#22	AnnotatorNotes T1	goods
+T28	suggestion 541 551	pie charts
+T29	suggestion 1041 1052	illustrates
+T30	Negation 1082 1094	are not rely

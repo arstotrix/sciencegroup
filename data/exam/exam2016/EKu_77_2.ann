@@ -1,0 +1,36 @@
+T1	Two_in_a_row 310 316	reduce
+#1	AnnotatorNotes T1	to reduce
+T2	Verb_Inf 386 388	to
+A1	Delete T2
+T3	Verb_Inf 368 372	make
+R1	Parallel_construction Arg1:T3 Arg2:T2	
+T4	Absence_comp_colloc 606 614	commited
+#2	AnnotatorNotes T4	committed by
+T5	Spelling 606 614	commited
+#3	AnnotatorNotes T5	committed
+T6	Spelling 680 688	recedive
+#4	AnnotatorNotes T6	recidive
+T7	Redundant 680 688	recedive
+A2	Delete T7
+T8	Category_confusion 689 694	crime
+#5	AnnotatorNotes T8	criminal
+T9	Absence_comp_colloc 719 727	freedome
+#6	AnnotatorNotes T9	in freedom
+T10	Spelling 719 727	freedome
+#7	AnnotatorNotes T10	freedom
+T11	Spelling 869 886	On the other hand
+#8	AnnotatorNotes T11	On the other hand,
+T12	Word_choice 869 886	On the other hand
+#9	AnnotatorNotes T12	However
+T13	Punctuation 907 908	,
+A3	Delete T13
+T14	Spelling 1039 1047	recedive
+#10	AnnotatorNotes T14	recidive
+T15	Redundant 1039 1047	recedive
+A4	Delete T15
+T16	Category_confusion 1048 1053	crime
+#11	AnnotatorNotes T16	criminal
+T17	Agreement_errors 1108 1113	plans
+#12	AnnotatorNotes T17	plan
+T18	Articles 1512 1515	the
+A5	Delete T18

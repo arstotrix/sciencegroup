@@ -1,0 +1,47 @@
+T1	lex_item_choice 93 98	steps
+#1	AnnotatorNotes T1	types 
+T2	Voice 161 172	interesting
+#2	AnnotatorNotes T2	interested
+T3	Spelling 202 206	then
+#3	AnnotatorNotes T3	than  
+T4	Word_choice 264 275	counted for
+#4	AnnotatorNotes T4	made up
+T5	Absence_explanation 276 279	90%
+#5	AnnotatorNotes T5	90% of all holders
+T6	Absence_comp_colloc 353 360	skilled
+#6	AnnotatorNotes T6	skilled vocational diplomas
+T7	Tense_choice 382 386	hold
+#7	AnnotatorNotes T7	held
+T8	Spelling 391 398	scilled
+#8	AnnotatorNotes T8	skilled
+T9	Linking_device 419 426	whereas
+#9	AnnotatorNotes T9	and
+T10	Tense_choice 430 432	is
+#10	AnnotatorNotes T10	was
+T11	Numerical 444 455	higher than
+#11	AnnotatorNotes T11	as high as
+T12	Word_choice 456 462	figure
+#12	AnnotatorNotes T12	the percentage number
+T13	Articles 456 462	figure
+#13	AnnotatorNotes T13	the percentage number
+T14	Spelling 500 510	Bechelor’s
+#14	AnnotatorNotes T14	Bachelor's
+T15	lex_item_choice 523 531	occupied
+#15	AnnotatorNotes T15	received
+T16	Noun_number 535 540	woman
+#16	AnnotatorNotes T16	women
+T17	Redundant_comp 540 559	, it is counted for
+A1	Delete T17
+T18	Standard 535 578	woman, it is counted for 72 and 53 per cent
+#17	AnnotatorNotes T18	72 and 53 per cent of women
+R1	Dependent_change Arg1:T17 Arg2:T18	
+T19	Redundant_comp 593 596	who
+A2	Delete T19
+T20	Standard 589 640	men who hold Undergraduate diploma only 36 per cent
+#18	AnnotatorNotes T20	only 36 per cent of men held Undergraduate diploma
+T21	Word_choice 712 728	to remain stable
+#19	AnnotatorNotes T21	was the closest to equality
+T22	Tense_choice 733 735	is
+#20	AnnotatorNotes T22	was
+T23	Often_confused 202 206	then
+#21	AnnotatorNotes T23	than

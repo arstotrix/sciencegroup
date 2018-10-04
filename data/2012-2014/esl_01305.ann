@@ -1,0 +1,551 @@
+T1	lex_item_choice 79 90	contentment
+T2	Verb_pattern 91 93	of
+T3	suggestion 263 265	on
+T4	lex_item_choice 254 262	guidance
+T5	Verb_pattern 310 312	of
+T6	Punctuation 422 434	First of all
+T7	Standard 537 569	the general one and the detailed
+T8	suggestion 611 615	line
+T9	suggestion 616 624	presents
+T10	suggestion 636 647	contentment
+T11	suggestion 648 650	of
+T12	lex_item_choice 684 691	content
+T13	suggestion 881 893	is increased
+T14	suggestion 973 979	, that
+T15	suggestion 1136 1147	contentment
+T16	suggestion 1148 1150	of
+T17	suggestion 1199 1210	contentment
+T18	suggestion 1211 1213	of
+T19	suggestion 1257 1261	then
+T20	suggestion 1323 1325	of
+T21	suggestion 1367 1373	, that
+T22	suggestion 1389 1394	abate
+#1	AnnotatorNotes T2	with
+#2	AnnotatorNotes T5	with
+#3	AnnotatorNotes T12	satisfied
+#4	AnnotatorNotes T4	inforamation
+#5	AnnotatorNotes T6	First of all,
+T23	pos_IN 0 2	In
+#6	AnnotatorNotes T23	lemma = 'in'
+T24	pos_DT 3 7	this
+#7	AnnotatorNotes T24	lemma = 'this'
+T25	pos_NN 8 14	report
+#8	AnnotatorNotes T25	lemma = 'report'
+T26	pos_PRP 15 16	I
+#9	AnnotatorNotes T26	lemma = 'i'
+T27	pos_VBP 17 19	am
+#10	AnnotatorNotes T27	lemma = 'be'
+T28	pos_VBG 20 25	going
+#11	AnnotatorNotes T28	lemma = 'go'
+T29	pos_TO 26 28	to
+#12	AnnotatorNotes T29	lemma = 'to'
+T30	pos_VB 29 37	describe
+#13	AnnotatorNotes T30	lemma = 'describe'
+T31	pos_DT 38 39	a
+#14	AnnotatorNotes T31	lemma = 'a'
+T32	pos_NN 40 45	table
+#15	AnnotatorNotes T32	lemma = 'table'
+T33	pos_CC 46 49	and
+#16	AnnotatorNotes T33	lemma = 'and'
+T34	pos_DT 50 51	a
+#17	AnnotatorNotes T34	lemma = 'a'
+T35	pos_NN 52 58	column
+#18	AnnotatorNotes T35	lemma = 'column'
+T36	pos_NN 59 66	diagram
+#19	AnnotatorNotes T36	lemma = 'diagram'
+T37	pos_VBG 67 74	showing
+#20	AnnotatorNotes T37	lemma = 'show'
+T38	pos_DT 75 78	the
+#21	AnnotatorNotes T38	lemma = 'the'
+T39	pos_NN 79 90	contentment
+#22	AnnotatorNotes T39	lemma = 'contentment'
+T40	pos_IN 91 93	of
+#23	AnnotatorNotes T40	lemma = 'of'
+T41	pos_NN 94 97	air
+#24	AnnotatorNotes T41	lemma = 'air'
+T42	pos_NN 98 104	travel
+#25	AnnotatorNotes T42	lemma = 'travel'
+T43	pos_NNS 105 114	customers
+#26	AnnotatorNotes T43	lemma = 'customer'
+T44	pos_IN 115 117	in
+#27	AnnotatorNotes T44	lemma = 'in'
+T45	pos_W 118 122	1999
+#28	AnnotatorNotes T45	lemma = '[??:??/??/1999:??.??:??]'
+T46	pos_Fc 122 123	,
+#29	AnnotatorNotes T46	lemma = ','
+T47	pos_Z 124 128	2000
+#30	AnnotatorNotes T47	lemma = '2000'
+T48	pos_CC 129 132	and
+#31	AnnotatorNotes T48	lemma = 'and'
+T49	pos_Z 133 137	2007
+#32	AnnotatorNotes T49	lemma = '2007'
+T50	pos_Fp 137 138	.
+#33	AnnotatorNotes T50	lemma = '.'
+T51	pos_DT 139 142	The
+#34	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 143 150	diagram
+#35	AnnotatorNotes T52	lemma = 'diagram'
+T53	pos_VBZ 151 159	presents
+#36	AnnotatorNotes T53	lemma = 'present'
+T54	pos_DT 160 163	the
+#37	AnnotatorNotes T54	lemma = 'the'
+T55	pos_NN 164 174	percentage
+#38	AnnotatorNotes T55	lemma = 'percentage'
+T56	pos_IN 175 177	of
+#39	AnnotatorNotes T56	lemma = 'of'
+T57	pos_RB 178 187	generally
+#40	AnnotatorNotes T57	lemma = 'generally'
+T58	pos_VBN 188 197	satisfied
+#41	AnnotatorNotes T58	lemma = 'satisfy'
+T59	pos_CC 198 201	and
+#42	AnnotatorNotes T59	lemma = 'and'
+T60	pos_VBN 202 214	dissatisfied
+#43	AnnotatorNotes T60	lemma = 'dissatisfy'
+T61	pos_NNS 215 225	passengers
+#44	AnnotatorNotes T61	lemma = 'passenger'
+T62	pos_Fc 225 226	,
+#45	AnnotatorNotes T62	lemma = ','
+T63	pos_IN 227 234	whereas
+#46	AnnotatorNotes T63	lemma = 'whereas'
+T64	pos_DT 235 238	the
+#47	AnnotatorNotes T64	lemma = 'the'
+T65	pos_NN 239 244	table
+#48	AnnotatorNotes T65	lemma = 'table'
+T66	pos_VBZ 245 253	provides
+#49	AnnotatorNotes T66	lemma = 'provide'
+T67	pos_NN 254 262	guidance
+#50	AnnotatorNotes T67	lemma = 'guidance'
+T68	pos_IN 263 265	on
+#51	AnnotatorNotes T68	lemma = 'on'
+T69	pos_DT 266 270	some
+#52	AnnotatorNotes T69	lemma = 'some'
+T70	pos_JJ 271 279	specific
+#53	AnnotatorNotes T70	lemma = 'specific'
+T71	pos_NNS 280 287	aspects
+#54	AnnotatorNotes T71	lemma = 'aspect'
+T72	pos_Fc 287 288	,
+#55	AnnotatorNotes T72	lemma = ','
+T73	pos_PDT 289 293	such
+#56	AnnotatorNotes T73	lemma = 'such'
+T74	pos_IN 294 296	as
+#57	AnnotatorNotes T74	lemma = 'as'
+T75	pos_NN 297 309	satisfaction
+#58	AnnotatorNotes T75	lemma = 'satisfaction'
+T76	pos_IN 310 312	of
+#59	AnnotatorNotes T76	lemma = 'of'
+T77	pos_NN 313 321	courtesy
+#60	AnnotatorNotes T77	lemma = 'courtesy'
+T78	pos_IN 322 324	of
+#61	AnnotatorNotes T78	lemma = 'of'
+T79	pos_NN 325 331	flight
+#62	AnnotatorNotes T79	lemma = 'flight'
+T80	pos_NNS 332 342	attendants
+#63	AnnotatorNotes T80	lemma = 'attendant'
+T81	pos_CC 343 346	and
+#64	AnnotatorNotes T81	lemma = 'and'
+T82	pos_IN 347 349	of
+#65	AnnotatorNotes T82	lemma = 'of'
+T83	pos_JJ 350 358	check-in
+#66	AnnotatorNotes T83	lemma = 'check-in'
+T84	pos_/ 358 359	/
+#67	AnnotatorNotes T84	lemma = '/'
+T85	pos_NN 359 363	gate
+#68	AnnotatorNotes T85	lemma = 'gate'
+T86	pos_NNS 364 370	agents
+#69	AnnotatorNotes T86	lemma = 'agent'
+T87	pos_Fc 370 371	,
+#70	AnnotatorNotes T87	lemma = ','
+T88	pos_NN 372 377	price
+#71	AnnotatorNotes T88	lemma = 'price'
+T89	pos_IN 378 380	of
+#72	AnnotatorNotes T89	lemma = 'of'
+T90	pos_NNS 381 388	tickets
+#73	AnnotatorNotes T90	lemma = 'ticket'
+T91	pos_Fc 388 389	,
+#74	AnnotatorNotes T91	lemma = ','
+T92	pos_NNS 390 399	schedules
+#75	AnnotatorNotes T92	lemma = 'schedule'
+T93	pos_CC 400 403	and
+#76	AnnotatorNotes T93	lemma = 'and'
+T94	pos_NN 404 411	comfort
+#77	AnnotatorNotes T94	lemma = 'comfort'
+T95	pos_IN 412 414	of
+#78	AnnotatorNotes T95	lemma = 'of'
+T96	pos_NNS 415 420	seats
+#79	AnnotatorNotes T96	lemma = 'seat'
+T97	pos_Fp 420 421	.
+#80	AnnotatorNotes T97	lemma = '.'
+T98	pos_JJ 422 427	First
+#81	AnnotatorNotes T98	lemma = '1'
+T99	pos_IN 428 430	of
+#82	AnnotatorNotes T99	lemma = 'of'
+T100	pos_DT 431 434	all
+#83	AnnotatorNotes T100	lemma = 'all'
+T101	pos_PRP 435 436	I
+#84	AnnotatorNotes T101	lemma = 'i'
+T102	pos_VBP 437 441	need
+#85	AnnotatorNotes T102	lemma = 'need'
+T103	pos_TO 442 444	to
+#86	AnnotatorNotes T103	lemma = 'to'
+T104	pos_NN 445 451	notice
+#87	AnnotatorNotes T104	lemma = 'notice'
+T105	pos_IN 452 456	that
+#88	AnnotatorNotes T105	lemma = 'that'
+T106	pos_DT 457 460	the
+#89	AnnotatorNotes T106	lemma = 'the'
+T107	pos_JJ 461 468	overall
+#90	AnnotatorNotes T107	lemma = 'overall'
+T108	pos_NN 469 481	satisfaction
+#91	AnnotatorNotes T108	lemma = 'satisfaction'
+T109	pos_VBD 482 491	increased
+#92	AnnotatorNotes T109	lemma = 'increase'
+T110	pos_Fp 491 492	.
+#93	AnnotatorNotes T110	lemma = '.'
+T111	pos_DT 493 497	This
+#94	AnnotatorNotes T111	lemma = 'this'
+T112	pos_VBZ 498 500	is
+#95	AnnotatorNotes T112	lemma = 'be'
+T113	pos_JJ 501 508	evident
+#96	AnnotatorNotes T113	lemma = 'evident'
+T114	pos_IN 509 513	from
+#97	AnnotatorNotes T114	lemma = 'from'
+T115	pos_DT 514 517	the
+#98	AnnotatorNotes T115	lemma = 'the'
+T116	pos_DT 518 522	both
+#99	AnnotatorNotes T116	lemma = 'both'
+T117	pos_NN 523 535	illustration
+#100	AnnotatorNotes T117	lemma = 'illustration'
+T118	pos_Fc 535 536	,
+#101	AnnotatorNotes T118	lemma = ','
+T119	pos_DT 537 540	the
+#102	AnnotatorNotes T119	lemma = 'the'
+T120	pos_JJ 541 548	general
+#103	AnnotatorNotes T120	lemma = 'general'
+T121	pos_NN 549 552	one
+#104	AnnotatorNotes T121	lemma = 'one'
+T122	pos_CC 553 556	and
+#105	AnnotatorNotes T122	lemma = 'and'
+T123	pos_DT 557 560	the
+#106	AnnotatorNotes T123	lemma = 'the'
+T124	pos_VBN 561 569	detailed
+#107	AnnotatorNotes T124	lemma = 'detail'
+T125	pos_Fp 569 570	.
+#108	AnnotatorNotes T125	lemma = '.'
+T126	pos_DT 571 574	The
+#109	AnnotatorNotes T126	lemma = 'the'
+T127	pos_RBS 575 579	most
+#110	AnnotatorNotes T127	lemma = 'many'
+T128	pos_JJ 580 590	noticeable
+#111	AnnotatorNotes T128	lemma = 'noticeable'
+T129	pos_NNS 591 598	changes
+#112	AnnotatorNotes T129	lemma = 'change'
+T130	pos_VBD 599 607	happened
+#113	AnnotatorNotes T130	lemma = 'happen'
+T131	pos_IN 608 610	in
+#114	AnnotatorNotes T131	lemma = 'in'
+T132	pos_NN 611 615	line
+#115	AnnotatorNotes T132	lemma = 'line'
+T133	pos_VBZ 616 624	presents
+#116	AnnotatorNotes T133	lemma = 'present'
+T134	pos_NNS 625 634	customers
+#117	AnnotatorNotes T134	lemma = 'customer'
+T135	pos_Fw 634 635	’
+#118	AnnotatorNotes T135	lemma = '’'
+T136	pos_NN 636 647	contentment
+#119	AnnotatorNotes T136	lemma = 'contentment'
+T137	pos_IN 648 650	of
+#120	AnnotatorNotes T137	lemma = 'of'
+T138	pos_NN 651 656	price
+#121	AnnotatorNotes T138	lemma = 'price'
+T139	pos_IN 657 659	of
+#122	AnnotatorNotes T139	lemma = 'of'
+T140	pos_NNS 660 667	tickets
+#123	AnnotatorNotes T140	lemma = 'ticket'
+T141	pos_Fc 667 668	,
+#124	AnnotatorNotes T141	lemma = ','
+T142	pos_DT 669 672	the
+#125	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NN 673 680	portion
+#126	AnnotatorNotes T143	lemma = 'portion'
+T144	pos_IN 681 683	of
+#127	AnnotatorNotes T144	lemma = 'of'
+T145	pos_JJ 684 691	content
+#128	AnnotatorNotes T145	lemma = 'content'
+T146	pos_NNS 692 702	passengers
+#129	AnnotatorNotes T146	lemma = 'passenger'
+T147	pos_VBZ 703 706	has
+#130	AnnotatorNotes T147	lemma = 'have'
+T148	pos_VBN 707 712	shown
+#131	AnnotatorNotes T148	lemma = 'show'
+T149	pos_DT 713 714	a
+#132	AnnotatorNotes T149	lemma = 'a'
+T150	pos_NN 715 721	growth
+#133	AnnotatorNotes T150	lemma = 'growth'
+T151	pos_IN 722 724	of
+#134	AnnotatorNotes T151	lemma = 'of'
+T152	pos_Z 725 727	20
+#135	AnnotatorNotes T152	lemma = '20'
+T153	pos_NN 728 735	percent
+#136	AnnotatorNotes T153	lemma = 'percent'
+T154	pos_NNS 736 742	points
+#137	AnnotatorNotes T154	lemma = 'point'
+T155	pos_Fp 742 743	.
+#138	AnnotatorNotes T155	lemma = '.'
+T156	pos_DT 744 747	The
+#139	AnnotatorNotes T156	lemma = 'the'
+T157	pos_NNS 748 755	changes
+#140	AnnotatorNotes T157	lemma = 'change'
+T158	pos_IN 756 758	of
+#141	AnnotatorNotes T158	lemma = 'of'
+T159	pos_JJ 759 764	other
+#142	AnnotatorNotes T159	lemma = 'other'
+T160	pos_NNS 765 772	indices
+#143	AnnotatorNotes T160	lemma = 'index'
+T161	pos_NNS 773 777	aren
+#144	AnnotatorNotes T161	lemma = 'aren'
+T162	pos_Fw 777 778	’
+#145	AnnotatorNotes T162	lemma = '’'
+T163	pos_NN 778 779	t
+#146	AnnotatorNotes T163	lemma = 't'
+T164	pos_RB 780 782	so
+#147	AnnotatorNotes T164	lemma = 'so'
+T165	pos_JJ 783 794	perceptible
+#148	AnnotatorNotes T165	lemma = 'perceptible'
+T166	pos_Fx 794 795	;
+#149	AnnotatorNotes T166	lemma = ';'
+T167	pos_PRP 796 800	they
+#150	AnnotatorNotes T167	lemma = 'they'
+T168	pos_VBP 801 805	vary
+#151	AnnotatorNotes T168	lemma = 'vary'
+T169	pos_IN 806 812	within
+#152	AnnotatorNotes T169	lemma = 'within'
+T170	pos_DT 813 816	the
+#153	AnnotatorNotes T170	lemma = 'the'
+T171	pos_NNS 817 823	limits
+#154	AnnotatorNotes T171	lemma = 'limit'
+T172	pos_IN 824 826	of
+#155	AnnotatorNotes T172	lemma = 'of'
+T173	pos_Zp 827 831	1-4%
+#156	AnnotatorNotes T173	lemma = '1-4/100'
+T174	pos_IN 832 834	in
+#157	AnnotatorNotes T174	lemma = 'in'
+T175	pos_NN 835 840	spite
+#158	AnnotatorNotes T175	lemma = 'spite'
+T176	pos_IN 841 843	of
+#159	AnnotatorNotes T176	lemma = 'of'
+T177	pos_DT 844 847	the
+#160	AnnotatorNotes T177	lemma = 'the'
+T178	pos_NN 848 852	fact
+#161	AnnotatorNotes T178	lemma = 'fact'
+T179	pos_IN 853 857	that
+#162	AnnotatorNotes T179	lemma = 'that'
+T180	pos_DT 858 861	the
+#163	AnnotatorNotes T180	lemma = 'the'
+T181	pos_JJ 862 867	total
+#164	AnnotatorNotes T181	lemma = 'total'
+T182	pos_NN 868 880	satisfaction
+#165	AnnotatorNotes T182	lemma = 'satisfaction'
+T183	pos_VBZ 881 883	is
+#166	AnnotatorNotes T183	lemma = 'be'
+T184	pos_VBN 884 893	increased
+#167	AnnotatorNotes T184	lemma = 'increase'
+T185	pos_RB 894 899	quite
+#168	AnnotatorNotes T185	lemma = 'quite'
+T186	pos_RB 900 911	appreciably
+#169	AnnotatorNotes T186	lemma = 'appreciably'
+T187	pos_Fd 911 912	:
+#170	AnnotatorNotes T187	lemma = ':'
+T188	pos_IN 913 917	from
+#171	AnnotatorNotes T188	lemma = 'from'
+T189	pos_Zp 918 921	65%
+#172	AnnotatorNotes T189	lemma = '65/100'
+T190	pos_IN 922 924	in
+#173	AnnotatorNotes T190	lemma = 'in'
+T191	pos_W 925 929	1999
+#174	AnnotatorNotes T191	lemma = '[??:??/??/1999:??.??:??]'
+T192	pos_TO 930 932	to
+#175	AnnotatorNotes T192	lemma = 'to'
+T193	pos_Zp 933 937	72 %
+#176	AnnotatorNotes T193	lemma = '72/100'
+T194	pos_IN 938 940	in
+#177	AnnotatorNotes T194	lemma = 'in'
+T195	pos_W 941 945	2007
+#178	AnnotatorNotes T195	lemma = '[??:??/??/2007:??.??:??]'
+T196	pos_Fp 945 946	.
+#179	AnnotatorNotes T196	lemma = '.'
+T197	pos_PRP 947 949	It
+#180	AnnotatorNotes T197	lemma = 'it'
+T198	pos_Fw 949 950	’
+#181	AnnotatorNotes T198	lemma = '’'
+T199	pos_RB 950 951	s
+#182	AnnotatorNotes T199	lemma = 's'
+T200	pos_VBG 952 963	interesting
+#183	AnnotatorNotes T200	lemma = 'interest'
+T201	pos_TO 964 966	to
+#184	AnnotatorNotes T201	lemma = 'to'
+T202	pos_NN 967 973	notice
+#185	AnnotatorNotes T202	lemma = 'notice'
+T203	pos_Fc 973 974	,
+#186	AnnotatorNotes T203	lemma = ','
+T204	pos_IN 975 979	that
+#187	AnnotatorNotes T204	lemma = 'that'
+T205	pos_DT 980 983	the
+#188	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NN 984 995	contentment
+#189	AnnotatorNotes T206	lemma = 'contentment'
+T207	pos_IN 996 998	of
+#190	AnnotatorNotes T207	lemma = 'of'
+T208	pos_NN 999 1006	comfort
+#191	AnnotatorNotes T208	lemma = 'comfort'
+T209	pos_IN 1007 1009	of
+#192	AnnotatorNotes T209	lemma = 'of'
+T210	pos_NNS 1010 1015	seats
+#193	AnnotatorNotes T210	lemma = 'seat'
+T211	pos_Fc 1015 1016	,
+#194	AnnotatorNotes T211	lemma = ','
+T212	pos_WDT 1017 1022	which
+#195	AnnotatorNotes T212	lemma = 'which'
+T213	pos_VBZ 1023 1029	starts
+#196	AnnotatorNotes T213	lemma = 'start'
+T214	pos_TO 1030 1032	to
+#197	AnnotatorNotes T214	lemma = 'to'
+T215	pos_VB 1033 1035	be
+#198	AnnotatorNotes T215	lemma = 'be'
+T216	pos_VBN 1036 1044	explored
+#199	AnnotatorNotes T216	lemma = 'explore'
+T217	pos_JJ 1045 1049	only
+#200	AnnotatorNotes T217	lemma = 'only'
+T218	pos_IN 1050 1052	in
+#201	AnnotatorNotes T218	lemma = 'in'
+T219	pos_W 1053 1057	2007
+#202	AnnotatorNotes T219	lemma = '[??:??/??/2007:??.??:??]'
+T220	pos_Fc 1057 1058	,
+#203	AnnotatorNotes T220	lemma = ','
+T221	pos_VBZ 1059 1061	is
+#204	AnnotatorNotes T221	lemma = 'be'
+T222	pos_RB 1062 1066	much
+#205	AnnotatorNotes T222	lemma = 'much'
+T223	pos_VB 1067 1072	lower
+#206	AnnotatorNotes T223	lemma = 'lower'
+T224	pos_IN 1073 1077	than
+#207	AnnotatorNotes T224	lemma = 'than'
+T225	pos_DT 1078 1081	the
+#208	AnnotatorNotes T225	lemma = 'the'
+T226	pos_JJ 1082 1087	other
+#209	AnnotatorNotes T226	lemma = 'other'
+T227	pos_NNS 1088 1095	indices
+#210	AnnotatorNotes T227	lemma = 'index'
+T228	pos_Fp 1095 1096	.
+#211	AnnotatorNotes T228	lemma = '.'
+T229	pos_RB 1097 1099	So
+#212	AnnotatorNotes T229	lemma = 'so'
+T230	pos_Fc 1099 1100	,
+#213	AnnotatorNotes T230	lemma = ','
+T231	pos_DT 1101 1106	these
+#214	AnnotatorNotes T231	lemma = 'these'
+T232	pos_NNS 1107 1113	tables
+#215	AnnotatorNotes T232	lemma = 'table'
+T233	pos_VBP 1114 1118	show
+#216	AnnotatorNotes T233	lemma = 'show'
+T234	pos_IN 1119 1123	that
+#217	AnnotatorNotes T234	lemma = 'that'
+T235	pos_DT 1124 1127	the
+#218	AnnotatorNotes T235	lemma = 'the'
+T236	pos_JJ 1128 1135	general
+#219	AnnotatorNotes T236	lemma = 'general'
+T237	pos_NN 1136 1147	contentment
+#220	AnnotatorNotes T237	lemma = 'contentment'
+T238	pos_IN 1148 1150	of
+#221	AnnotatorNotes T238	lemma = 'of'
+T239	pos_NN 1151 1154	air
+#222	AnnotatorNotes T239	lemma = 'air'
+T240	pos_VBP 1155 1161	travel
+#223	AnnotatorNotes T240	lemma = 'travel'
+T241	pos_VBN 1162 1171	increased
+#224	AnnotatorNotes T241	lemma = 'increase'
+T242	pos_RBR 1172 1176	more
+#225	AnnotatorNotes T242	lemma = 'many'
+T243	pos_RB 1177 1189	considerably
+#226	AnnotatorNotes T243	lemma = 'considerably'
+T244	pos_IN 1190 1194	than
+#227	AnnotatorNotes T244	lemma = 'than'
+T245	pos_DT 1195 1198	the
+#228	AnnotatorNotes T245	lemma = 'the'
+T246	pos_NN 1199 1210	contentment
+#229	AnnotatorNotes T246	lemma = 'contentment'
+T247	pos_IN 1211 1213	of
+#230	AnnotatorNotes T247	lemma = 'of'
+T248	pos_JJ 1214 1221	various
+#231	AnnotatorNotes T248	lemma = 'various'
+T249	pos_NNS 1222 1229	aspects
+#232	AnnotatorNotes T249	lemma = 'aspect'
+T250	pos_IN 1230 1232	of
+#233	AnnotatorNotes T250	lemma = 'of'
+T251	pos_NN 1233 1239	travel
+#234	AnnotatorNotes T251	lemma = 'travel'
+T252	pos_Fp 1239 1240	.
+#235	AnnotatorNotes T252	lemma = '.'
+T253	pos_DT 1241 1244	The
+#236	AnnotatorNotes T253	lemma = 'the'
+T254	pos_JJR 1245 1251	bigger
+#237	AnnotatorNotes T254	lemma = 'big'
+T255	pos_NN 1252 1256	rise
+#238	AnnotatorNotes T255	lemma = 'rise'
+T256	pos_RB 1257 1261	then
+#239	AnnotatorNotes T256	lemma = 'then'
+T257	pos_DT 1262 1265	the
+#240	AnnotatorNotes T257	lemma = 'the'
+T258	pos_NN 1266 1270	rise
+#241	AnnotatorNotes T258	lemma = 'rise'
+T259	pos_IN 1271 1273	of
+#242	AnnotatorNotes T259	lemma = 'of'
+T260	pos_JJ 1274 1281	general
+#243	AnnotatorNotes T260	lemma = 'general'
+T261	pos_NN 1282 1294	satisfaction
+#244	AnnotatorNotes T261	lemma = 'satisfaction'
+T262	pos_VBZ 1295 1300	shows
+#245	AnnotatorNotes T262	lemma = 'show'
+T263	pos_JJ 1301 1305	only
+#246	AnnotatorNotes T263	lemma = 'only'
+T264	pos_DT 1306 1309	the
+#247	AnnotatorNotes T264	lemma = 'the'
+T265	pos_NN 1310 1322	satisfaction
+#248	AnnotatorNotes T265	lemma = 'satisfaction'
+T266	pos_IN 1323 1325	of
+#249	AnnotatorNotes T266	lemma = 'of'
+T267	pos_NN 1326 1332	ticket
+#250	AnnotatorNotes T267	lemma = 'ticket'
+T268	pos_NN 1333 1338	price
+#251	AnnotatorNotes T268	lemma = 'price'
+T269	pos_Fc 1338 1339	,
+#252	AnnotatorNotes T269	lemma = ','
+T270	pos_WDT 1340 1345	which
+#253	AnnotatorNotes T270	lemma = 'which'
+T271	pos_VBZ 1346 1353	permits
+#254	AnnotatorNotes T271	lemma = 'permit'
+T272	pos_PRP 1354 1356	us
+#255	AnnotatorNotes T272	lemma = 'us'
+T273	pos_TO 1357 1359	to
+#256	AnnotatorNotes T273	lemma = 'to'
+T274	pos_VB 1360 1367	suppose
+#257	AnnotatorNotes T274	lemma = 'suppose'
+T275	pos_Fc 1367 1368	,
+#258	AnnotatorNotes T275	lemma = ','
+T276	pos_IN 1369 1373	that
+#259	AnnotatorNotes T276	lemma = 'that'
+T277	pos_DT 1374 1377	the
+#260	AnnotatorNotes T277	lemma = 'the'
+T278	pos_JJ 1378 1381	low
+#261	AnnotatorNotes T278	lemma = 'low'
+T279	pos_NNS 1382 1388	prices
+#262	AnnotatorNotes T279	lemma = 'price'
+T280	pos_VBP 1389 1394	abate
+#263	AnnotatorNotes T280	lemma = 'abate'
+T281	pos_NNS 1395 1402	peoples
+#264	AnnotatorNotes T281	lemma = 'people'
+T282	pos_Fw 1402 1403	’
+#265	AnnotatorNotes T282	lemma = '’'
+T283	pos_NNS 1404 1411	demands
+#266	AnnotatorNotes T283	lemma = 'demand'
+T284	pos_Fp 1411 1412	.
+#267	AnnotatorNotes T284	lemma = '.'

@@ -1,0 +1,426 @@
+T1	Tense_choice 161 174	is describing
+#1	AnnotatorNotes T1	describes
+T2	Articles 223 244	manufacturing process
+#2	AnnotatorNotes T2	the manufacturing process
+T3	Possessive 616 624	Customer
+#3	AnnotatorNotes T3	Customers'
+T4	Suffix 789 796	product
+#4	AnnotatorNotes T4	production
+T20	Standard 0 150	In the given flowchart is shown the process of manufacture. The path of the product from the selection of raw materials to its release on the counter.
+#12	AnnotatorNotes T20	The given flowchart shows the whole process of manufacturing goods from the selection of raw materials to its appearance on the counter.
+T23	lex_part_choice 555 565	by the end
+#15	AnnotatorNotes T23	at the end
+T24	Coherence 823 844	using cheap materials
+#16	AnnotatorNotes T24	cheap materials are used
+T25	Coherence 848 863	bad advertising
+#17	AnnotatorNotes T25	the product is advertised badly
+T15	Coherence 768 781	defunct stage
+#18	AnnotatorNotes T15	some stages
+T6	Punctuation 465 466	,
+A1	Delete T6
+T10	Standard 467 494	sets in production planning
+#20	AnnotatorNotes T10	production planning sets in
+T8	lex_item_choice 127 134	release
+#13	AnnotatorNotes T8	appearance
+T11	Prepositions 321 323	in
+#14	AnnotatorNotes T11	at
+T16	Coherence 350 354	went
+#21	AnnotatorNotes T16	goes
+T7	Determiners 442 445	all
+#5	AnnotatorNotes T7	all the
+T9	Agreement_errors 501 508	follows
+#6	AnnotatorNotes T9	follow
+T12	Redundant_comp 550 554	only
+A2	Delete T12
+T5	Punctuation 748 751	and
+#7	AnnotatorNotes T5	, and
+T13	Prepositions 765 767	on
+#8	AnnotatorNotes T13	at
+T14	Absence_comp_sent 823 844	using cheap materials
+#9	AnnotatorNotes T14	cheap materials are used
+T18	Absence_comp_sent 848 863	bad advertising
+#11	AnnotatorNotes T18	the product is advertised badly
+T17	Prepositions 901 903	in
+#10	AnnotatorNotes T17	on
+T19	lex_item_choice 949 959	cohesively
+#19	AnnotatorNotes T19	together OR collaboratively
+T21	Inappropriate_register 982 988	decent
+#22	AnnotatorNotes T21	good
+T22	lex_item_choice 1048 1051	too
+#23	AnnotatorNotes T22	as well
+T26	pos_IN 0 2	In
+#24	AnnotatorNotes T26	lemma = 'in'
+T27	pos_DT 3 6	the
+#25	AnnotatorNotes T27	lemma = 'the'
+T28	pos_VBN 7 12	given
+#26	AnnotatorNotes T28	lemma = 'give'
+T29	pos_NN 13 22	flowchart
+#27	AnnotatorNotes T29	lemma = 'flowchart'
+T30	pos_VBZ 23 25	is
+#28	AnnotatorNotes T30	lemma = 'be'
+T31	pos_VBN 26 31	shown
+#29	AnnotatorNotes T31	lemma = 'show'
+T32	pos_DT 32 35	the
+#30	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NN 36 43	process
+#31	AnnotatorNotes T33	lemma = 'process'
+T34	pos_IN 44 46	of
+#32	AnnotatorNotes T34	lemma = 'of'
+T35	pos_NN 47 58	manufacture
+#33	AnnotatorNotes T35	lemma = 'manufacture'
+T36	pos_Fp 58 59	.
+#34	AnnotatorNotes T36	lemma = '.'
+T37	pos_DT 60 63	The
+#35	AnnotatorNotes T37	lemma = 'the'
+T38	pos_NN 64 68	path
+#36	AnnotatorNotes T38	lemma = 'path'
+T39	pos_IN 69 71	of
+#37	AnnotatorNotes T39	lemma = 'of'
+T40	pos_DT 72 75	the
+#38	AnnotatorNotes T40	lemma = 'the'
+T41	pos_NN 76 83	product
+#39	AnnotatorNotes T41	lemma = 'product'
+T42	pos_IN 84 88	from
+#40	AnnotatorNotes T42	lemma = 'from'
+T43	pos_DT 89 92	the
+#41	AnnotatorNotes T43	lemma = 'the'
+T44	pos_NN 93 102	selection
+#42	AnnotatorNotes T44	lemma = 'selection'
+T45	pos_IN 103 105	of
+#43	AnnotatorNotes T45	lemma = 'of'
+T46	pos_JJ 106 109	raw
+#44	AnnotatorNotes T46	lemma = 'raw'
+T47	pos_NNS 110 119	materials
+#45	AnnotatorNotes T47	lemma = 'material'
+T48	pos_TO 120 122	to
+#46	AnnotatorNotes T48	lemma = 'to'
+T49	pos_PRP2 123 126	its
+#47	AnnotatorNotes T49	lemma = 'its'
+T50	pos_NN 127 134	release
+#48	AnnotatorNotes T50	lemma = 'release'
+T51	pos_IN 135 137	on
+#49	AnnotatorNotes T51	lemma = 'on'
+T52	pos_DT 138 141	the
+#50	AnnotatorNotes T52	lemma = 'the'
+T53	pos_NN 142 149	counter
+#51	AnnotatorNotes T53	lemma = 'counter'
+T54	pos_Fp 149 150	.
+#52	AnnotatorNotes T54	lemma = '.'
+T55	pos_DT 151 154	The
+#53	AnnotatorNotes T55	lemma = 'the'
+T56	pos_NN 155 160	chart
+#54	AnnotatorNotes T56	lemma = 'chart'
+T57	pos_VBZ 161 163	is
+#55	AnnotatorNotes T57	lemma = 'be'
+T58	pos_VBG 164 174	describing
+#56	AnnotatorNotes T58	lemma = 'describe'
+T59	pos_Z 175 178	two
+#57	AnnotatorNotes T59	lemma = '2'
+T60	pos_JJ 179 188	different
+#58	AnnotatorNotes T60	lemma = 'different'
+T61	pos_NNS 189 198	processes
+#59	AnnotatorNotes T61	lemma = 'process'
+T62	pos_Fp 198 199	.
+#60	AnnotatorNotes T62	lemma = '.'
+T63	pos_DT 200 203	The
+#61	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJ 204 209	first
+#62	AnnotatorNotes T64	lemma = '1'
+T65	pos_NN 210 213	one
+#63	AnnotatorNotes T65	lemma = 'one'
+T66	pos_VBZ 214 219	shows
+#64	AnnotatorNotes T66	lemma = 'show'
+T67	pos_PRP 220 222	us
+#65	AnnotatorNotes T67	lemma = 'us'
+T68	pos_VBG 223 236	manufacturing
+#66	AnnotatorNotes T68	lemma = 'manufacture'
+T69	pos_NN 237 244	process
+#67	AnnotatorNotes T69	lemma = 'process'
+T70	pos_Fc 244 245	,
+#68	AnnotatorNotes T70	lemma = ','
+T71	pos_DT 246 249	the
+#69	AnnotatorNotes T71	lemma = 'the'
+T72	pos_JJ 251 257	second
+#70	AnnotatorNotes T72	lemma = '2'
+T73	pos_NN 258 261	one
+#71	AnnotatorNotes T73	lemma = 'one'
+T74	pos_VBZ 262 271	describes
+#72	AnnotatorNotes T74	lemma = 'describe'
+T75	pos_DT 272 275	the
+#73	AnnotatorNotes T75	lemma = 'the'
+T76	pos_NN 276 283	process
+#74	AnnotatorNotes T76	lemma = 'process'
+T77	pos_IN 284 286	in
+#75	AnnotatorNotes T77	lemma = 'in'
+T78	pos_WDT 287 292	which
+#76	AnnotatorNotes T78	lemma = 'which'
+T79	pos_DT 293 296	the
+#77	AnnotatorNotes T79	lemma = 'the'
+T80	pos_NN 297 304	product
+#78	AnnotatorNotes T80	lemma = 'product'
+T81	pos_MD 305 308	can
+#79	AnnotatorNotes T81	lemma = 'can'
+T82	pos_VB 309 311	be
+#80	AnnotatorNotes T82	lemma = 'be'
+T83	pos_VBN 312 320	improved
+#81	AnnotatorNotes T83	lemma = 'improve'
+T84	pos_IN 321 323	in
+#82	AnnotatorNotes T84	lemma = 'in'
+T85	pos_JJ 324 329	early
+#83	AnnotatorNotes T85	lemma = 'early'
+T86	pos_NNS 330 336	stages
+#84	AnnotatorNotes T86	lemma = 'stage'
+T87	pos_IN 337 339	if
+#85	AnnotatorNotes T87	lemma = 'if'
+T88	pos_PRP 340 349	something
+#86	AnnotatorNotes T88	lemma = 'something'
+T89	pos_VBD 350 354	went
+#87	AnnotatorNotes T89	lemma = 'go'
+T90	pos_JJ 355 360	wrong
+#88	AnnotatorNotes T90	lemma = 'wrong'
+T91	pos_Fp 360 361	.
+#89	AnnotatorNotes T91	lemma = '.'
+T92	pos_DT 363 366	The
+#90	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 367 371	path
+#91	AnnotatorNotes T93	lemma = 'path'
+T94	pos_IN 372 374	of
+#92	AnnotatorNotes T94	lemma = 'of'
+T95	pos_NNS 375 380	goods
+#93	AnnotatorNotes T95	lemma = 'good'
+T96	pos_NNS 381 387	starts
+#94	AnnotatorNotes T96	lemma = 'start'
+T97	pos_IN 388 392	with
+#95	AnnotatorNotes T97	lemma = 'with'
+T98	pos_VBG 393 401	choosing
+#96	AnnotatorNotes T98	lemma = 'choose'
+T99	pos_DT 402 405	the
+#97	AnnotatorNotes T99	lemma = 'the'
+T100	pos_JJ 406 413	primary
+#98	AnnotatorNotes T100	lemma = 'primary'
+T101	pos_NN 414 421	product
+#99	AnnotatorNotes T101	lemma = 'product'
+T102	pos_Fp 421 422	.
+#100	AnnotatorNotes T102	lemma = '.'
+T103	pos_IN 423 428	After
+#101	AnnotatorNotes T103	lemma = 'after'
+T104	pos_VBG 429 441	accumulating
+#102	AnnotatorNotes T104	lemma = 'accumulate'
+T105	pos_DT 442 445	all
+#103	AnnotatorNotes T105	lemma = 'all'
+T106	pos_JJ 446 455	necessary
+#104	AnnotatorNotes T106	lemma = 'necessary'
+T107	pos_NNS 456 465	materials
+#105	AnnotatorNotes T107	lemma = 'material'
+T108	pos_Fc 465 466	,
+#106	AnnotatorNotes T108	lemma = ','
+T109	pos_NNS 467 471	sets
+#107	AnnotatorNotes T109	lemma = 'set'
+T110	pos_IN 472 474	in
+#108	AnnotatorNotes T110	lemma = 'in'
+T111	pos_NN 475 485	production
+#109	AnnotatorNotes T111	lemma = 'production'
+T112	pos_NN 486 494	planning
+#110	AnnotatorNotes T112	lemma = 'planning'
+T113	pos_Fp 494 495	.
+#111	AnnotatorNotes T113	lemma = '.'
+T114	pos_RB 496 500	Then
+#112	AnnotatorNotes T114	lemma = 'then'
+T115	pos_VBZ 501 508	follows
+#113	AnnotatorNotes T115	lemma = 'follow'
+T116	pos_NN 509 516	product
+#114	AnnotatorNotes T116	lemma = 'product'
+T117	pos_NN 517 525	assembly
+#115	AnnotatorNotes T117	lemma = 'assembly'
+T118	pos_Fc 525 526	,
+#116	AnnotatorNotes T118	lemma = ','
+T119	pos_VBG 527 534	testing
+#117	AnnotatorNotes T119	lemma = 'test'
+T120	pos_Fc 534 535	,
+#118	AnnotatorNotes T120	lemma = ','
+T121	pos_NN 536 545	selection
+#119	AnnotatorNotes T121	lemma = 'selection'
+T122	pos_CC 546 549	and
+#120	AnnotatorNotes T122	lemma = 'and'
+T123	pos_JJ 550 554	only
+#121	AnnotatorNotes T123	lemma = 'only'
+T124	pos_IN 555 557	by
+#122	AnnotatorNotes T124	lemma = 'by'
+T125	pos_DT 558 561	the
+#123	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NN 562 565	end
+#124	AnnotatorNotes T126	lemma = 'end'
+T127	pos_NN 566 573	packing
+#125	AnnotatorNotes T127	lemma = 'packing'
+T128	pos_Fp 573 574	.
+#126	AnnotatorNotes T128	lemma = '.'
+T129	pos_RB 575 582	Finally
+#127	AnnotatorNotes T129	lemma = 'finally'
+T130	pos_Fc 582 583	,
+#128	AnnotatorNotes T130	lemma = ','
+T131	pos_DT 584 587	the
+#129	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 588 595	product
+#130	AnnotatorNotes T132	lemma = 'product'
+T133	pos_VBZ 596 601	comes
+#131	AnnotatorNotes T133	lemma = 'come'
+T134	pos_TO 602 604	to
+#132	AnnotatorNotes T134	lemma = 'to'
+T135	pos_DT 605 608	the
+#133	AnnotatorNotes T135	lemma = 'the'
+T136	pos_NN 609 614	buyer
+#134	AnnotatorNotes T136	lemma = 'buyer'
+T137	pos_Fp 614 615	.
+#135	AnnotatorNotes T137	lemma = '.'
+T138	pos_NN 616 624	Customer
+#136	AnnotatorNotes T138	lemma = 'customer'
+T139	pos_NN 625 631	demand
+#137	AnnotatorNotes T139	lemma = 'demand'
+T140	pos_IN 632 635	for
+#138	AnnotatorNotes T140	lemma = 'for'
+T141	pos_NNS 636 641	goods
+#139	AnnotatorNotes T141	lemma = 'good'
+T142	pos_VBZ 642 644	is
+#140	AnnotatorNotes T142	lemma = 'be'
+T143	pos_RB 645 654	certainly
+#141	AnnotatorNotes T143	lemma = 'certainly'
+T144	pos_JJ 655 664	dependent
+#142	AnnotatorNotes T144	lemma = 'dependent'
+T145	pos_IN 665 667	on
+#143	AnnotatorNotes T145	lemma = 'on'
+T146	pos_NN 668 681	advertisement
+#144	AnnotatorNotes T146	lemma = 'advertisement'
+T147	pos_CC 682 685	and
+#145	AnnotatorNotes T147	lemma = 'and'
+T148	pos_NNS 686 695	discounts
+#146	AnnotatorNotes T148	lemma = 'discount'
+T149	pos_Fp 695 696	.
+#147	AnnotatorNotes T149	lemma = '.'
+T150	pos_TO 698 700	To
+#148	AnnotatorNotes T150	lemma = 'to'
+T151	pos_VB 701 704	sum
+#149	AnnotatorNotes T151	lemma = 'sum'
+T152	pos_RP 705 707	up
+#150	AnnotatorNotes T152	lemma = 'up'
+T153	pos_Fc 707 708	,
+#151	AnnotatorNotes T153	lemma = ','
+T154	pos_VBG 709 722	manufacturing
+#152	AnnotatorNotes T154	lemma = 'manufacture'
+T155	pos_NN 723 730	process
+#153	AnnotatorNotes T155	lemma = 'process'
+T156	pos_VBZ 731 733	is
+#154	AnnotatorNotes T156	lemma = 'be'
+T157	pos_DT 734 735	a
+#155	AnnotatorNotes T157	lemma = 'a'
+T158	pos_JJ 736 740	huge
+#156	AnnotatorNotes T158	lemma = 'huge'
+T159	pos_NN 741 747	system
+#157	AnnotatorNotes T159	lemma = 'system'
+T160	pos_CC 748 751	and
+#158	AnnotatorNotes T160	lemma = 'and'
+T161	pos_IN 752 754	if
+#159	AnnotatorNotes T161	lemma = 'if'
+T162	pos_PRP 755 764	something
+#160	AnnotatorNotes T162	lemma = 'something'
+T163	pos_IN 765 767	on
+#161	AnnotatorNotes T163	lemma = 'on'
+T164	pos_JJ 768 775	defunct
+#162	AnnotatorNotes T164	lemma = 'defunct'
+T165	pos_NN 776 781	stage
+#163	AnnotatorNotes T165	lemma = 'stage'
+T166	pos_IN 782 784	of
+#164	AnnotatorNotes T166	lemma = 'of'
+T167	pos_DT 785 788	the
+#165	AnnotatorNotes T167	lemma = 'the'
+T168	pos_NN 789 796	product
+#166	AnnotatorNotes T168	lemma = 'product'
+T169	pos_VBZ 797 801	goes
+#167	AnnotatorNotes T169	lemma = 'go'
+T170	pos_JJ 802 807	wrong
+#168	AnnotatorNotes T170	lemma = 'wrong'
+T171	pos_Fc 807 808	,
+#169	AnnotatorNotes T171	lemma = ','
+T172	pos_RB 809 821	for instance
+#170	AnnotatorNotes T172	lemma = 'for_instance'
+T173	pos_Fc 821 822	,
+#171	AnnotatorNotes T173	lemma = ','
+T174	pos_VBG 823 828	using
+#172	AnnotatorNotes T174	lemma = 'use'
+T175	pos_JJ 829 834	cheap
+#173	AnnotatorNotes T175	lemma = 'cheap'
+T176	pos_NNS 835 844	materials
+#174	AnnotatorNotes T176	lemma = 'material'
+T177	pos_CC 845 847	or
+#175	AnnotatorNotes T177	lemma = 'or'
+T178	pos_JJ 848 851	bad
+#176	AnnotatorNotes T178	lemma = 'bad'
+T179	pos_NN 852 863	advertising
+#177	AnnotatorNotes T179	lemma = 'advertising'
+T180	pos_Fc 863 864	,
+#178	AnnotatorNotes T180	lemma = ','
+T181	pos_DT 865 868	the
+#179	AnnotatorNotes T181	lemma = 'the'
+T182	pos_NN 869 876	product
+#180	AnnotatorNotes T182	lemma = 'product'
+T183	pos_MD 877 881	will
+#181	AnnotatorNotes T183	lemma = 'will'
+T184	pos_RB 882 885	not
+#182	AnnotatorNotes T184	lemma = 'not'
+T185	pos_VB 886 888	be
+#183	AnnotatorNotes T185	lemma = 'be'
+T186	pos_JJ 889 900	competitive
+#184	AnnotatorNotes T186	lemma = 'competitive'
+T187	pos_IN 901 903	in
+#185	AnnotatorNotes T187	lemma = 'in'
+T188	pos_DT 904 907	the
+#186	AnnotatorNotes T188	lemma = 'the'
+T189	pos_NN 908 914	market
+#187	AnnotatorNotes T189	lemma = 'market'
+T190	pos_Fp 914 915	.
+#188	AnnotatorNotes T190	lemma = '.'
+T191	pos_PDT 916 919	All
+#189	AnnotatorNotes T191	lemma = 'all'
+T192	pos_DT 920 923	the
+#190	AnnotatorNotes T192	lemma = 'the'
+T193	pos_NNS 924 935	specialists
+#191	AnnotatorNotes T193	lemma = 'specialist'
+T194	pos_VBP 936 940	have
+#192	AnnotatorNotes T194	lemma = 'have'
+T195	pos_TO 941 943	to
+#193	AnnotatorNotes T195	lemma = 'to'
+T196	pos_VB 944 948	work
+#194	AnnotatorNotes T196	lemma = 'work'
+T197	pos_RB 949 959	cohesively
+#195	AnnotatorNotes T197	lemma = 'cohesively'
+T198	pos_CC 960 971	in order to
+#196	AnnotatorNotes T198	lemma = 'in_order_to'
+T199	pos_VB 972 979	achieve
+#197	AnnotatorNotes T199	lemma = 'achieve'
+T200	pos_DT 980 981	a
+#198	AnnotatorNotes T200	lemma = 'a'
+T201	pos_JJ 982 988	decent
+#199	AnnotatorNotes T201	lemma = 'decent'
+T202	pos_NN 989 995	result
+#200	AnnotatorNotes T202	lemma = 'result'
+T203	pos_CC 996 999	and
+#201	AnnotatorNotes T203	lemma = 'and'
+T204	pos_TO 1000 1002	to
+#202	AnnotatorNotes T204	lemma = 'to'
+T205	pos_VB 1003 1007	make
+#203	AnnotatorNotes T205	lemma = 'make'
+T206	pos_JJ 1008 1013	happy
+#204	AnnotatorNotes T206	lemma = 'happy'
+T207	pos_RB 1014 1017	not
+#205	AnnotatorNotes T207	lemma = 'not'
+T208	pos_JJ 1018 1022	only
+#206	AnnotatorNotes T208	lemma = 'only'
+T209	pos_PRP 1023 1033	themselves
+#207	AnnotatorNotes T209	lemma = 'themselves'
+T210	pos_CC 1034 1037	but
+#208	AnnotatorNotes T210	lemma = 'but'
+T211	pos_NNS 1038 1047	customers
+#209	AnnotatorNotes T211	lemma = 'customer'
+T212	pos_RB 1048 1051	too
+#210	AnnotatorNotes T212	lemma = 'too'
+T213	pos_Fp 1051 1052	.
+#211	AnnotatorNotes T213	lemma = '.'

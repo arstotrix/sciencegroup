@@ -1,0 +1,59 @@
+T1	Spelling 238 244	affect
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	effect
+T2	Noun_number 280 286	friend
+A2	Cause T2 Other
+#2	AnnotatorNotes T2	friends
+T3	lex_item_choice 317 322	stand
+A3	Cause T3 Other
+#3	AnnotatorNotes T3	hold out???
+T4	Articles 323 330	problem
+A4	Cause T4 Absence_of_Category_in_L1
+#4	AnnotatorNotes T4	the problem
+T5	Punctuation 419 420	,
+A5	Delete T5
+T6	Spelling 474 484	phsigology
+A6	Cause T6 L1_interference
+#5	AnnotatorNotes T6	psychology
+T7	Modals 579 588	can makes
+A7	Cause T7 Other
+#6	AnnotatorNotes T7	can make
+T9	suggestion 614 619	doing
+A9	Cause T9 Other
+#8	AnnotatorNotes T9	do
+T12	Articles 729 730	a
+A12	Cause T12 Absence_of_Category_in_L1
+#11	AnnotatorNotes T12	the 
+T13	Adjectives 777 784	lover’s
+A13	Cause T13 Other
+#12	AnnotatorNotes T13	loving
+T14	Agreement_errors 785 791	parent
+A14	Cause T14 Other
+#13	AnnotatorNotes T14	parents
+T15	Prepositions 815 819	with
+A15	Cause T15 Other
+#14	AnnotatorNotes T15	to
+T16	Linking_device 826 833	Because
+A16	Cause T16 L1_interference
+T17	Linking_device 1019 1033	the other hand
+A17	Cause T17 Other
+#15	AnnotatorNotes T17	from the other hand
+T18	Spelling 1040 1046	affact
+A18	Cause T18 Other
+#16	AnnotatorNotes T18	effect 
+T19	Prepositions 1047 1049	to
+A19	Cause T19 L1_interference
+#17	AnnotatorNotes T19	on
+T20	Inappropriate_register 1040 1075	affact to student have the Internet
+A20	Cause T20 L1_interference
+#18	AnnotatorNotes T20	Internet has some effect on the student
+T21	Inappropriate_register 1187 1218	Sometimes it is can be not good
+A21	Cause T21 Other
+T22	Transitive 583 588	makes
+#19	AnnotatorNotes T22	make a person
+T10	Lack_par_constr 589 619	feel bad of makes person doing
+#9	AnnotatorNotes T10	feel bad or do
+T23	Redundant_comp 601 613	makes person
+A10	Delete T23
+T8	Spelling 598 600	of
+#7	AnnotatorNotes T8	or

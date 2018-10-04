@@ -1,0 +1,26 @@
+T1	Punctuation 255 256	,
+A1	Delete T1
+T2	lex_item_choice 307 314	minuses
+#1	AnnotatorNotes T2	disadvantages
+T3	lex_item_choice 414 420	pluses
+#2	AnnotatorNotes T3	advantages
+T4	Comparative_adj 687 697	more cheap
+#3	AnnotatorNotes T4	cheaper
+T5	Agreement_errors 801 806	helps
+#4	AnnotatorNotes T5	help
+T6	Noun_number 740 744	laws
+R1	Dependent_change Arg1:T6 Arg2:T5	
+T7	Absence_comp_colloc 817 824	produce
+#5	AnnotatorNotes T7	to produce
+T8	Countable_uncountable 960 967	damages
+#6	AnnotatorNotes T8	damage
+T9	Tense_choice 1031 1042	are working
+#7	AnnotatorNotes T9	work
+T11	Word_choice 1454 1460	do not
+#9	AnnotatorNotes T11	without
+T12	Agreement_errors 1536 1541	makes
+#10	AnnotatorNotes T12	make
+T13	Spelling 1737 1747	buisnesses
+#11	AnnotatorNotes T13	businesses
+T14	Redundant 1792 1797	badly
+A2	Delete T14

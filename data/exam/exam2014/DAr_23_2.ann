@@ -1,0 +1,16 @@
+T1	Absence_explanation 48 53	There
+#1	AnnotatorNotes T1	there is
+T2	Determiners 278 283	every
+#2	AnnotatorNotes T2	'any'
+T3	Determiners 395 397	so
+#3	AnnotatorNotes T3	'such a'
+T4	Articles 608 609	a
+A1	Delete T4
+T5	Verb_pattern 708 710	to
+A2	Delete T5
+T6	Articles 748 755	healthy
+#4	AnnotatorNotes T6	'the'
+T7	Often_confused 922 926	born
+#5	AnnotatorNotes T7	'birth'
+T8	lex_item_choice 1057 1066	necessary
+#6	AnnotatorNotes T8	'necessity'

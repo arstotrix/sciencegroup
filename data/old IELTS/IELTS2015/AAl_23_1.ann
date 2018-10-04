@@ -1,0 +1,40 @@
+T1	Spelling 202 210	simmilar
+T4	Redundant_comp 543 550	of time
+T5	Punctuation 673 683	All in all
+T7	Spelling 169 174	peope
+#1	AnnotatorNotes T7	people
+T6	Tense_choice 819 830	is going up
+#3	AnnotatorNotes T6	goes up
+T9	Redundant_comp 38 43	about
+A1	Delete T9
+T10	Standard 44 65	65 years old and over
+#4	AnnotatorNotes T10	65 and over years old
+T11	Noun_number 109 115	period
+#5	AnnotatorNotes T11	periods
+T12	Articles 99 115	a certain period
+#6	AnnotatorNotes T12	certain periods
+R1	Dependent_change Arg1:T11 Arg2:T12	
+T13	lex_item_choice 154 160	amount
+#7	AnnotatorNotes T13	percentage
+T14	Articles 189 192	USA
+T15	Coherence 22 30	how many
+#8	AnnotatorNotes T15	the part of
+T16	Absence_comp_sent 66 70	live
+#9	AnnotatorNotes T16	who live
+R2	Dependent_change Arg1:T15 Arg2:T16	
+T2	Redundant_comp 381 388	of just
+A2	Delete T2
+T17	Prepositions 442 456	the same level
+#10	AnnotatorNotes T17	at the same level
+T18	Formational_affixes 493 496	old
+#11	AnnotatorNotes T18	elderly
+A3	Delete T4
+T3	Defining 551 558	, which
+#2	AnnotatorNotes T3	which
+T8	Articles 668 671	USA
+T19	Punctuation 700 706	, that
+#12	AnnotatorNotes T19	that
+T20	lex_part_choice 810 818	in whole
+#13	AnnotatorNotes T20	on the whole
+#14	AnnotatorNotes T14	the USA
+#15	AnnotatorNotes T8	the USA

@@ -1,0 +1,69 @@
+T1	Articles 32 37	rates
+#1	AnnotatorNotes T1	the rates
+T2	Spelling 79 82	sex
+#2	AnnotatorNotes T2	six
+T3	Word_choice 122 132	the common
+#3	AnnotatorNotes T3	general
+T4	lex_item_choice 134 142	meanings
+#4	AnnotatorNotes T4	values
+T5	Articles 226 236	difference
+#5	AnnotatorNotes T5	a difference
+T6	Articles 245 250	rates
+#6	AnnotatorNotes T6	the rates
+T7	Articles 292 303	Middle East
+#7	AnnotatorNotes T7	the Middle East
+T8	Tense_choice 324 326	is
+#8	AnnotatorNotes T8	was
+T9	Tense_choice 354 358	stay
+#9	AnnotatorNotes T9	stayed
+T10	Articles 454 465	Middle East
+#10	AnnotatorNotes T10	The Middle East
+T11	Tense_choice 466 469	has
+#11	AnnotatorNotes T11	had
+T12	Abs_comp_clause 439 452	worldwide too
+#12	AnnotatorNotes T12	the whole world was too
+T13	Category_confusion 439 448	worldwide
+#13	AnnotatorNotes T13	the whole world
+T14	Articles 494 506	Unemployment
+#14	AnnotatorNotes T14	The unemployment
+T15	Articles 532 534	EU
+#15	AnnotatorNotes T15	the EU
+T16	Redundant_comp 525 531	region
+#16	AnnotatorNotes T16	 
+T17	Articles 576 587	Middle East
+#17	AnnotatorNotes T17	the Middle East
+T18	lex_item_choice 602 609	meaning
+#18	AnnotatorNotes T18	value
+T19	lex_item_choice 610 621	is situated
+#19	AnnotatorNotes T19	belonged
+T20	Prepositions 622 624	in
+#20	AnnotatorNotes T20	to
+R1	Dependent_change Arg1:T19 Arg2:T20	
+T21	Category_confusion 671 683	unemployment
+#21	AnnotatorNotes T21	unemloyed
+T22	Tense_choice 691 693	is
+#22	AnnotatorNotes T22	was
+T23	Tense_choice 610 621	is situated
+#23	AnnotatorNotes T23	belonged
+T24	Articles 711 716	Level
+#24	AnnotatorNotes T24	The level
+T25	Articles 751 757	period
+#25	AnnotatorNotes T25	a period
+T26	Tense_choice 783 785	is
+#26	AnnotatorNotes T26	was
+T27	Punctuation 776 779	and
+#27	AnnotatorNotes T27	, and
+T28	Articles 808 810	EU
+#28	AnnotatorNotes T28	The EU
+T29	Tense_choice 871 881	hasn’t got
+#29	AnnotatorNotes T29	hadn't got
+T30	Articles 907 917	difference
+#30	AnnotatorNotes T30	the difference
+T31	lex_item_choice 935 943	meanings
+#31	AnnotatorNotes T31	rates
+T32	Ref_device 935 943	meanings
+#32	AnnotatorNotes T32	rates
+T33	Tense_choice 900 906	exists
+#33	AnnotatorNotes T33	existed
+T34	Category_confusion 1057 1066	worldwide
+#34	AnnotatorNotes T34	the world in general

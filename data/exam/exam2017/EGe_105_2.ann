@@ -1,0 +1,71 @@
+T1	Articles 102 118	the young people
+#1	AnnotatorNotes T1	young people
+T2	Articles 153 166	such tendency
+#2	AnnotatorNotes T2	such a tendency
+T3	Articles 229 241	a censorship
+#3	AnnotatorNotes T3	censorship
+T4	Linking_device 478 480	so
+#4	AnnotatorNotes T4	so that
+T5	Verb_object_bare 838 865	make children to understand
+#5	AnnotatorNotes T5	make children understand
+T6	note 1526 1527	.
+#6	AnnotatorNotes T6	Разметил Ф. Байков
+T7	Prepositions 180 182	in
+#7	AnnotatorNotes T7	on
+T8	Articles 183 191	Internet
+#8	AnnotatorNotes T8	the Internet
+T9	Spelling 309 317	parent s
+#9	AnnotatorNotes T9	parents
+T10	Punctuation 292 308	To overcome this
+#10	AnnotatorNotes T10	To overcome this,
+T11	Spelling 335 341	accept
+#11	AnnotatorNotes T11	access
+T12	Defining 426 431	, who
+#12	AnnotatorNotes T12	who
+T13	Noun_attribute 613 621	children
+#13	AnnotatorNotes T13	child
+T14	Tense_choice 633 653	would really decline
+#14	AnnotatorNotes T14	will really decline
+T15	Tense_choice 666 678	would not be
+#15	AnnotatorNotes T15	will not be
+T16	Tense_choice 753 765	would not be
+#16	AnnotatorNotes T16	will not be
+T17	Defining 956 963	, where
+#17	AnnotatorNotes T17	where
+T19	Suffix 1280 1289	reminding
+#19	AnnotatorNotes T19	reminder
+T20	Word_choice 1192 1198	be not
+#20	AnnotatorNotes T20	fail to be
+T21	Articles 1226 1237	possibility
+#21	AnnotatorNotes T21	a possibility
+T22	Word_choice 1347 1360	youths crimes
+#22	AnnotatorNotes T22	juvenile crime
+T23	Category_confusion 1409 1415	nearly
+#23	AnnotatorNotes T23	near
+T24	Determiners 1434 1450	the many aspects
+#24	AnnotatorNotes T24	many issues
+T27	Redundant_comp 1046 1063	are the ones, who
+A1	Delete T27
+T28	Tense_choice 1104 1114	would grow
+#27	AnnotatorNotes T28	will grow
+T30	lex_item_choice 1140 1146	etalon
+#29	AnnotatorNotes T30	appropriate
+T18	Confusion_of_structures 331 354	the accept for children
+#18	AnnotatorNotes T18	children's access
+A2	Cause T30 L1_interference
+R1	Parallel_construction Arg1:T14 Arg2:T15	
+T31	Articles 1271 1289	constant reminding
+#30	AnnotatorNotes T31	a constant reminder
+T32	Articles 170 179	a freedom
+#31	AnnotatorNotes T32	freedom
+T34	Prepositions 408 411	for
+#33	AnnotatorNotes T34	to
+T33	Non_defining 191 265	, where it is not very likely to find a censorship on most of the websites
+#32	AnnotatorNotes T33	, where it is not very likely to find censorship on most websites,
+R2	Parallel_construction Arg1:T15 Arg2:T16	
+T25	Determiners 245 265	most of the websites
+#25	AnnotatorNotes T25	most websites
+T26	lex_item_choice 1443 1450	aspects
+#26	AnnotatorNotes T26	issues
+T29	Category_confusion 445 452	parents
+#28	AnnotatorNotes T29	parental

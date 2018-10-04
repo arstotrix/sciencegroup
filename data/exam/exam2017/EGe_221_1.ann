@@ -1,0 +1,22 @@
+T1	Spelling 174 187	drammatically
+#1	AnnotatorNotes T1	dramatically
+T2	Punctuation 338 348	in general
+#2	AnnotatorNotes T2	, in general,
+T3	lex_item_choice 383 388	equal
+#3	AnnotatorNotes T3	uniform
+T4	Spelling 610 621	temperatute
+#4	AnnotatorNotes T4	temperature
+T5	Prepositions 641 643	in
+#5	AnnotatorNotes T5	at
+T6	Prepositions 684 686	in
+#6	AnnotatorNotes T6	at
+T7	Punctuation 758 764	Russia
+#7	AnnotatorNotes T7	Russia,
+T8	Punctuation 785 791	Brazil
+#8	AnnotatorNotes T8	Brazil,
+T9	Agreement_errors 792 804	demonstrates
+#9	AnnotatorNotes T9	demonstrate
+T10	Agreement_errors 728 739	differences
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	note 860 861	a
+#10	AnnotatorNotes T11	Zavyalov

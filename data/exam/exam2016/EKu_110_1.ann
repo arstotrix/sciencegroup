@@ -1,0 +1,73 @@
+T1	Articles 154 163	the March
+#1	AnnotatorNotes T1	March
+T2	Redundant_comp 164 166	of
+A1	Delete T2
+T3	Articles 179 188	the March
+#2	AnnotatorNotes T3	March
+T6	Redundant_comp 189 191	of
+A4	Delete T6
+T7	lex_item_choice 201 211	proportion
+#3	AnnotatorNotes T7	number
+T8	Agreement_errors 253 256	are
+#4	AnnotatorNotes T8	was
+T9	Category_confusion 276 280	near
+#5	AnnotatorNotes T9	nearly
+T10	Agreement_errors 285 293	millions
+#6	AnnotatorNotes T10	million
+T11	lex_part_choice 309 325	in the same time
+#7	AnnotatorNotes T11	at the same time
+T12	Voice 388 400	is increased
+T13	Redundant 430 441	of the year
+A6	Delete T13
+T14	Tense_choice 453 460	reaches
+#8	AnnotatorNotes T14	reached
+T15	Numerals 471 485	95 millions of
+#9	AnnotatorNotes T15	95 million
+T17	Articles 520 523	the
+A7	Delete T17
+T18	Spelling 711 720	receivivg
+#11	AnnotatorNotes T18	receiving
+T19	Tense_choice 707 720	are receivivg
+#12	AnnotatorNotes T19	received
+T20	Punctuation 611 614	and
+#13	AnnotatorNotes T20	,and
+T21	Coherence 615 656	there is a not so high percentage for men
+#14	AnnotatorNotes T21	the percentage was not so high for men
+T22	Agreement_errors 806 812	reason
+#15	AnnotatorNotes T22	reasons
+T23	Word_choice 900 904	less
+#16	AnnotatorNotes T23	less often
+T25	Spelling 1015 1021	gourth
+#18	AnnotatorNotes T25	fourth
+T26	Articles 996 999	the
+A8	Delete T26
+T27	Redundant 943 948	about
+#19	AnnotatorNotes T12	increased
+T28	Tense_choice 388 400	is increased
+#20	AnnotatorNotes T28	increased
+T4	Tense_choice 253 256	are
+#21	AnnotatorNotes T4	was
+T5	Prepositions 413 415	in
+#22	AnnotatorNotes T5	at
+T29	Tense_choice 507 511	like
+#23	AnnotatorNotes T29	liked
+T16	Articles 597 609	total number
+#10	AnnotatorNotes T16	the total number
+T30	Tense_choice 621 623	is
+#24	AnnotatorNotes T30	was
+T31	Standard 688 771	both men and women are receivivg updates on Facebook at the same proportion -- 39 %
+#25	AnnotatorNotes T31	 the same proportion of both men and women - 39 % - received updates on Facebook
+T32	Adjectives 782 789	women's
+A2	Delete T32
+T33	Absence_explanation 806 812	reason
+#26	AnnotatorNotes T33	reasons for women 
+R1	Dependent_change Arg1:T32 Arg2:T33	
+T34	Tense_choice 840 842	is
+#27	AnnotatorNotes T34	was
+T35	Tense_choice 894 896	do
+#28	AnnotatorNotes T35	did
+A3	Delete T27
+T36	Tense_choice 972 974	is
+#29	AnnotatorNotes T36	was
+T24	Tense_choice 1056 1063	reaches
+#17	AnnotatorNotes T24	reached

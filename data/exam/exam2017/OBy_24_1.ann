@@ -1,0 +1,60 @@
+T1	Prepositions 34 36	on
+#1	AnnotatorNotes T1	about
+T2	Category_confusion 37 49	transporting
+#2	AnnotatorNotes T2	the transportation
+T3	Articles 37 49	transporting
+#3	AnnotatorNotes T3	the transportation
+T4	Word_order 93 111	over the 2008 year
+#4	AnnotatorNotes T4	over the year 2008
+T5	Articles 174 185	proportions
+#5	AnnotatorNotes T5	the proportions
+T6	Word_order 189 206	transported goods
+#6	AnnotatorNotes T6	goods transported
+T7	Comparative_adj 287 295	the huge
+#7	AnnotatorNotes T7	the biggest
+T8	Articles 304 316	second chart
+#8	AnnotatorNotes T8	the second chart
+T9	Noun_number 412 417	train
+#9	AnnotatorNotes T9	trains
+T10	Noun_number 421 426	metal
+#10	AnnotatorNotes T10	metals
+T11	Spelling 519 531	aproximately
+#11	AnnotatorNotes T11	approximately
+T12	Noun_number 540 550	proportion
+#12	AnnotatorNotes T12	proportions
+T13	Agreement_errors 603 605	is
+#13	AnnotatorNotes T13	are 
+R1	Dependent_change Arg1:T13 Arg2:T12	
+T14	Word_order 612 624	consists and
+#14	AnnotatorNotes T14	and consist
+T15	Agreement_errors 612 620	consists
+#15	AnnotatorNotes T15	consist
+R2	Dependent_change Arg1:T15 Arg2:T12	
+T16	Punctuation 657 706	The pie chart, related with transporting by road,
+#16	AnnotatorNotes T16	The pie chart of goods transported by road
+T17	Prepositions 672 684	related with
+#17	AnnotatorNotes T17	of 
+T18	Category_confusion 685 697	transporting
+#18	AnnotatorNotes T18	transported
+T19	Absence_explanation 685 705	transporting by road
+#19	AnnotatorNotes T19	goods transported by road
+T20	Non_defining 774 818	that is about 30% of total quantity of goods
+#20	AnnotatorNotes T20	,which is about 30% of the total quantity of goods
+T21	Prepositional_adjective 774 778	that
+#21	AnnotatorNotes T21	which
+T22	Articles 795 809	total quantity
+#22	AnnotatorNotes T22	the total quantity
+T23	Agreement_errors 847 851	show
+#23	AnnotatorNotes T23	shows
+T24	lex_item_choice 890 897	overage
+#24	AnnotatorNotes T24	percentages
+T25	Articles 899 910	Proportions
+#25	AnnotatorNotes T25	The proportions 
+T26	Absence_comp_colloc 936 948	non-minerals
+#26	AnnotatorNotes T26	non-metallic minerals
+T27	Redundant 969 974	level
+A1	Delete T27
+T28	lex_item_choice 1005 1016	accordingly
+#27	AnnotatorNotes T28	respectively
+T29	Redundant_comp 980 987	figures
+A2	Delete T29

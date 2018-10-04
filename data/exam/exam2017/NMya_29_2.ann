@@ -1,0 +1,26 @@
+T1	Articles 24 41	a high crime rate
+#1	AnnotatorNotes T1	the high crime rate
+T2	Punctuation 124 132	security
+#2	AnnotatorNotes T2	security.
+T3	lex_item_choice 163 170	suggest
+#3	AnnotatorNotes T3	outline
+T4	Redundant_comp 230 234	with
+A1	Delete T4
+T5	Articles 300 317	a high crime rate
+#4	AnnotatorNotes T5	the high crime rate
+T6	Articles 340 346	a lack
+#5	AnnotatorNotes T6	lack
+T7	Punctuation 1087 1094	because
+#6	AnnotatorNotes T7	, because
+T8	Articles 1156 1171	high crime rate
+#7	AnnotatorNotes T8	the high crime rate
+T9	Redundant_comp 1245 1257	young people
+#8	AnnotatorNotes T9	them
+T10	Redundant_comp 1178 1190	young people
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	Articles 1483 1494	high amount
+#9	AnnotatorNotes T11	the high amount
+T12	Articles 385 400	high inequality
+#10	AnnotatorNotes T12	the high inequality
+T13	Articles 785 806	increasing inequality
+#11	AnnotatorNotes T13	the increasing inequality

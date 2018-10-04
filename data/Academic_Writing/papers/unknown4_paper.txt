@@ -1,0 +1,176 @@
+1.	Introduction
+As the usage of corpus methods becomes widespread in linguistics, the problem of ambiguity in existing corpora turns out to be more and more significant. To perform deep linguistic analysis a researcher needs language data of high quality. Meanwhile, morphological processing of corpus data involves two steps: assigning morphological analyses to tokens and, as wordforms in a language are often ambiguous, disambiguation. Ambiguity in corpora does not allow linguists to make detailed queries and get exact results because they receive a lot of irrelevant data. For example, if an ambiguity between articles and pronouns can be found in a language, while tracking the behavior of pronouns, a researcher will receive examples with pronouns as well as examples with articles.
+Both (1) and (2) will be found by the search engine for the query “Noun in Genitive case followed by a Pronoun in Genitive case”, whereas only the second instance is correct.
+As we can see from the example above, disambiguation of the corpus data is vital for language studies.
+Disambiguation by hands is time-consuming; therefore, it is essential that ways of computer-aided disambiguation are developed. Most of the disambiguation techniques are based on the implementation of machine learning with the use of gold standard corpora (GSC, a sample of language data disambiguated by hand). However, GSCs are not available for every language. For this reason new approaches to disambiguation should be found. These approaches should use the material without any pre-disambiguation, they do not have an access to the statistics about word occurrences depending on contexts. Despite these demands, they should show high accuracy and amplitude.
+In this paper we considered automatic disambiguation techniques for the corpus of Modern Greek, which does not have a gold standard subcorpus. We combined several existing disambiguation algorithms in a more effective way, adapted POS-tagging algorithms to the disambiguation problems (Brill algorithm) and developed some techniques of our own (disambiguation on the base of unambiguous n-grams found in the corpus and a more efficient way of disambiguation by hand also based on using n-grams). We estimated the efficiency (precision and recall) of every technique and compared them. In the end, we had a corpus with 18% of ambiguous words instead of initial 44%.
+The originality of our work is that we do not use any pre-processed data and work with a morphologically rich language. All data available to us is the corpus in which every word is assigned all possible morphological analyses. There were few attempts to execute disambiguation process without the use of machine learning. Several approaches were developed by Eric Brill [Brill 1992; Brill 1995a; Brill 1995b]; however, his methods were designed for English, and they show modest results when applied to Modern Greek, a highly inflective language.
+We have set up the following tasks to be solved during the research:
+1.	Analysis of the data structure in the corpus of Modern Greek
+2.	Revealing the contexts in which words present ambiguity
+3.	Designing disambiguation algorithms
+4.	Implementation and improvement of disambiguation algorithms
+5.	Finding appropriate methods for different ambiguity types in the corpus
+This research was carried out on the material of the Corpus of Modern Greek , which is based on the EANC platform [Daniel et al. 2009]. The disambiguation algorithms were performed with the use of the Python programming language.
+The structure of the paper is as follows: in Section 2 we describe the peculiarities of the corpus of Modern Greek – its markup structure, text genres. In Section 3 we give the analyses of the algorithms used in the research, estimate their efficiency and describe the realization of those algorithms on the base of the testing corpus. In Section 4 we conclude and define future work.
+2.	About the corpus
+The corpus of Modern Greek consists of 26 million tokens. The majority of texts come from Greek newspapers and belong to the 21st century. Also there are such genres as fiction (both native and translated works), poetry, publicistic writing and scientific literature. These texts belong to 19th - 21st centuries.
+All texts are morphologically annotated and stored in the .prs format. 
+However, this format is not very convenient for language processing, so we decided to convert all the files into XML. The reason for doing this is that there are special libraries for working with information stored in XML structure.
+2.1.	Annotation and features of ambiguity
+As it was said earlier, morphological analysis of texts in the corpus was performed with the help of a morphological analyzer called UniParser. There were no attempts to disambiguate the data in any sense while assigning morphological values. That means that every word was assigned all possible analyses, regardless of the context and overall statistics.
+As Modern Greek is a morphologically complex language, its word units are often ambiguous. The example of an ambiguous word is given below (this example is derived from the file converted to XML).
+The word can be ambiguous in two ways:
+-	With respect to grammatical information (the lemma and constant morphological information stay the same, but the analyses of the inflections markers do differ). We can see this type in the two analyses for μέσα as a noun and the two analyses for μέσα as an adjective.
+-	With respect to the lemma (naturally, grammatical information in most cases do differ too). We can see this type in (3) overall, where the given word can be an adverb, an adjective and a noun and have therefore 3 different lemmas with completely different morphological properties.
+2.2.	Baseline parameters for ambiguity in the corpus 
+Before performing disambiguation, we estimated baseline parameters of ambiguity in our corpus.
+In this table the parameters signify the following:
+-	Number of tokens - number of words in the corpus (the instances of tag <w> (“word”) are counted)
+-	Percentage of ambiguous words - the ratio of tokens which have more than one analysis to the overall number of tokens in the corpus
+-	Ambiguity rate - the ratio of all tags in the corpus to all tokens
+Most of the words had 2 or 3 analysis, and sometimes they had 4 or even 5 analyses. In the Figure 1 you can see a distribution in percentage of the number of analyses word units in the corpus have.
+Overall, there were almost 10 thousand (9987, to be exact) different types of ambiguity, and there were 11 thousand (10842) different ambiguous word instances. 
+The most frequent types of ambiguity  were the following (different morphological analyses are separated with dashes).
+These 10 types of ambiguity out of 10 thousand overall together constitute 15% of ambiguity in the corpus. This is advantageous for constructing disambiguator based on linguistic rules because such disambiguation will display high accuracy and sufficient coverage.
+Of course, not always two or more tags instead of one mean that the word is ambiguous. Sometimes the reason for assigning several tags was merely the annotation architecture. For example, two tags should be assigned to one word unit in the case of fusion of a preposition σε and an article:
+As this combination is frequent in the language (actually, in the list of ambiguity types it holds position among the 10 types presented above, but it was deleted from the list because such cases cannot be treated as ambiguous ones), it can spoil the statistics, but we tried to identify this combination where possible and eliminate it from our calculations.
+3.	The process of disambiguation
+3.1.	General approaches to disambiguation
+The main existing methods for performing disambiguation are the data-driven approach and the handcrafted linguistic rule-based approach. Both these methods have their strong and weak sides, which will be analyzed further.
+The data-driven approach uses a pre-disambiguated corpus (the so-called gold standard corpus). The algorithms extract from the GSC the statistics about the contexts in which a particular morphological analysis is most often met. These statistics are then applied to the raw data.
+There are several most frequently used types of data-driven algorithms:
+-	probabilistic Markov models [Kupiec 1992]
+-	transformation-based error-driven learning approach [Brill 1992; Brill 1995]
+-	maximum entropy approach [Ratnaparkhi 1996]
+These approaches are advantageous in several ways:
+-	they are independent of a language: while showing slightly different efficiency figures, these approaches more or less appeal to any language
+-	they are more easy to construct, as all the features are extracted automatically from the corpus
+However, there is at least one disadvantage of using the data-driven approach, which plays the main role in our case: not every corpus has a disambiguated subcorpus of a sufficient size.
+This causes us to turn to another approach: linguistic rule-based disambiguation parser, which is much more intricate and hard to develop. In this approach hand-crafted rules are used to remove inappropriate tags or to assign correct tags depending on the context. For example, the parser can contain the following rule:
+change ADJ_NOUN to NOUN if the tag before is ART (the correct tag from the set Adjective/Noun is Noun if the tag before is Article).
+This approach has advantages of its own:
+-	such parsers are more accurate and easy to tune than machine learning algorithms; 
+-	This approach takes into consideration individual features of a language or a tagset (as in the case of fusion of a preposition σε and an article in Modern Greek).
+However, designing a rule-based disambiguation parser is a time-consuming task because it should contain several thousand rules in order to be as efficient as data-driven approaches. 
+In the case of our corpus neither of the methods seemed to be appropriate. Nevertheless, we can build our disambiguation system in such a way that the best features of every approach could be used. The data-driven approach can be used even in cases when we do not have a gold standard corpus. In every corpus there are word instances which receive unambiguous analyses, so we could use them as a disambiguated corpus. However, some types of ambiguity cannot be resolved by using unambiguous data from the corpus - there are simply no positive unambiguous examples for some cases of ambiguity in the corpus. For example, a Greek verb είναι ‘to be’ in the form of Present tense, third person can be either singular or plural, and this ambiguity will not be tracked by the data-driven approach.
+To sum up, our decision was to find the way to combine data-driven and rule-based algorithms . We used the following data-driven methods:
+-	Trasformation-based error-driven learning [Brill 1995a; Brill 1995b]
+-	Using data about bigrams and trigrams in which the word under consideration can be found
+-	Improving the bigrams/trigrams method with Viterbi algorithm
+-	The user interface for disambiguating based on bigrams and trigrams
+Also we used the hand-crafted rules approach.
+Next we will examine what all our methods resulted in and how we can improve weak sides of some algorithms with the help of other algorithms. It should be mentioned that all the approaches were tested on a corpus which consisted of randomly chosen texts altogether containing 860 000 tokens. Therefore, the percentage given further was counted for this training corpus. However, we assume that the figures cannot significantly change when the methods are applied to the whole corpus as we tried to create a representative sample of our corpus.
+3.2.	The Brill algorithm
+3.2.1.	Algorithm itself and its deployment
+Transformation-based error-driven algorithm for POS-tagging and disambiguation purposes was developed by Eric Brill in 1995. This algorithm is very useful in our situation because it is unsupervised (which means that we do not need the disambiguated corpus). We can achieve significant results by just using unambiguous word instances from our corpus.
+The algorithm works as follows. It applies a list of ordered transformations to the corpus. Consider an example of a transformation below:
+Change the tag from V,sg_V,pl to V,pl if the tag before is NOUN, pl. 
+The transformations are gathered in the corpus automatically in the following way: 
+-	all unambiguous bigrams are gathered in the corpus (by an unambiguous bigram we mean the case when all two words in a bigram are unambiguous)
+-	all ambiguous bigrams are gathered in the corpus (by an ambiguous bigram we mean the case when one or two words in a bigram are ambiguous)
+-	with the help of the list of unambiguous bigrams we find out which possible tranformations can be applied to ambiguous bigrams. For example, if we have in our list unambigous bigrams ADV + V,sg, ADV + V,pl, NOUN,sg + V,sg, then we can perform the following list of transformations:
+o	Change the tag from V,sg_V,pl to V,sg if the tag before is ADV.
+o	Change the tag from V,sg_V,pl to V,pl if the tag before is ADV.
+o	Change the tag from V,sg_V,pl to V,sg if the tag before is NOUN,sg.
+-	 For every possible transformation, which can be presented in a general formula “Change the tag of a word from X to Y in context C”, where Y ∈ X, we do the following. For each tag Z ∈ X, Z ≠ Y, we compute its score.
+After that the transformation with the highest score is applied to the corpus, and the process begins once again. The transformations are applied to the corpus repeatedly while there is a transformation which receives a positive score.
+3.2.2.	The result of the algorithm for our corpus
+We tested two versions of Brill disambiguation algorithm:
+1.	The version that executed only disambiguation with respect to the part of speech (the cases where words had analyses with different POS-tags were resolved)
+2.	The version that executed full disambiguation (the cases where words had analyses with the same POS-tag, but different values, were also resolved)
+After applying the first version of the Brill algorithm to the testing corpus the ambiguity parameters changed in the following way.
+After applying the second version of the Brill algorithm to the testing corpus the ambiguity parameters changed in the following way.
+We can notice that the first deployment of the Brill algorithm resulted in seemingly efficient decrease of the number of ambiguous word tokens (29% compared to initial 41%). However, it is more important that disambiguation is performed correctly, that all words are assigned appropriate analyses than that the ambiguity rate significantly lowers. With the aim to estimate the effectiveness of the disambiguation method, we compared a text of 3700 words disambiguated by hand with the same text disambiguated by the algorithm. We estimated precision and recall of the method in the following way:
+-	recall is the ratio of the words whose analyses were changed by the algorithm to all ambiguous words
+-	precision is the ratio of the words whose analyses were correctly changed by the algorithm to all words whose analyses were changed by the algorithm
+We received the following results for the two versions of the Brill algorithm.
+As we can see from the table above, the first version of the Brill algorithm works extensively, but most words are changed incorrectly. The second version of the algorithm, however, shows high precision, but changes very few words. This results in similar values of F1 score (the statistical parameter which is the harmonic mean of precision and recall). The similarity of the scores for the methods shows that they are almost equally efficient (or, in our case, inefficient). Nevertheless, whereas it is difficult to change the algorithm so that it shows higher precision, it is possible to change the algorithm in the way which enhances recall. The analysis of the texts processed by the second version of the Brill algorithm revealed that the following types of ambiguity remained unaffected by the disambiguation algorithm:
+-	NOUN,acc - NOUN,nom
+-	ART,acc - ART,nom - PRO,acc
+-	ART,m - ART,n - PRO,m - PRO,n
+-	ADJ,m - ADJ,n
+We have said earlier that some types of ambiguity cannot be spotted by data-driven methods because they do not present positive examples (these words are ambiguous in any context). The instances of these types are frequent in the corpus, but the types themselves are not numerous. This makes it possible to design rules for these types of ambiguity. On the contrary, types of ambiguity which are rare in the corpus are successfully processed by the Brill algorithm with full disambiguation.
+Also we tested the results of the algorithm when we first applied the Brill algorithm in the full mode, and then finished disambiguation by the POS-version. The idea was that after applying the first variant of the algorithm the number of unambiguous words increases and drives the second version to be more accurate. The results are displayed in Table 6. 
+As we can see from the table above, POS-disambiguation by the Brill algorithm indeed becomes more efficient when applied to the pre-processed data. Its precision increases, though it is still on the low level, and the F1 score shows that such results are more valuable than the previous results (31.02 compared to previous ~14). This experiment shows that POS-disambiguation by the Brill algorithm can serve as the final step in the process of disambiguation, when it would become more efficient.
+To sum up, the Brill algorithm should be used in the process of disambiguation for our corpus because it deals with the variety of ambiguity types and demonstrates relatively high precision. However, it should be used with the rule-based disambiguator as it leaves unchanged some types of ambiguity and it cannot serve as the first and main method of disambiguation due to its dependency on the number of unambiguous tokens in the corpus.
+3.3.	Bi- and trigrams
+3.3.1.	The plain method
+This approach may look similar to probabilistic Markov models described in [Kupiec 1992]. However, it works in a different and simpler way. We considered that all unambiguous bigrams and trigrams (combinations in which all words have only one analysis) constitute a subcorpus similar to the Gold Standard Corpus. We gathered those unambiguous trigrams and bigrams and assumed that they can present the statistics about the contexts in which a word with a particular analysis can be found. The algorithm that chooses between several analyses for an ambiguous word works in the following way:
+1.	All unambiguous bigrams and trigrams (combinations in which all words have only one analysis) are gathered in the corpus, and their frequencies are counted.
+2.	The first ambiguous bigram  or the first ambiguous trigram  is found in the text.
+3.	Depending on unambiguous word(s) in a bigram or trigram, the corresponding unambiguous bigrams or trigrams are found. For example, if we have an ambiguous bigram ADV + V,pres,1,pl_V,pres,1,sg_V,pfv,1,sg we can find in the list of unambiguous bigrams the following variants:
+a.	ADV + V,pres,1,pl,
+b.	ADV + V,pres,1,sg,
+c.	ADV + V,pfv,1,sg,
+d.	ADV + ADJ,pos,nom,pl
+and so on. 
+     4.   From this list we choose only those bigrams whose second component has a tag which is a fragment of the initial tag. Therefore, in the example above we take only the first three variants.
+     5.   From the variants left we choose the variant which has the highest frequency. For example, if the bigram ADV + V,pres,1,sg was more frequent in the corpus than the others, the tag V,pres,1,sg is regarded as the correct variant for the bigram ADV + V,pres,1,pl_V,pres,1,sg_V,pfv,1,sg.
+This algorithm does not use any other statistics about contexts in which particular word analyses can be met, so its results can be erroneous. Surprisingly, the accuracy of this method was sufficient, and we will demonstrate it further.
+3.3.2.	Result of the algorithm for our corpus
+We applied the algorithm to the testing corpus and received the following results for the ambiguity parameters and the effectiveness of the algorithm (Table 7).
+As we can see from the table, this simplified and easy to execute model, surprisingly, demonstrates the same level of effectiveness as the intelligent data-driven Brill algorithm and even has the higher level of precision.
+3.4.	An interface for disambiguation by hands
+3.4.1.	The method itself and its deployment
+All the approaches considered above are more or less effective, but neither of them makes no mistakes. Every method considered earlier generated incorrect changes of tags, so that the correct tag for a particular word was deleted. It is widely known and accepted that the most precise method to perform disambiguation is disambiguation by hands. The reason why it is not used in every situation is because, as we wrote in the beginning of the paper, this task is time-consuming and takes many man hours. However, computer-aided methods can allow to perform disambiguation by hands in an easier way, for example, by clustering ambiguous words into bigrams or trigrams and giving the possibility to choose the correct tag not in a particular instance, but in all similar instances in the corpus. For example, if we have a combination of words with morphological properties such as ART,m,sg + N,m,sg_N,m,acc, it is evident that the noun in this combination will always be in the form of N,m,sg, no matter what the words themselves are. Therefore, the designed method consists of the following steps:
+-	All ambiguous bigrams and trigrams  and their frequencies are collected in the corpus
+-	They are shown to the user who is asked to decide which tag is correct for the last word in the combination
+-	The user can either choose the only correct tag or delete some tags which are incorrect
+-	The user’s decisions are written down and applied to the corpus after the end of the session
+This method stands closer to the rule-based methods as it does not depend on the data - the user can choose the right variant even when all the words in a bigram or trigram are ambiguous. Therefore, this method can be the first step in the process of disambiguation because its results cannot significantly change with the increase of unambiguous words in the corpus. In contrast, this method can supply data-driven methods with the higher number of unambiguous contexts and consequently improve their precision and recall while itself demonstrating supposingly high precision.
+The main disadvantage of this method is that it strongly depends on the user’s knowledge of the language.
+3.4.2.	Results for this method
+We received the following results for this user-guided disambiguation (Table 8).
+As we can see, this method turned out to be very effective as it demonstrated both high recall and high precision. Actually, the value of precision is not equal to 100% because in some cases incorrect tags were deleted, but the word still had more than one analysis, which was counted as an imprecise case. In fact, this method did not generate incorrect tag changes, in contrast to the previous data-driven methods.
+To sum up, it is clear from this example that
+-	computer-aided approaches can be used to facilitate traditional disambiguation by hands;
+-	this method can indeed be used as the first step in the disambiguation process.
+3.5.	Rules
+3.5.1.	Realization
+There were some types of homonymy which were overlooked by other methods (there were no positive results for them). However, we must take all cases into consideration, so we composed linguistic rules for the types which were left.
+Modern Greek is a language with widespread agreement and relatively free word order, words which should be in agreement with each other are not adjacent. Therefore, such cases are grasped neither by user-guided disambiguation which is based on bigrams and trigrams nor by the Brill algorithm. However, they can be easily handled by linguistic rules. The effective usage of the rule-based approach in such cases was described in many papers, for example, in [Loftsson 2008].
+Designing linguistic rules is a difficult task because a linguistic rule for a particular tag combination cannot take into consideration all possible contexts. Consequently, it is advantageous to use linguistic rules for those types of ambiguity which are frequent in the corpus. 
+First of all, it is necessary to determine in what format the rules should be written down. This format should be able to suffice various constraints and to be understandable to the machine. Namely, each rule should express:
+-	with what type of ambiguity it deals
+-	for what parts of speech this rule is intended
+-	what context the rule should take into consideration - before or after the word
+-	what amount of context is needed to determine the correct tag - one word after/before or several words
+-	what the rule should check in the context - morphological components, the lemma or the wordform
+-	the constraint itself
+-	the correct tag which should be chosen if the rule finds the necessary context
+For example, in Modern Greek prepositions always demand that their constituent have a particular case. A preposition σε, which merges with some forms of articles after it, takes noun groups in accusative case. We designed the following linguistic rule (7):
+(7) acc-nom:NOUN-ADJ:-1:wf:στον-στην-στο-στη-σε:acc
+The conceptual blocks of the rule are separated with “:”. The rule signifies that if we encounter an ambiguity between accusative and nominative case and the word belongs to adjectives or nouns, we should take a look at the wordform before (“-1” means “the word before”, “wf” means that the wordform matters). If we find a preposition σε alone or in fusion with an article, the correct case is accusative.
+It should be mentioned separately that the maximum context that can be considered in the rule is the clause in which the word under consideration is found. Consequently, “-” signifies that the constraint should be sought among all the words in the clause before the word under consideration and “+’ signifies that the constraint should be sought among all the words in the clause after the word under consideration.
+We found that the following types of ambiguity are frequent in the corpus after performing disambiguation by the Brill algorithm  and the bigrams algorithm. For some of these ambiguity types we designed the following linguistic rules.
+3.5.2.	Results
+We wrote 8 linguistic rules which deal with 6 ambiguity types from the list in the previous section. The results for this method are shown in Table 9.
+The results are seemingly modest, but this method has high potential because it is easy to increase the recall level by writing more rules.
+3.6.	Combinations of the methods
+In the previous chapters we gave an overview of our methods and their effectiveness when they were applied to the training corpus. However, as it was mentioned earlier, the disambiguation becomes more accurate and extensive when several methods are combined.
+The key point of the combination of methods is that data-driven methods work better if they are given more positive material. Therefore, our aim is to use the methods which are not data-driven first, then to use methods which are more precise so that they could create more positive data for methods which are less precise.
+All in all, we chose the following order:
+1.	User-guided disambiguation, which has high precision and is not data-driven
+2.	The bigrams algorithm, which is data-driven, but with high precision
+3.	The Brill algorithm (full disambiguation, not only by POS-tags), which has lesser precision
+4.	Rule-based disambiguator for ambiguity types left
+Table 10 demonstrates the changes in process when we applied to the training corpus our disambiguation methods in this order. As we can see from this table, the ambiguity rate gradually falls down with every method, and recall rises while precision stays on the high level. All this shows that every method indeed becomes effective if applied in the right combination with other methods.
+The final result of our disambiguation scheme for the testing corpus is:
+-	ambiguity rate – 1.35
+-	percentage of ambiguous words in the corpus – 18%
+4.	Conclusion
+In this paper we have considered different disambiguation methods for the case when machine learning and supervised methods based on the pre-disambiguated corpus are not accessible to the researcher. We adapted several data-driven approaches such as the Brill algorithm and the Viterbi algorithm so that they became useful in our situation. Also we designed several techniques of our own such as user-guided disambiguation by bigrams and trigrams and supported our scheme with a conventional rule-based parser.
+In the end we managed to achieve the following results:
+-	ambiguity rate - 1.35
+-	the precentage of ambiguous words in the corpus - 18%
+-	precision of the final application – 95.21%
+-	recall of the final application - 50.6%
+We understand that our results are not perfect for several reasons:
+-	there are still ambiguous words in the corpus
+-	the probability of  a mistake when deploying disambiguation is relatively high
+-	the corpus on which precision and recall are counted is not of a sufficient size for getting exact and verified results
+On the basis of the drawbacks of our research into disambiguation, we define future work:
+-	compose a greater number of linguistic hand-crafted rules for disambiguation
+-	create a bigger disambiguated subcorpus for estimating precision and recall
+-	applying machine learning techniques, which will be available if we have a disambiguated subcorpus.

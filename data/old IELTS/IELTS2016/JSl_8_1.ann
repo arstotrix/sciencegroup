@@ -1,0 +1,44 @@
+T1	Standard 38 69	changing the number of children
+#1	AnnotatorNotes T1	the number of children changed
+T2	Absence_comp_sent 75 81	do not
+#2	AnnotatorNotes T2	do not have 
+T3	Absence_comp_sent 82 88	access
+#3	AnnotatorNotes T3	access to
+T4	Punctuation 172 173	,
+A1	Delete T4
+T5	Articles 179 185	number
+#4	AnnotatorNotes T5	the number
+T6	lex_item_choice 189 201	small people
+#5	AnnotatorNotes T6	uneducated children
+T7	Comparative_constr 254 258	that
+#6	AnnotatorNotes T7	then
+T8	Absence_comp_sent 259 263	2012
+#7	AnnotatorNotes T8	in 2012
+T9	Category_confusion 323 331	millions
+#8	AnnotatorNotes T9	million
+T10	Category_confusion 354 366	the numerous
+#9	AnnotatorNotes T10	this number
+T11	Tense_choice 367 392	has dramatically decrease
+#10	AnnotatorNotes T11	dramatically decreased
+T12	Redundant_comp 416 420	year
+A2	Delete T12
+T13	Articles 435 439	rest
+#11	AnnotatorNotes T13	the rest
+T14	lex_item_choice 457 464	smaller
+#12	AnnotatorNotes T14	lower
+T15	lex_item_choice 465 483	amount of children
+#13	AnnotatorNotes T15	level of uneducated children
+T16	Spelling 594 603	proposion
+#14	AnnotatorNotes T16	proportion 
+T17	Pronouns 652 657	girls
+#15	AnnotatorNotes T17	girls'
+T18	Agreement_errors 665 669	were
+#16	AnnotatorNotes T18	was
+T19	Redundant_comp 694 701	of kids
+A3	Delete T19
+T20	Pronouns 682 686	boys
+#17	AnnotatorNotes T20	boys'
+T21	Redundant_comp 746 750	year
+A4	Delete T21
+T22	Tense_choice 793 800	changes
+#18	AnnotatorNotes T22	changed

@@ -1,0 +1,36 @@
+T1	Word_choice 79 93	transportation
+#1	AnnotatorNotes T1	transport\travelling
+T2	Agreement_errors 116 122	claims
+#2	AnnotatorNotes T2	claim
+T3	Agreement_errors 149 153	lead
+#3	AnnotatorNotes T3	leads
+T4	lex_item_choice 242 250	quantity
+#4	AnnotatorNotes T4	number
+T5	lex_item_choice 583 589	flying
+#5	AnnotatorNotes T5	flights
+T6	Punctuation 673 674	,
+A1	Delete T6
+T7	lex_item_choice 789 797	quantity
+#6	AnnotatorNotes T7	number
+T8	Spelling 829 842	entreprenears
+#7	AnnotatorNotes T8	entrepreneurs 
+T9	Word_choice 757 769	avia company
+#8	AnnotatorNotes T9	 airlines
+T10	Verb_pattern 854 858	from
+A2	Delete T10
+T11	lex_item_choice 945 951	amount
+#9	AnnotatorNotes T11	number
+T12	Verbs 978 985	against
+#10	AnnotatorNotes T12	are against
+T13	Category_confusion 1326 1330	safe
+#11	AnnotatorNotes T13	save
+T14	Standard 1337 1344	to both
+#12	AnnotatorNotes T14	both to
+T15	lex_part_choice 1367 1373	itself
+A3	Delete T15
+T16	Formational_affixes 1573 1583	Economical
+#13	AnnotatorNotes T16	economic
+T17	Word_choice 1715 1729	transportation
+#14	AnnotatorNotes T17	transport\travelling
+T18	Word_choice 1805 1814	spendings
+#15	AnnotatorNotes T18	costs\expenses

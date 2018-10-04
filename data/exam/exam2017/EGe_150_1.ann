@@ -1,0 +1,25 @@
+T1	Spelling 236 246	impportant
+#1	AnnotatorNotes T1	important
+T2	Spelling 598 609	homogenious
+#2	AnnotatorNotes T2	homogeneous
+T3	Punctuation 702 706	But,
+#3	AnnotatorNotes T3	But
+T4	Tense_choice 939 948	prevailed
+#4	AnnotatorNotes T4	prevails
+T5	note 1055 1056	y
+#5	AnnotatorNotes T5	DBatov
+T6	lex_item_choice 395 401	fourth
+#6	AnnotatorNotes T6	quarters
+T7	Redundant_comp 430 432	as
+A1	Delete T7
+T8	Punctuation 782 787	which
+#7	AnnotatorNotes T8	, which
+T9	lex_item_choice 788 796	compound
+#8	AnnotatorNotes T9	constitutes
+T10	Word_choice 998 1040	(in accordance with the ethnic background)
+#9	AnnotatorNotes T10	by the ethnic background
+T11	Absence_explanation 982 988	levels
+#10	AnnotatorNotes T11	distribution of the levels
+R1	Dependent_change Arg1:T11 Arg2:T10	
+T12	Punctuation 998 1040	(in accordance with the ethnic background)
+#11	AnnotatorNotes T12	by the ethnic background

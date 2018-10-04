@@ -1,0 +1,42 @@
+T1	Suffix 1740 1753	environmently
+#1	AnnotatorNotes T1	environmentally
+T2	Spelling 1740 1753	environmently
+#2	AnnotatorNotes T2	environmentally
+T3	Agreement_errors 1598 1601	are
+A1	Cause T3 Other
+#3	AnnotatorNotes T3	is
+A2	Cause T1 Typo
+A3	Cause T2 Typo
+T4	note 1268 1277	chellenge
+#4	AnnotatorNotes T4	здесь написано правильно, а я сделала опечатку
+T6	Redundant_comp 1089 1106	from another side
+A5	Cause T6 Other
+A6	Delete T6
+T7	Coherence 1489 1514	the law of the government
+A7	Addition T7
+A8	Cause T7 Other
+#6	AnnotatorNotes T7	the law
+T8	Redundant_comp 590 602	a great deal
+A9	Delete T8
+T10	lex_item_choice 837 840	law
+#7	AnnotatorNotes T10	bill
+T11	Often_confused 927 930	get
+A11	Cause T11 Other
+#8	AnnotatorNotes T11	have
+T12	Absence_explanation 968 982	such as trains
+T13	Punctuation 1054 1067	nevertheless,
+A12	Cause T13 Typo
+#9	AnnotatorNotes T13	, nevertheless, 
+T14	Spelling 635 639	it's
+A13	Cause T14 Other
+T15	Category_confusion 635 639	it's
+A14	Cause T15 Other
+#10	AnnotatorNotes T15	its
+#11	AnnotatorNotes T14	its
+T16	Articles 1213 1216	the
+A15	Cause T16 Absence_of_Category_in_L1
+A16	Delete T16
+T17	suggestion 1399 1419	working of factories
+T18	Noun_number 1190 1201	travellings
+T5	note 138 145	ehaeest
+#5	AnnotatorNotes T5	не могу прочитать почерк

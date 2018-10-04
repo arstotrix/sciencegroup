@@ -1,0 +1,51 @@
+T1	Absence_explanation 197 211	this two years
+#1	AnnotatorNotes T1	in the latter in comparison with the former
+T2	lex_item_choice 234 247	well assessed
+#2	AnnotatorNotes T2	successful
+T3	lex_item_choice 294 304	assessment
+#3	AnnotatorNotes T3	passing rate
+T4	Prepositions 350 352	of
+#4	AnnotatorNotes T4	towards
+T5	Absence_explanation 353 359	rising
+#5	AnnotatorNotes T5	rising rates in students' grades
+T6	Word_order 375 385	other four
+#6	AnnotatorNotes T6	four other
+T7	Articles 403 412	exception
+#7	AnnotatorNotes T7	the exception
+T8	Absence_explanation 465 469	same
+#8	AnnotatorNotes T8	same - 42 % -
+T9	Redundant_comp 511 515	same
+A1	Delete T9
+T10	Pronouns 544 549	their
+#9	AnnotatorNotes T10	its
+T11	Prepositions 632 648	more than a half
+#10	AnnotatorNotes T11	by more than a half
+T12	Discourse 801 861	in 2012 and this point is a little bit more than 10 per cent
+#11	AnnotatorNotes T12	a little more than 10 per cent in 2012, and even lower in 2008.
+T13	Tense_choice 882 884	is
+T14	Absence_explanation 885 895	a progress
+#12	AnnotatorNotes T14	the overall progress of about ... percent
+T15	Absence_explanation 899 912	an assessment
+#13	AnnotatorNotes T15	in how successfully students passed some courses
+T16	Prepositions 913 915	of
+#14	AnnotatorNotes T16	in
+T17	Redundant_comp 939 957	among the students
+A2	Delete T17
+#15	AnnotatorNotes T13	was
+T18	Capitalisation 265 281	computer science
+#16	AnnotatorNotes T18	Computer Science
+T19	Capitalisation 416 431	health sciences
+#17	AnnotatorNotes T19	Health Sciences
+T20	Capitalisation 598 606	business
+#18	AnnotatorNotes T20	Business
+T21	Capitalisation 611 621	humanities
+#19	AnnotatorNotes T21	Humanities
+T22	Capitalisation 670 674	math
+#20	AnnotatorNotes T22	Math
+T23	Capitalisation 679 686	science
+#21	AnnotatorNotes T23	Science
+T24	Noun_number 660 666	change
+#22	AnnotatorNotes T24	changes
+T25	Agreement_errors 687 690	was
+#23	AnnotatorNotes T25	were
+R1	Dependent_change Arg1:T24 Arg2:T25	

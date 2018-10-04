@@ -1,0 +1,16 @@
+T1	Punctuation 102 108	Brazil
+#1	AnnotatorNotes T1	Brazil,
+T2	Agreement_errors 138 141	are
+#2	AnnotatorNotes T2	is
+T3	Agreement_errors 133 137	data
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	Spelling 154 161	Celcius
+#3	AnnotatorNotes T4	celsius
+T5	Capitalisation 154 161	Celcius
+#4	AnnotatorNotes T5	celsius
+T6	Spelling 1249 1253	smal
+#5	AnnotatorNotes T6	small
+T7	Spelling 1339 1348	noticible
+#6	AnnotatorNotes T7	noticeable
+T8	note 1403 1404	r
+#7	AnnotatorNotes T8	Zavyalov

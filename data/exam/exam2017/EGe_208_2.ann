@@ -1,0 +1,44 @@
+T1	Punctuation 43 70	, such as space exploration
+#1	AnnotatorNotes T1	, such as space exploration,
+T2	Redundant_comp 74 79	spend
+A1	Delete T2
+T3	Redundant_comp 92 94	to
+A2	Delete T3
+T4	Possessive 110 117	peoples
+#2	AnnotatorNotes T4	people's
+T5	Absence_comp_sent 80 84	they
+#3	AnnotatorNotes T5	should they
+T6	Spelling 137 146	quesstion
+#4	AnnotatorNotes T6	question
+T7	lex_item_choice 361 378	high-dispanseable
+#5	AnnotatorNotes T7	expensive
+T8	Spelling 437 445	presious
+#6	AnnotatorNotes T8	precious
+T9	Spelling 446 454	resouces
+#7	AnnotatorNotes T9	resources
+T10	Noun_number 515 518	end
+#8	AnnotatorNotes T10	ends
+T11	Spelling 628 632	leas
+#9	AnnotatorNotes T11	least
+T12	Redundant_comp 718 720	do
+A3	Delete T12
+T13	Agreement_errors 721 728	provide
+#10	AnnotatorNotes T13	provides
+T14	Agreement_errors 706 717	exploration
+R1	Dependent_change Arg1:T13 Arg2:T14	
+T15	Prepositions 782 784	in
+#11	AnnotatorNotes T15	into
+T16	Redundant_comp 795 801	shared
+A4	Delete T16
+T17	Absence_comp_sent 880 1050	I tend to think that country should solve peoples' problems in the first place, and take interest in space exploration only when there is a healthy inner atmosphere in it
+#12	AnnotatorNotes T17	but I tend to think that country should solve peoples' problems in the first place, and take interest in space exploration only when there is a healthy inner atmosphere in it
+T18	Possessive 922 930	peoples'
+#13	AnnotatorNotes T18	people's
+T19	lex_item_choice 922 930	peoples'
+#14	AnnotatorNotes T19	people's
+T20	Word_choice 940 958	in the first place
+#15	AnnotatorNotes T20	firstly
+T21	Punctuation 958 1050	, and take interest in space exploration only when there is a healthy inner atmosphere in it
+#16	AnnotatorNotes T21	and take interest in space exploration only when there is a healthy inner atmosphere in it
+T22	note 1049 1050	t
+#17	AnnotatorNotes T22	Zavyalov

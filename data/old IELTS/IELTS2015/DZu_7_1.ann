@@ -1,0 +1,111 @@
+T1	Agreement_errors 10 17	provide
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	provides
+T2	Spelling 51 58	Railway
+A4	Weight-language T2 Minor
+A5	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	railway
+T3	Spelling 151 158	devided
+A6	Cause T3 Typo
+A7	Weight-language T3 Major
+A8	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	divided 
+T4	lex_item_choice 189 195	opened
+A9	Cause T4 Typo
+A10	Weight-language T4 Major
+A11	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	of opening 
+T5	lex_item_choice 197 205	killomet
+A12	Cause T5 Typo
+A13	Weight-language T5 Major
+A14	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	the length 
+T6	Punctuation 289 294	18663
+#6	AnnotatorNotes T6	1863 
+T7	Punctuation 357 364	systems
+A15	Cause T7 Typo
+A16	Weight-language T7 Major
+A17	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	system's 
+T8	lex_item_choice 365 369	open
+A18	Cause T8 Typo
+A19	Weight-language T8 Major
+A20	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	opening 
+T9	Spelling 400 410	kilometres
+A21	Cause T9 Typo
+A22	Weight-language T9 Major
+A23	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	kilometers 
+T10	Spelling 449 454	plase
+A24	Cause T10 Typo
+A25	Weight-language T10 Major
+A26	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	place 
+T11	Spelling 466 473	Railway
+A27	Cause T11 Typo
+A28	Weight-language T11 Minor
+A29	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	railway
+T12	Often_confused 513 517	then
+A30	Cause T12 Typo
+A31	Weight-language T12 Major
+A32	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	than 
+T13	Spelling 593 604	killometres
+A33	Cause T13 Typo
+A34	Weight-language T13 Major
+A35	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	kilometers 
+T14	Spelling 605 609	rout
+A36	Cause T14 Typo
+A37	Weight-language T14 Major
+A38	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	route 
+T15	Prepositions 593 609	killometres rout
+A39	Cause T15 Typo
+A40	Weight-language T15 Minor
+A41	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	kilometers of route 
+T16	Punctuation 645 648	the
+A42	Cause T16 Typo
+A43	Weight-language T16 Major
+A44	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	The 
+T17	Spelling 649 654	lider
+A45	Cause T17 Typo
+A46	Weight-language T17 Major
+A47	Weight-understanding T17 Major
+#17	AnnotatorNotes T17	leader 
+T18	Spelling 672 678	shouws
+A48	Cause T18 Typo
+A49	Weight-language T18 Major
+A50	Weight-understanding T18 Minor
+#18	AnnotatorNotes T18	shows 
+T19	Numerals 719 727	millions
+A51	Cause T19 Typo
+A52	Weight-language T19 Major
+A53	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	million
+T20	Prepositions 719 738	millions passengers
+A54	Cause T20 Typo
+A55	Weight-language T20 Minor
+A56	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	million of passengers 
+T21	Numerals 756 759	six
+A57	Cause T21 Typo
+A58	Weight-language T21 Major
+A59	Weight-understanding T21 Minor
+#21	AnnotatorNotes T21	sixth 
+T22	Absence_explanation 783 796	45 passengers
+A60	Cause T22 Typo
+A61	Weight-language T22 Minor
+A62	Weight-understanding T22 Major
+#22	AnnotatorNotes T22	45 million passengers per year
+T23	Spelling 798 800	At
+A63	Cause T23 Typo
+A64	Weight-language T23 Major
+A65	Weight-understanding T23 Major
+#23	AnnotatorNotes T23	As

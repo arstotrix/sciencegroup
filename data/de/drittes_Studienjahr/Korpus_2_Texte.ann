@@ -1,0 +1,66 @@
+T1	Adjectives 20800 20806	schöne
+#1	AnnotatorNotes T1	schönes
+T2	Pronouns 21116 21120	sich
+#2	AnnotatorNotes T2	uns
+T3	Prepositions 20364 20377	anderen Tagen
+#3	AnnotatorNotes T3	an anderen Tagen
+T4	Capitalisation 20418 20426	Dientags
+#4	AnnotatorNotes T4	dientags
+T5	Prepositions 20569 20573	nach
+#5	AnnotatorNotes T5	ins
+T6	Pronouns 20620 20625	meine
+#6	AnnotatorNotes T6	meinen
+T7	Pronouns 20664 20669	meine
+#7	AnnotatorNotes T7	meinen
+T8	Word_choice 20700 20706	Kaffee
+#8	AnnotatorNotes T8	Cafè
+T9	Articles 20719 20722	den
+#9	AnnotatorNotes T9	dem
+T10	Nouns 20723 20740	Einsendeschlusses
+#10	AnnotatorNotes T10	Einsendeschluss
+T11	Determiners 14354 14368	Programmierung
+#11	AnnotatorNotes T11	die Programmierung
+T12	Spelling 14373 14385	Entwickelung
+#12	AnnotatorNotes T12	Entwicklung
+T13	Determiners 14386 14389	der
+A1	Delete T13
+T14	Adjectives 14390 14395	neuen
+#13	AnnotatorNotes T14	neuer
+T15	Nouns 14396 14406	Programmen
+#14	AnnotatorNotes T15	Programme
+T16	Determiners 14426 14429	die
+A2	Delete T16
+T17	Noun_number 13723 13726	Job
+#15	AnnotatorNotes T17	Jobs
+T18	Determiners 14044 14053	Fähigkeit
+#16	AnnotatorNotes T18	die Fähigkeit
+T19	Determiners 14054 14056	zu
+#17	AnnotatorNotes T19	zur 
+T20	Word_choice 14044 14070	Fähigkeit zu Terminplanung
+#18	AnnotatorNotes T20	Organisationsfähigkeit
+T21	Determiners 14141 14163	Verdienstmöglichkeiten
+#19	AnnotatorNotes T21	Die Verdienstmöglichkeiten
+T22	Pronouns 11073 11079	Meiner
+#20	AnnotatorNotes T22	Meine
+T23	Word_choice 11080 11090	Auffassung
+#21	AnnotatorNotes T23	Meinung
+T24	Prepositions 11091 11099	nach der
+#22	AnnotatorNotes T24	zur
+T25	Prepositions 11142 11144	im
+A3	Delete T25
+T26	Determiners 11145 11149	Wald
+#23	AnnotatorNotes T26	den
+T27	Verbs 11155 11156	,
+#24	AnnotatorNotes T27	ist,
+A4	Addition T27
+T28	Word_order 11190 11191	,
+#25	AnnotatorNotes T28	gibt,
+T29	Word_order 11214 11218	gibt
+A5	Delete T29
+R1	Dependent_change Arg1:T29 Arg2:T28	
+T30	Articles 11196 11199	ein
+#26	AnnotatorNotes T30	einen
+T31	Prepositions 11738 11742	über
+#27	AnnotatorNotes T31	an
+T32	Pronouns 12152 12161	verletzen
+#28	AnnotatorNotes T32	dich verletzen

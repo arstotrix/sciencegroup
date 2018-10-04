@@ -1,0 +1,44 @@
+T1	Prepositions 20 23	for
+#1	AnnotatorNotes T1	to
+T2	Spelling 49 55	bacame
+#2	AnnotatorNotes T2	has become
+T3	Tense_choice 49 55	bacame
+#3	AnnotatorNotes T3	has become
+T4	Spelling 70 73	par
+#4	AnnotatorNotes T4	part
+T5	Spelling 103 110	despute
+#5	AnnotatorNotes T5	dispute
+T6	Spelling 157 166	conviniet
+#6	AnnotatorNotes T6	convenient
+T7	Articles 389 392	one
+#7	AnnotatorNotes T7	the one
+T9	Spelling 422 429	opinoin
+#9	AnnotatorNotes T9	opinion
+T8	Punctuation 634 667	, how and when one person can fly
+#8	AnnotatorNotes T8	how and when one person can fly
+T10	Pronouns 804 809	who's
+#10	AnnotatorNotes T10	whose
+T11	Punctuation 802 837	, who's turn it is to take a flight
+#11	AnnotatorNotes T11	who's turn it is to take a flight
+T12	Redundant_comp 984 989	could
+A1	Delete T12
+T13	Articles 1113 1116	the
+#12	AnnotatorNotes T13	a
+T14	Spelling 1241 1251	interfeare
+#13	AnnotatorNotes T14	interfere
+T15	Prepositions 1252 1256	with
+#14	AnnotatorNotes T15	into
+T16	Agreement_errors 1605 1607	is
+#15	AnnotatorNotes T16	are
+T17	Agreement_errors 1600 1604	laws
+R1	Dependent_change Arg1:T16 Arg2:T17	
+T18	Spelling 1691 1694	and
+#16	AnnotatorNotes T18	an
+T19	Spelling 1721 1729	polition
+#17	AnnotatorNotes T19	pollution
+T20	Prepositions 1768 1771	for
+A2	Delete T20
+T21	Category_confusion 1847 1860	environmental
+#18	AnnotatorNotes T21	environmentally
+T22	note 1872 1873	l
+#19	AnnotatorNotes T22	Zavyalov

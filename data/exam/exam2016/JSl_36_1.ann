@@ -1,0 +1,87 @@
+T1	lex_item_choice 27 33	amount
+#1	AnnotatorNotes T1	number
+T2	Noun_number 97 103	region
+#2	AnnotatorNotes T2	regions
+T3	Punctuation 105 108	So,
+A1	Delete T3
+#3	AnnotatorNotes T3	So
+T4	Spelling 237 238	^
+A2	Delete T4
+T5	Numerals 263 267	23,7
+#4	AnnotatorNotes T5	23.7
+T6	Punctuation 393 394	.
+#5	AnnotatorNotes T6	,
+T7	Numerals 416 424	millions
+#6	AnnotatorNotes T7	million
+T8	Articles 478 487	Situation
+#7	AnnotatorNotes T8	The situation
+T9	lex_item_choice 525 531	amount
+#8	AnnotatorNotes T9	number
+T10	Spelling 611 614	bur
+#9	AnnotatorNotes T10	but
+T11	Articles 615 625	proportion
+#10	AnnotatorNotes T11	the proportion
+T12	Numerals 680 684	11,1
+#11	AnnotatorNotes T12	11.1
+T13	Numerals 661 669	millions
+#12	AnnotatorNotes T13	million
+T14	Numerals 685 693	millions
+#13	AnnotatorNotes T14	million
+T15	Absence_comp_sent 699 707	not went
+#14	AnnotatorNotes T15	did not go
+T16	Agreement_errors 732 736	show
+#15	AnnotatorNotes T16	shows
+T17	Articles 740 746	amount
+#16	AnnotatorNotes T17	the number
+T18	lex_item_choice 740 746	amount
+#17	AnnotatorNotes T18	the number
+T19	Articles 768 772	rest
+#18	AnnotatorNotes T19	the rest
+T20	Articles 776 781	world
+#19	AnnotatorNotes T20	the world
+T21	Numerals 843 847	12,8
+#20	AnnotatorNotes T21	12.8
+T22	Numerals 852 856	10,5
+#21	AnnotatorNotes T22	10.5
+T23	Numerals 857 865	millions
+#22	AnnotatorNotes T23	million
+T24	Articles 988 994	Number
+#23	AnnotatorNotes T24	The level
+T25	lex_item_choice 988 994	Number
+#24	AnnotatorNotes T25	The level
+T26	Prefix 998 1010	not-educated
+#25	AnnotatorNotes T26	uneducated
+T27	Numerals 1074 1078	14,5
+#26	AnnotatorNotes T27	14.5
+T28	Numerals 1083 1087	18,2
+#27	AnnotatorNotes T28	18.2
+T29	Redundant_comp 1123 1127	very
+A3	Delete T29
+T30	Articles 1168 1176	smallest
+#28	AnnotatorNotes T30	the lowest
+T31	lex_item_choice 1168 1176	smallest
+#29	AnnotatorNotes T31	the lowest
+T32	Redundant_comp 1177 1183	at all
+A4	Delete T32
+T33	Numerals 1190 1193	4,8
+#30	AnnotatorNotes T33	4.8
+T34	Numerals 1216 1219	5,1
+#31	AnnotatorNotes T34	5.1
+T35	Articles 1271 1280	Situation
+#32	AnnotatorNotes T35	The situation
+T36	Articles 1284 1297	Rest of World
+#33	AnnotatorNotes T36	the rest of the world
+T37	Articles 1336 1341	scale
+#34	AnnotatorNotes T37	the scale
+T38	Numerals 1354 1358	15,3
+#35	AnnotatorNotes T38	15.3
+T39	Numerals 1359 1367	millions
+#36	AnnotatorNotes T39	million
+T40	Redundant_comp 1389 1391	to
+A5	Delete T40
+T41	Articles 1541 1547	Number
+#37	AnnotatorNotes T41	The number
+T42	lex_item_choice 1600 1606	amount
+#38	AnnotatorNotes T42	number
+T43	Prepositions 1642 1646	2012
+#39	AnnotatorNotes T43	in 2012

@@ -1,0 +1,72 @@
+T1	Confusion_of_structures 16 47	it can be clearly seen 3 curves
+#1	AnnotatorNotes T1	we can clearly see 3 curves
+T2	Tense_choice 55 71	have been showed
+#2	AnnotatorNotes T2	show
+T3	Articles 72 83	proportions
+#3	AnnotatorNotes T3	the proportions
+T5	Capitalisation 166 174	japanese
+#5	AnnotatorNotes T5	Japanese
+T6	Absence_comp_sent 203 228	the growing down tendency
+#6	AnnotatorNotes T6	that there is a downward tendency
+T7	Punctuation 248 277	During approximately 27 years
+#7	AnnotatorNotes T7	During approximately 27 years,
+T8	Prepositional_noun 321 329	level at
+#8	AnnotatorNotes T8	level of
+T9	Category_confusion 296 304	steadily
+#9	AnnotatorNotes T9	steady
+T11	Category_confusion 360 366	rocket
+#11	AnnotatorNotes T11	rocketing
+T12	Tense_choice 440 449	has risen
+#12	AnnotatorNotes T12	rises
+T13	lex_part_choice 451 473	On the other situation
+#13	AnnotatorNotes T13	In a different situation
+T14	Often_confused 531 537	cyclic
+#14	AnnotatorNotes T14	cyclical
+T15	lex_item_choice 498 503	rhytm
+T16	Articles 701 706	rates
+#15	AnnotatorNotes T16	the rates
+T17	Articles 749 755	change
+#16	AnnotatorNotes T17	the change
+T18	lex_item_choice 733 737	temp
+A1	Cause T18 L1_interference
+#17	AnnotatorNotes T18	pace
+T19	Prepositions 718 720	At
+#18	AnnotatorNotes T19	In
+T21	Punctuation 783 832	But considering the difference in the proportions
+#19	AnnotatorNotes T21	But considering the difference in the proportions, 
+T22	Comparative_constr 844 878	the growth bigger, than in the USA
+#20	AnnotatorNotes T22	a bigger growth than the USA
+T23	Tense_choice 943 946	has
+#21	AnnotatorNotes T23	had 
+T24	Absence_comp_sent 980 984	more
+#22	AnnotatorNotes T24	more prominent
+T10	Prepositions 305 307	on
+#10	AnnotatorNotes T10	at
+T4	Prepositions 98 102	with
+#4	AnnotatorNotes T4	at
+T25	Articles 103 106	age
+#23	AnnotatorNotes T25	the age
+T26	Category_confusion 215 219	down
+#24	AnnotatorNotes T26	downward
+#25	AnnotatorNotes T15	fluctuations
+T27	Agreement_errors 490 493	was
+#26	AnnotatorNotes T27	were
+R1	Dependent_change Arg1:T15 Arg2:T27	
+T28	Tense_choice 525 528	has
+#27	AnnotatorNotes T28	had
+T29	Redundant_comp 544 561	, like an economy
+A2	Delete T29
+T30	Tense_choice 675 683	couldn't
+#28	AnnotatorNotes T30	cannot
+T31	Redundant_comp 741 748	curve's
+A3	Delete T31
+T20	Prepositional_adjective 759 771	similar than
+#29	AnnotatorNotes T20	similar to
+T32	Ref_device 772 781	in Sweden
+#30	AnnotatorNotes T32	that in Sweden
+T33	Category_confusion 947 959	the increase
+#31	AnnotatorNotes T33	increased
+T34	Tense_choice 977 979	is
+#32	AnnotatorNotes T34	was
+T35	Category_confusion 926 931	elder
+#33	AnnotatorNotes T35	elderly

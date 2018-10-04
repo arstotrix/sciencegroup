@@ -1,0 +1,77 @@
+T1	Redundant_comp 0 8	Where is
+A1	Delete T1
+T2	lex_item_choice 19 29	consist of
+#1	AnnotatorNotes T2	presents
+T3	Agreement_errors 19 29	consist of
+#2	AnnotatorNotes T3	presents
+T4	lex_part_choice 165 171	broken
+#3	AnnotatorNotes T4	dotted
+T5	Absence_explanation 183 190	the USA
+#4	AnnotatorNotes T5	the USA (thick line)
+T6	Articles 230 238	a grouth
+#5	AnnotatorNotes T6	growth
+T7	Spelling 230 238	a grouth
+#6	AnnotatorNotes T7	growth
+T8	Prepositions 227 229	to
+#7	AnnotatorNotes T8	towards
+T9	Prepositions 277 279	to
+#8	AnnotatorNotes T9	of
+T10	lex_item_choice 273 276	way
+#9	AnnotatorNotes T10	pattern
+T11	Prepositions 292 294	in
+#10	AnnotatorNotes T11	throughout
+T12	Redundant_comp 350 352	on
+A2	Delete T12
+T13	Tense_choice 399 409	have risen
+#11	AnnotatorNotes T13	had risen
+T14	Prepositions 410 412	on
+A3	Cause T14 L1_interference
+#12	AnnotatorNotes T14	by
+T15	Spelling 413 416	708
+#13	AnnotatorNotes T15	78
+T16	Tense_choice 450 454	stay
+#14	AnnotatorNotes T16	stayed
+T17	Tense_choice 501 513	have changed
+#15	AnnotatorNotes T17	is predicted to change
+T18	Numerical 514 532	in about two times
+#16	AnnotatorNotes T18	to about twice as high the percentage 
+T19	Linking_device 567 572	where
+#17	AnnotatorNotes T19	when
+T20	Spelling 581 587	riched
+#18	AnnotatorNotes T20	reach
+T21	Tense_choice 576 587	have riched
+#19	AnnotatorNotes T21	is expected to reach
+T22	Spelling 590 594	pick
+#20	AnnotatorNotes T22	peak
+T23	Prepositions 595 597	in
+#21	AnnotatorNotes T23	at
+T24	Articles 616 619	USA
+#22	AnnotatorNotes T24	the USA
+T25	Ref_device 663 671	this one
+#23	AnnotatorNotes T25	it
+T26	Articles 676 689	different way
+#24	AnnotatorNotes T26	a different pattern
+T27	lex_item_choice 686 689	way
+#25	AnnotatorNotes T27	pattern
+T28	Prepositions 711 715	than
+#26	AnnotatorNotes T28	from
+T29	Standard 676 722	different way of population growth than others
+#27	AnnotatorNotes T29	a pattern of population growth different from others
+T30	Prepositions 734 736	in
+#28	AnnotatorNotes T30	at
+T31	Tense_choice 751 761	don’t have
+#29	AnnotatorNotes T31	hadn't had
+T32	Spelling 796 800	thwt
+#30	AnnotatorNotes T32	that
+T33	Tense_choice 809 829	is constantly rising
+#31	AnnotatorNotes T33	constantly rises
+T34	Tense_choice 834 837	hit
+#32	AnnotatorNotes T34	is going to hit
+T35	Spelling 840 844	pick
+#33	AnnotatorNotes T35	peak
+T36	Prepositions 859 861	in
+#34	AnnotatorNotes T36	at
+T37	Prepositions 877 879	At
+#35	AnnotatorNotes T37	In
+T38	Word_choice 934 954	has a biggest change
+#36	AnnotatorNotes T38	is the biggest

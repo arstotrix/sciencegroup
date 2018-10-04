@@ -1,0 +1,55 @@
+T1	Capitalisation 58 66	european
+T2	Tense_form 116 121	gives
+T3	suggestion 143 157	transportation
+T4	Spelling 399 407	per cent
+T5	suggestion 455 459	more
+T6	Tense_form 516 518	is
+T7	suggestion 388 390	is
+T8	lex_item_choice 583 587	this
+T9	Spelling 626 634	per cent
+T10	Redundant_comp 703 709	of the
+T11	Spelling 739 747	per cent
+T12	Punctuation 747 751	.The
+T13	Tense_form 791 794	are
+T14	suggestion 805 811	bigger
+T16	Spelling 867 875	per cent
+T17	Spelling 1094 1102	per cent
+T18	Spelling 1244 1251	diarams
+T19	suggestion 1257 1287	as can be seen from the charts
+T20	suggestion 1344 1361	the heavier goods
+T21	Punctuation 1361 1362	,
+#1	AnnotatorNotes T1	European
+T22	Articles 58 66	european
+#2	AnnotatorNotes T22	the European
+#3	AnnotatorNotes T2	give
+#4	AnnotatorNotes T4	percent
+#5	AnnotatorNotes T8	these
+#6	AnnotatorNotes T9	percent
+T23	Punctuation 634 640	.There
+#7	AnnotatorNotes T23	. There
+A1	Delete T10
+#8	AnnotatorNotes T11	percent
+#9	AnnotatorNotes T12	. The
+#10	AnnotatorNotes T16	percent
+T24	Coordinate 939 1019	that is 11 % in rail transport and 16 % in the number of goods delivered by road
+#11	AnnotatorNotes T24	, that is 11% in rail transport and 16% in the number of goods delivered by road
+#12	AnnotatorNotes T17	percent
+T25	Spelling 605 614	deliverly
+#13	AnnotatorNotes T25	delivery
+T26	Spelling 832 841	deliverly
+#14	AnnotatorNotes T26	delivery
+T27	Spelling 1175 1184	deliverly
+#15	AnnotatorNotes T27	delivery
+#16	AnnotatorNotes T18	diagrams
+T28	Prepositions 291 293	in
+#17	AnnotatorNotes T28	for
+#18	AnnotatorNotes T6	are
+T29	Absence_explanation 748 770	The machinery products
+#19	AnnotatorNotes T29	The percent of machinery products
+#20	AnnotatorNotes T13	is
+R1	Dependent_change Arg1:T29 Arg2:T13	
+T30	Absence_comp_sent 817 831	the same goods
+#21	AnnotatorNotes T30	of the same goods
+T15	Redundant_comp 1237 1243	of the
+A2	Delete T15
+A3	Delete T21

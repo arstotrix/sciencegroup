@@ -1,0 +1,32 @@
+T1	Spelling 10 15	shous
+#1	AnnotatorNotes T1	shows
+T2	Agreement_errors 102 106	male
+#2	AnnotatorNotes T2	males
+T3	Agreement_errors 111 117	female
+#3	AnnotatorNotes T3	females
+T4	Articles 84 98	the proportion
+#4	AnnotatorNotes T4	a proportion
+T5	Modals 169 172	see
+#5	AnnotatorNotes T5	can see
+T6	Tense_choice 232 239	consist
+#6	AnnotatorNotes T6	consists
+A1	Cause T6 L1_interference
+T7	lex_item_choice 522 528	middle
+A2	Cause T7 L1_interference
+T8	Redundant_comp 423 442	with qualifications
+T9	Punctuation 485 491	degree
+#7	AnnotatorNotes T9	degree
+#8	AnnotatorNotes T7	average
+T10	Ref_device 530 536	In all
+#9	AnnotatorNotes T10	Overall,
+T11	Spelling 712 714	If
+#10	AnnotatorNotes T11	It
+T12	Punctuation 746 756	All in all
+#11	AnnotatorNotes T12	All in all,
+T13	Punctuation 764 768	see,
+#12	AnnotatorNotes T13	see
+T14	lex_item_choice 845 850	quite
+#13	AnnotatorNotes T14	almost
+A3	Cause T14 L1_interference
+T15	Ref_device 861 864	But
+#14	AnnotatorNotes T15	However,

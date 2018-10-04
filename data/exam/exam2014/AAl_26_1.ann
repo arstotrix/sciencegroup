@@ -1,0 +1,51 @@
+T1	Spelling 966 974	groun up
+T2	Category_confusion 446 458	dramatically
+#1	AnnotatorNotes T2	dramatic
+T3	Category_confusion 791 803	dramatically
+#2	AnnotatorNotes T3	dramatic
+T4	Absence_comp_colloc 80 82	65
+#3	AnnotatorNotes T4	65 years old
+T5	Articles 135 138	USA
+T6	Articles 199 202	USA
+#4	AnnotatorNotes T6	the USA
+#5	AnnotatorNotes T5	the USA
+T7	Absence_comp_colloc 342 347	years
+#6	AnnotatorNotes T7	years old
+T8	Noun_number 575 581	levels
+#7	AnnotatorNotes T8	level
+T9	Tense_choice 633 636	was
+#8	AnnotatorNotes T9	were
+T10	Articles 740 745	USA's
+#9	AnnotatorNotes T10	the USA
+T11	Absence_comp_colloc 956 961	years
+#10	AnnotatorNotes T11	years old
+T12	Articles 1016 1019	USA
+#11	AnnotatorNotes T12	the USA
+T13	Noun_number 519 530	populations
+#12	AnnotatorNotes T13	population
+T14	Articles 309 319	proportion
+#13	AnnotatorNotes T14	the proportion
+T15	Standard 740 756	USA's population
+#14	AnnotatorNotes T15	the population of the USA
+T17	Articles 519 530	populations
+#16	AnnotatorNotes T17	the population
+T18	Prepositions 551 556	since
+#17	AnnotatorNotes T18	from
+T20	Punctuation 519 530	populations
+T21	Redundant_comp 567 574	average
+A1	Delete T21
+T23	Absence_explanation 609 611	to
+#18	AnnotatorNotes T23	to then
+T24	Articles 681 691	population
+#19	AnnotatorNotes T24	the population
+T25	lex_item_choice 765 771	"calm"
+#20	AnnotatorNotes T25	flat
+T26	Comparative_adj 760 771	more "calm"
+#21	AnnotatorNotes T26	flatter
+R1	Dependent_change Arg1:T25 Arg2:T26	
+T16	Prepositions 975 980	since
+#15	AnnotatorNotes T16	from
+T27	lex_part_choice 989 1008	such countries like
+#22	AnnotatorNotes T27	such countries as
+#23	AnnotatorNotes T20	the population,
+#24	AnnotatorNotes T1	grown up

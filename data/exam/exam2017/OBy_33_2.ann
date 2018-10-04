@@ -1,0 +1,76 @@
+T1	Absence_comp_sent 35 40	think
+#1	AnnotatorNotes T1	who think
+T2	Ref_device 130 134	this
+#2	AnnotatorNotes T2	these
+T3	Inappropriate_register 262 270	very fat
+#3	AnnotatorNotes T3	overweighted
+T4	Tense_choice 284 291	sitting
+#4	AnnotatorNotes T4	sit
+T5	Articles 304 306	TV
+#5	AnnotatorNotes T5	a TV
+T6	Inappropriate_register 341 346	don’t
+#6	AnnotatorNotes T6	do not
+T7	Redundant_comp 350 362	any kinds of
+A1	Delete T7
+T8	Often_confused 372 379	Another
+#7	AnnotatorNotes T8	The other 
+T9	Category_confusion 438 448	eye vision
+#8	AnnotatorNotes T9	eyesight
+T10	Articles 478 480	TV
+#9	AnnotatorNotes T10	a TV
+T11	Prepositions 508 523	The solution of
+#10	AnnotatorNotes T11	The solution for
+T12	lex_item_choice 579 595	on the fresh air
+A2	Cause T12 L1_interference
+#11	AnnotatorNotes T12	in parks 
+T13	Noun_number 605 610	sport
+#12	AnnotatorNotes T13	sports
+T14	Tense_choice 615 622	limited
+#13	AnnotatorNotes T14	limit
+T15	lex_item_choice 623 636	themselves of
+#14	AnnotatorNotes T15	the time they 
+T16	Tense_choice 637 642	using
+#15	AnnotatorNotes T16	use
+R1	Dependent_change Arg1:T16 Arg2:T15	
+T17	Prepositions 750 765	at surroundings
+#16	AnnotatorNotes T17	to everything that surrounds them
+T18	Absence_explanation 753 765	surroundings
+#17	AnnotatorNotes T18	 everything that surrounds them
+T19	Tense_choice 766 778	would become
+#18	AnnotatorNotes T19	becomes
+T20	Redundant_comp 808 815	appears
+A3	Delete T20
+T21	Spelling 816 818	to
+#19	AnnotatorNotes T21	too
+T22	Absence_comp_sent 832 835	not
+#20	AnnotatorNotes T22	do not
+T23	Articles 924 930	person
+#21	AnnotatorNotes T23	the person
+T24	Inappropriate_register 940 942	he
+#22	AnnotatorNotes T24	he/she
+T25	Inappropriate_register 954 957	his
+#23	AnnotatorNotes T25	his/her
+T26	Articles 972 991	very strong opinion
+#24	AnnotatorNotes T26	a very strong opinion
+T27	Redundant 1013 1017	very
+A4	Delete T27
+T28	Often_confused 1028 1038	technology
+#25	AnnotatorNotes T28	technologies
+T29	Spelling 1094 1101	can not
+#26	AnnotatorNotes T29	cannot
+T30	Redundant 1107 1109	of
+A5	Delete T30
+T31	Ref_device 1116 1118	it
+#27	AnnotatorNotes T31	them
+T32	Punctuation 1121 1128	Overall
+#28	AnnotatorNotes T32	Overall,
+T33	Agreement_errors 1175 1177	is
+#29	AnnotatorNotes T33	are
+T34	lex_item_choice 1188 1193	using
+#30	AnnotatorNotes T34	overusing
+T35	Often_confused 1197 1207	technology
+#31	AnnotatorNotes T35	technologies
+T36	Articles 1213 1221	solution
+#32	AnnotatorNotes T36	the solution
+T37	Prepositions 1222 1229	of them
+#33	AnnotatorNotes T37	for them

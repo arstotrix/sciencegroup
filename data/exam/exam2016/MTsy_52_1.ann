@@ -1,0 +1,61 @@
+T2	Tense_form 14 18	deal
+T3	Articles 115 126	opportunity
+T4	Tense_choice 194 201	changes
+T5	Tense_choice 275 278	get
+T6	Spelling 322 329	evedent
+T7	Spelling 339 343	graf
+T8	Capitalisation 397 400	the
+T1	Prepositions 585 587	to
+T9	Numerals 619 629	5 millions
+T12	Numerals 703 715	5,5 millions
+T13	Numerals 734 746	2,8 millions
+T14	Spelling 829 831	an
+#1	AnnotatorNotes T14	and
+T15	Tense_choice 747 751	less
+#2	AnnotatorNotes T15	were less
+T16	Tense_form 866 870	were
+#3	AnnotatorNotes T2	deals
+#4	AnnotatorNotes T3	an opportunity
+#5	AnnotatorNotes T4	changed
+#6	AnnotatorNotes T5	got
+#7	AnnotatorNotes T6	evident
+#8	AnnotatorNotes T7	graph
+#9	AnnotatorNotes T8	The
+#10	AnnotatorNotes T1	in
+#11	AnnotatorNotes T9	million
+#13	AnnotatorNotes T12	5.5 million
+#14	AnnotatorNotes T13	2.8 million
+T10	Prepositions 832 845	Rest of World
+#15	AnnotatorNotes T10	in Rest of World
+#16	AnnotatorNotes T16	was
+T17	note 921 922	.
+#17	AnnotatorNotes T17	Berseneva
+T18	Redundant_comp 391 396	There
+A1	Delete T18
+R1	Dependent_change Arg1:T18 Arg2:T8	
+T19	Tense_choice 432 438	dropes
+#18	AnnotatorNotes T19	dropped
+T20	Articles 549 554	World
+#19	AnnotatorNotes T20	the World
+T21	Punctuation 632 639	However
+#20	AnnotatorNotes T21	However,
+T11	Tense_choice 679 681	is
+#12	AnnotatorNotes T11	was
+T22	Articles 728 733	World
+#21	AnnotatorNotes T22	the World
+T23	Articles 840 845	World
+#22	AnnotatorNotes T23	the World
+T24	Articles 720 724	Rest
+#23	AnnotatorNotes T24	the Rest
+T25	Articles 832 836	Rest
+#24	AnnotatorNotes T25	the Rest
+T26	Absence_comp_sent 468 472	boys
+#25	AnnotatorNotes T26	the number of boys
+T27	Punctuation 473 475	in
+#26	AnnotatorNotes T27	- in
+T28	Prepositions 720 733	Rest of World
+#27	AnnotatorNotes T28	in Rest of World
+T29	Capitalisation 720 733	Rest of World
+#28	AnnotatorNotes T29	rest of world
+T30	Capitalisation 832 845	Rest of World
+#29	AnnotatorNotes T30	rest of world

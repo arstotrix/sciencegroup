@@ -1,0 +1,27 @@
+T2	Absence_comp_sent 102 110	a period
+T4	Prepositional_noun 181 191	reasons of
+T7	Attr_participial 493 565	amounting to 55 millions of users in 2012 and around 90 millions in 2013
+T8	lex_item_choice 571 578	regards
+T9	Absence_comp_sent 805 822	and the least one
+#1	AnnotatorNotes T2	a period of time
+#2	AnnotatorNotes T4	reasons for
+T11	Prepositions 414 416	By
+#3	AnnotatorNotes T11	In
+T12	lex_part_choice 470 472	in
+#4	AnnotatorNotes T12	into
+#5	AnnotatorNotes T7	, amounting to 55 millions of users in 2012 and around 90 millions in 2013
+T6	Redundant 568 570	As
+A1	Delete T6
+T13	Articles 579 586	reasons
+#6	AnnotatorNotes T13	the reasons
+#7	AnnotatorNotes T9	and the least valuable one
+T14	Attr_participial 861 877	representing 25%
+#8	AnnotatorNotes T14	, representing 25%
+T15	Numerals 546 557	90 millions
+#9	AnnotatorNotes T15	90 million
+T1	Attr_participial 313 363	accounting for about 150 millions of users in 2012
+#10	AnnotatorNotes T1	, accounting for about 150 millions of users in 2012
+#11	AnnotatorNotes T8	regarding
+T3	Capitalisation 571 578	regards
+#12	AnnotatorNotes T3	Regards
+R1	Dependent_change Arg1:T6 Arg2:T8	

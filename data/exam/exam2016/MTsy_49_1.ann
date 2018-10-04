@@ -1,0 +1,80 @@
+T2	lex_item_choice 23 33	influences
+T7	Spelling 377 384	remaind
+T1	Prepositions 662 666	2000
+#3	AnnotatorNotes T1	in 2000
+T9	Prepositions 776 780	2012
+#4	AnnotatorNotes T9	in 2012
+T10	Prepositions 1056 1060	2012
+#5	AnnotatorNotes T10	in 2012
+#6	AnnotatorNotes T7	remained
+#7	AnnotatorNotes T2	differences
+T4	Tense_choice 256 258	is
+#2	AnnotatorNotes T4	was
+T6	Spelling 397 404	company
+#9	AnnotatorNotes T6	compared
+T11	Tense_choice 455 459	have
+#11	AnnotatorNotes T11	had
+T12	Tense_choice 498 500	is
+#12	AnnotatorNotes T12	was
+T14	Tense_choice 595 597	is
+#13	AnnotatorNotes T14	was
+T15	Tense_choice 644 646	is
+#14	AnnotatorNotes T15	was
+T16	Tense_choice 690 692	is
+#15	AnnotatorNotes T16	was
+T17	Tense_choice 781 783	is
+#16	AnnotatorNotes T17	was
+T18	Prepositions 994 998	2000
+#17	AnnotatorNotes T18	in 2000
+T19	note 1060 1061	.
+#18	AnnotatorNotes T19	Berseneva
+T20	Redundant_comp 136 142	by sex
+T21	Prepositions 143 146	and
+#19	AnnotatorNotes T21	in
+T22	Absence_comp_sent 147 152	parts
+#20	AnnotatorNotes T22	different parts
+T3	Tense_choice 838 843	can’t
+#8	AnnotatorNotes T3	couldn't
+T23	lex_item_choice 41 51	percentage
+#21	AnnotatorNotes T23	numbers
+T24	Non_defining 69 74	, who
+#22	AnnotatorNotes T24	who
+T25	Tense_choice 75 85	don’t have
+#23	AnnotatorNotes T25	didn't have
+T5	Redundant_comp 199 210	of children
+A2	Delete T5
+T26	lex_item_choice 219 236	free avaliability
+#1	AnnotatorNotes T26	access
+T27	Numerals 354 357	5,5
+#24	AnnotatorNotes T27	5.5
+T8	Agreement_errors 416 422	region
+#10	AnnotatorNotes T8	regions
+T28	Defining 449 454	, who
+#25	AnnotatorNotes T28	who
+T13	Numerals 558 561	5,1
+#26	AnnotatorNotes T13	5.1
+T29	Numerals 647 651	23,7
+#27	AnnotatorNotes T29	23.7
+T30	Capitalisation 672 689	Rest of the World
+#28	AnnotatorNotes T30	rest of the world
+T31	Numerals 735 739	12,8
+#29	AnnotatorNotes T31	12.8
+T32	Numerals 752 755	7,6
+#30	AnnotatorNotes T32	7.6
+T33	Numerals 820 823	4,8
+T34	Defining 890 896	, that
+T35	Absence_comp_sent 930 933	and
+#31	AnnotatorNotes T35	and boys
+T36	Tense_choice 938 943	don’t
+#32	AnnotatorNotes T36	didn't
+T37	Tense_choice 975 986	concerns to
+#33	AnnotatorNotes T37	concerned
+T39	Punctuation 999 1002	and
+#35	AnnotatorNotes T39	, and
+T40	Redundant_comp 1025 1032	of them
+A1	Delete T40
+T38	Prepositions 975 986	concerns to
+A3	Delete T38
+#34	AnnotatorNotes T34	that
+R1	Dependent_change Arg1:T20 Arg2:T21	
+#36	AnnotatorNotes T33	4.8

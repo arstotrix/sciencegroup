@@ -1,0 +1,45 @@
+T1	Agreement_errors 11 16	shows
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	show
+T2	Prepositions 17 22	about
+A2	Cause T2 Other
+A3	Delete T2
+T3	Prepositions 53 64	which place
+A4	Cause T3 Other
+#2	AnnotatorNotes T3	to which place
+T4	Agreement_errors 111 115	show
+A5	Cause T4 Other
+#3	AnnotatorNotes T4	shows
+T5	lex_item_choice 125 129	date
+A6	Cause T5 Other
+#4	AnnotatorNotes T5	number
+T6	Articles 249 251	UK
+A7	Cause T6 Absence_of_Category_in_L1
+#5	AnnotatorNotes T6	the UK 
+T7	Noun_number 344 358	famous country
+A8	Cause T7 Other
+#6	AnnotatorNotes T7	the famous countries
+T8	Numerals 389 397	millions
+A9	Cause T8 Other
+#7	AnnotatorNotes T8	million
+T9	Articles 401 403	UK
+A10	Cause T9 Absence_of_Category_in_L1
+#8	AnnotatorNotes T9	the UK
+T10	Possessive 432 450	Europe’s countries
+A11	Cause T10 L1_interference
+#9	AnnotatorNotes T10	European countries
+T11	Numerals 486 494	millions
+A12	Cause T11 Other
+#10	AnnotatorNotes T11	million
+T12	Articles 522 536	United Kingdom
+A13	Cause T12 Absence_of_Category_in_L1
+#11	AnnotatorNotes T12	the United Kingdom 
+T13	Numerals 559 567	millions
+A14	Cause T13 Other
+#12	AnnotatorNotes T13	million
+T14	lex_item_choice 671 683	had not some
+A15	Cause T14 Other
+#13	AnnotatorNotes T14	had not suffered
+T15	Category_confusion 684 696	dramatically
+A16	Cause T15 L1_interference
+#14	AnnotatorNotes T15	dramatic

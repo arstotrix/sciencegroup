@@ -1,0 +1,399 @@
+T1	Absence_comp_colloc 807 827	and a total increase
+A1	Cause T1 Other
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Critical
+#1	AnnotatorNotes T1	and had a total increase
+T2	Spelling 936 943	remined
+A4	Cause T2 Typo
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	remained
+T3	Spelling 1177 1186	differens
+A7	Cause T3 Other
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	difference
+T4	pos_DT 0 3	The
+#4	AnnotatorNotes T4	lemma = 'the'
+T5	pos_NN 4 9	table
+#5	AnnotatorNotes T5	lemma = 'table'
+T6	pos_IN 10 12	of
+#6	AnnotatorNotes T6	lemma = 'of'
+T7	pos_DT 13 16	the
+#7	AnnotatorNotes T7	lemma = 'the'
+T8	pos_NN 17 22	world
+#8	AnnotatorNotes T8	lemma = 'world'
+T9	pos_Fw 22 23	’
+#9	AnnotatorNotes T9	lemma = '’'
+T10	pos_NNS 23 24	s
+#10	AnnotatorNotes T10	lemma = 's'
+T11	pos_JJS 25 32	busiest
+#11	AnnotatorNotes T11	lemma = 'busiest'
+T12	pos_NNS 33 41	airports
+#12	AnnotatorNotes T12	lemma = 'airport'
+T13	pos_IN 42 44	by
+#13	AnnotatorNotes T13	lemma = 'by'
+T14	pos_NN 45 54	passenger
+#14	AnnotatorNotes T14	lemma = 'passenger'
+T15	pos_NN 55 62	traffic
+#15	AnnotatorNotes T15	lemma = 'traffic'
+T16	pos_IN 63 65	in
+#16	AnnotatorNotes T16	lemma = 'in'
+T17	pos_Z 66 75	2005-2006
+#17	AnnotatorNotes T17	lemma = '2005-2006'
+T18	pos_VBZ 76 81	shows
+#18	AnnotatorNotes T18	lemma = 'show'
+T19	pos_DT 82 86	some
+#19	AnnotatorNotes T19	lemma = 'some'
+T20	pos_VBG 87 98	interesting
+#20	AnnotatorNotes T20	lemma = 'interest'
+T21	pos_NNS 99 104	facts
+#21	AnnotatorNotes T21	lemma = 'fact'
+T22	pos_Fp 104 105	.
+#22	AnnotatorNotes T22	lemma = '.'
+T23	pos_NP 108 148	Hartsfield-Jackson International Airport
+#23	AnnotatorNotes T23	lemma = 'hartsfield-jackson_international_airport'
+T24	pos_Fc 148 149	,
+#24	AnnotatorNotes T24	lemma = ','
+T25	pos_NP 150 151	O
+#25	AnnotatorNotes T25	lemma = 'o'
+T26	pos_Fw 151 152	’
+#26	AnnotatorNotes T26	lemma = '’'
+T27	pos_NP 152 178	Hare International Airport
+#27	AnnotatorNotes T27	lemma = 'hare_international_airport'
+T28	pos_CC 179 182	and
+#28	AnnotatorNotes T28	lemma = 'and'
+T29	pos_NP 183 206	London Heathrow Airport
+#29	AnnotatorNotes T29	lemma = 'london_heathrow_airport'
+T30	pos_VBD 207 210	had
+#30	AnnotatorNotes T30	lemma = 'have'
+T31	pos_DT 211 212	a
+#31	AnnotatorNotes T31	lemma = 'a'
+T32	pos_JJ 213 219	slight
+#32	AnnotatorNotes T32	lemma = 'slight'
+T33	pos_NN 220 228	decrease
+#33	AnnotatorNotes T33	lemma = 'decrease'
+T34	pos_IN 229 231	in
+#34	AnnotatorNotes T34	lemma = 'in'
+T35	pos_NN 232 238	volume
+#35	AnnotatorNotes T35	lemma = 'volume'
+T36	pos_IN 239 243	from
+#36	AnnotatorNotes T36	lemma = 'from'
+T37	pos_Zp 244 248	0.3%
+#37	AnnotatorNotes T37	lemma = '0.3/100'
+T38	pos_TO 249 251	to
+#38	AnnotatorNotes T38	lemma = 'to'
+T39	pos_Zp 252 256	1.2%
+#39	AnnotatorNotes T39	lemma = '1.2/100'
+T40	pos_Fp 256 257	.
+#40	AnnotatorNotes T40	lemma = '.'
+T41	pos_RB 258 275	On the other hand
+#41	AnnotatorNotes T41	lemma = 'on_the_other_hand'
+T42	pos_Fc 275 276	,
+#42	AnnotatorNotes T42	lemma = ','
+T43	pos_NP 277 308	Paris Charles De Gaulle Airport
+#43	AnnotatorNotes T43	lemma = 'paris_charles_de_gaulle_airport'
+T44	pos_Fc 308 309	,
+#44	AnnotatorNotes T44	lemma = ','
+T45	pos_NP 310 339	Beijing International Airport
+#45	AnnotatorNotes T45	lemma = 'beijing_international_airport'
+T46	pos_CC 340 343	and
+#46	AnnotatorNotes T46	lemma = 'and'
+T47	pos_NP 344 364	Suvarnabhumi Airport
+#47	AnnotatorNotes T47	lemma = 'suvarnabhumi_airport'
+T48	pos_VBD 365 372	carried
+#48	AnnotatorNotes T48	lemma = 'carry'
+T49	pos_RB 373 386	approximately
+#49	AnnotatorNotes T49	lemma = 'approximately'
+T50	pos_RBR 387 391	more
+#50	AnnotatorNotes T50	lemma = 'many'
+T51	pos_IN 392 396	than
+#51	AnnotatorNotes T51	lemma = 'than'
+T52	pos_Z 397 407	42 million
+#52	AnnotatorNotes T52	lemma = '42000000'
+T53	pos_NNS 408 418	passangers
+#53	AnnotatorNotes T53	lemma = 'passangers'
+T54	pos_CC 419 422	and
+#54	AnnotatorNotes T54	lemma = 'and'
+T55	pos_VBD 423 426	had
+#55	AnnotatorNotes T55	lemma = 'have'
+T56	pos_DT 427 428	a
+#56	AnnotatorNotes T56	lemma = 'a'
+T57	pos_NN 429 433	rise
+#57	AnnotatorNotes T57	lemma = 'rise'
+T58	pos_IN 434 436	in
+#58	AnnotatorNotes T58	lemma = 'in'
+T59	pos_NN 437 443	volume
+#59	AnnotatorNotes T59	lemma = 'volume'
+T60	pos_IN 444 446	of
+#60	AnnotatorNotes T60	lemma = 'of'
+T61	pos_Zp 447 451	5.6%
+#61	AnnotatorNotes T61	lemma = '5.6/100'
+T62	pos_CC 452 455	and
+#62	AnnotatorNotes T62	lemma = 'and'
+T63	pos_RBR 456 460	more
+#63	AnnotatorNotes T63	lemma = 'many'
+T64	pos_Fp 253 254	.
+#64	AnnotatorNotes T64	lemma = '.'
+T65	pos_NP 464 484	Suvarnabhumi Airport
+#65	AnnotatorNotes T65	lemma = 'suvarnabhumi_airport'
+T66	pos_Fc 484 485	,
+#66	AnnotatorNotes T66	lemma = ','
+T67	pos_DT 486 489	the
+#67	AnnotatorNotes T67	lemma = 'the'
+T68	pos_VBD 490 500	top-ranked
+#68	AnnotatorNotes T68	lemma = 'top-ranked'
+T69	pos_Z 501 504	one
+#69	AnnotatorNotes T69	lemma = '1'
+T70	pos_Fc 504 505	,
+#70	AnnotatorNotes T70	lemma = ','
+T71	pos_VBD 506 515	decreased
+#71	AnnotatorNotes T71	lemma = 'decrease'
+T72	pos_PRP2 516 519	its
+#72	AnnotatorNotes T72	lemma = 'its'
+T73	pos_NN 520 527	ranking
+#73	AnnotatorNotes T73	lemma = 'ranking'
+T74	pos_IN 528 532	from
+#74	AnnotatorNotes T74	lemma = 'from'
+T75	pos_Z 533 535	18
+#75	AnnotatorNotes T75	lemma = '18'
+T76	pos_TO 536 538	to
+#76	AnnotatorNotes T76	lemma = 'to'
+T77	pos_Zp 539 554	15 between 2005
+#77	AnnotatorNotes T77	lemma = '15/2005'
+T78	pos_CC 555 558	and
+#78	AnnotatorNotes T78	lemma = 'and'
+T79	pos_Z 559 563	2006
+#79	AnnotatorNotes T79	lemma = '2006'
+T80	pos_Fp 256 257	.
+#80	AnnotatorNotes T80	lemma = '.'
+T81	pos_DT 565 568	The
+#81	AnnotatorNotes T81	lemma = 'the'
+T82	pos_JJS 569 576	highest
+#82	AnnotatorNotes T82	lemma = 'high'
+T83	pos_NN 577 585	decrease
+#83	AnnotatorNotes T83	lemma = 'decrease'
+T84	pos_NN 586 591	level
+#84	AnnotatorNotes T84	lemma = 'level'
+T85	pos_Fc 591 592	,
+#85	AnnotatorNotes T85	lemma = ','
+T86	pos_RB 593 600	however
+#86	AnnotatorNotes T86	lemma = 'however'
+T87	pos_Fc 600 601	,
+#87	AnnotatorNotes T87	lemma = ','
+T88	pos_VBD 602 605	had
+#88	AnnotatorNotes T88	lemma = 'have'
+T89	pos_NP 606 635	Beijing International Airport
+#89	AnnotatorNotes T89	lemma = 'beijing_international_airport'
+T90	pos_Fc 635 636	,
+#90	AnnotatorNotes T90	lemma = ','
+T91	pos_WDT 637 642	which
+#91	AnnotatorNotes T91	lemma = 'which'
+T92	pos_VBZ 643 645	is
+#92	AnnotatorNotes T92	lemma = 'be'
+T93	pos_IN 646 648	in
+#93	AnnotatorNotes T93	lemma = 'in'
+T94	pos_NP 649 656	Beijing
+#94	AnnotatorNotes T94	lemma = 'beijing'
+T95	pos_Fc 656 657	,
+#95	AnnotatorNotes T95	lemma = ','
+T96	pos_NP 658 663	China
+#96	AnnotatorNotes T96	lemma = 'china'
+T97	pos_Fc 663 664	,
+#97	AnnotatorNotes T97	lemma = ','
+T98	pos_CC 665 668	and
+#98	AnnotatorNotes T98	lemma = 'and'
+T99	pos_PRP 669 671	it
+#99	AnnotatorNotes T99	lemma = 'it'
+T100	pos_VBD 672 675	was
+#100	AnnotatorNotes T100	lemma = 'be'
+T101	pos_IN 676 681	about
+#101	AnnotatorNotes T101	lemma = 'about'
+T102	pos_Z 449 450	6
+#102	AnnotatorNotes T102	lemma = '6'
+T103	pos_NNS 684 690	points
+#103	AnnotatorNotes T103	lemma = 'point'
+T104	pos_RB 691 695	down
+#104	AnnotatorNotes T104	lemma = 'down'
+T105	pos_Fp 448 449	.
+#105	AnnotatorNotes T105	lemma = '.'
+T106	pos_JJ 697 701	Only
+#106	AnnotatorNotes T106	lemma = 'only'
+T107	pos_NP 702 733	Paris Charles De Gaulle Airport
+#107	AnnotatorNotes T107	lemma = 'paris_charles_de_gaulle_airport'
+T108	pos_Fc 733 734	,
+#108	AnnotatorNotes T108	lemma = ','
+T109	pos_VBD 735 741	ranked
+#109	AnnotatorNotes T109	lemma = 'rank'
+T110	pos_Z 682 683	6
+#110	AnnotatorNotes T110	lemma = '6'
+T111	pos_IN 744 746	in
+#111	AnnotatorNotes T111	lemma = 'in'
+T112	pos_W 747 751	2005
+#112	AnnotatorNotes T112	lemma = '[??:??/??/2005:??.??:??]'
+T113	pos_Fc 751 752	,
+#113	AnnotatorNotes T113	lemma = ','
+T114	pos_VBD 753 760	reached
+#114	AnnotatorNotes T114	lemma = 'reach'
+T115	pos_Z 761 762	7
+#115	AnnotatorNotes T115	lemma = '7'
+T116	pos_IN 763 765	in
+#116	AnnotatorNotes T116	lemma = 'in'
+T117	pos_W 766 770	2006
+#117	AnnotatorNotes T117	lemma = '[??:??/??/2006:??.??:??]'
+T118	pos_Fc 770 771	,
+#118	AnnotatorNotes T118	lemma = ','
+T119	pos_CC 772 775	and
+#119	AnnotatorNotes T119	lemma = 'and'
+T120	pos_VBD 776 787	transported
+#120	AnnotatorNotes T120	lemma = 'transport'
+T121	pos_Z 788 798	56,808,967
+#121	AnnotatorNotes T121	lemma = '56808967'
+T122	pos_NNS 799 805	people
+#122	AnnotatorNotes T122	lemma = 'people'
+T123	pos_Fc 805 806	,
+#123	AnnotatorNotes T123	lemma = ','
+T124	pos_CC 807 810	and
+#124	AnnotatorNotes T124	lemma = 'and'
+T125	pos_DT 811 812	a
+#125	AnnotatorNotes T125	lemma = 'a'
+T126	pos_JJ 813 818	total
+#126	AnnotatorNotes T126	lemma = 'total'
+T127	pos_NN 819 827	increase
+#127	AnnotatorNotes T127	lemma = 'increase'
+T128	pos_IN 828 830	of
+#128	AnnotatorNotes T128	lemma = 'of'
+T129	pos_Zp 831 835	5.6%
+#129	AnnotatorNotes T129	lemma = '5.6/100'
+T130	pos_Fp 835 836	.
+#130	AnnotatorNotes T130	lemma = '.'
+T131	pos_NP 837 877	Hartsfield-Jackson International Airport
+#131	AnnotatorNotes T131	lemma = 'hartsfield-jackson_international_airport'
+T132	pos_Fc 877 878	,
+#132	AnnotatorNotes T132	lemma = ','
+T133	pos_NP 879 880	O
+#133	AnnotatorNotes T133	lemma = 'o'
+T134	pos_Fw 880 881	’
+#134	AnnotatorNotes T134	lemma = '’'
+T135	pos_NP 881 907	Hare International Airport
+#135	AnnotatorNotes T135	lemma = 'hare_international_airport'
+T136	pos_CC 908 911	and
+#136	AnnotatorNotes T136	lemma = 'and'
+T137	pos_NP 912 935	London Heathrow Airport
+#137	AnnotatorNotes T137	lemma = 'london_heathrow_airport'
+T138	pos_VBD 936 943	remined
+#138	AnnotatorNotes T138	lemma = 'remined'
+T139	pos_JJ 944 950	stable
+#139	AnnotatorNotes T139	lemma = 'stable'
+T140	pos_IN 951 953	at
+#140	AnnotatorNotes T140	lemma = 'at'
+T141	pos_JJ 954 958	rank
+#141	AnnotatorNotes T141	lemma = 'rank'
+T142	pos_Z 252 253	1
+#142	AnnotatorNotes T142	lemma = '1'
+T143	pos_Fc 960 961	,
+#143	AnnotatorNotes T143	lemma = ','
+T144	pos_Z 254 255	2
+#144	AnnotatorNotes T144	lemma = '2'
+T145	pos_CC 964 967	and
+#145	AnnotatorNotes T145	lemma = 'and'
+T146	pos_Z 246 247	3
+#146	AnnotatorNotes T146	lemma = '3'
+T147	pos_Fc 969 970	,
+#147	AnnotatorNotes T147	lemma = ','
+T148	pos_JJ 971 974	pro
+#148	AnnotatorNotes T148	lemma = 'pro'
+T149	pos_NN 975 980	tanto
+#149	AnnotatorNotes T149	lemma = 'tanto'
+T150	pos_Fp 563 564	.
+#150	AnnotatorNotes T150	lemma = '.'
+T151	pos_DT 983 986	The
+#151	AnnotatorNotes T151	lemma = 'the'
+T152	pos_JJS 987 994	highest
+#152	AnnotatorNotes T152	lemma = 'high'
+T153	pos_NN 995 1001	amount
+#153	AnnotatorNotes T153	lemma = 'amount'
+T154	pos_IN 1002 1004	of
+#154	AnnotatorNotes T154	lemma = 'of'
+T155	pos_VBN 1005 1016	transported
+#155	AnnotatorNotes T155	lemma = 'transport'
+T156	pos_NNS 1017 1027	passengers
+#156	AnnotatorNotes T156	lemma = 'passenger'
+T157	pos_VBD 1028 1031	had
+#157	AnnotatorNotes T157	lemma = 'have'
+T158	pos_NP 1032 1072	Hartsfield-Jackson International Airport
+#158	AnnotatorNotes T158	lemma = 'hartsfield-jackson_international_airport'
+T159	pos_Fc 1072 1073	,
+#159	AnnotatorNotes T159	lemma = ','
+T160	pos_VBD 1074 1081	carried
+#160	AnnotatorNotes T160	lemma = 'carry'
+T161	pos_RBR 1082 1086	more
+#161	AnnotatorNotes T161	lemma = 'many'
+T162	pos_IN 1087 1091	than
+#162	AnnotatorNotes T162	lemma = 'than'
+T163	pos_Z 1092 1102	84 million
+#163	AnnotatorNotes T163	lemma = '84000000'
+T164	pos_Fp 695 696	.
+#164	AnnotatorNotes T164	lemma = '.'
+T165	pos_IN 1104 1106	In
+#165	AnnotatorNotes T165	lemma = 'in'
+T166	pos_NN 1107 1117	comparison
+#166	AnnotatorNotes T166	lemma = 'comparison'
+T167	pos_IN 1118 1122	with
+#167	AnnotatorNotes T167	lemma = 'with'
+T168	pos_NP 1123 1143	Suvarnabhumi Airport
+#168	AnnotatorNotes T168	lemma = 'suvarnabhumi_airport'
+T169	pos_Fc 1143 1144	,
+#169	AnnotatorNotes T169	lemma = ','
+T170	pos_DT 1145 1148	the
+#170	AnnotatorNotes T170	lemma = 'the'
+T171	pos_RBS 1149 1153	most
+#171	AnnotatorNotes T171	lemma = 'many'
+T172	pos_JJ 1154 1163	unpopular
+#172	AnnotatorNotes T172	lemma = 'unpopular'
+T173	pos_NN 1164 1171	airport
+#173	AnnotatorNotes T173	lemma = 'airport'
+T174	pos_Fc 1171 1172	,
+#174	AnnotatorNotes T174	lemma = ','
+T175	pos_DT 1173 1176	the
+#175	AnnotatorNotes T175	lemma = 'the'
+T176	pos_NNS 1177 1186	differens
+#176	AnnotatorNotes T176	lemma = 'differens'
+T177	pos_VBD 1187 1190	was
+#177	AnnotatorNotes T177	lemma = 'be'
+T178	pos_Z 1191 1201	42,047,107
+#178	AnnotatorNotes T178	lemma = '42047107'
+T179	pos_NNS 1203 1213	passengers
+#179	AnnotatorNotes T179	lemma = 'passenger'
+T180	pos_Fp 832 833	.
+#180	AnnotatorNotes T180	lemma = '.'
+T181	pos_IN 1217 1219	In
+#181	AnnotatorNotes T181	lemma = 'in'
+T182	pos_VB 1220 1224	tote
+#182	AnnotatorNotes T182	lemma = 'tote'
+T183	pos_Fc 1224 1225	,
+#183	AnnotatorNotes T183	lemma = ','
+T184	pos_NNS 1226 1234	airports
+#184	AnnotatorNotes T184	lemma = 'airport'
+T185	pos_IN 1235 1237	in
+#185	AnnotatorNotes T185	lemma = 'in'
+T186	pos_NP 1238 1240	US
+#186	AnnotatorNotes T186	lemma = 'us'
+T187	pos_VBD 1241 1252	transported
+#187	AnnotatorNotes T187	lemma = 'transport'
+T188	pos_DT 1253 1255	an
+#188	AnnotatorNotes T188	lemma = 'a'
+T189	pos_JJ 1256 1263	eminent
+#189	AnnotatorNotes T189	lemma = 'eminent'
+T190	pos_NN 1264 1270	amount
+#190	AnnotatorNotes T190	lemma = 'amount'
+T191	pos_IN 1271 1273	of
+#191	AnnotatorNotes T191	lemma = 'of'
+T192	pos_NNS 1274 1280	people
+#192	AnnotatorNotes T192	lemma = 'people'
+T193	pos_– 1281 1282	–
+#193	AnnotatorNotes T193	lemma = '–'
+T194	pos_Z 1283 1294	161,095,550
+#194	AnnotatorNotes T194	lemma = '161095550'
+T195	pos_Fp 835 836	.
+#195	AnnotatorNotes T195	lemma = '.'

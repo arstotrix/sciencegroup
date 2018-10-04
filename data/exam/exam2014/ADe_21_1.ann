@@ -1,0 +1,205 @@
+T1	Category_confusion 26 34	changing
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	changes
+T2	Category_confusion 38 50	proportional
+A4	Cause T2 Other
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	proportions
+T3	Often_confused 105 112	economy
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	economics
+T4	Tense_choice 61 68	working
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	who worked
+T5	Standard 127 164	has been changed the number of people
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	the number of people had changed
+T6	Voice 127 143	has been changed
+A16	Cause T6 Other
+A17	Weight-language T6 Minor
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	had changed
+T7	Tense_choice 127 143	has been changed
+A19	Cause T7 Absence_of_Category_in_L1
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	had changed
+T8	Prepositions 183 185	in
+A22	Cause T8 Other
+A23	Weight-language T8 Minor
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	within
+T9	Absence_comp_sent 210 218	is shown
+A25	Cause T9 L1_interference
+A26	Weight-language T9 Critical
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	it is shown
+T10	Punctuation 226 231	table
+A28	Cause T10 Other
+A29	Weight-language T10 Minor
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	table,
+T11	Category_confusion 253 263	increasing
+A31	Cause T11 Other
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	increase
+T12	Tense_choice 284 286	is
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	was
+T13	lex_item_choice 284 286	is
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	happened
+T14	Articles 267 273	number
+A40	Cause T14 Absence_of_Category_in_L1
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	the number
+T15	Redundant_comp 350 352	is
+A43	Cause T15 Other
+A44	Weight-language T15 Critical
+A45	Weight-understanding T15 Minor
+A46	Delete T15
+T16	Voice 371 381	connecting
+A47	Cause T16 Other
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Minor
+#15	AnnotatorNotes T16	connected
+T17	Ref_device 417 421	them
+A50	Cause T17 Other
+A51	Weight-language T17 Minor
+A52	Weight-understanding T17 Minor
+#16	AnnotatorNotes T17	such people
+T18	Redundant_comp 435 437	in
+A53	Cause T18 L1_interference
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Minor
+A56	Delete T18
+T19	lex_item_choice 426 434	rocketed
+A57	Cause T19 Other
+A58	Weight-language T19 Major
+A59	Weight-understanding T19 Minor
+#17	AnnotatorNotes T19	increased
+T20	note 458 475	then for 10 years
+A60	Cause T20 Other
+A61	Weight-language T20 Major
+A62	Weight-understanding T20 Critical
+#18	AnnotatorNotes T20	??? UNCLEAR
+T21	Tense_choice 422 434	has rocketed
+A63	Cause T21 Absence_of_Category_in_L1
+A64	Weight-language T21 Major
+A65	Weight-understanding T21 Major
+#19	AnnotatorNotes T21	increased
+T22	lex_item_choice 545 551	youngs
+A66	Cause T22 Other
+A67	Weight-language T22 Major
+A68	Weight-understanding T22 Minor
+#20	AnnotatorNotes T22	youngsters
+T23	Tense_choice 517 523	become
+A69	Cause T23 Other
+A70	Weight-language T23 Major
+A71	Weight-understanding T23 Major
+#21	AnnotatorNotes T23	became
+T24	Punctuation 551 552	,
+A72	Cause T24 Other
+A73	Weight-language T24 Minor
+A74	Weight-understanding T24 Minor
+#22	AnnotatorNotes T24	;
+T25	Punctuation 574 575	,
+A75	Cause T25 L1_interference
+A76	Weight-language T25 Major
+A77	Weight-understanding T25 Major
+A78	Delete T25
+T26	Tense_choice 603 616	are decreased
+A79	Cause T26 Other
+A80	Weight-language T26 Critical
+A81	Weight-understanding T26 Minor
+#23	AnnotatorNotes T26	had decreased
+T27	Tense_choice 659 669	has become
+A82	Cause T27 Absence_of_Category_in_L1
+A83	Weight-language T27 Major
+A84	Weight-understanding T27 Major
+#24	AnnotatorNotes T27	became
+T28	Articles 694 704	age groups
+A85	Cause T28 Absence_of_Category_in_L1
+A86	Weight-language T28 Minor
+A87	Weight-understanding T28 Minor
+#25	AnnotatorNotes T28	the age groups
+T29	Articles 733 738	first
+A88	Cause T29 Absence_of_Category_in_L1
+A89	Weight-language T29 Major
+A90	Weight-understanding T29 Minor
+#26	AnnotatorNotes T29	the first
+T30	Articles 743 749	second
+A91	Cause T30 Absence_of_Category_in_L1
+A92	Weight-language T30 Major
+A93	Weight-understanding T30 Minor
+#27	AnnotatorNotes T30	the second group
+T31	Noun_number 750 756	groups
+A94	Cause T31 L1_interference
+A95	Weight-language T31 Major
+A96	Weight-understanding T31 Major
+#28	AnnotatorNotes T31	group
+T32	Articles 780 792	second group
+A97	Cause T32 Absence_of_Category_in_L1
+A98	Weight-language T32 Major
+A99	Weight-understanding T32 Minor
+#29	AnnotatorNotes T32	the second group
+T33	Tense_choice 804 813	has rosen
+A100	Cause T33 Absence_of_Category_in_L1
+A101	Weight-language T33 Major
+A102	Weight-understanding T33 Major
+#30	AnnotatorNotes T33	rose / had rosen
+T34	Spelling 849 851	od
+A103	Cause T34 Typo
+A104	Weight-language T34 Critical
+A105	Weight-understanding T34 Minor
+#31	AnnotatorNotes T34	of
+T35	Category_confusion 826 834	changing
+#32	AnnotatorNotes T35	changes
+A106	Cause T35 Other
+A107	Weight-language T35 Minor
+A108	Weight-understanding T35 Minor
+T36	Tense_form 862 865	was
+A109	Cause T36 Other
+A110	Weight-language T36 Major
+A111	Weight-understanding T36 Minor
+#33	AnnotatorNotes T36	were
+T37	Ref_device 892 899	another
+A112	Cause T37 Absence_of_Category_in_L1
+A113	Weight-language T37 Major
+A114	Weight-understanding T37 Major
+#34	AnnotatorNotes T37	the other
+T38	Absence_comp_sent 945 948	was
+A115	Cause T38 L1_interference
+A116	Weight-language T38 Critical
+A117	Weight-understanding T38 Minor
+#35	AnnotatorNotes T38	there was
+T39	Category_confusion 956 965	increased
+A118	Cause T39 Other
+A119	Weight-language T39 Critical
+A120	Weight-understanding T39 Minor
+#36	AnnotatorNotes T39	increase
+T40	Articles 949 965	double increased
+A121	Cause T40 Absence_of_Category_in_L1
+A122	Weight-language T40 Minor
+A123	Weight-understanding T40 Minor
+#37	AnnotatorNotes T40	a double increase
+T41	Discourse 920 944	fifth, the oldest group,
+A124	Cause T41 L1_interference
+A125	Weight-language T41 Major
+A126	Weight-understanding T41 Minor
+#38	AnnotatorNotes T41	fifth group, the oldest one,

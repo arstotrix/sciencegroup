@@ -1,0 +1,18 @@
+T1	Punctuation 0 24	According to some people
+#1	AnnotatorNotes T1	According to some people ,
+T2	Redundant_comp 25 33	say that
+A1	Delete T2
+T3	Absence_comp_sent 58 71	public health
+#2	AnnotatorNotes T3	the quality of public health
+T4	Punctuation 131 132	,
+A2	Delete T4
+T5	Punctuation 121 124	and
+#3	AnnotatorNotes T5	, and
+T6	Absence_explanation 272 308	of argument for and argument against
+#4	AnnotatorNotes T6	for and against this point of view
+T7	Redundant_comp 335 340	about
+A3	Delete T7
+T8	Articles 341 352	two reasons
+#5	AnnotatorNotes T8	the two reasons
+T9	Absence_explanation 353 382	of argument for to being with
+#6	AnnotatorNotes T9	supporting this point view

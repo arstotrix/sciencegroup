@@ -1,0 +1,59 @@
+T1	Spelling 225 232	diplome
+T2	Spelling 375 382	persent
+T3	Spelling 459 468	succesful
+T4	lex_item_choice 118 121	sex
+#1	AnnotatorNotes T4	genders
+T5	Agreement_errors 118 121	sex
+#2	AnnotatorNotes T5	genders
+T6	Redundant_comp 163 168	trend
+A1	Delete T6
+T7	Prepositional_noun 158 171	rise trend of
+#3	AnnotatorNotes T7	rise in
+#4	AnnotatorNotes T1	diploma
+T8	Word_choice 234 250	to pay attention
+#5	AnnotatorNotes T8	to be precise
+T9	lex_item_choice 279 285	amount
+#6	AnnotatorNotes T9	level
+T10	Punctuation 270 273	and
+#7	AnnotatorNotes T10	, and also
+#8	AnnotatorNotes T2	percent
+T11	Redundant_comp 386 394	level of
+A2	Delete T11
+#9	AnnotatorNotes T3	successful
+T12	Agreement_errors 533 538	stage
+#10	AnnotatorNotes T12	positions
+T13	Capitalisation 556 566	bachelor's
+#11	AnnotatorNotes T13	Bachelor's
+T14	Tense_choice 623 626	are
+#12	AnnotatorNotes T14	were
+T16	Noun_number 177 190	qualification
+#14	AnnotatorNotes T16	qualifications
+T17	Word_choice 310 313	men
+#15	AnnotatorNotes T17	received by men
+T18	Punctuation 232 233	,
+#16	AnnotatorNotes T18	: 
+T19	Absence_explanation 270 273	and
+#17	AnnotatorNotes T19	, and also
+T20	Articles 194 202	position
+#18	AnnotatorNotes T20	the position
+T21	Noun_number 496 509	qualification
+#19	AnnotatorNotes T21	qualifications
+T22	Agreement_errors 510 513	was
+#20	AnnotatorNotes T22	were
+R1	Dependent_change Arg1:T21 Arg2:T22	
+T23	lex_item_choice 533 538	stage
+#21	AnnotatorNotes T23	positions
+T24	Word_choice 540 555	for example, in
+#22	AnnotatorNotes T24	of which one was
+T25	Redundant_comp 627 640	not much, but
+A3	Delete T25
+T15	Absence_explanation 590 615	post-school qualification
+#13	AnnotatorNotes T15	percentage numbers of post-school qualification
+T26	Ref_device 653 660	women's
+#23	AnnotatorNotes T26	those of women
+T27	Prepositions 383 385	in
+#24	AnnotatorNotes T27	for
+T28	lex_item_choice 478 484	stages
+#25	AnnotatorNotes T28	types
+T29	Punctuation 485 488	and
+#26	AnnotatorNotes T29	, and

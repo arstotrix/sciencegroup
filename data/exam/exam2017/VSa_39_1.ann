@@ -1,0 +1,30 @@
+T1	lex_item_choice 42 52	delivering
+T3	Noun_number 115 122	pattern
+T4	Prepositional_verb 310 317	amounts
+T8	Prepositional_verb 656 663	amounts
+T9	Standard 774 816	transported products by two different ways
+T10	Tense_form 842 853	illustrates
+T11	lex_item_choice 874 881	Such as
+#1	AnnotatorNotes T3	patterns
+#2	AnnotatorNotes T4	amounts to
+T6	Punctuation 515 520	while
+#3	AnnotatorNotes T6	, while
+T12	Absence_comp_sent 521 539	machinery only 12%
+#4	AnnotatorNotes T12	machinery only for 12%
+T5	Noun_number 545 551	number
+#5	AnnotatorNotes T5	numbers
+T7	Tense_form 583 585	is
+#6	AnnotatorNotes T7	are
+R1	Dependent_change Arg1:T5 Arg2:T7	
+#7	AnnotatorNotes T8	amounts to
+#8	AnnotatorNotes T9	products transported in two different ways
+T13	Prepositions 795 797	by
+#9	AnnotatorNotes T13	in
+#10	AnnotatorNotes T10	illustrate
+#11	AnnotatorNotes T1	delivered
+T2	Articles 27 31	data
+#12	AnnotatorNotes T2	the data
+#13	AnnotatorNotes T11	For example
+T14	Punctuation 882 885	the
+#14	AnnotatorNotes T14	, the
+R2	Dependent_change Arg1:T11 Arg2:T14	

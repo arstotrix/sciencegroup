@@ -1,0 +1,366 @@
+T1	pos_NP 0 2	Hi
+#1	AnnotatorNotes T1	lemma = 'hi'
+T2	pos_NN 3 11	everyone
+#2	AnnotatorNotes T2	lemma = 'everyone'
+T3	pos_Fat 11 12	!
+#3	AnnotatorNotes T3	lemma = '!'
+T4	pos_JJ 13 18	Sorry
+#4	AnnotatorNotes T4	lemma = 'sorry'
+T5	pos_PRP 19 20	I
+#5	AnnotatorNotes T5	lemma = 'i'
+T6	pos_VBP 21 25	have
+#6	AnnotatorNotes T6	lemma = 'have'
+T7	pos_RB 241 244	not
+#7	AnnotatorNotes T7	lemma = 'not'
+T8	pos_VBN 29 36	written
+#8	AnnotatorNotes T8	lemma = 'write'
+T9	pos_IN 37 40	for
+#9	AnnotatorNotes T9	lemma = 'for'
+T10	pos_PDT 41 45	such
+#10	AnnotatorNotes T10	lemma = 'such'
+T11	pos_DT 46 47	a
+#11	AnnotatorNotes T11	lemma = 'a'
+T12	pos_JJ 48 52	long
+#12	AnnotatorNotes T12	lemma = 'long'
+T13	pos_NN 53 57	time
+#13	AnnotatorNotes T13	lemma = 'time'
+T14	pos_Fc 57 58	,
+#14	AnnotatorNotes T14	lemma = ','
+T15	pos_PRP 59 61	it
+#15	AnnotatorNotes T15	lemma = 'it'
+T16	pos_VBZ 61 63	's
+#16	AnnotatorNotes T16	lemma = 'be'
+T17	pos_IN 64 71	because
+#17	AnnotatorNotes T17	lemma = 'because'
+T18	pos_PRP 72 73	I
+#18	AnnotatorNotes T18	lemma = 'i'
+T19	pos_VBD 74 77	was
+#19	AnnotatorNotes T19	lemma = 'be'
+T20	pos_JJ 78 82	busy
+#20	AnnotatorNotes T20	lemma = 'busy'
+T21	pos_CC 83 86	and
+#21	AnnotatorNotes T21	lemma = 'and'
+T22	pos_RB 87 90	now
+#22	AnnotatorNotes T22	lemma = 'now'
+T23	pos_PRP 91 92	I
+#23	AnnotatorNotes T23	lemma = 'i'
+T24	pos_VBP 461 463	am
+#24	AnnotatorNotes T24	lemma = 'be'
+T25	pos_VBG 95 100	going
+#25	AnnotatorNotes T25	lemma = 'go'
+T26	pos_TO 101 103	to
+#26	AnnotatorNotes T26	lemma = 'to'
+T27	pos_VB 104 108	tell
+#27	AnnotatorNotes T27	lemma = 'tell'
+T28	pos_PRP 109 112	you
+#28	AnnotatorNotes T28	lemma = 'you'
+T29	pos_WP 113 117	what
+#29	AnnotatorNotes T29	lemma = 'what'
+T30	pos_PRP 118 119	I
+#30	AnnotatorNotes T30	lemma = 'i'
+T31	pos_VBP 120 124	have
+#31	AnnotatorNotes T31	lemma = 'have'
+T32	pos_VBN 125 129	been
+#32	AnnotatorNotes T32	lemma = 'be'
+T33	pos_VBG 130 135	doing
+#33	AnnotatorNotes T33	lemma = 'do'
+T34	pos_Fp 135 136	.
+#34	AnnotatorNotes T34	lemma = '.'
+T35	pos_JJ 137 141	Good
+#35	AnnotatorNotes T35	lemma = 'good'
+T36	pos_NN 142 146	news
+#36	AnnotatorNotes T36	lemma = 'news'
+T37	pos_Fat 146 147	!
+#37	AnnotatorNotes T37	lemma = '!'
+T38	pos_PRP 148 149	I
+#38	AnnotatorNotes T38	lemma = 'i'
+T39	pos_VBD 150 157	decided
+#39	AnnotatorNotes T39	lemma = 'decide'
+T40	pos_TO 158 160	to
+#40	AnnotatorNotes T40	lemma = 'to'
+T41	pos_VB 161 165	give
+#41	AnnotatorNotes T41	lemma = 'give'
+T42	pos_DT 166 167	a
+#42	AnnotatorNotes T42	lemma = 'a'
+T43	pos_NN 168 173	title
+#43	AnnotatorNotes T43	lemma = 'title'
+T44	pos_Fe 174 175	"
+#44	AnnotatorNotes T44	lemma = '"'
+T45	pos_NP 175 183	Madwoman
+#45	AnnotatorNotes T45	lemma = 'madwoman'
+T46	pos_IN 184 186	in
+#46	AnnotatorNotes T46	lemma = 'in'
+T47	pos_NP 187 192	Attic
+#47	AnnotatorNotes T47	lemma = 'attic'
+T48	pos_Fe 192 193	"
+#48	AnnotatorNotes T48	lemma = '"'
+T49	pos_TO 194 196	to
+#49	AnnotatorNotes T49	lemma = 'to'
+T50	pos_PRP2 197 199	my
+#50	AnnotatorNotes T50	lemma = 'my'
+T51	pos_NN 200 204	book
+#51	AnnotatorNotes T51	lemma = 'book'
+T52	pos_Fp 204 205	.
+#52	AnnotatorNotes T52	lemma = '.'
+T53	pos_WP 206 210	What
+#53	AnnotatorNotes T53	lemma = 'what'
+T54	pos_VBP 211 213	do
+#54	AnnotatorNotes T54	lemma = 'do'
+T55	pos_PRP 214 217	you
+#55	AnnotatorNotes T55	lemma = 'you'
+T56	pos_VB 218 223	think
+#56	AnnotatorNotes T56	lemma = 'think'
+T57	pos_Fit 223 224	?
+#57	AnnotatorNotes T57	lemma = '?'
+T58	pos_RB 225 228	Now
+#58	AnnotatorNotes T58	lemma = 'now'
+T59	pos_NN 229 234	ghost
+#59	AnnotatorNotes T59	lemma = 'ghost'
+T60	pos_VBZ 235 240	lives
+#60	AnnotatorNotes T60	lemma = 'live'
+T61	pos_RB 25 28	n't
+#61	AnnotatorNotes T61	lemma = 'not'
+T62	pos_IN 245 247	on
+#62	AnnotatorNotes T62	lemma = 'on'
+T63	pos_DT 248 251	the
+#63	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJ 252 255	top
+#64	AnnotatorNotes T64	lemma = 'top'
+T65	pos_NN 256 261	floor
+#65	AnnotatorNotes T65	lemma = 'floor'
+T66	pos_CC 262 265	but
+#66	AnnotatorNotes T66	lemma = 'but'
+T67	pos_PRP 266 268	it
+#67	AnnotatorNotes T67	lemma = 'it'
+T68	pos_DT 269 272	the
+#68	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NN 273 276	att
+#69	AnnotatorNotes T69	lemma = 'att'
+T70	pos_NP 277 281	Hero
+#70	AnnotatorNotes T70	lemma = 'hero'
+T71	pos_VBZ 282 287	hears
+#71	AnnotatorNotes T71	lemma = 'hear'
+T72	pos_NNS 288 297	footsteps
+#72	AnnotatorNotes T72	lemma = 'footstep'
+T73	pos_IN 298 303	above
+#73	AnnotatorNotes T73	lemma = 'above'
+T74	pos_PRP 304 307	him
+#74	AnnotatorNotes T74	lemma = 'him'
+T75	pos_CC 308 311	and
+#75	AnnotatorNotes T75	lemma = 'and'
+T76	pos_VBZ 312 316	goes
+#76	AnnotatorNotes T76	lemma = 'go'
+T77	pos_TO 317 319	to
+#77	AnnotatorNotes T77	lemma = 'to'
+T78	pos_NN 320 325	attic
+#78	AnnotatorNotes T78	lemma = 'attic'
+T79	pos_CC 326 329	and
+#79	AnnotatorNotes T79	lemma = 'and'
+T80	pos_VBZ 330 334	sees
+#80	AnnotatorNotes T80	lemma = 'see'
+T81	pos_JJ 335 340	young
+#81	AnnotatorNotes T81	lemma = 'young'
+T82	pos_NN 341 345	girl
+#82	AnnotatorNotes T82	lemma = 'girl'
+T83	pos_Fp 345 346	.
+#83	AnnotatorNotes T83	lemma = '.'
+T84	pos_PRP 347 348	I
+#84	AnnotatorNotes T84	lemma = 'i'
+T85	pos_VBP 349 351	do
+#85	AnnotatorNotes T85	lemma = 'do'
+T86	pos_RB 351 354	n't
+#86	AnnotatorNotes T86	lemma = 'not'
+T87	pos_VB 355 359	know
+#87	AnnotatorNotes T87	lemma = 'know'
+T88	pos_WP 360 364	what
+#88	AnnotatorNotes T88	lemma = 'what'
+T89	pos_MD 365 370	would
+#89	AnnotatorNotes T89	lemma = 'would'
+T90	pos_VB 371 377	happen
+#90	AnnotatorNotes T90	lemma = 'happen'
+T91	pos_JJ 378 382	next
+#91	AnnotatorNotes T91	lemma = 'next'
+T92	pos_RB 383 386	yet
+#92	AnnotatorNotes T92	lemma = 'yet'
+T93	pos_Fc 386 387	,
+#93	AnnotatorNotes T93	lemma = ','
+T94	pos_PRP 388 389	I
+#94	AnnotatorNotes T94	lemma = 'i'
+T95	pos_MD 389 392	'll
+#95	AnnotatorNotes T95	lemma = 'will'
+T96	pos_VB 393 397	tell
+#96	AnnotatorNotes T96	lemma = 'tell'
+T97	pos_PRP 398 401	you
+#97	AnnotatorNotes T97	lemma = 'you'
+T98	pos_PRP 402 404	it
+#98	AnnotatorNotes T98	lemma = 'it'
+T99	pos_IN 405 407	in
+#99	AnnotatorNotes T99	lemma = 'in'
+T100	pos_DT 408 411	the
+#100	AnnotatorNotes T100	lemma = 'the'
+T101	pos_JJ 412 416	next
+#101	AnnotatorNotes T101	lemma = 'next'
+T102	pos_NN 417 421	blog
+#102	AnnotatorNotes T102	lemma = 'blog'
+T103	pos_Fp 421 422	.
+#103	AnnotatorNotes T103	lemma = '.'
+T104	pos_PRP 423 424	I
+#104	AnnotatorNotes T104	lemma = 'i'
+T105	pos_VBP 424 427	've
+#105	AnnotatorNotes T105	lemma = 'have'
+T106	pos_RB 428 432	just
+#106	AnnotatorNotes T106	lemma = 'just'
+T107	pos_VBN 433 441	finished
+#107	AnnotatorNotes T107	lemma = 'finish'
+T108	pos_NP 442 449	Chapter
+#108	AnnotatorNotes T108	lemma = 'chapter'
+T109	pos_Z 450 451	5
+#109	AnnotatorNotes T109	lemma = '5'
+T110	pos_Fp 451 452	.
+#110	AnnotatorNotes T110	lemma = '.'
+T111	pos_NN 453 457	Hero
+#111	AnnotatorNotes T111	lemma = 'hero'
+T112	pos_POS 457 459	's
+#112	AnnotatorNotes T112	lemma = ''s'
+T113	pos_NN 460 464	name
+#113	AnnotatorNotes T113	lemma = 'name'
+T114	pos_VBZ 465 467	is
+#114	AnnotatorNotes T114	lemma = 'be'
+T115	pos_NP 468 484	Peter Youngblood
+#115	AnnotatorNotes T115	lemma = 'peter_youngblood'
+T116	pos_Fp 484 485	.
+#116	AnnotatorNotes T116	lemma = '.'
+T117	pos_PRP 486 488	He
+#117	AnnotatorNotes T117	lemma = 'he'
+T118	pos_VBZ 488 490	's
+#118	AnnotatorNotes T118	lemma = 'be'
+T119	pos_DT 491 493	an
+#119	AnnotatorNotes T119	lemma = 'a'
+T120	pos_NN 494 503	architect
+#120	AnnotatorNotes T120	lemma = 'architect'
+T121	pos_IN 504 506	so
+#121	AnnotatorNotes T121	lemma = 'so'
+T122	pos_PRP 507 509	he
+#122	AnnotatorNotes T122	lemma = 'he'
+T123	pos_VBZ 510 521	understands
+#123	AnnotatorNotes T123	lemma = 'understand'
+T124	pos_WRB 522 525	how
+#124	AnnotatorNotes T124	lemma = 'how'
+T125	pos_VBZ 526 530	does
+#125	AnnotatorNotes T125	lemma = 'do'
+T126	pos_DT 531 534	the
+#126	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 535 540	house
+#127	AnnotatorNotes T127	lemma = 'house'
+T128	pos_VBN 541 546	built
+#128	AnnotatorNotes T128	lemma = 'build'
+T129	pos_CC 547 550	but
+#129	AnnotatorNotes T129	lemma = 'but'
+T130	pos_PRP 551 553	he
+#130	AnnotatorNotes T130	lemma = 'he'
+T131	pos_VBD 554 560	needed
+#131	AnnotatorNotes T131	lemma = 'need'
+T132	pos_NN 561 568	someone
+#132	AnnotatorNotes T132	lemma = 'someone'
+T133	pos_WP 569 572	who
+#133	AnnotatorNotes T133	lemma = 'who'
+T134	pos_VBZ 573 578	knows
+#134	AnnotatorNotes T134	lemma = 'know'
+T135	pos_IN 579 584	about
+#135	AnnotatorNotes T135	lemma = 'about'
+T136	pos_DT 585 588	the
+#136	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 589 594	ghost
+#137	AnnotatorNotes T137	lemma = 'ghost'
+T138	pos_Fp 594 595	.
+#138	AnnotatorNotes T138	lemma = '.'
+T139	pos_PRP 596 597	I
+#139	AnnotatorNotes T139	lemma = 'i'
+T140	pos_VBD 598 601	was
+#140	AnnotatorNotes T140	lemma = 'be'
+T141	pos_VBG 602 610	thinking
+#141	AnnotatorNotes T141	lemma = 'think'
+T142	pos_IN 611 616	about
+#142	AnnotatorNotes T142	lemma = 'about'
+T143	pos_DT 617 620	the
+#143	AnnotatorNotes T143	lemma = 'the'
+T144	pos_NN 621 627	person
+#144	AnnotatorNotes T144	lemma = 'person'
+T145	pos_WP 628 631	who
+#145	AnnotatorNotes T145	lemma = 'who'
+T146	pos_VBD 632 636	sold
+#146	AnnotatorNotes T146	lemma = 'sell'
+T147	pos_DT 637 640	the
+#147	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NN 641 646	house
+#148	AnnotatorNotes T148	lemma = 'house'
+T149	pos_TO 647 649	to
+#149	AnnotatorNotes T149	lemma = 'to'
+T150	pos_DT 650 653	the
+#150	AnnotatorNotes T150	lemma = 'the'
+T151	pos_NP 654 659	Peter
+#151	AnnotatorNotes T151	lemma = 'peter'
+T152	pos_Fp 659 660	.
+#152	AnnotatorNotes T152	lemma = '.'
+T153	pos_CC 661 663	Or
+#153	AnnotatorNotes T153	lemma = 'or'
+T154	pos_RB 664 669	maybe
+#154	AnnotatorNotes T154	lemma = 'maybe'
+T155	pos_PRP 670 672	it
+#155	AnnotatorNotes T155	lemma = 'it'
+T156	pos_VBZ 672 674	's
+#156	AnnotatorNotes T156	lemma = 'be'
+T157	pos_RB 675 678	too
+#157	AnnotatorNotes T157	lemma = 'too'
+T158	pos_JJ 679 683	easy
+#158	AnnotatorNotes T158	lemma = 'easy'
+T159	pos_Fit 683 684	?
+#159	AnnotatorNotes T159	lemma = '?'
+T160	pos_WP 685 689	What
+#160	AnnotatorNotes T160	lemma = 'what'
+T161	pos_VBP 690 692	do
+#161	AnnotatorNotes T161	lemma = 'do'
+T162	pos_PRP 693 696	you
+#162	AnnotatorNotes T162	lemma = 'you'
+T163	pos_VB 697 702	think
+#163	AnnotatorNotes T163	lemma = 'think'
+T164	pos_Fit 702 703	?
+#164	AnnotatorNotes T164	lemma = '?'
+T165	pos_NNS 704 714	Publishers
+#165	AnnotatorNotes T165	lemma = 'publisher'
+T166	pos_VBP 715 718	are
+#166	AnnotatorNotes T166	lemma = 'be'
+T167	pos_JJ 719 724	happy
+#167	AnnotatorNotes T167	lemma = 'happy'
+T168	pos_IN 725 729	that
+#168	AnnotatorNotes T168	lemma = 'that'
+T169	pos_NP 730 737	Chapter
+#169	AnnotatorNotes T169	lemma = 'chapter'
+T170	pos_Z 738 739	1
+#170	AnnotatorNotes T170	lemma = '1'
+T171	pos_CC 740 743	and
+#171	AnnotatorNotes T171	lemma = 'and'
+T172	pos_NP 744 751	Chapter
+#172	AnnotatorNotes T172	lemma = 'chapter'
+T173	pos_Z 752 753	2
+#173	AnnotatorNotes T173	lemma = '2'
+T174	pos_NN 754 762	deadline
+#174	AnnotatorNotes T174	lemma = 'deadline'
+T175	pos_RB 763 766	now
+#175	AnnotatorNotes T175	lemma = 'now'
+T176	pos_W 767 775	February
+#176	AnnotatorNotes T176	lemma = '[??:??/2/??:??.??:??]'
+T177	pos_Fp 775 776	.
+#177	AnnotatorNotes T177	lemma = '.'
+T178	pos_PRP 777 778	I
+#178	AnnotatorNotes T178	lemma = 'i'
+T179	pos_VBP 779 781	am
+#179	AnnotatorNotes T179	lemma = 'be'
+T180	pos_NN 782 785	lot
+#180	AnnotatorNotes T180	lemma = 'lot'
+T181	pos_NN 786 793	happier
+#181	AnnotatorNotes T181	lemma = 'happier'
+T182	pos_RB 794 800	though
+#182	AnnotatorNotes T182	lemma = 'though'
+T183	pos_Fat 800 801	!
+#183	AnnotatorNotes T183	lemma = '!'

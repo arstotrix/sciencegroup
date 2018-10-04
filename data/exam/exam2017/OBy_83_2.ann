@@ -1,0 +1,123 @@
+T1	Spelling 16 20	ears
+#1	AnnotatorNotes T1	eat
+T2	Articles 21 33	large amount
+#2	AnnotatorNotes T2	a large amount
+T3	Redundant_comp 52 60	Kinds of
+A1	Delete T3
+T4	Articles 61 65	food
+#3	AnnotatorNotes T4	The food
+T5	Agreement_errors 89 92	are
+#4	AnnotatorNotes T5	is
+R1	Dependent_change Arg1:T5 Arg2:T4	
+T6	Agreement_errors 107 111	have
+#5	AnnotatorNotes T6	has
+R2	Dependent_change Arg1:T6 Arg2:T4	
+T7	Absence_explanation 112 115	own
+#6	AnnotatorNotes T7	it's own
+T8	lex_item_choice 136 144	Somebody
+#7	AnnotatorNotes T8	Some people
+T9	Punctuation 136 156	Somebody think, that
+#8	AnnotatorNotes T9	Some people think that
+T10	Redundant_comp 183 188	thing
+A2	Delete T10
+T11	Voice 166 175	producing
+#9	AnnotatorNotes T11	produced
+T12	Absence_comp_sent 197 201	need
+#10	AnnotatorNotes T12	is needed
+T13	Prepositions 197 204	need to
+#11	AnnotatorNotes T13	is needed by
+T14	Spelling 230 236	omport
+#12	AnnotatorNotes T14	imported
+T15	lex_item_choice 247 251	gets
+#13	AnnotatorNotes T15	should get
+T16	Noun_number 342 347	sides
+#14	AnnotatorNotes T16	side
+T17	Noun_number 357 365	argument
+#15	AnnotatorNotes T17	arguments
+T18	Absence_comp_sent 415 419	have
+#16	AnnotatorNotes T18	that have
+T19	Articles 420 429	small par
+#17	AnnotatorNotes T19	a small part
+T20	Spelling 434 450	worlds resourses
+#18	AnnotatorNotes T20	world's resources
+T21	Noun_number 460 466	ground
+#19	AnnotatorNotes T21	grounds
+T22	Articles 471 480	selection
+#20	AnnotatorNotes T22	the selection
+T23	Spelling 532 539	can not
+#21	AnnotatorNotes T23	cannot
+T24	Prepositions 560 572	to their own
+#22	AnnotatorNotes T24	for their own
+T25	Often_confused 599 606	another
+#23	AnnotatorNotes T25	other
+T26	Punctuation 607 636	resourses, that they can sell
+#24	AnnotatorNotes T26	resources that they can sell
+T27	Spelling 607 616	resourses
+#25	AnnotatorNotes T27	resources
+T28	Articles 665 674	his money
+#26	AnnotatorNotes T28	the money
+T29	Confusion_of_structures 675 684	have able
+#27	AnnotatorNotes T29	to be able
+T30	Noun_number 696 701	foods
+#28	AnnotatorNotes T30	food
+T31	Articles 721 741	very popular problem
+#29	AnnotatorNotes T31	a very popular problem
+T32	Spelling 745 753	Afroca’s
+#30	AnnotatorNotes T32	Africa's
+T33	Punctuation 808 821	I think, that
+#31	AnnotatorNotes T33	I think that
+T34	lex_item_choice 822 832	population
+#32	AnnotatorNotes T34	people
+T35	Inappropriate_register 833 838	don’t
+#33	AnnotatorNotes T35	do not
+T36	Spelling 847 850	wat
+#34	AnnotatorNotes T36	eat
+T37	Spelling 851 855	saim
+#35	AnnotatorNotes T37	same
+T38	Articles 851 860	saim food
+#36	AnnotatorNotes T38	the same food
+T39	Noun_number 924 932	organism
+#37	AnnotatorNotes T39	organisms
+T40	Agreement_errors 933 938	needs
+#38	AnnotatorNotes T40	need
+R3	Dependent_change Arg1:T40 Arg2:T39	
+T41	lex_item_choice 946 958	large number
+#39	AnnotatorNotes T41	bigger amount
+T42	Spelling 993 1003	vegotables
+#40	AnnotatorNotes T42	vegetables
+T43	Punctuation 1008 1027	fruits, that growth
+#41	AnnotatorNotes T43	fruits that grow
+T44	Spelling 1021 1027	growth
+#42	AnnotatorNotes T44	grow
+T45	Often_confused 1031 1038	another
+#43	AnnotatorNotes T45	other
+T46	Punctuation 1059 1068	Of course
+#44	AnnotatorNotes T46	Of course,
+T47	lex_item_choice 1069 1077	somebody
+#45	AnnotatorNotes T47	someone
+T48	Prepositions 1086 1097	to weekends
+#46	AnnotatorNotes T48	for weekends
+T49	lex_item_choice 1101 1108	another
+#47	AnnotatorNotes T49	different
+T50	Negation 1145 1153	have not
+#48	AnnotatorNotes T50	do not have
+T51	Prepositions 1182 1196	necessary have
+#49	AnnotatorNotes T51	necessary to have
+T52	Articles 1197 1202	acses
+#50	AnnotatorNotes T52	an access
+T53	Spelling 1197 1202	acses
+#51	AnnotatorNotes T53	an access
+T54	Category_confusion 1206 1212	import
+#52	AnnotatorNotes T54	imported
+T55	Redundant_comp 1221 1228	soon as
+A3	Delete T55
+T56	Absence_comp_sent 1232 1235	own
+#53	AnnotatorNotes T56	it's own
+T57	Punctuation 1238 1251	In conclusion
+#54	AnnotatorNotes T57	In conclusion,
+T58	Spelling 1305 1313	verybody
+#55	AnnotatorNotes T58	everybody
+T59	Noun_number 1334 1338	kind
+#56	AnnotatorNotes T59	kinds
+T60	Absence_comp_colloc 1397 1400	own
+#57	AnnotatorNotes T60	it's own

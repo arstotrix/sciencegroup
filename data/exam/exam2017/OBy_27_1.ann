@@ -1,0 +1,75 @@
+T1	Noun_number 4 13	pie chart
+#1	AnnotatorNotes T1	pie charts
+T2	Agreement_errors 14 22	provides
+#2	AnnotatorNotes T2	provide
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Articles 23 34	information
+#3	AnnotatorNotes T3	the information
+T4	Articles 41 70	rail and road transport goods
+#4	AnnotatorNotes T4	the rail and road transported goods
+T5	Category_confusion 55 64	transport
+#5	AnnotatorNotes T5	transported
+T6	Punctuation 73 83	All in all
+#6	AnnotatorNotes T6	All in all,
+T7	Redundant_comp 96 106	to evident
+A1	Delete T7
+T8	Articles 135 155	a similar percentage
+#7	AnnotatorNotes T8	similar percentages
+T9	Noun_number 145 155	percentage
+#8	AnnotatorNotes T9	percentages
+T10	Redundant_comp 207 212	which
+A2	Delete T10
+T11	Noun_number 224 235	differences
+#9	AnnotatorNotes T11	difference
+T12	Noun_number 239 249	percentage
+#10	AnnotatorNotes T12	percentages
+T13	Articles 258 272	transportation
+#11	AnnotatorNotes T13	the transportation
+T14	Tense_choice 335 349	has attributed
+#12	AnnotatorNotes T14	had
+T15	lex_item_choice 335 349	has attributed
+#13	AnnotatorNotes T15	had
+T16	Redundant 350 352	to
+A3	Delete T16
+T17	Agreement_errors 369 372	was
+#14	AnnotatorNotes T17	were
+T18	Articles 447 459	second chart
+#15	AnnotatorNotes T18	the second chart
+T19	Tense_form 460 466	hadn’t
+#16	AnnotatorNotes T19	did not have
+T20	Inappropriate_register 460 466	hadn’t
+#17	AnnotatorNotes T20	did not have
+T21	Articles 467 490	a largest amount of pit
+#18	AnnotatorNotes T21	the largest percentage
+T22	lex_item_choice 477 490	amount of pit
+#19	AnnotatorNotes T22	percentage
+T23	Punctuation 491 493	it
+#20	AnnotatorNotes T23	, it
+T24	Absence_comp_colloc 531 540	machinery
+#21	AnnotatorNotes T24	machinery goods
+T25	Punctuation 541 546	which
+#22	AnnotatorNotes T25	, which
+T26	Comparative_adj 552 560	smallest
+#23	AnnotatorNotes T26	the least
+T27	Prepositions 570 582	of the chart
+#24	AnnotatorNotes T27	in the chart
+T28	Articles 602 609	graphic
+#25	AnnotatorNotes T28	the graph
+T29	lex_item_choice 602 609	graphic
+#26	AnnotatorNotes T29	the graph
+T30	Spelling 610 617	revails
+#27	AnnotatorNotes T30	reveals
+T31	Spelling 653 657	good
+#28	AnnotatorNotes T31	food
+T32	lex_item_choice 666 681	, which massive
+#29	AnnotatorNotes T32	with
+T33	Spelling 687 700	Controversary
+#30	AnnotatorNotes T33	Contrary
+T34	Punctuation 687 700	Controversary
+#31	AnnotatorNotes T34	Contrary,
+T35	Articles 701 705	good
+#32	AnnotatorNotes T35	the goods
+T36	Spelling 701 705	good
+#33	AnnotatorNotes T36	the goods
+T37	lex_item_choice 739 742	one
+#34	AnnotatorNotes T37	food products 

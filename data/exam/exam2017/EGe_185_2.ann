@@ -1,0 +1,43 @@
+T1	Articles 42 56	the government
+#1	AnnotatorNotes T1	a government
+T2	Spelling 363 371	folloing
+#2	AnnotatorNotes T2	following
+T3	Verb_part 327 343	should allocated
+#3	AnnotatorNotes T3	should be allocated
+T4	Spelling 404 413	sitizents
+#4	AnnotatorNotes T4	citizens
+T5	Agreement_errors 414 416	is
+#5	AnnotatorNotes T5	are
+T6	Agreement_errors 390 395	lives
+R1	Dependent_change Arg1:T5 Arg2:T6	
+T7	lex_part_choice 523 535	driven force
+#6	AnnotatorNotes T7	driving force
+T8	Spelling 654 662	hunanity
+#7	AnnotatorNotes T8	humanity
+T9	Prepositions 610 612	on
+#8	AnnotatorNotes T9	ещ
+T10	Voice 786 797	be resulted
+#9	AnnotatorNotes T10	result
+T11	Articles 894 895	a
+#10	AnnotatorNotes T11	an
+T12	Punctuation 983 1021	, especially without space exploration
+#11	AnnotatorNotes T12	, especially without space exploration, 
+T13	lex_item_choice 1060 1067	by dint
+#12	AnnotatorNotes T13	because
+T14	Articles 1258 1267	goverment
+#13	AnnotatorNotes T14	a government
+T15	lex_item_choice 1405 1412	willing
+#14	AnnotatorNotes T15	the will
+T16	Redundant_comp 1493 1506	down the road
+A1	Delete T16
+T17	Punctuation 1371 1506	Space pursuit provide people with willing to research, with aim to make something new for the future, to make life better down the road
+#15	AnnotatorNotes T17	Space pursuit provide people with willing to research, with aim to make something new for the future, to make life better down the road.
+T18	Absence_comp_sent 1578 1583	there
+#16	AnnotatorNotes T18	there are
+T19	Spelling 1640 1644	evry
+#17	AnnotatorNotes T19	every
+T20	note 1692 1693	d
+#18	AnnotatorNotes T20	Zavyalov
+T21	Redundant_comp 1130 1184	and the scence of existing in expolarion new areas, in
+A2	Delete T21
+#19	AnnotatorNotes T21	no sense

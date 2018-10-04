@@ -1,0 +1,59 @@
+T1	Absence_explanation 41 52	TV programs
+#1	AnnotatorNotes T1	sports programs on TV
+T2	note 62 81	doing active sports
+#2	AnnotatorNotes T2	Something like "active participation in sports" may be a better variant ("actively doing" is the point, rather than "active sports").
+T4	Linking_device 215 218	and
+#4	AnnotatorNotes T4	or
+T5	Linking_device 175 183	Moreover
+T6	Absence_comp_sent 253 262	have time
+#5	AnnotatorNotes T6	have enough time
+T7	suggestion 175 184	Moreover,
+A1	Delete T7
+T3	note 175 184	Moreover,
+#3	AnnotatorNotes T3	This sentence doesn't develop the idea of young people being LAZY. It introduces a new argument - of their being BUSY.
+T8	lex_item_choice 312 321	’d rather
+#6	AnnotatorNotes T8	prefer to
+T9	note 312 321	’d rather
+#7	AnnotatorNotes T9	"Would rather" is used for specific occasions, not in general contexts.
+T10	Linking_device 372 376	Also
+#8	AnnotatorNotes T10	In addition,
+T11	Tense_choice 411 417	having
+T12	lex_item_choice 411 424	having a hard
+#9	AnnotatorNotes T12	find it hard
+T13	lex_item_choice 450 458	diligent
+#10	AnnotatorNotes T13	persistent
+T14	lex_item_choice 708 715	science
+#11	AnnotatorNotes T14	linguistics OR my studies
+T15	Standard 720 733	all free time
+T16	Prepositions 755 757	at
+#12	AnnotatorNotes T16	on
+T17	Tense_form 411 417	having
+T18	suggestion 720 770	all free time I would like to work at some project
+#13	AnnotatorNotes T18	I would like to spend all my free time working on different projects
+T19	Linking_device 772 781	not to do
+#14	AnnotatorNotes T19	rather than doing
+T20	Absence_comp_sent 856 864	in shape
+#15	AnnotatorNotes T20	in good shape
+T21	Linking_device 928 935	and not
+#16	AnnotatorNotes T21	instead of
+T22	Redundant_comp 882 896	for each of us
+A2	Delete T22
+T23	Inappropriate_register 947 952	fatty
+T24	note 947 952	fatty
+#17	AnnotatorNotes T24	Try to use stylistically neutral vocabulary (like "overweight").
+T25	Linking_device 1053 1057	Also
+#18	AnnotatorNotes T25	What's more, OR Moreover, OR Besides,
+T26	Ref_device 968 972	This
+#19	AnnotatorNotes T26	Keeping fit
+T27	suggestion 968 972	This
+#20	AnnotatorNotes T27	"This" refers to "keeping in good shape" but is grammatically connected with the previous sentence. In your syntax it means that seeing a slender person in the mirror is the easiest way to strengthen your immune system.
+T28	Spelling 1225 1235	University
+#21	AnnotatorNotes T28	university
+T29	note 1202 1273	Despite all my work at University, I continue to do judo to be healthy.
+#22	AnnotatorNotes T29	It is not altogether consistent with what you said in line 9.
+T30	Redundant_comp 1487 1497	and psyche
+A3	Delete T30
+T31	Redundant_comp 1561 1564	not
+A4	Delete T31
+T32	note 1499 1584	And I don’t think that television affects how many people are not involved in sports.
+#23	AnnotatorNotes T32	In the last sentence you should reiterate your reason to support your final conclusion rather than simply express your personal opinion  (it would be more appropriate at the beginning of the essay).

@@ -1,0 +1,192 @@
+T1	Superlative_adj 28 34	better
+T2	Noun_number 35 41	things
+T5	Absence_comp_sent 132 138	better
+T7	lex_item_choice 200 207	way out
+T11	Category_confusion 352 356	they
+T13	Ref_device 443 452	dream job
+T14	Articles 474 487	enjoyable job
+T15	Agreement_errors 488 495	improve
+T16	Category_confusion 514 521	working
+T17	Articles 523 529	Person
+T18	Prepositions 549 551	of
+T19	Articles 603 614	golden meal
+T20	lex_item_choice 610 614	meal
+T21	Articles 663 676	enjoyable job
+T24	Punctuation 837 850	In conclusion
+T25	suggestion 876 884	there is
+T26	Ref_device 912 921	dream job
+T27	Absence_comp_sent 890 901	your choice
+T28	Articles 930 932	an
+T29	lex_item_choice 567 570	all
+A1	Cause T29 Other
+A2	Weight-language T29 Minor
+A3	Weight-understanding T29 Minor
+#1	AnnotatorNotes T29	the whole
+T4	Prepositional_verb 48 59	happen with
+A4	Cause T4 L1_interference
+A5	Weight-language T4 Major
+A6	Weight-understanding T4 Minor
+#2	AnnotatorNotes T4	happen to
+A7	Cause T1 Other
+A8	Weight-language T1 Critical
+A9	Weight-understanding T1 Major
+#3	AnnotatorNotes T1	best
+A10	Cause T2 Other
+A11	Weight-language T2 Critical
+A12	Weight-understanding T2 Minor
+#4	AnnotatorNotes T2	thing
+T30	Defining 35 47	things could
+A13	Cause T30 Other
+A14	Weight-language T30 Critical
+A15	Weight-understanding T30 Minor
+#5	AnnotatorNotes T30	thing that could happen
+T3	note 24 63	the better things could happen with you
+#6	AnnotatorNotes T3	Alternatively, you could say "one of the best things that could happen to you"
+A16	Cause T5 L1_interference
+A17	Weight-language T5 Critical
+A18	Weight-understanding T5 Minor
+#7	AnnotatorNotes T5	is better
+T31	Articles 144 166	low-paid favorite work
+A19	Cause T31 Absence_of_Category_in_L1
+A20	Weight-language T31 Major
+A21	Weight-understanding T31 Minor
+#8	AnnotatorNotes T31	a low-paid favourite job
+T32	Often_confused 162 166	work
+A22	Cause T32 Other
+A23	Weight-language T32 Major
+A24	Weight-understanding T32 Minor
+#9	AnnotatorNotes T32	job
+T33	Spelling 153 161	favorite
+A25	Cause T33 Other
+A26	Weight-language T33 Minor
+A27	Weight-understanding T33 Minor
+#10	AnnotatorNotes T33	favourite
+T34	note 153 161	favorite
+#11	AnnotatorNotes T34	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A28	Cause T7 Other
+A29	Weight-language T7 Major
+A30	Weight-understanding T7 Minor
+#12	AnnotatorNotes T7	compromise
+T6	Transitive 260 269	reach for
+A31	Cause T6 L1_interference
+A32	Weight-language T6 Minor
+A33	Weight-understanding T6 Minor
+#13	AnnotatorNotes T6	reach
+T35	lex_item_choice 270 277	exalted
+A34	Cause T35 Other
+A35	Weight-language T35 Major
+A36	Weight-understanding T35 Minor
+#14	AnnotatorNotes T35	high OR high-ranking
+T9	Articles 270 286	exalted position
+A37	Cause T9 Absence_of_Category_in_L1
+A38	Weight-language T9 Major
+A39	Weight-understanding T9 Minor
+#15	AnnotatorNotes T9	a high position
+A40	Cause T11 Other
+A41	Weight-language T11 Critical
+A42	Weight-understanding T11 Minor
+#16	AnnotatorNotes T11	their
+A43	Cause T13 Absence_of_Category_in_L1
+A44	Weight-language T13 Minor
+A45	Weight-understanding T13 Minor
+#17	AnnotatorNotes T13	their dream job
+T36	Verb_Inf 382 405	for themselves to waste
+A46	Cause T36 Other
+A47	Weight-language T36 Major
+A48	Weight-understanding T36 Minor
+#18	AnnotatorNotes T36	themselves to waste
+T12	Often_confused 414 431	unprofitable work
+A49	Cause T12 Other
+A50	Weight-language T12 Minor
+A51	Weight-understanding T12 Minor
+#19	AnnotatorNotes T12	an unprofitable job
+T37	note 427 431	work
+#20	AnnotatorNotes T37	To avoid repetition, you could say "occupation".
+A52	Cause T14 Absence_of_Category_in_L1
+A53	Weight-language T14 Major
+A54	Weight-understanding T14 Minor
+#21	AnnotatorNotes T14	an enjoyable job
+A55	Cause T15 Other
+A56	Weight-language T15 Critical
+A57	Weight-understanding T15 Minor
+#22	AnnotatorNotes T15	improves
+A58	Cause T16 Other
+A59	Weight-language T16 Minor
+A60	Weight-understanding T16 Minor
+#23	AnnotatorNotes T16	work
+A61	Cause T17 Absence_of_Category_in_L1
+A62	Weight-language T17 Major
+A63	Weight-understanding T17 Minor
+#24	AnnotatorNotes T17	A person
+T38	Articles 539 540	a
+A64	Cause T38 Absence_of_Category_in_L1
+A65	Weight-language T38 Major
+A66	Weight-understanding T38 Minor
+A67	Delete T38
+A68	Cause T18 Other
+A69	Weight-language T18 Major
+A70	Weight-understanding T18 Minor
+#25	AnnotatorNotes T18	with
+A71	Cause T19 Absence_of_Category_in_L1
+A72	Weight-language T19 Major
+A73	Weight-understanding T19 Minor
+#26	AnnotatorNotes T19	a golden middle
+A74	Cause T20 Other
+A75	Weight-language T20 Critical
+A76	Weight-understanding T20 Critical
+#27	AnnotatorNotes T20	middle
+T39	lex_item_choice 641 644	big
+A77	Cause T39 L1_interference
+A78	Weight-language T39 Minor
+A79	Weight-understanding T39 Minor
+#28	AnnotatorNotes T39	high
+A80	Cause T21 Absence_of_Category_in_L1
+A81	Weight-language T21 Major
+A82	Weight-understanding T21 Minor
+#29	AnnotatorNotes T21	an enjoyable job
+T40	lex_item_choice 631 640	reach for
+A83	Cause T40 Other
+A84	Weight-language T40 Minor
+A85	Weight-understanding T40 Minor
+#30	AnnotatorNotes T40	secure
+T22	Word_choice 709 744	make a favorite thing of your hobby
+A86	Cause T22 Other
+A87	Weight-language T22 Major
+A88	Weight-understanding T22 Major
+#31	AnnotatorNotes T22	make a profit out of your hobby
+T41	Often_confused 815 819	work
+A89	Cause T41 Other
+A90	Weight-language T41 Major
+A91	Weight-understanding T41 Minor
+#32	AnnotatorNotes T41	a job
+A92	Cause T24 L1_interference
+A93	Weight-language T24 Minor
+A94	Weight-understanding T24 Minor
+#33	AnnotatorNotes T24	In conclusion,
+A95	Cause T25 Other
+A96	Weight-language T25 Critical
+A97	Weight-understanding T25 Minor
+#34	AnnotatorNotes T25	it is
+T42	lex_item_choice 951 955	make
+A98	Cause T42 Other
+A99	Weight-language T42 Major
+A100	Weight-understanding T42 Minor
+#35	AnnotatorNotes T42	get
+A101	Cause T26 L1_interference
+A102	Weight-language T26 Minor
+A103	Weight-understanding T26 Minor
+#36	AnnotatorNotes T26	your dream job
+T43	suggestion 951 969	make a good salary
+#37	AnnotatorNotes T43	Alternatively, you could say "make a lot of money".
+A104	Weight-language T27 Minor
+A105	Weight-understanding T27 Minor
+#38	AnnotatorNotes T27	your own choice
+A106	Cause T28 Absence_of_Category_in_L1
+A107	Weight-language T28 Minor
+A108	Weight-understanding T28 Minor
+#39	AnnotatorNotes T28	the
+T8	lex_item_choice 226 240	each of us has
+A109	Cause T8 Other
+A110	Weight-language T8 Minor
+A111	Weight-understanding T8 Minor
+#40	AnnotatorNotes T8	we all share

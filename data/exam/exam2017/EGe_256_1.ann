@@ -1,0 +1,28 @@
+T1	Spelling 77 87	persentage
+#1	AnnotatorNotes T1	percentage
+T2	Articles 131 140	countries
+#2	AnnotatorNotes T2	the countries
+T3	Spelling 257 267	persentage
+#3	AnnotatorNotes T3	percentages
+T4	Noun_number 257 267	persentage
+#4	AnnotatorNotes T4	percentages
+T5	Agreement_errors 327 329	is
+#5	AnnotatorNotes T5	are
+T6	Agreement_errors 330 336	metals
+R1	Dependent_change Arg1:T5 Arg2:T6	
+T7	Spelling 561 568	persent
+#6	AnnotatorNotes T7	percent
+T8	Spelling 619 629	persentage
+#7	AnnotatorNotes T8	percentage
+T9	Category_confusion 787 800	manufacturing
+#8	AnnotatorNotes T9	manufactured goods
+T10	Pronouns 885 890	which
+#9	AnnotatorNotes T10	that
+T11	Tense_choice 891 895	have
+#10	AnnotatorNotes T11	had
+T12	Spelling 916 922	others
+#11	AnnotatorNotes T12	other
+T13	Spelling 967 977	persentage
+#12	AnnotatorNotes T13	percentage
+T14	note 1060 1061	)
+#13	AnnotatorNotes T14	Zavyalov

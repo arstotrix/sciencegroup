@@ -1,0 +1,37 @@
+T1	Spelling 84 90	twelwe
+#1	AnnotatorNotes T1	twelve
+T2	Spelling 29 31	as
+#2	AnnotatorNotes T2	us
+T3	Verb_Gerund 23 28	shows
+#3	AnnotatorNotes T3	showing
+T4	Articles 134 147	a significant
+#4	AnnotatorNotes T4	significant
+T5	lex_item_choice 331 338	reduced
+#5	AnnotatorNotes T5	decreased
+T6	Standard 340 353	more children
+#6	AnnotatorNotes T6	more children of both genders
+T7	Standard 373 385	both genders
+#7	AnnotatorNotes T7	more children of both genders
+R1	Dependent_change Arg1:T6 Arg2:T7	
+T8	lex_item_choice 396 403	growing
+#8	AnnotatorNotes T8	upward
+T9	Articles 476 482	number
+#9	AnnotatorNotes T9	the number
+T10	Linking_device 452 455	. D
+#10	AnnotatorNotes T10	, d
+T11	Prepositions 531 533	on
+#11	AnnotatorNotes T11	in
+T12	Articles 670 675	level
+#12	AnnotatorNotes T12	the level
+T13	Prepositions 768 770	in
+A1	Delete T13
+T14	Redundant_comp 713 752	and level of access to school education
+A2	Delete T14
+T15	Attributes 753 757	more
+A3	Delete T15
+T16	Articles 997 1012	horrible number
+#13	AnnotatorNotes T16	the horrible number
+T17	Voice 1039 1046	reduced
+#14	AnnotatorNotes T17	be reduced
+T18	Spelling 1065 1074	programms
+#15	AnnotatorNotes T18	programs

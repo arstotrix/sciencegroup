@@ -1,0 +1,35 @@
+T1	Agreement_errors 16 26	illustrate
+#1	AnnotatorNotes T1	illustrates
+T2	Spelling 88 95	defenit
+#2	AnnotatorNotes T2	definit
+T3	Spelling 103 107	rfom
+#3	AnnotatorNotes T3	from
+T4	Spelling 217 221	wish
+#4	AnnotatorNotes T4	which
+T5	Prepositions 254 256	On
+#5	AnnotatorNotes T5	In
+T6	Redundant_comp 262 267	years
+A1	Delete T6
+T7	Spelling 323 331	thogethe
+#6	AnnotatorNotes T7	together
+T8	lex_item_choice 355 362	smolest
+#7	AnnotatorNotes T8	lowest
+T9	Redundant_comp 409 413	year
+A2	Delete T9
+T10	lex_item_choice 591 596	years
+#8	AnnotatorNotes T10	period
+T11	Articles 598 604	Number
+#9	AnnotatorNotes T11	The number
+T12	Absence_comp_sent 598 664	Agreement_errors of children which don’t get the first education 34 millions
+#10	AnnotatorNotes T12	The number of children which don’t get the first education are 34 millions
+T13	Prepositions 665 667	on
+#11	AnnotatorNotes T13	in
+T14	lex_item_choice 709 724	amount children
+#12	AnnotatorNotes T14	the number of children
+T15	Agreement_errors 752 760	decrease
+#13	AnnotatorNotes T15	decreases
+R1	Dependent_change Arg1:T15 Arg2:T14	
+T16	Suffix 797 807	illustrate
+#14	AnnotatorNotes T16	illustration
+T17	Countable_uncountable 872 884	informations
+#15	AnnotatorNotes T17	information

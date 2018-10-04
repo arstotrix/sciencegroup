@@ -1,0 +1,75 @@
+T2	Prefix 10 20	represents
+T5	lex_part_choice 81 94	65 years over
+T6	Articles 138 141	USA
+#3	AnnotatorNotes T6	the USA
+T10	Tense_form 251 260	is change
+T11	lex_part_choice 287 298	more longer
+#6	AnnotatorNotes T11	much longer
+T12	Tense_choice 326 330	live
+#7	AnnotatorNotes T12	will live
+T15	Absence_explanation 382 383	7
+#10	AnnotatorNotes T15	7 percent
+T16	Articles 354 364	population
+#11	AnnotatorNotes T16	the population
+T17	Redundant_comp 365 370	which
+T18	lex_item_choice 379 381	is
+#12	AnnotatorNotes T18	will make up
+T19	Redundant_comp 385 408	The graph of proportion
+#13	AnnotatorNotes T19	the proportion
+T21	lex_item_choice 420 427	hesitat
+#14	AnnotatorNotes T21	fluctuates
+T23	Articles 433 436	USA
+#15	AnnotatorNotes T23	the USA
+T24	Articles 445 455	proportion
+#16	AnnotatorNotes T24	the proportion
+T28	Prepositions 557 559	to
+#19	AnnotatorNotes T28	in
+T29	lex_item_choice 570 572	is
+#20	AnnotatorNotes T29	it increases
+T30	Standard 628 675	the first places among three countries is Japan
+#21	AnnotatorNotes T30	Japan is in the first place among three countries
+T31	Articles 677 687	Population
+#22	AnnotatorNotes T31	The population
+T32	Tense_choice 704 708	live
+#23	AnnotatorNotes T32	is expected to live
+T33	Standard 717 743	The second place is Sweden
+#24	AnnotatorNotes T33	Sweden is in the second place
+T36	Tense_choice 764 769	lived
+T37	lex_item_choice 799 806	to less
+#25	AnnotatorNotes T37	will lose
+T38	Tense_choice 799 806	to less
+T39	Absence_comp_sent 866 879	was the first
+#26	AnnotatorNotes T39	it was the first
+T41	Tense_choice 282 286	live
+#1	AnnotatorNotes T2	presents
+T1	Redundant_comp 70 75	which
+A1	Delete T1
+#2	AnnotatorNotes T5	65 and over years old
+T3	Coherence 191 195	less
+#4	AnnotatorNotes T3	lower percentage
+T4	Word_choice 212 216	aged
+#5	AnnotatorNotes T4	the age of
+T7	Tense_choice 203 208	lived
+#27	AnnotatorNotes T7	are expected to live
+T8	Prepositions 225 230	since
+#28	AnnotatorNotes T8	after
+#9	AnnotatorNotes T10	is to change
+#29	AnnotatorNotes T41	will be living
+T9	Redundant 337 342	years
+A2	Delete T9
+A3	Delete T17
+T13	Tense_choice 379 381	is
+#8	AnnotatorNotes T13	will make up
+A4	Delete T19
+T14	Comparative_adj 491 515	the highest (9%) between
+#17	AnnotatorNotes T14	higher (9%0 than in
+T20	Word_choice 544 556	hesitate and
+#18	AnnotatorNotes T20	shows that
+T22	Absence_comp_sent 570 572	is
+#30	AnnotatorNotes T22	it increases
+#31	AnnotatorNotes T36	will be living
+T25	Word_choice 773 777	aged
+#32	AnnotatorNotes T25	the age  of
+#33	AnnotatorNotes T38	will lose
+T26	Coherence 827 830	now
+#34	AnnotatorNotes T26	in 2040

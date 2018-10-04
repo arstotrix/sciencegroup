@@ -1,0 +1,53 @@
+T1	lex_item_choice 216 226	understand
+#1	AnnotatorNotes T1	define
+T2	note 1288 1289	.
+#2	AnnotatorNotes T2	Oleynik
+T3	Derivation 358 365	seating
+#3	AnnotatorNotes T3	sitting
+T4	Spelling 464 475	cerculation
+#4	AnnotatorNotes T4	circulation
+T5	Punctuation 639 643	hand
+#5	AnnotatorNotes T5	hand,
+T6	Derivation 705 710	lifes
+#6	AnnotatorNotes T6	lives
+T7	Tense_form 798 805	appeard
+#7	AnnotatorNotes T7	appeared
+T8	Inappropriate_register 897 902	don't
+#8	AnnotatorNotes T8	do not
+T9	Spelling 963 971	proplems
+#9	AnnotatorNotes T9	problems
+T10	Ref_device 945 949	they
+#10	AnnotatorNotes T10	gadgets
+T11	Derivation 1100 1104	seat
+#11	AnnotatorNotes T11	sit
+T12	Prepositions 1114 1116	on
+#12	AnnotatorNotes T12	at
+T13	Punctuation 12 13	:
+T14	Linking_device 14 16	do
+#13	AnnotatorNotes T14	either or not
+T15	Standard 59 65	or not
+R1	Parallel_construction Arg1:T14 Arg2:T15	
+T16	Spelling 73 81	oppinion
+#14	AnnotatorNotes T16	opinion,
+T17	Punctuation 73 81	oppinion
+#15	AnnotatorNotes T17	opinion,
+T18	lex_item_choice 180 186	vision
+#16	AnnotatorNotes T18	eyesight
+T19	lex_item_choice 188 196	our back
+#17	AnnotatorNotes T19	backbone
+T20	Determiners 188 196	our back
+#18	AnnotatorNotes T20	backbone
+T21	lex_item_choice 366 371	cause
+#19	AnnotatorNotes T21	lead to
+T22	Spelling 424 433	callories
+#20	AnnotatorNotes T22	calories
+T23	Linking_device 869 875	such a
+#21	AnnotatorNotes T23	this
+T24	Redundant_comp 1209 1235	, but these problems more,
+T25	lex_item_choice 1175 1179	made
+#22	AnnotatorNotes T25	increased
+T26	Redundant 1205 1209	more
+R2	Parallel_construction Arg1:T25 Arg2:T26	
+T27	Spelling 1190 1195	heath
+#23	AnnotatorNotes T27	health
+T28	Ref_device 1284 1288	them

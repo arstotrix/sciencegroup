@@ -1,0 +1,26 @@
+T1	lex_item_choice 35 45	percentile
+#1	AnnotatorNotes T1	percentage
+T2	Punctuation 180 181	,
+A1	Delete T2
+T3	Punctuation 288 320	As it can be seen from the graph
+#2	AnnotatorNotes T3	As it can be seen from the graph,
+T4	Articles 396 408	second place
+#3	AnnotatorNotes T4	the second place
+T5	Tense_choice 510 518	increase
+#4	AnnotatorNotes T5	was increasing
+T6	Punctuation 569 570	,
+A2	Delete T6
+T7	Absence_comp_sent 596 620	Then a little decreasing
+#5	AnnotatorNotes T7	Then there was a little decrease
+T8	Category_confusion 610 620	decreasing
+#6	AnnotatorNotes T8	decrease
+T9	Absence_comp_sent 661 671	increasing
+#7	AnnotatorNotes T9	there was an increase
+T10	Category_confusion 661 671	increasing
+#8	AnnotatorNotes T10	an increase
+T11	Tense_choice 768 776	increase
+#9	AnnotatorNotes T11	increased
+T12	Articles 889 896	company
+#10	AnnotatorNotes T12	the company
+T13	Absence_comp_sent 1113 1118	which
+#11	AnnotatorNotes T13	which is

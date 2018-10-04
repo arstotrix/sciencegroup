@@ -1,0 +1,44 @@
+T1	Agreement_errors 10 17	provide
+#1	AnnotatorNotes T1	provides
+T2	Spelling 44 55	qualication
+#2	AnnotatorNotes T2	qualifications
+T3	Redundant_comp 82 84	in
+A1	Delete T3
+T4	Redundant_comp 89 93	were
+A2	Delete T4
+T5	lex_item_choice 94 103	completed
+A3	Cause T5 L1_interference
+#3	AnnotatorNotes T5	graduated from
+T6	Redundant_comp 128 132	were
+A4	Delete T6
+T7	lex_item_choice 187 197	above 100%
+#4	AnnotatorNotes T7	it can't be above
+T8	Redundant_comp 209 211	to
+A5	Delete T8
+T9	Coherence 246 247	a
+A6	Delete T9
+T10	Coherence 325 393	above 70% above females had undegraduate dimploma 70%. respectively.
+#5	AnnotatorNotes T10	?
+T11	Absence_explanation 407 432	mens held Master's degree
+#6	AnnotatorNotes T11	amount of men holding Master's degree
+T12	Prepositions 444 446	in
+#7	AnnotatorNotes T12	with
+T13	lex_item_choice 450 460	percentage
+#8	AnnotatorNotes T13	percent
+T14	Punctuation 462 469	However
+#9	AnnotatorNotes T14	However,
+T15	lex_item_choice 515 526	persentages
+#10	AnnotatorNotes T15	percent
+T16	Punctuation 536 540	more
+#11	AnnotatorNotes T16	more,
+T17	Agreement_errors 564 570	gender
+#12	AnnotatorNotes T17	genders
+T18	Word_order 541 593	Bachelor's degree both gender had approximately data
+#13	AnnotatorNotes T18	both genders had approximately data in Bachelor's degree
+T19	Spelling 615 625	differesce
+#14	AnnotatorNotes T19	difference
+T20	Punctuation 715 722	However
+#15	AnnotatorNotes T20	However,
+T21	Spelling 741 745	from
+A7	Cause T21 Typo
+#16	AnnotatorNotes T21	form

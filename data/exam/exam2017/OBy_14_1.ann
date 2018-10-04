@@ -1,0 +1,72 @@
+T1	Redundant 45 54	countries
+T2	Articles 96 107	First chart
+#1	AnnotatorNotes T2	The first chart
+T3	Absence_explanation 164 178	transportation
+#2	AnnotatorNotes T3	that kind of transportation
+T4	Absence_comp_sent 190 201	35 per cent
+#3	AnnotatorNotes T4	they have 35 per cent
+T5	Spelling 207 214	smolest
+#4	AnnotatorNotes T5	smallest
+T6	Spelling 237 249	non-metellic
+#5	AnnotatorNotes T6	non-metallic
+T7	lex_item_choice 263 265	is
+#6	AnnotatorNotes T7	takes
+T8	Agreement_errors 292 295	was
+#7	AnnotatorNotes T8	were
+T9	lex_item_choice 325 332	parties
+#8	AnnotatorNotes T9	proportions
+T10	Agreement_errors 333 335	is
+#9	AnnotatorNotes T10	are
+T11	Comparative_constr 380 388	most big
+#10	AnnotatorNotes T11	biggest
+T12	lex_item_choice 389 396	parties
+#11	AnnotatorNotes T12	proportions
+T13	Articles 437 449	Second chart
+#12	AnnotatorNotes T13	The second chart
+T14	Redundant 401 404	for
+A1	Delete T14
+A2	Delete T1
+T15	Spelling 552 559	smolest
+#13	AnnotatorNotes T15	smallest
+T16	Absence_explanation 548 559	The smolest
+#14	AnnotatorNotes T16	The smallest one
+T17	Agreement_errors 601 604	was
+#15	AnnotatorNotes T17	were
+T18	lex_item_choice 626 633	parties
+#16	AnnotatorNotes T18	proportions
+T19	Agreement_errors 634 636	is
+#17	AnnotatorNotes T19	are
+T20	Punctuation 711 759	and food products was transported in big parties
+#18	AnnotatorNotes T20	,and food products were transported in bigger proportions
+T21	Agreement_errors 729 744	was transported
+#19	AnnotatorNotes T21	were transported
+T22	Comparative_constr 748 751	big
+#20	AnnotatorNotes T22	bigger
+T23	lex_item_choice 752 759	parties
+#21	AnnotatorNotes T23	proportions
+T24	Noun_number 765 772	results
+#22	AnnotatorNotes T24	a result
+T25	Articles 765 772	results
+#23	AnnotatorNotes T25	a result
+T26	Punctuation 800 828	product, transported by rail
+#24	AnnotatorNotes T26	products transported by rail
+T27	Noun_number 800 807	product
+#25	AnnotatorNotes T27	products
+T28	Tense_choice 829 831	is
+#26	AnnotatorNotes T28	was 
+T29	Standard 774 838	the biggest percentage of product, transported by rail is metals
+#27	AnnotatorNotes T29	metals had the biggest percentage of all products transported by rail
+T30	Standard 840 876	transported by road is food products
+#28	AnnotatorNotes T30	food products  - of all products transported by road
+T31	Absence_comp_sent 840 876	transported by road is food products
+#29	AnnotatorNotes T31	food products  - of all products transported by road
+T32	Spelling 882 889	smalest
+#30	AnnotatorNotes T32	smallest
+T33	Absence_comp_sent 878 952	The smalest number of product transported by rail is non-metallic minerals
+#31	AnnotatorNotes T33	Non-mettali minerals had the smallest percentage of all products transported by rail
+T34	Standard 878 953	The smalest number of product transported by rail is non-metallic minerals,
+#32	AnnotatorNotes T34	Non-mettali minerals had the smallest percentage of all products transported by rail
+T35	Absence_comp_sent 954 986	transported be road is machinery
+#33	AnnotatorNotes T35	machinery goods - of all products transported by road
+T36	Standard 954 986	transported be road is machinery
+#34	AnnotatorNotes T36	machinery goods - of all products transported by road

@@ -1,0 +1,66 @@
+T1	suggestion 945 946	.
+T2	suggestion 857 858	.
+T4	lex_item_choice 628 635	percent
+#1	AnnotatorNotes T4	percentage
+T5	Determiners 626 635	a percent
+#2	AnnotatorNotes T5	the percentage
+T6	suggestion 708 709	.
+T7	Prepositions 58 60	of
+#3	AnnotatorNotes T7	between
+T8	Conjunctions 112 116	with
+#4	AnnotatorNotes T8	and
+T9	lex_item_choice 176 186	dimensions
+#5	AnnotatorNotes T9	factors
+T10	Absence_comp_sent 284 286	to
+#6	AnnotatorNotes T10	to be
+T11	Agreement_errors 379 383	rate
+#7	AnnotatorNotes T11	rates
+T12	Articles 402 413	inhabitants
+#8	AnnotatorNotes T12	the inhabitants
+T13	Comparative_constr 486 535	more than twice the percentage of illiterate men.
+#9	AnnotatorNotes T13	the percentage of illiterate men more than twice
+T14	lex_item_choice 722 731	dimension
+#10	AnnotatorNotes T14	factor
+T15	Articles 747 748	a
+A1	Delete T15
+T16	Word_order 839 857	men and women both
+#11	AnnotatorNotes T16	both men and women
+T17	lex_item_choice 863 870	biggest
+#12	AnnotatorNotes T17	highest
+T18	Punctuation 923 924	,
+A2	Delete T18
+T19	Punctuation 833 834	,
+A3	Delete T19
+T20	Absence_comp_sent 977 980	the
+#13	AnnotatorNotes T20	that the
+T22	Articles 1045 1060	most illiterate
+#15	AnnotatorNotes T22	the most illiterate
+T23	Redundant_comp 1045 1069	most illiterate would be
+#16	AnnotatorNotes T23	the most illiterate,
+T24	Word_order 149 159	2020 year.
+#17	AnnotatorNotes T24	year 2020
+T25	Prepositions 142 144	in
+#18	AnnotatorNotes T25	by
+T26	Punctuation 300 301	,
+A4	Delete T26
+T27	Punctuation 1039 1040	,
+A5	Delete T27
+T28	Articles 61 69	person’s
+#19	AnnotatorNotes T28	a person's
+T29	Conjunctions 77 80	and
+#20	AnnotatorNotes T29	as well as
+T3	Redundant_comp 539 551	regions like
+A6	Delete T3
+T31	suggestion 534 535	.
+#22	AnnotatorNotes T31	at ...% and ...%, correspondingly.
+#23	AnnotatorNotes T6	- ...% in ... and ...% in the ... .
+#24	AnnotatorNotes T2	- about ...%.
+#25	AnnotatorNotes T1	- ...%
+T32	Coherence 1045 1060	most illiterate
+#26	AnnotatorNotes T32	the least literate
+T33	Tense_choice 995 1003	would be
+#27	AnnotatorNotes T33	will be
+T35	Punctuation 131 132	,
+A7	Delete T35
+T30	Punctuation 1045 1069	most illiterate would be
+#21	AnnotatorNotes T30	the most illiterate,

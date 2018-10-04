@@ -1,0 +1,39 @@
+T1	Category_confusion 454 461	growing
+#1	AnnotatorNotes T1	growth
+T4	lex_item_choice 1023 1027	fall
+#3	AnnotatorNotes T4	go
+T6	Redundant 523 532	fell down
+T8	lex_item_choice 643 647	down
+#5	AnnotatorNotes T8	lower
+T9	Linking_device 376 388	What is more
+#6	AnnotatorNotes T9	Specifically,
+T10	Articles 443 446	the
+#7	AnnotatorNotes T10	a
+T15	Absence_explanation 843 852	from 1950
+#11	AnnotatorNotes T15	from 1950 on
+T16	Punctuation 761 766	while
+#12	AnnotatorNotes T16	, while
+T11	Prepositions 704 708	from
+#13	AnnotatorNotes T11	after
+T12	Redundant_comp 173 197	From the very beginning,
+A4	Delete T12
+T5	Capitalisation 198 200	we
+#8	AnnotatorNotes T5	We
+R1	Dependent_change Arg1:T12 Arg2:T5	
+T17	Redundant_comp 12 17	below
+A2	Delete T17
+T18	Noun_attribute 38 44	size’s
+#14	AnnotatorNotes T18	size
+T19	Redundant_comp 342 349	of time
+A5	Delete T19
+#2	AnnotatorNotes T6	fell
+T7	Word_choice 730 750	number of population
+#4	AnnotatorNotes T7	population numbers
+T13	Punctuation 814 817	and
+#9	AnnotatorNotes T13	, and
+T3	Tense_choice 928 947	has been growing up
+#10	AnnotatorNotes T3	had grown
+T14	Redundant 928 947	has been growing up
+#15	AnnotatorNotes T14	had grown up
+T21	Prepositions 1064 1066	in
+#16	AnnotatorNotes T21	at

@@ -1,0 +1,38 @@
+T1	Spelling 246 255	preticted
+A1	Cause T1 Typo
+A2	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	predicted
+T2	suggestion 577 581	2000
+A3	Delete T2
+T3	Spelling 13 22	piecharts
+#2	AnnotatorNotes T3	pie charts
+T4	lex_item_choice 23 30	present
+#3	AnnotatorNotes T4	represents
+T6	Agreement_errors 144 147	was
+#5	AnnotatorNotes T6	were
+T7	Ref_device 345 349	they
+#6	AnnotatorNotes T7	their number
+T8	lex_item_choice 355 362	contain
+#7	AnnotatorNotes T8	be estimated
+T9	Often_confused 409 414	elder
+#8	AnnotatorNotes T9	elderly
+T5	Punctuation 128 137	In Yemen,
+#4	AnnotatorNotes T5	In Yemen
+T10	Punctuation 473 482	In Italy,
+#9	AnnotatorNotes T10	In Italy
+T11	Articles 483 491	children
+#10	AnnotatorNotes T11	the children
+T12	Absence_comp_sent 582 612	24 and 62 percent respectively
+#11	AnnotatorNotes T12	were 24 and 62 percent respectively
+T13	Punctuation 614 622	In 2050,
+#12	AnnotatorNotes T13	In 2050
+T14	lex_item_choice 661 669	equality
+#13	AnnotatorNotes T14	approximately equal numbers
+T15	Prepositions 670 677	between
+#14	AnnotatorNotes T15	of
+R1	Dependent_change Arg1:T14 Arg2:T15	
+T16	suggestion 658 660	an
+A4	Delete T16
+R2	Dependent_change Arg1:T14 Arg2:T16	
+T17	Absence_comp_colloc 682 695	60+ years old
+#15	AnnotatorNotes T17	60 years old and over

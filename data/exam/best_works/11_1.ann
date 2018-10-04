@@ -1,0 +1,65 @@
+T2	Agreement_errors 279 283	were
+#2	AnnotatorNotes T2	was
+T3	Agreement_errors 344 348	were
+#3	AnnotatorNotes T3	was
+T4	Agreement_errors 396 400	were
+#4	AnnotatorNotes T4	was
+T6	Prepositions 526 537	it’s profit
+#5	AnnotatorNotes T6	in its profit
+T7	Articles 642 654	upward trend
+#6	AnnotatorNotes T7	an upward trend
+T10	Tense_form 767 775	increase
+#8	AnnotatorNotes T10	increased
+T11	Tense_choice 829 833	drop
+#9	AnnotatorNotes T11	dropped
+T12	Agreement_errors 860 864	were
+#10	AnnotatorNotes T12	was
+T14	Ref_device 879 884	their
+#12	AnnotatorNotes T14	its
+T15	Tense_choice 937 940	has
+#13	AnnotatorNotes T15	had
+T19	Articles 129 143	total earnings
+#15	AnnotatorNotes T19	the total earnings
+T20	Compound_word 178 185	5-years
+#16	AnnotatorNotes T20	5-year
+T21	Agreement_errors 249 253	this
+#17	AnnotatorNotes T21	these
+T23	Articles 656 672	company’s profit
+#21	AnnotatorNotes T23	the company’s profit
+T24	Articles 790 797	Profits
+#23	AnnotatorNotes T24	the profits
+T25	Ref_device 965 967	it
+#24	AnnotatorNotes T25	they
+T26	lex_item_choice 42 53	proposition
+#25	AnnotatorNotes T26	profit
+T28	Prepositions 284 298	the same level
+#27	AnnotatorNotes T28	at the same level
+T8	lex_part_choice 865 878	the same with
+#20	AnnotatorNotes T8	the same as
+T16	Punctuation 372 381	. Whereas
+T30	note 1003 1004	.
+#22	AnnotatorNotes T30	Malyshok
+T1	Confusion_of_structures 264 278	Samsung income
+#1	AnnotatorNotes T1	income of Samsung
+#28	AnnotatorNotes T16	, whereas
+T5	Often_confused 526 530	it’s
+T27	Punctuation 260 263	and
+#26	AnnotatorNotes T27	, and 
+T9	Agreement_errors 968 971	was
+#7	AnnotatorNotes T9	were
+R1	Dependent_change Arg1:T25 Arg2:T9	
+#18	AnnotatorNotes T5	its
+T18	Absence_explanation 612 614	8%
+#19	AnnotatorNotes T18	8% profit share
+T22	Redundant_comp 932 936	both
+A1	Delete T22
+T29	Confusion_of_structures 739 752	Apple incomes
+#29	AnnotatorNotes T29	income of Apple
+T31	lex_item_choice 81 88	incomes
+#30	AnnotatorNotes T31	companies
+T32	Coherence 630 637	totally
+#31	AnnotatorNotes T32	overall but not always
+T33	Absence_explanation 843 859	Samsung’s profit
+#32	AnnotatorNotes T33	Samsung’s profit in 2015
+T13	Punctuation 963 964	,
+#11	AnnotatorNotes T13	:

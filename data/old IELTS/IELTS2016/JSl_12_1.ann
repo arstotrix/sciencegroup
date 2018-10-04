@@ -1,0 +1,60 @@
+T1	Articles 16 24	a number
+#1	AnnotatorNotes T1	the number
+T2	lex_item_choice 98 102	ears
+#2	AnnotatorNotes T2	periods
+T3	Punctuation 177 178	,
+A1	Delete T3
+T4	Punctuation 202 203	,
+A2	Delete T4
+T5	Category_confusion 217 224	numbers
+#3	AnnotatorNotes T5	number
+T6	Spelling 287 294	summari
+#4	AnnotatorNotes T6	summary
+T7	Spelling 331 335	hang
+#5	AnnotatorNotes T7	hand
+T8	Spelling 349 354	hight
+#6	AnnotatorNotes T8	high
+T9	Articles 346 361	an hight number
+#7	AnnotatorNotes T9	the high number
+T10	Absence_comp_sent 355 367	number child
+#8	AnnotatorNotes T10	number of children
+T11	suggestion 362 367	child
+#9	AnnotatorNotes T11	children
+T12	Numerals 403 407	43,7
+#10	AnnotatorNotes T12	43.7
+T13	lex_item_choice 397 402	about
+#11	AnnotatorNotes T13	nearly
+T14	Voice 529 539	was change
+#12	AnnotatorNotes T14	changed
+T15	Spelling 557 565	digrease
+#13	AnnotatorNotes T15	dicrease
+T16	Numerals 618 626	millions
+#14	AnnotatorNotes T16	million
+T17	Numerals 613 617	23,7
+#15	AnnotatorNotes T17	23.7
+T18	Numerals 683 686	5,1
+T19	Punctuation 715 728	, we can see,
+A3	Addition T19
+#16	AnnotatorNotes T19	we can see
+T20	Punctuation 793 805	do big, than
+A4	Delete T20
+#17	AnnotatorNotes T20	bigget than
+T21	Prepositions 827 829	On
+#18	AnnotatorNotes T21	In
+T22	Articles 842 847	chart
+#19	AnnotatorNotes T22	the chart
+T23	Agreement_errors 848 852	have
+#20	AnnotatorNotes T23	has
+T24	Suffix 855 864	tendation
+#21	AnnotatorNotes T24	tendency
+T25	Spelling 868 876	digrease
+#22	AnnotatorNotes T25	dicrease
+T26	Articles 893 898	world
+#23	AnnotatorNotes T26	the world
+T27	Punctuation 899 909	, in 2012,
+A5	Delete T27
+#24	AnnotatorNotes T27	in 2012
+T28	Suffix 970 980	tendention
+#25	AnnotatorNotes T28	tendency
+T29	Articles 985 997	world future
+#26	AnnotatorNotes T29	the future of the world

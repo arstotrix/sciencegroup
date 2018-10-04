@@ -1,0 +1,25 @@
+T1	Spelling 162 172	travelling
+#1	AnnotatorNotes T1	traveling
+T2	Spelling 364 371	can not
+#2	AnnotatorNotes T2	cannot
+T3	Spelling 396 401	brake
+#3	AnnotatorNotes T3	break
+T4	Articles 464 470	person
+#4	AnnotatorNotes T4	a person
+T5	Pronouns 600 609	this path
+#5	AnnotatorNotes T5	that path
+T6	Compound_word 675 695	environment friendly
+#6	AnnotatorNotes T6	eco-friendly
+T7	Articles 872 883	environment
+#7	AnnotatorNotes T7	the environment
+T8	Spelling 1296 1305	expencive
+#8	AnnotatorNotes T8	expensive
+T9	Punctuation 1273 1282	of course
+#9	AnnotatorNotes T9	of course,
+T10	Spelling 1436 1441	brake
+#10	AnnotatorNotes T10	break
+T11	Determiners 1476 1483	another
+#11	AnnotatorNotes T11	other ways
+T12	Determiners 1502 1506	ways
+#12	AnnotatorNotes T12	other ways
+R1	Dependent_change Arg1:T11 Arg2:T12	

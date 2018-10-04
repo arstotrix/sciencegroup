@@ -1,0 +1,390 @@
+T1	Punctuation 38 39	”
+#1	AnnotatorNotes T1	,"
+T2	Punctuation 76 91	On the one hand
+#2	AnnotatorNotes T2	On the one hand,
+T3	Articles 105 108	the
+A1	Delete T3
+T4	Punctuation 183 191	Moreover
+#3	AnnotatorNotes T4	Moreover,
+T5	Articles 277 280	the
+A2	Delete T5
+T6	Agreement_errors 323 330	quality
+#4	AnnotatorNotes T6	qualities
+T7	Punctuation 334 351	On the other hand
+#5	AnnotatorNotes T7	On the other hand,
+T8	lex_part_choice 461 474	On my opinion
+#6	AnnotatorNotes T8	In my opinion
+T9	Punctuation 461 474	On my opinion
+#7	AnnotatorNotes T9	In my opinion,
+T10	lex_item_choice 489 494	right
+#8	AnnotatorNotes T10	true
+T11	lex_item_choice 514 521	oratory
+#9	AnnotatorNotes T11	rhetoric OR speaking ability
+T12	Punctuation 560 561	,
+A3	Delete T12
+T13	Ref_device 527 530	the
+#10	AnnotatorNotes T13	some
+T14	Word_choice 598 615	absolutely cannot
+#11	AnnotatorNotes T14	by no means can
+T15	Articles 619 626;628 635	public  speaker
+#12	AnnotatorNotes T15	a public speaker
+T16	Redundant_comp 659 677	Demosthenes was he
+#13	AnnotatorNotes T16	was Demosphenes
+T17	Articles 678 695	born communicator
+#14	AnnotatorNotes T17	a born communicator
+T18	Articles 811 812	a
+A4	Delete T18
+T19	note 901 902	.
+#15	AnnotatorNotes T19	Say what this example proves, and draw the conclusion.
+T20	note 901 902	.
+#16	AnnotatorNotes T20	Writing like this, you can count to get an 8 provided you set aside time for self-editing.
+T21	pos_Fw 0 1	“
+#17	AnnotatorNotes T21	lemma = '“'
+T22	pos_NP 1 5	Good
+#18	AnnotatorNotes T22	lemma = 'good'
+T23	pos_NNS 6 19	communicators
+#19	AnnotatorNotes T23	lemma = 'communicator'
+T24	pos_VBP 20 23	are
+#20	AnnotatorNotes T24	lemma = 'be'
+T25	pos_VBN 24 28	born
+#21	AnnotatorNotes T25	lemma = 'bear'
+T26	pos_Fc 28 29	,
+#22	AnnotatorNotes T26	lemma = ','
+T27	pos_RB 30 33	not
+#23	AnnotatorNotes T27	lemma = 'not'
+T28	pos_VBN 34 38	made
+#24	AnnotatorNotes T28	lemma = 'make'
+T29	pos_Fw 38 39	”
+#25	AnnotatorNotes T29	lemma = '”'
+T30	pos_– 40 41	–
+#26	AnnotatorNotes T30	lemma = '–'
+T31	pos_PRP 42 43	I
+#27	AnnotatorNotes T31	lemma = 'i'
+T32	pos_RB 44 53	partially
+#28	AnnotatorNotes T32	lemma = 'partially'
+T33	pos_NN 54 59	share
+#29	AnnotatorNotes T33	lemma = 'share'
+T34	pos_DT 60 64	this
+#30	AnnotatorNotes T34	lemma = 'this'
+T35	pos_NN 65 72	opinion
+#31	AnnotatorNotes T35	lemma = 'opinion'
+T36	pos_Fp 72 73	.
+#32	AnnotatorNotes T36	lemma = '.'
+T37	pos_RB 76 91	On the one hand
+#33	AnnotatorNotes T37	lemma = 'on_the_one_hand'
+T38	pos_PRP 92 93	I
+#34	AnnotatorNotes T38	lemma = 'i'
+T39	pos_VBP 94 99	think
+#35	AnnotatorNotes T39	lemma = 'think'
+T40	pos_IN 100 104	that
+#36	AnnotatorNotes T40	lemma = 'that'
+T41	pos_DT 105 108	the
+#37	AnnotatorNotes T41	lemma = 'the'
+T42	pos_NN 109 118	eloquence
+#38	AnnotatorNotes T42	lemma = 'eloquence'
+T43	pos_VBZ 119 121	is
+#39	AnnotatorNotes T43	lemma = 'be'
+T44	pos_DT 122 123	a
+#40	AnnotatorNotes T44	lemma = 'a'
+T45	pos_NN 124 128	kind
+#41	AnnotatorNotes T45	lemma = 'kind'
+T46	pos_IN 129 131	of
+#42	AnnotatorNotes T46	lemma = 'of'
+T47	pos_NN 132 138	talent
+#43	AnnotatorNotes T47	lemma = 'talent'
+T48	pos_Fc 138 139	,
+#44	AnnotatorNotes T48	lemma = ','
+T49	pos_IN 140 144	like
+#45	AnnotatorNotes T49	lemma = 'like'
+T50	pos_DT 145 146	a
+#46	AnnotatorNotes T50	lemma = 'a'
+T51	pos_NN 147 153	talent
+#47	AnnotatorNotes T51	lemma = 'talent'
+T52	pos_IN 156 159	for
+#48	AnnotatorNotes T52	lemma = 'for'
+T53	pos_VBG 160 168	painting
+#49	AnnotatorNotes T53	lemma = 'paint'
+T54	pos_CC 169 171	or
+#50	AnnotatorNotes T54	lemma = 'or'
+T55	pos_IN 172 175	for
+#51	AnnotatorNotes T55	lemma = 'for'
+T56	pos_NN 176 181	music
+#52	AnnotatorNotes T56	lemma = 'music'
+T57	pos_Fp 181 182	.
+#53	AnnotatorNotes T57	lemma = '.'
+T58	pos_RB 183 191	Moreover
+#54	AnnotatorNotes T58	lemma = 'moreover'
+T59	pos_PRP 192 195	you
+#55	AnnotatorNotes T59	lemma = 'you'
+T60	pos_VBP 196 200	have
+#56	AnnotatorNotes T60	lemma = 'have'
+T61	pos_TO 201 203	to
+#57	AnnotatorNotes T61	lemma = 'to'
+T62	pos_VB 204 206	be
+#58	AnnotatorNotes T62	lemma = 'be'
+T63	pos_DT 207 208	a
+#59	AnnotatorNotes T63	lemma = 'a'
+T64	pos_JJ 209 217	sociable
+#60	AnnotatorNotes T64	lemma = 'sociable'
+T65	pos_NN 218 224	person
+#61	AnnotatorNotes T65	lemma = 'person'
+T66	pos_IN 225 228	for
+#62	AnnotatorNotes T66	lemma = 'for'
+T67	pos_VBG 231 236	being
+#63	AnnotatorNotes T67	lemma = 'be'
+T68	pos_DT 237 238	a
+#64	AnnotatorNotes T68	lemma = 'a'
+T69	pos_JJ 239 243	good
+#65	AnnotatorNotes T69	lemma = 'good'
+T70	pos_NN 244 256	communicator
+#66	AnnotatorNotes T70	lemma = 'communicator'
+T71	pos_Fp 256 257	.
+#67	AnnotatorNotes T71	lemma = '.'
+T72	pos_CC 258 261	And
+#68	AnnotatorNotes T72	lemma = 'and'
+T73	pos_PRP 262 263	I
+#69	AnnotatorNotes T73	lemma = 'i'
+T74	pos_VBP 264 271	suppose
+#70	AnnotatorNotes T74	lemma = 'suppose'
+T75	pos_IN 272 276	that
+#71	AnnotatorNotes T75	lemma = 'that'
+T76	pos_DT 277 280	the
+#72	AnnotatorNotes T76	lemma = 'the'
+T77	pos_NN 281 292	sociability
+#73	AnnotatorNotes T77	lemma = 'sociability'
+T78	pos_VBZ 293 295	is
+#74	AnnotatorNotes T78	lemma = 'be'
+T79	pos_RB 296 300	also
+#75	AnnotatorNotes T79	lemma = 'also'
+T80	pos_NN 301 304	one
+#76	AnnotatorNotes T80	lemma = 'one'
+T81	pos_IN 307 309	of
+#77	AnnotatorNotes T81	lemma = 'of'
+T82	pos_JJ 310 316	inborn
+#78	AnnotatorNotes T82	lemma = 'inborn'
+T83	pos_JJ 317 322	human
+#79	AnnotatorNotes T83	lemma = 'human'
+T84	pos_NN 323 330	quality
+#80	AnnotatorNotes T84	lemma = 'quality'
+T85	pos_Fp 330 331	.
+#81	AnnotatorNotes T85	lemma = '.'
+T86	pos_RB 334 351	On the other hand
+#82	AnnotatorNotes T86	lemma = 'on_the_other_hand'
+T87	pos_PRP 352 355	you
+#83	AnnotatorNotes T87	lemma = 'you'
+T88	pos_MD 356 359	can
+#84	AnnotatorNotes T88	lemma = 'can'
+T89	pos_VB 360 365	learn
+#85	AnnotatorNotes T89	lemma = 'learn'
+T90	pos_TO 366 368	to
+#86	AnnotatorNotes T90	lemma = 'to'
+T91	pos_VB 369 373	draw
+#87	AnnotatorNotes T91	lemma = 'draw'
+T92	pos_IN 374 381	without
+#88	AnnotatorNotes T92	lemma = 'without'
+T93	pos_DT 382 385	any
+#89	AnnotatorNotes T93	lemma = 'any'
+T94	pos_JJ 386 399	extraordinary
+#90	AnnotatorNotes T94	lemma = 'extraordinary'
+T95	pos_NN 400 404	gift
+#91	AnnotatorNotes T95	lemma = 'gift'
+T96	pos_Fp 404 405	.
+#92	AnnotatorNotes T96	lemma = '.'
+T97	pos_PRP 408 411	You
+#93	AnnotatorNotes T97	lemma = 'you'
+T98	pos_MD 412 416	will
+#94	AnnotatorNotes T98	lemma = 'will'
+T99	pos_RB 417 422	never
+#95	AnnotatorNotes T99	lemma = 'never'
+T100	pos_VB 423 425	be
+#96	AnnotatorNotes T100	lemma = 'be'
+T101	pos_JJ 426 431	great
+#97	AnnotatorNotes T101	lemma = 'great'
+T102	pos_Fc 431 432	,
+#98	AnnotatorNotes T102	lemma = ','
+T103	pos_CC 433 436	but
+#99	AnnotatorNotes T103	lemma = 'but'
+T104	pos_PRP 437 440	you
+#100	AnnotatorNotes T104	lemma = 'you'
+T105	pos_MD 441 444	can
+#101	AnnotatorNotes T105	lemma = 'can'
+T106	pos_VB 445 447	be
+#102	AnnotatorNotes T106	lemma = 'be'
+T107	pos_RB 448 454	pretty
+#103	AnnotatorNotes T107	lemma = 'pretty'
+T108	pos_JJ 455 459	good
+#104	AnnotatorNotes T108	lemma = 'good'
+T109	pos_Fp 459 460	.
+#105	AnnotatorNotes T109	lemma = '.'
+T110	pos_IN 461 463	On
+#106	AnnotatorNotes T110	lemma = 'on'
+T111	pos_PRP2 464 466	my
+#107	AnnotatorNotes T111	lemma = 'my'
+T112	pos_NN 467 474	opinion
+#108	AnnotatorNotes T112	lemma = 'opinion'
+T113	pos_IN 475 479	that
+#109	AnnotatorNotes T113	lemma = 'that'
+T114	pos_Fw 479 480	’
+#110	AnnotatorNotes T114	lemma = '’'
+T115	pos_NN 480 481	s
+#111	AnnotatorNotes T115	lemma = 's'
+T116	pos_RB 484 488	also
+#112	AnnotatorNotes T116	lemma = 'also'
+T117	pos_RB 489 494	right
+#113	AnnotatorNotes T117	lemma = 'right'
+T118	pos_WRB 495 499	when
+#114	AnnotatorNotes T118	lemma = 'when'
+T119	pos_PRP 500 502	we
+#115	AnnotatorNotes T119	lemma = 'we'
+T120	pos_VBP 503 507	talk
+#116	AnnotatorNotes T120	lemma = 'talk'
+T121	pos_IN 508 513	about
+#117	AnnotatorNotes T121	lemma = 'about'
+T122	pos_NN 514 521	oratory
+#118	AnnotatorNotes T122	lemma = 'oratory'
+T123	pos_Fp 521 522	.
+#119	AnnotatorNotes T123	lemma = '.'
+T124	pos_CC 523 526	And
+#120	AnnotatorNotes T124	lemma = 'and'
+T125	pos_DT 527 530	the
+#121	AnnotatorNotes T125	lemma = 'the'
+T126	pos_JJ 531 541	historical
+#122	AnnotatorNotes T126	lemma = 'historical'
+T127	pos_NNS 542 550	examples
+#123	AnnotatorNotes T127	lemma = 'example'
+T128	pos_VBP 551 555	show
+#124	AnnotatorNotes T128	lemma = 'show'
+T129	pos_PRP 558 560	us
+#125	AnnotatorNotes T129	lemma = 'us'
+T130	pos_Fc 560 561	,
+#126	AnnotatorNotes T130	lemma = ','
+T131	pos_IN 562 566	that
+#127	AnnotatorNotes T131	lemma = 'that'
+T132	pos_CC 567 574	even if
+#128	AnnotatorNotes T132	lemma = 'even_if'
+T133	pos_PRP 575 577	it
+#129	AnnotatorNotes T133	lemma = 'it'
+T134	pos_VBZ 578 583	seems
+#130	AnnotatorNotes T134	lemma = 'seem'
+T135	pos_IN 584 588	that
+#131	AnnotatorNotes T135	lemma = 'that'
+T136	pos_PRP 589 597	somebody
+#132	AnnotatorNotes T136	lemma = 'somebody'
+T137	pos_RB 598 608	absolutely
+#133	AnnotatorNotes T137	lemma = 'absolutely'
+T138	pos_MD 609 612	can
+#134	AnnotatorNotes T138	lemma = 'can'
+T139	pos_RB 612 615	not
+#135	AnnotatorNotes T139	lemma = 'not'
+T140	pos_VB 616 618	be
+#136	AnnotatorNotes T140	lemma = 'be'
+T141	pos_JJ 619 625	public
+#137	AnnotatorNotes T141	lemma = 'public'
+T142	pos_NN 628 635	speaker
+#138	AnnotatorNotes T142	lemma = 'speaker'
+T143	pos_Fc 635 636	,
+#139	AnnotatorNotes T143	lemma = ','
+T144	pos_PRP 637 639	it
+#140	AnnotatorNotes T144	lemma = 'it'
+T145	pos_VBZ 640 645	means
+#141	AnnotatorNotes T145	lemma = 'mean'
+T146	pos_NN 646 653	nothing
+#142	AnnotatorNotes T146	lemma = 'nothing'
+T147	pos_Fp 653 654	.
+#143	AnnotatorNotes T147	lemma = '.'
+T148	pos_RB 655 657	So
+#144	AnnotatorNotes T148	lemma = 'so'
+T149	pos_Fc 657 658	,
+#145	AnnotatorNotes T149	lemma = ','
+T150	pos_NP 659 670	Demosthenes
+#146	AnnotatorNotes T150	lemma = 'demosthenes'
+T151	pos_VBD 671 674	was
+#147	AnnotatorNotes T151	lemma = 'be'
+T152	pos_PRP 675 677	he
+#148	AnnotatorNotes T152	lemma = 'he'
+T153	pos_VBN 678 682	born
+#149	AnnotatorNotes T153	lemma = 'bear'
+T154	pos_NN 683 695	communicator
+#150	AnnotatorNotes T154	lemma = 'communicator'
+T155	pos_CC 698 700	or
+#151	AnnotatorNotes T155	lemma = 'or'
+T156	pos_RB 701 704	not
+#152	AnnotatorNotes T156	lemma = 'not'
+T157	pos_Fit 704 705	?
+#153	AnnotatorNotes T157	lemma = '?'
+T158	pos_PRP 706 708	He
+#154	AnnotatorNotes T158	lemma = 'he'
+T159	pos_VBZ 709 711	is
+#155	AnnotatorNotes T159	lemma = 'be'
+T160	pos_NN 712 715	one
+#156	AnnotatorNotes T160	lemma = 'one'
+T161	pos_IN 716 718	of
+#157	AnnotatorNotes T161	lemma = 'of'
+T162	pos_DT 719 722	the
+#158	AnnotatorNotes T162	lemma = 'the'
+T163	pos_RBS 723 727	most
+#159	AnnotatorNotes T163	lemma = 'many'
+T164	pos_JJ 728 734	famous
+#160	AnnotatorNotes T164	lemma = 'famous'
+T165	pos_NNS 735 742	orators
+#161	AnnotatorNotes T165	lemma = 'orator'
+T166	pos_IN 743 745	in
+#162	AnnotatorNotes T166	lemma = 'in'
+T167	pos_DT 746 749	the
+#163	AnnotatorNotes T167	lemma = 'the'
+T168	pos_NN 750 757	history
+#164	AnnotatorNotes T168	lemma = 'history'
+T169	pos_Fc 757 758	,
+#165	AnnotatorNotes T169	lemma = ','
+T170	pos_CC 759 762	but
+#166	AnnotatorNotes T170	lemma = 'but'
+T171	pos_IN 763 765	as
+#167	AnnotatorNotes T171	lemma = 'as'
+T172	pos_DT 766 767	a
+#168	AnnotatorNotes T172	lemma = 'a'
+T173	pos_NN 768 771	boy
+#169	AnnotatorNotes T173	lemma = 'boy'
+T174	pos_PRP 772 774	he
+#170	AnnotatorNotes T174	lemma = 'he'
+T175	pos_VBD 777 780	had
+#171	AnnotatorNotes T175	lemma = 'have'
+T176	pos_DT 781 789	a lot of
+#172	AnnotatorNotes T176	lemma = 'a_lot_of'
+T177	pos_VBG 790 798	speaking
+#173	AnnotatorNotes T177	lemma = 'speak'
+T178	pos_NNS 799 807	problems
+#174	AnnotatorNotes T178	lemma = 'problem'
+T179	pos_IN 808 810	as
+#175	AnnotatorNotes T179	lemma = 'as'
+T180	pos_DT 811 812	a
+#176	AnnotatorNotes T180	lemma = 'a'
+T181	pos_VBG 813 827	mispronouncing
+#177	AnnotatorNotes T181	lemma = 'mispronounce'
+T182	pos_NN 828 829	r
+#178	AnnotatorNotes T182	lemma = 'r'
+T183	pos_CC 830 833	and
+#179	AnnotatorNotes T183	lemma = 'and'
+T184	pos_NN 834 835	l
+#180	AnnotatorNotes T184	lemma = 'l'
+T185	pos_Fc 835 836	,
+#181	AnnotatorNotes T185	lemma = ','
+T186	pos_DT 837 839	an
+#182	AnnotatorNotes T186	lemma = 'a'
+T187	pos_JJ 840 844	ugly
+#183	AnnotatorNotes T187	lemma = 'ugly'
+T188	pos_JJ 845 851	facial
+#184	AnnotatorNotes T188	lemma = 'facial'
+T189	pos_NN 854 864	expression
+#185	AnnotatorNotes T189	lemma = 'expression'
+T190	pos_Fc 864 865	,
+#186	AnnotatorNotes T190	lemma = ','
+T191	pos_JJ 866 877	involuntary
+#187	AnnotatorNotes T191	lemma = 'involuntary'
+T192	pos_NN 878 891	gesticulation
+#188	AnnotatorNotes T192	lemma = 'gesticulation'
+T193	pos_CC 892 895	and
+#189	AnnotatorNotes T193	lemma = 'and'
+T194	pos_RB 896 901	so on
+#190	AnnotatorNotes T194	lemma = 'so_on'
+T195	pos_Fp 901 902	.
+#191	AnnotatorNotes T195	lemma = '.'

@@ -1,0 +1,55 @@
+T1	Determiners 134 141	another
+#1	AnnotatorNotes T1	the other
+T2	Prepositions 232 234	on
+#2	AnnotatorNotes T2	in
+T3	Capitalisation 239 243	West
+#3	AnnotatorNotes T3	west
+T4	Category_confusion 295 300	North
+#4	AnnotatorNotes T4	northern
+T5	Capitalisation 295 300	North
+#5	AnnotatorNotes T5	northern
+T6	Articles 309 315	island
+#6	AnnotatorNotes T6	the island
+T7	Prepositions 346 348	on
+#7	AnnotatorNotes T7	in
+T8	Capitalisation 353 357	West
+#8	AnnotatorNotes T8	west
+T9	lex_item_choice 361 365	able
+#9	AnnotatorNotes T9	equipped
+T10	suggestion 366 369	for
+#10	AnnotatorNotes T10	to support
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	Prepositions 407 409	on
+#11	AnnotatorNotes T11	in
+T12	Absence_explanation 380 389	Reception
+#12	AnnotatorNotes T12	Reception area OR Hotel with the reception
+T13	Punctuation 435 438	and
+#13	AnnotatorNotes T13	, and
+T14	Category_confusion 453 458	South
+#14	AnnotatorNotes T14	southern
+T15	Capitalisation 453 458	South
+#15	AnnotatorNotes T15	southern
+T16	Linking_device 493 498	which
+#16	AnnotatorNotes T16	and the two areas
+T17	Redundant 626 642	of accommodation
+A1	Delete T17
+T18	Agreement_errors 782 785	was
+#17	AnnotatorNotes T18	were
+T19	lex_item_choice 735 745	pleasantly
+#18	AnnotatorNotes T19	good
+T20	Category_confusion 735 745	pleasantly
+#19	AnnotatorNotes T20	good
+T21	Articles 776 781	trees
+#20	AnnotatorNotes T21	the trees
+T22	Prepositions 791 793	on
+#21	AnnotatorNotes T22	in
+T23	Agreement_errors 796 799	its
+#22	AnnotatorNotes T23	their
+T24	Tense_choice 844 847	was
+#23	AnnotatorNotes T24	has become
+T25	lex_item_choice 844 847	was
+#24	AnnotatorNotes T25	has become
+T26	Noun_number 866 873	tourist
+#25	AnnotatorNotes T26	tourists
+T27	suggestion 924 925	.
+#26	AnnotatorNotes T27	7

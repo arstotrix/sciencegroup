@@ -1,0 +1,46 @@
+T1	Punctuation 867 901	As parents spend more time working
+T2	lex_item_choice 957 962	watch
+T3	Prepositions 1475 1477	of
+#1	AnnotatorNotes T3	for
+#2	AnnotatorNotes T2	look after
+T5	lex_item_choice 39 47	dedicate
+#4	AnnotatorNotes T5	devote
+T6	Lack_par_constr 79 97	their own children
+#5	AnnotatorNotes T6	to their own children
+T7	Absence_comp_sent 79 97	their own children
+T8	Punctuation 99 112	As the result
+#6	AnnotatorNotes T8	As a result,
+T9	Articles 99 112	As the result
+#7	AnnotatorNotes T9	As a result,
+T10	Articles 133 143	the chance
+#8	AnnotatorNotes T10	a chance
+T11	Absence_comp_sent 378 402	posessed amount of money
+#9	AnnotatorNotes T11	amount of money acquired
+T12	lex_item_choice 378 386	posessed
+#10	AnnotatorNotes T12	acquired
+T13	Punctuation 404 413	therefore
+#11	AnnotatorNotes T13	therefore,
+T14	Spelling 720 727	the own
+#12	AnnotatorNotes T14	their own
+T15	lex_item_choice 1311 1319	proposed
+#13	AnnotatorNotes T15	demonstrated
+T16	Absence_comp_sent 1489 1492	and
+T17	Absence_explanation 1493 1499	forget
+#15	AnnotatorNotes T17	they forget
+T18	Category_confusion 1522 1528	needed
+#16	AnnotatorNotes T18	necessary
+T19	lex_item_choice 1550 1557	neglect
+#17	AnnotatorNotes T19	fail
+T20	Verb_Inf 1558 1565	telling
+#18	AnnotatorNotes T20	to tell
+R1	Dependent_change Arg1:T19 Arg2:T20	
+T4	Punctuation 1911 1936	in order to raise a child
+#3	AnnotatorNotes T4	in order to raise a child,
+T21	Punctuation 1955 1957	as
+#19	AnnotatorNotes T21	, as
+T22	Infinitive_constr 2025 2035	is finding
+#20	AnnotatorNotes T22	is to find
+T23	Infinitive_constr 2052 2057	being
+#21	AnnotatorNotes T23	be
+R2	Parallel_construction Arg1:T22 Arg2:T23	
+#22	AnnotatorNotes T1	"As parents spend more time working,

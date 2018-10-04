@@ -1,0 +1,28 @@
+T1	lex_item_choice 32 38	amount
+#1	AnnotatorNotes T1	number
+T2	lex_item_choice 42 46	kids
+#2	AnnotatorNotes T2	children
+T3	Often_confused 255 262	educate
+#3	AnnotatorNotes T3	study
+T4	Prepositions 295 297	on
+#4	AnnotatorNotes T4	by\to
+T5	Numerals 300 308	millions
+#5	AnnotatorNotes T5	million
+T6	Tense_choice 451 454	are
+#6	AnnotatorNotes T6	had
+T7	lex_item_choice 451 454	are
+#7	AnnotatorNotes T7	had
+T8	Numerals 549 557	millions
+#8	AnnotatorNotes T8	million
+T9	Standard 563 567	more
+T10	Standard 545 548	0.3
+R1	Parallel_construction Arg1:T9 Arg2:T10	
+#9	AnnotatorNotes T9	more than 0.3...
+T11	lex_item_choice 637 645	quantity
+#10	AnnotatorNotes T11	number
+T12	Agreement_errors 668 672	were
+#11	AnnotatorNotes T12	was
+T13	Numerals 706 714	millions
+#12	AnnotatorNotes T13	million
+T14	Numerals 794 802	millions
+#13	AnnotatorNotes T14	million

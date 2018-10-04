@@ -1,0 +1,85 @@
+T1	Tense_choice 72 74	is
+#1	AnnotatorNotes T1	will be
+T2	Absence_comp_sent 212 214	be
+#2	AnnotatorNotes T2	can be
+T3	Noun_number 61 71	technology
+#3	AnnotatorNotes T3	technologies
+T4	Absence_comp_sent 121 143	The essay will discuss
+#4	AnnotatorNotes T4	In the essay I write
+T5	lex_item_choice 136 143	discuss
+#5	AnnotatorNotes T5	write
+T6	Confusion_of_structures 121 130	The essay
+#6	AnnotatorNotes T6	In the essay
+T7	Tense_choice 131 143	will discuss
+#7	AnnotatorNotes T7	write
+T8	Ref_device 197 202	those
+#8	AnnotatorNotes T8	these
+T9	Articles 256 272	really influence
+#9	AnnotatorNotes T9	a real influece
+T10	Category_confusion 256 262	really
+#10	AnnotatorNotes T10	real
+T11	Noun_number 241 251	technology
+#11	AnnotatorNotes T11	technologies
+T12	Agreement_errors 252 255	has
+#12	AnnotatorNotes T12	have
+R1	Dependent_change Arg1:T12 Arg2:T11	
+T13	Redundant 291 295	easy
+A1	Delete T13
+T14	Redundant_comp 309 315	should
+A2	Delete T14
+T15	Redundant_comp 380 386	during
+A3	Delete T15
+T16	Punctuation 404 410	, that
+#13	AnnotatorNotes T16	that
+T17	Agreement_errors 424 429	makes
+#14	AnnotatorNotes T17	make
+T18	lex_item_choice 430 436	humans
+#15	AnnotatorNotes T18	people
+T19	Prepositions 437 448	addicted by
+#16	AnnotatorNotes T19	addicted to
+T20	lex_item_choice 464 471	grow in
+#17	AnnotatorNotes T20	lead to
+T21	lex_item_choice 522 529	heloing
+#18	AnnotatorNotes T21	intervention
+T22	Absence_comp_sent 499 508	will need
+#19	AnnotatorNotes T22	people will need
+T23	Articles 531 545	Second problem
+#20	AnnotatorNotes T23	The second problem
+T24	lex_item_choice 549 556	wasting
+#21	AnnotatorNotes T24	polluting
+T25	lex_item_choice 597 610	are sorrowing
+#22	AnnotatorNotes T25	suffer
+T26	Ref_device 627 632	whose
+#23	AnnotatorNotes T26	that
+T27	lex_item_choice 633 652	take at their waste
+#24	AnnotatorNotes T27	throw waste into them
+T28	Agreement_errors 697 701	need
+#25	AnnotatorNotes T28	needs
+T29	Articles 689 696	Ecology
+#26	AnnotatorNotes T29	The ecology
+T30	Linking_device 718 728	in bad way
+#27	AnnotatorNotes T30	or
+T31	lex_item_choice 732 741	could not
+#28	AnnotatorNotes T31	will not
+T32	Articles 756 770	first question
+#29	AnnotatorNotes T32	the first issue
+T33	lex_item_choice 762 770	question
+#30	AnnotatorNotes T33	issue
+T34	Category_confusion 803 816	communication
+#31	AnnotatorNotes T34	to communicate
+T35	Articles 904 912	internet
+#32	AnnotatorNotes T35	the Internet
+T36	Capitalisation 904 912	internet
+#33	AnnotatorNotes T36	the Internet
+T37	Noun_number 895 900	phone
+#34	AnnotatorNotes T37	phones
+T38	Articles 916 924	computer
+#35	AnnotatorNotes T38	a computer
+T39	Articles 936 950	second problem
+#36	AnnotatorNotes T39	the second problem
+T40	Absence_comp_sent 964 966	in
+#37	AnnotatorNotes T40	is in
+T41	Absence_explanation 995 1004	recycling
+#38	AnnotatorNotes T41	recycle the waste
+T42	Tense_choice 995 1004	recycling
+#39	AnnotatorNotes T42	recycle the waste

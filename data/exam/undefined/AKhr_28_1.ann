@@ -1,0 +1,95 @@
+T1	Determiners 0 10	This graph
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	The graph
+T2	Redundant_comp 104 117	, which ended
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+A7	Delete T2
+T3	lex_item_choice 241 256	at the one side
+A8	Cause T3 L1_interference
+A9	Weight-language T3 Critical
+A10	Weight-understanding T3 Major
+#2	AnnotatorNotes T3	on the one hand
+T4	lex_item_choice 325 342	at the other side
+A11	Cause T4 L1_interference
+A12	Weight-language T4 Critical
+A13	Weight-understanding T4 Major
+#3	AnnotatorNotes T4	on the other hand
+T5	Tense_choice 163 166	are
+A14	Cause T5 Other
+A15	Weight-language T5 Major
+A16	Weight-understanding T5 Major
+#4	AnnotatorNotes T5	were
+T6	Punctuation 239 256	, at the one side
+A17	Cause T6 Other
+A18	Weight-language T6 Minor
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	on the one hand
+T7	Punctuation 323 342	, at the other side
+A20	Cause T7 Other
+A21	Weight-language T7 Minor
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	on the other hand
+T8	Spelling 368 376	differed
+A23	Cause T8 Other
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	differred 
+T9	Articles 415 421	a peak
+A26	Cause T9 Absence_of_Category_in_L1
+A27	Weight-language T9 Minor
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	the peak
+T10	Articles 439 454	the 90 per cent
+A29	Cause T10 Absence_of_Category_in_L1
+A30	Weight-language T10 Critical
+A31	Weight-understanding T10 Minor
+#9	AnnotatorNotes T10	90 per cent
+T11	Redundant_comp 474 485	people with
+A32	Cause T11 Other
+A33	Weight-language T11 Minor
+A34	Weight-understanding T11 Minor
+A35	Delete T11
+T12	Tense_choice 621 624	are
+A36	Cause T12 Other
+A37	Weight-language T12 Major
+A38	Weight-understanding T12 Major
+#10	AnnotatorNotes T12	were
+T13	Redundant_comp 822 826	with
+A39	Cause T13 Other
+A40	Weight-language T13 Critical
+A41	Weight-understanding T13 Minor
+A42	Delete T13
+T14	Articles 949 956	highest
+A43	Cause T14 Absence_of_Category_in_L1
+A44	Weight-language T14 Critical
+A45	Weight-understanding T14 Minor
+#11	AnnotatorNotes T14	the highest
+T15	Articles 961 967	lowest
+A46	Cause T15 Absence_of_Category_in_L1
+A47	Weight-language T15 Critical
+A48	Weight-understanding T15 Minor
+#12	AnnotatorNotes T15	the lowest
+T16	Tense_choice 988 999	are related
+A49	Cause T16 Other
+A50	Weight-language T16 Major
+A51	Weight-understanding T16 Major
+#13	AnnotatorNotes T16	were related
+T17	Tense_choice 1034 1045	are related
+A52	Cause T17 Other
+A53	Weight-language T17 Major
+A54	Weight-understanding T17 Major
+#14	AnnotatorNotes T17	were related
+T18	Prepositional_verb 992 1004	related with
+A55	Cause T18 L1_interference
+A56	Weight-language T18 Major
+A57	Weight-understanding T18 Minor
+#15	AnnotatorNotes T18	related to
+T19	Prepositional_verb 1038 1050	related with
+A58	Cause T19 L1_interference
+A59	Weight-language T19 Major
+A60	Weight-understanding T19 Minor
+#16	AnnotatorNotes T19	related to

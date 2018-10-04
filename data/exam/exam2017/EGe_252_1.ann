@@ -1,0 +1,20 @@
+T1	Agreement_errors 137 140	are
+#1	AnnotatorNotes T1	is
+T2	Agreement_errors 132 136	data
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T3	lex_item_choice 241 246	which
+#2	AnnotatorNotes T3	each
+T4	Suffix 446 456	stabilized
+#3	AnnotatorNotes T4	stable
+T5	lex_item_choice 480 484	well
+#4	AnnotatorNotes T5	than
+T6	lex_item_choice 523 528	cause
+#5	AnnotatorNotes T6	case
+T7	Prepositions 1154 1156	in
+A1	Delete T7
+T8	Absence_comp_sent 1206 1208	is
+#6	AnnotatorNotes T8	is noticed
+T9	Absence_comp_sent 1294 1296	is
+#7	AnnotatorNotes T9	is noticed
+T10	note 1650 1651	o
+#8	AnnotatorNotes T10	Zavyalov

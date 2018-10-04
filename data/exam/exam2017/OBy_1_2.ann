@@ -1,0 +1,104 @@
+T1	Standard 64 95	modern easy access technologies
+#1	AnnotatorNotes T1	modern technologies with easy access
+T2	Spelling 189 191	ab
+#2	AnnotatorNotes T2	an 
+T3	Absence_comp_sent 189 203	ab illegal way
+#3	AnnotatorNotes T3	it is an illegal way
+T4	Absence_comp_sent 208 213	leads
+#4	AnnotatorNotes T4	it leads
+T5	Articles 217 218	a
+A1	Delete T5
+T6	lex_item_choice 314 321	illegal
+#5	AnnotatorNotes T6	pirate copies of original
+T7	Spelling 418 429	“Pirate bay
+#6	AnnotatorNotes T7	'Pirate bay'
+T8	lex_item_choice 430 442	were serving
+#7	AnnotatorNotes T8	have been spreading
+T9	Tense_choice 430 442	were serving
+#8	AnnotatorNotes T9	have been speading
+T10	Category_confusion 443 467	free films, books, music
+#9	AnnotatorNotes T10	films, books, music for free
+T11	Spelling 347 355	theviers
+#10	AnnotatorNotes T11	thieves
+T12	Inappropriate_register 550 554	It’s
+#11	AnnotatorNotes T12	It is
+T13	Articles 574 585	bad outcome
+#12	AnnotatorNotes T13	a bad outcome
+T14	Word_order 634 651	a film or CD, DVD
+#13	AnnotatorNotes T14	a film, CD or DVD
+T15	Verb_Inf 711 757	not supporting, helping crime business to grow
+#14	AnnotatorNotes T15	we do not support crime business and do not help it to grow
+T16	Punctuation 699 710	as a result
+#15	AnnotatorNotes T16	as a result,
+T17	Redundant_comp 690 697	, hence
+A2	Delete T17
+T18	lex_item_choice 774 778	work
+#16	AnnotatorNotes T18	process
+T19	Spelling 799 805	coping
+#17	AnnotatorNotes T19	copying
+T20	Tense_choice 821 838	started releasing
+#18	AnnotatorNotes T20	have started releasing
+T21	Tense_choice 897 904	decided
+#19	AnnotatorNotes T21	have decided
+T22	Articles 839 841	an
+A3	Delete T22
+T23	Articles 864 887	the authentical stories
+A4	Delete T23
+T24	Category_confusion 868 879	authentical
+#20	AnnotatorNotes T24	authentic
+T25	Spelling 942 953	galagraghic
+#21	AnnotatorNotes T25	 holographic
+T26	Noun_number 954 961	sticker
+#22	AnnotatorNotes T26	stickers
+T27	Noun_number 1033 1037	ways
+#23	AnnotatorNotes T27	way
+T28	Agreement_errors 1025 1028	are
+#24	AnnotatorNotes T28	is
+R1	Dependent_change Arg1:T28 Arg2:T27	
+T29	Prepositions 1033 1052	ways of cutting-off
+#25	AnnotatorNotes T29	way to cut-of
+T30	Tense_choice 1033 1052	ways of cutting-off
+#26	AnnotatorNotes T30	way to cut-of
+T31	Punctuation 1016 1060	if there are any ways of cutting-off pirates
+#27	AnnotatorNotes T31	if there is any ways to cut off pirates,
+T32	Spelling 1129 1135	planty
+#28	AnnotatorNotes T32	plenty
+T33	Ref_device 1164 1167	who
+#29	AnnotatorNotes T33	that
+T34	Spelling 1274 1279	buing
+#30	AnnotatorNotes T34	buying
+T35	Noun_number 1319 1325	author
+#31	AnnotatorNotes T35	authors
+T36	Spelling 1361 1367	accute
+#32	AnnotatorNotes T36	acute
+T37	Punctuation 1383 1384	-
+A5	Delete T37
+T38	Punctuation 1412 1434	in the era of Internet
+#33	AnnotatorNotes T38	in the era of the Internet
+T39	Spelling 851 855	CD’s
+#34	AnnotatorNotes T39	CDs
+T40	Spelling 1285 1289	CD’s
+#35	AnnotatorNotes T40	CDs
+T41	Spelling 1450 1454	CD’s
+#36	AnnotatorNotes T41	CDs
+T42	Spelling 1460 1465	mp3’s
+#37	AnnotatorNotes T42	mp3s
+T43	Punctuation 1466 1469	but
+#38	AnnotatorNotes T43	, but
+T44	Punctuation 1470 1487	frankly speaking,
+#39	AnnotatorNotes T44	, frankly speaking
+T45	Redundant_comp 1597 1599	it
+A6	Delete T45
+T46	Punctuation 1631 1634	but
+#40	AnnotatorNotes T46	, but
+T47	Punctuation 1635 1666	if you pay for every author job
+#41	AnnotatorNotes T47	if you pay for every author's job,
+T48	Possessive 1656 1666	author job
+#42	AnnotatorNotes T48	author's job
+T49	lex_item_choice 1682 1687	chair
+#43	AnnotatorNotes T49	repay
+T50	Prepositions 962 964	in
+#44	AnnotatorNotes T50	on 
+T51	Spelling 1086 1091	buing
+#45	AnnotatorNotes T51	buying
+#46	AnnotatorNotes T23	authetical stories

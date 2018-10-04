@@ -1,0 +1,22 @@
+T1	Comparative_adj 94 100	poorer
+#1	AnnotatorNotes T1	poor
+T2	Redundant_comp 101 115	and developing
+A1	Delete T2
+T3	Prepositions 235 259	employment native people
+#2	AnnotatorNotes T3	employment of native people 
+T4	Articles 302 309	the one
+#3	AnnotatorNotes T4	one
+T5	Comparative_adj 414 420	poorer
+#4	AnnotatorNotes T5	poor
+T6	Redundant_comp 421 435	and developing
+A2	Delete T6
+T7	Agreement_errors 645 647	is
+#5	AnnotatorNotes T7	are
+T8	Agreement_errors 597 611	these measures
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Linking_device 863 880	On the other hand
+#6	AnnotatorNotes T9	However
+T10	Articles 977 990	a world total
+#7	AnnotatorNotes T10	the world total
+T11	Articles 1523 1531	the cons
+#8	AnnotatorNotes T11	cons

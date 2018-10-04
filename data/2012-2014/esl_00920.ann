@@ -1,0 +1,475 @@
+T1	Articles 48 51	job
+T2	Agreement_errors 148 150	do
+T3	Articles 111 129	a “long shillings”
+T4	Absence_comp_colloc 186 188	of
+T5	Defining 235 247	place, which
+T7	Word_choice 329 344	in their career
+T8	Word_choice 491 501	on retired
+T9	Absence_explanation 593 604	participate
+T11	Category_confusion 882 891	a crucial
+T12	Punctuation 937 952	countries, with
+T14	Tense_choice 1016 1024	fighting
+T15	Spelling 1121 1125	feet
+T16	Articles 1185 1190	hobby
+T18	Articles 1262 1265	job
+T20	Punctuation 1295 1303	easy, to
+T21	Punctuation 1326 1327	:
+T22	Articles 1328 1339	good salary
+T23	Articles 1343 1356	enjoyable job
+T24	lex_item_choice 1304 1313	deal with
+T26	Defining 1396 1432	, which includes both these factors,
+T28	Ref_device 1367 1370	you
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	a job
+A4	Cause T2 Other
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	does
+A7	Cause T3 Absence_of_Category_in_L1
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	"long shillings"
+A10	Cause T4 Typo
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	of view
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	job which
+T30	lex_item_choice 235 240	place
+A16	Cause T30 Other
+A17	Weight-language T30 Minor
+A18	Weight-understanding T30 Minor
+#6	AnnotatorNotes T30	job
+T31	note 225 240	enjoyable place
+#7	AnnotatorNotes T31	these two words don't collocate very well
+T32	lex_item_choice 214 221	work in
+A19	Cause T32 Other
+A20	Weight-language T32 Minor
+A21	Weight-understanding T32 Minor
+#8	AnnotatorNotes T32	do
+T33	note 211 263	to work in an enjoyable place, which makes you happy
+#9	AnnotatorNotes T33	Alternatively, you could say "to work in an interesting place where you feel happy".
+T6	Redundant_comp 294 302	spending
+A22	Cause T6 Other
+A23	Weight-language T6 Minor
+A24	Weight-understanding T6 Minor
+A25	Delete T6
+A26	Cause T7 Other
+A27	Weight-language T7 Minor
+A28	Weight-understanding T7 Minor
+#10	AnnotatorNotes T7	at work
+T34	Ref_device 486 490	life
+A29	Cause T34 Absence_of_Category_in_L1
+A30	Weight-language T34 Major
+A31	Weight-understanding T34 Minor
+#11	AnnotatorNotes T34	your life
+A32	Cause T8 L1_interference
+A33	Weight-language T8 Major
+A34	Weight-understanding T8 Minor
+#12	AnnotatorNotes T8	when you retire OR when you are retired
+A35	Cause T9 Other
+A36	Weight-language T9 Critical
+A37	Weight-understanding T9 Critical
+#13	AnnotatorNotes T9	Meaning not quite clear (participate in what?)
+T35	note 593 618	participate more actively
+#14	AnnotatorNotes T35	Suggested correction: "active".
+T36	Articles 658 671	higher salary
+A38	Cause T36 Absence_of_Category_in_L1
+A39	Weight-language T36 Major
+A40	Weight-understanding T36 Minor
+#15	AnnotatorNotes T36	a higher salary
+T10	Absence_comp_sent 695 708	a better life
+A41	Cause T10 Other
+A42	Weight-language T10 Minor
+A43	Weight-understanding T10 Minor
+#16	AnnotatorNotes T10	in a better life
+T37	Linking_device 673 682	therefore
+A44	Cause T37 Other
+A45	Weight-language T37 Minor
+A46	Weight-understanding T37 Minor
+#17	AnnotatorNotes T37	and therefore
+T38	Determiners 788 789	a
+A47	Cause T38 Other
+A48	Weight-language T38 Minor
+A49	Weight-understanding T38 Minor
+#18	AnnotatorNotes T38	his
+T39	lex_item_choice 874 878	wage
+A50	Cause T39 Other
+A51	Weight-language T39 Minor
+A52	Weight-understanding T39 Minor
+#19	AnnotatorNotes T39	salary
+T40	Articles 869 878	high wage
+A53	Cause T40 Absence_of_Category_in_L1
+A54	Weight-language T40 Major
+A55	Weight-understanding T40 Minor
+#20	AnnotatorNotes T40	a high salary
+A56	Cause T11 Absence_of_Category_in_L1
+A57	Weight-language T11 Major
+A58	Weight-understanding T11 Minor
+#21	AnnotatorNotes T11	crucial
+A59	Cause T12 Typo
+A60	Weight-language T12 Critical
+A61	Weight-understanding T12 Minor
+#22	AnnotatorNotes T12	countries with
+T41	Noun_number 958 968	population
+A62	Cause T41 L1_interference
+A63	Weight-language T41 Minor
+A64	Weight-understanding T41 Minor
+#23	AnnotatorNotes T41	populations
+T13	Word_choice 970 981	for example
+A65	Cause T13 L1_interference
+A66	Weight-language T13 Minor
+A67	Weight-understanding T13 Minor
+#24	AnnotatorNotes T13	such as
+A68	Cause T14 Absence_of_Category_in_L1
+A69	Weight-language T14 Critical
+A70	Weight-understanding T14 Minor
+#25	AnnotatorNotes T14	fight
+T42	Spelling 1066 1072	Chines
+A71	Cause T42 Other
+A72	Weight-language T42 Critical
+A73	Weight-understanding T42 Minor
+#26	AnnotatorNotes T42	Chinese
+A74	Cause T15 Typo
+A75	Weight-language T15 Critical
+A76	Weight-understanding T15 Minor
+#27	AnnotatorNotes T15	feed
+A77	Cause T16 Absence_of_Category_in_L1
+A78	Weight-language T16 Major
+A79	Weight-understanding T16 Minor
+#28	AnnotatorNotes T16	a hobby
+T17	Articles 1194 1212	unimaginable thing
+A80	Cause T17 Absence_of_Category_in_L1
+A81	Weight-language T17 Major
+A82	Weight-understanding T17 Minor
+#29	AnnotatorNotes T17	an unimaginable thing
+A83	Cause T18 Absence_of_Category_in_L1
+A84	Weight-language T18 Major
+A85	Weight-understanding T18 Minor
+#30	AnnotatorNotes T18	a job
+T43	Linking_device 1267 1281	In conclusion,
+A86	Cause T43 Other
+A87	Weight-language T43 Minor
+A88	Weight-understanding T43 Minor
+#31	AnnotatorNotes T43	In conclusion, it must be admitted//said
+A89	Cause T20 Typo
+A90	Weight-language T20 Critical
+A91	Weight-understanding T20 Minor
+A92	Cause T24 Other
+A93	Weight-language T24 Major
+A94	Weight-understanding T24 Minor
+#32	AnnotatorNotes T24	combine
+A95	Cause T21 L1_interference
+A96	Weight-language T21 Minor
+A97	Weight-understanding T21 Minor
+#33	AnnotatorNotes T21	-
+A98	Cause T22 Absence_of_Category_in_L1
+A99	Weight-language T22 Major
+A100	Weight-understanding T22 Minor
+#34	AnnotatorNotes T22	a good salary
+A101	Cause T23 Absence_of_Category_in_L1
+A102	Weight-language T23 Major
+A103	Weight-understanding T23 Minor
+#35	AnnotatorNotes T23	an enjoyable job
+A104	Cause T28 Other
+A105	Weight-language T28 Minor
+A106	Weight-understanding T28 Minor
+#36	AnnotatorNotes T28	one
+T25	Punctuation 1358 1366	I think,
+A107	Cause T25 L1_interference
+A108	Weight-language T25 Minor
+A109	Weight-understanding T25 Minor
+#37	AnnotatorNotes T25	I think
+A110	Cause T26 L1_interference
+A111	Weight-language T26 Major
+A112	Weight-understanding T26 Minor
+#38	AnnotatorNotes T26	which includes both these factors
+T27	Word_choice 1404 1431	includes both these factors
+A116	Cause T27 Other
+A117	Weight-language T27 Minor
+A118	Weight-understanding T27 Minor
+#40	AnnotatorNotes T27	meets//answers both these demands
+T44	Absence_comp_sent 1490 1493	try
+A119	Cause T44 Other
+A120	Weight-understanding T44 Minor
+#41	AnnotatorNotes T44	you should try
+T45	Punctuation 1505 1508	and
+A124	Cause T45 Other
+A125	Weight-language T45 Minor
+A126	Weight-understanding T45 Minor
+#43	AnnotatorNotes T45	, and
+T46	Tense_choice 1513 1517	make
+A127	Cause T46 Other
+A128	Weight-language T46 Major
+A129	Weight-understanding T46 Minor
+#44	AnnotatorNotes T46	will make
+T47	pos_﻿ 0 1	﻿
+#45	AnnotatorNotes T47	lemma = '﻿'
+T48	pos_NP 1 3	In
+#46	AnnotatorNotes T48	lemma = 'in'
+T49	pos_JJ 4 10	modern
+#47	AnnotatorNotes T49	lemma = 'modern'
+T50	pos_NN 11 18	society
+#48	AnnotatorNotes T50	lemma = 'society'
+T51	pos_Fc 18 19	,
+#49	AnnotatorNotes T51	lemma = ','
+T52	pos_NNS 20 26	people
+#50	AnnotatorNotes T52	lemma = 'people'
+T53	pos_MD 27 30	can
+#51	AnnotatorNotes T53	lemma = 'can'
+T54	pos_RB 30 33	not
+#52	AnnotatorNotes T54	lemma = 'not'
+T55	pos_VB 34 39	exist
+#53	AnnotatorNotes T55	lemma = 'exist'
+T56	pos_IN 40 47	without
+#54	AnnotatorNotes T56	lemma = 'without'
+T57	pos_NN 48 51	job
+#55	AnnotatorNotes T57	lemma = 'job'
+T58	pos_Fp 51 52	.
+#56	AnnotatorNotes T58	lemma = '.'
+T59	pos_DT 53 57	Some
+#57	AnnotatorNotes T59	lemma = 'some'
+T60	pos_NNS 58 64	people
+#58	AnnotatorNotes T60	lemma = 'people'
+T61	pos_VBP 65 72	believe
+#59	AnnotatorNotes T61	lemma = 'believe'
+T62	pos_IN 73 77	that
+#60	AnnotatorNotes T62	lemma = 'that'
+T63	pos_IN 78 81	for
+#61	AnnotatorNotes T63	lemma = 'for'
+T64	pos_DT 82 83	a
+#62	AnnotatorNotes T64	lemma = 'a'
+T65	pos_JJ 84 88	good
+#63	AnnotatorNotes T65	lemma = 'good'
+T66	pos_NN 89 93	life
+#64	AnnotatorNotes T66	lemma = 'life'
+T67	pos_PRP 94 97	you
+#65	AnnotatorNotes T67	lemma = 'you'
+T68	pos_VBP 98 102	need
+#66	AnnotatorNotes T68	lemma = 'need'
+T69	pos_TO 103 105	to
+#67	AnnotatorNotes T69	lemma = 'to'
+T70	pos_VB 106 110	have
+#68	AnnotatorNotes T70	lemma = 'have'
+T71	pos_DT 111 112	a
+#69	AnnotatorNotes T71	lemma = 'a'
+T72	pos_Fw 113 114	“
+#70	AnnotatorNotes T72	lemma = '“'
+T73	pos_JJ 114 118	long
+#71	AnnotatorNotes T73	lemma = 'long'
+T74	pos_NNS 119 128	shillings
+#72	AnnotatorNotes T74	lemma = 'shilling'
+T75	pos_Fw 128 129	”
+#73	AnnotatorNotes T75	lemma = '”'
+T76	pos_Fc 129 130	,
+#74	AnnotatorNotes T76	lemma = ','
+T77	pos_CC 131 138	even if
+#75	AnnotatorNotes T77	lemma = 'even_if'
+T78	pos_PRP2 139 143	your
+#76	AnnotatorNotes T78	lemma = 'your'
+T79	pos_NN 144 147	job
+#77	AnnotatorNotes T79	lemma = 'job'
+T80	pos_VBP 148 150	do
+#78	AnnotatorNotes T80	lemma = 'do'
+T81	pos_RB 151 154	not
+#79	AnnotatorNotes T81	lemma = 'not'
+T82	pos_VBZ 155 161	brings
+#80	AnnotatorNotes T82	lemma = 'bring'
+T83	pos_NN 162 170	pleasure
+#81	AnnotatorNotes T83	lemma = 'pleasure'
+T84	pos_Fp 170 171	.
+#82	AnnotatorNotes T84	lemma = '.'
+T85	pos_IN 172 176	From
+#83	AnnotatorNotes T85	lemma = 'from'
+T86	pos_PRP2 177 179	my
+#84	AnnotatorNotes T86	lemma = 'my'
+T87	pos_NN 180 185	point
+#85	AnnotatorNotes T87	lemma = 'point'
+T88	pos_IN 186 188	of
+#86	AnnotatorNotes T88	lemma = 'of'
+T89	pos_Fc 188 189	,
+#87	AnnotatorNotes T89	lemma = ','
+T90	pos_PRP 190 192	it
+#88	AnnotatorNotes T90	lemma = 'it'
+T91	pos_VBZ 193 195	is
+#89	AnnotatorNotes T91	lemma = 'be'
+T92	pos_RBR 196 200	more
+#90	AnnotatorNotes T92	lemma = 'many'
+T93	pos_JJ 201 210	important
+#91	AnnotatorNotes T93	lemma = 'important'
+T94	pos_TO 211 213	to
+#92	AnnotatorNotes T94	lemma = 'to'
+T95	pos_VB 214 218	work
+#93	AnnotatorNotes T95	lemma = 'work'
+T96	pos_IN 219 221	in
+#94	AnnotatorNotes T96	lemma = 'in'
+T97	pos_DT 222 224	an
+#95	AnnotatorNotes T97	lemma = 'a'
+T98	pos_JJ 225 234	enjoyable
+#96	AnnotatorNotes T98	lemma = 'enjoyable'
+T99	pos_NN 235 240	place
+#97	AnnotatorNotes T99	lemma = 'place'
+T100	pos_Fc 240 241	,
+#98	AnnotatorNotes T100	lemma = ','
+T101	pos_WDT 242 247	which
+#99	AnnotatorNotes T101	lemma = 'which'
+T102	pos_VBZ 248 253	makes
+#100	AnnotatorNotes T102	lemma = 'make'
+T103	pos_PRP 254 257	you
+#101	AnnotatorNotes T103	lemma = 'you'
+T104	pos_JJ 258 263	happy
+#102	AnnotatorNotes T104	lemma = 'happy'
+T105	pos_Fp 263 264	.
+#103	AnnotatorNotes T105	lemma = '.'
+T106	pos_DT 267 270	The
+#104	AnnotatorNotes T106	lemma = 'the'
+T107	pos_JJ 271 276	first
+#105	AnnotatorNotes T107	lemma = '1'
+T108	pos_NN 277 290	consideration
+#106	AnnotatorNotes T108	lemma = 'consideration'
+T109	pos_VBZ 291 293	is
+#107	AnnotatorNotes T109	lemma = 'be'
+T110	pos_VBG 294 302	spending
+#108	AnnotatorNotes T110	lemma = 'spend'
+T111	pos_NN 303 307	time
+#109	AnnotatorNotes T111	lemma = 'time'
+T112	pos_Fp 307 308	.
+#110	AnnotatorNotes T112	lemma = '.'
+T113	pos_DT 309 312	The
+#111	AnnotatorNotes T113	lemma = 'the'
+T114	pos_NN 313 317	time
+#112	AnnotatorNotes T114	lemma = 'time'
+T115	pos_NN 318 321	one
+#113	AnnotatorNotes T115	lemma = 'one'
+T116	pos_VBZ 322 328	spends
+#114	AnnotatorNotes T116	lemma = 'spend'
+T117	pos_IN 329 331	in
+#115	AnnotatorNotes T117	lemma = 'in'
+T118	pos_PRP2 332 337	their
+#116	AnnotatorNotes T118	lemma = 'their'
+T119	pos_NN 338 344	career
+#117	AnnotatorNotes T119	lemma = 'career'
+T120	pos_RB 345 352	usually
+#118	AnnotatorNotes T120	lemma = 'usually'
+T121	pos_VBZ 353 364	constitutes
+#119	AnnotatorNotes T121	lemma = 'constitute'
+T122	pos_DT 365 366	a
+#120	AnnotatorNotes T122	lemma = 'a'
+T123	pos_JJ 367 378	significant
+#121	AnnotatorNotes T123	lemma = 'significant'
+T124	pos_NN 379 389	proportion
+#122	AnnotatorNotes T124	lemma = 'proportion'
+T125	pos_IN 390 392	of
+#123	AnnotatorNotes T125	lemma = 'of'
+T126	pos_PRP2 393 398	their
+#124	AnnotatorNotes T126	lemma = 'their'
+T127	pos_NN 399 407	lifetime
+#125	AnnotatorNotes T127	lemma = 'lifetime'
+T128	pos_Fp 407 408	.
+#126	AnnotatorNotes T128	lemma = '.'
+T129	pos_RB 409 418	Therefore
+#127	AnnotatorNotes T129	lemma = 'therefore'
+T130	pos_Fc 418 419	,
+#128	AnnotatorNotes T130	lemma = ','
+T131	pos_IN 420 422	if
+#129	AnnotatorNotes T131	lemma = 'if'
+T132	pos_PRP 423 426	you
+#130	AnnotatorNotes T132	lemma = 'you'
+T133	pos_VBP 427 429	do
+#131	AnnotatorNotes T133	lemma = 'do'
+T134	pos_RB 430 433	not
+#132	AnnotatorNotes T134	lemma = 'not'
+T135	pos_IN 434 438	like
+#133	AnnotatorNotes T135	lemma = 'like'
+T136	pos_PRP2 439 443	your
+#134	AnnotatorNotes T136	lemma = 'your'
+T137	pos_NN 444 454	occupation
+#135	AnnotatorNotes T137	lemma = 'occupation'
+T138	pos_Fc 454 455	,
+#136	AnnotatorNotes T138	lemma = ','
+T139	pos_PRP 456 459	you
+#137	AnnotatorNotes T139	lemma = 'you'
+T140	pos_MD 460 464	will
+#138	AnnotatorNotes T140	lemma = 'will'
+T141	pos_VB 465 467	be
+#139	AnnotatorNotes T141	lemma = 'be'
+T142	pos_VBN 468 480	disappointed
+#140	AnnotatorNotes T142	lemma = 'disappoint'
+T143	pos_IN 481 485	with
+#141	AnnotatorNotes T143	lemma = 'with'
+T144	pos_NN 486 490	life
+#142	AnnotatorNotes T144	lemma = 'life'
+T145	pos_IN 491 493	on
+#143	AnnotatorNotes T145	lemma = 'on'
+T146	pos_VBN 494 501	retired
+#144	AnnotatorNotes T146	lemma = 'retire'
+T147	pos_Fp 501 502	.
+#145	AnnotatorNotes T147	lemma = '.'
+T148	pos_RB 503 511	Moreover
+#146	AnnotatorNotes T148	lemma = 'moreover'
+T149	pos_Fc 511 512	,
+#147	AnnotatorNotes T149	lemma = ','
+T150	pos_WRB 513 517	when
+#148	AnnotatorNotes T150	lemma = 'when'
+T151	pos_VBG 518 523	doing
+#149	AnnotatorNotes T151	lemma = 'do'
+T152	pos_PRP 524 533	something
+#150	AnnotatorNotes T152	lemma = 'something'
+T153	pos_PRP 534 538	they
+#151	AnnotatorNotes T153	lemma = 'they'
+T154	pos_VBP 539 544	enjoy
+#152	AnnotatorNotes T154	lemma = 'enjoy'
+T155	pos_Fc 544 545	,
+#153	AnnotatorNotes T155	lemma = ','
+T156	pos_NNS 546 552	people
+#154	AnnotatorNotes T156	lemma = 'people'
+T157	pos_VBP 553 557	tend
+#155	AnnotatorNotes T157	lemma = 'tend'
+T158	pos_TO 558 560	to
+#156	AnnotatorNotes T158	lemma = 'to'
+T159	pos_VB 561 563	be
+#157	AnnotatorNotes T159	lemma = 'be'
+T160	pos_RBR 564 568	more
+#158	AnnotatorNotes T160	lemma = 'many'
+T161	pos_JJ 569 578	energetic
+#159	AnnotatorNotes T161	lemma = 'energetic'
+T162	pos_Fc 578 579	,
+#160	AnnotatorNotes T162	lemma = ','
+T163	pos_JJ 580 588	creative
+#161	AnnotatorNotes T163	lemma = 'creative'
+T164	pos_CC 589 592	and
+#162	AnnotatorNotes T164	lemma = 'and'
+T165	pos_VB 593 604	participate
+#163	AnnotatorNotes T165	lemma = 'participate'
+T166	pos_RBR 605 609	more
+#164	AnnotatorNotes T166	lemma = 'many'
+T167	pos_RB 610 618	actively
+#165	AnnotatorNotes T167	lemma = 'actively'
+T168	pos_Fp 618 619	.
+#166	AnnotatorNotes T168	lemma = '.'
+T169	pos_DT 620 624	This
+#167	AnnotatorNotes T169	lemma = 'this'
+T170	pos_NNS 625 632	results
+#168	AnnotatorNotes T170	lemma = 'result'
+T171	pos_IN 633 635	in
+#169	AnnotatorNotes T171	lemma = 'in'
+T172	pos_JJR 636 642	higher
+#170	AnnotatorNotes T172	lemma = 'high'
+T173	pos_NN 643 653	competence
+#171	AnnotatorNotes T173	lemma = 'competence'
+T174	pos_CC 654 657	and
+#172	AnnotatorNotes T174	lemma = 'and'
+T175	pos_JJR 658 664	higher
+#173	AnnotatorNotes T175	lemma = 'high'
+T176	pos_NN 665 671	salary
+#174	AnnotatorNotes T176	lemma = 'salary'
+T177	pos_Fc 671 672	,
+#175	AnnotatorNotes T177	lemma = ','
+T178	pos_RB 673 682	therefore
+#176	AnnotatorNotes T178	lemma = 'therefore'
+T179	pos_RB 683 694	undoubtedly
+#177	AnnotatorNotes T179	lemma = 'undoubtedly'

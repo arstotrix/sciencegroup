@@ -1,0 +1,116 @@
+T1	Spelling 27 37	tecnologis
+#1	AnnotatorNotes T1	technologies
+T2	lex_item_choice 56 66	contribute
+#2	AnnotatorNotes T2	add up 
+T3	Punctuation 111 114	and
+#3	AnnotatorNotes T3	, and
+T4	Capitalisation 146 149	Now
+#4	AnnotatorNotes T4	now
+T5	Spelling 164 169	plain
+#5	AnnotatorNotes T5	plane
+T6	Word_choice 170 190	is one of litle cost
+#6	AnnotatorNotes T6	can be quite expensive
+T7	Punctuation 191 194	and
+#7	AnnotatorNotes T7	, and
+T9	Agreement_errors 212 221	introduce
+#8	AnnotatorNotes T9	introduces
+T10	Spelling 222 226	lows
+#9	AnnotatorNotes T10	laws 
+T12	Punctuation 244 269	many people can’t travel.
+#11	AnnotatorNotes T12	, many people will not be able to travel
+T13	Spelling 282 288	belive
+T11	lex_item_choice 342 348	amount
+#10	AnnotatorNotes T11	level
+T14	Category_confusion 407 413	travel
+#12	AnnotatorNotes T14	travelling
+T15	Spelling 417 422	plain
+R1	Parallel_construction Arg1:T5 Arg2:T15	
+T16	Spelling 450 457	becouse
+T17	Prepositions 500 502	by
+#13	AnnotatorNotes T17	in
+T18	lex_item_choice 481 489	to place
+#14	AnnotatorNotes T18	anywhere
+T19	Word_choice 538 557	statistics say that
+#15	AnnotatorNotes T19	according to statistics,
+T20	Spelling 592 598	savest
+T21	Spelling 603 614	for travell
+#16	AnnotatorNotes T21	to travel
+T22	Punctuation 619 625	firdly
+#17	AnnotatorNotes T22	, thirdly
+T23	Spelling 619 625	firdly
+#18	AnnotatorNotes T23	, thirdly
+T24	Punctuation 615 618	and
+#19	AnnotatorNotes T24	, and
+T25	Spelling 647 654	chipest
+T26	Infinitive_constr 659 669	for travel
+#20	AnnotatorNotes T26	to travel
+R2	Parallel_construction Arg1:T21 Arg2:T26	
+T27	Spelling 670 677	becouse
+*	Related T16 T27
+T28	Adjectives 688 695	biggest
+#21	AnnotatorNotes T28	big
+T29	Gerund_phrase 708 714	travel
+#22	AnnotatorNotes T29	travelling
+T30	lex_part_choice 715 726	in long way
+#23	AnnotatorNotes T30	a long way
+T31	Punctuation 759 776	on the other hand
+#24	AnnotatorNotes T31	, on the other hand,
+T32	Word_choice 817 852	contribute greatly to air pollution
+R3	Parallel_construction Arg1:T2 Arg2:T32	
+T33	Absence_comp_sent 853 859	become
+#25	AnnotatorNotes T33	so it has become
+T34	Linking_device 860 868	critical
+#26	AnnotatorNotes T34	critical that
+T35	Modals 883 893	must to do
+#27	AnnotatorNotes T35	should do
+T36	Modals 883 893	must to do
+#28	AnnotatorNotes T36	should do
+T37	Pronouns 894 905	some things
+#29	AnnotatorNotes T37	something
+T38	Punctuation 907 918	For example
+#30	AnnotatorNotes T38	For example,
+T39	Word_choice 1021 1048	do the price for train less
+#31	AnnotatorNotes T39	lower airfare
+T40	lex_item_choice 960 966	amount
+#32	AnnotatorNotes T40	level
+R4	Parallel_construction Arg1:T11 Arg2:T40	
+T41	Noun_number 1130 1133	way
+#33	AnnotatorNotes T41	ways
+T42	Infinitive_constr 1134 1144	for travel
+#34	AnnotatorNotes T42	to travel
+*	Related T26 T42
+T43	Category_confusion 1162 1166	easy
+#35	AnnotatorNotes T43	easily
+T44	Word_choice 1167 1175	efuse of
+#36	AnnotatorNotes T44	stop using
+T45	Ref_device 1176 1180	them
+#37	AnnotatorNotes T45	it
+T46	Determiners 1198 1209	not another
+#38	AnnotatorNotes T46	no other
+T47	Negation 1198 1209	not another
+#39	AnnotatorNotes T47	no other
+T48	Linking_device 1233 1269	people can efuse of their air travel
+#40	AnnotatorNotes T48	but people reducing their air travel
+T49	Modals 1240 1243	can
+T50	lex_item_choice 1244 1252	efuse of
+#42	AnnotatorNotes T50	reducing
+T51	Spelling 202 211	goverment
+#43	AnnotatorNotes T51	government
+#44	AnnotatorNotes T15	plane
+#45	AnnotatorNotes T13	believe
+#46	AnnotatorNotes T16	because
+#47	AnnotatorNotes T20	safest
+#48	AnnotatorNotes T25	cheapest
+T8	Infinitive_constr 603 614	for travell
+#49	AnnotatorNotes T8	to travel
+#50	AnnotatorNotes T27	because
+#51	AnnotatorNotes T32	raise the level of air pollution badly
+A1	Delete T49
+T52	Gerund_phrase 1244 1252	efuse of
+#41	AnnotatorNotes T52	reducing
+T53	Articles 688 703	biggest country
+#52	AnnotatorNotes T53	a big country
+T54	Absence_explanation 839 852	air pollution
+#53	AnnotatorNotes T54	the level of air pollution
+T55	Standard 817 852	contribute greatly to air pollution
+#54	AnnotatorNotes T55	raise the level of air pollution badly

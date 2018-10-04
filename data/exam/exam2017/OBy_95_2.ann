@@ -1,0 +1,73 @@
+T1	lex_item_choice 58 64	due to
+#1	AnnotatorNotes T1	because
+T2	lex_item_choice 65 73	somebody
+#2	AnnotatorNotes T2	some people
+T3	Agreement_errors 74 79	sends
+#3	AnnotatorNotes T3	send
+R1	Dependent_change Arg1:T3 Arg2:T2	
+T4	Spelling 184 187	bye
+#4	AnnotatorNotes T4	buy
+T5	Articles 188 205	original versions
+#5	AnnotatorNotes T5	the original versions
+T6	Defining 251 278	people, who downloads files
+#6	AnnotatorNotes T6	people who download files
+T7	Spelling 302 307	pries
+#7	AnnotatorNotes T7	prices
+T8	Absence_comp_sent 308 318	are rising
+#8	AnnotatorNotes T8	that are rising
+T9	Inappropriate_register 369 375	That’s
+#9	AnnotatorNotes T9	That is
+T10	Spelling 442 449	can not
+#10	AnnotatorNotes T10	cannot
+T11	Redundant_comp 465 469	what
+A1	Delete T11
+T12	Conditionals 479 493	we will buy it
+#11	AnnotatorNotes T12	we buy it
+T13	Articles 516 526	industries
+#12	AnnotatorNotes T13	the industries
+T14	Redundant_comp 532 535	got
+A2	Delete T14
+T15	Standard 635 684	approximately all media files you can find in web
+#13	AnnotatorNotes T15	you can find approximately all media files online
+T16	lex_item_choice 678 684	in web
+#14	AnnotatorNotes T16	online
+T17	lex_item_choice 922 929	collect
+#15	AnnotatorNotes T17	to get
+T18	Spelling 990 997	spheare
+#16	AnnotatorNotes T18	sphere
+T19	Tense_choice 1111 1116	spend
+#17	AnnotatorNotes T19	have put
+T20	lex_item_choice 1136 1141	power
+#18	AnnotatorNotes T20	effort
+T21	Prepositions 1142 1152	for making
+#19	AnnotatorNotes T21	to make
+T22	Tense_choice 1146 1152	making
+#20	AnnotatorNotes T22	make
+T23	Articles 1153 1157	film
+#21	AnnotatorNotes T23	a film
+T24	lex_item_choice 1111 1116	spend
+#22	AnnotatorNotes T24	have put
+T25	Inappropriate_register 1248 1254	That’s
+#23	AnnotatorNotes T25	That is
+T26	Negation 1269 1276	haven’t
+#24	AnnotatorNotes T26	do not have
+T27	Inappropriate_register 1307 1310	his
+#25	AnnotatorNotes T27	his/her
+T28	Inappropriate_register 1343 1345	he
+#26	AnnotatorNotes T28	he/she
+T29	Agreement_errors 1346 1350	lose
+#27	AnnotatorNotes T29	loses
+T30	Inappropriate_register 1351 1354	his
+#28	AnnotatorNotes T30	his/her
+T31	Articles 1375 1383	solution
+#29	AnnotatorNotes T31	the solution
+T32	Punctuation 1423 1436	In conclusion
+#30	AnnotatorNotes T32	In conlusion,
+T33	Ref_device 1460 1464	this
+#31	AnnotatorNotes T33	these
+T34	lex_item_choice 1549 1562	cinemagraphic
+#32	AnnotatorNotes T34	cinema
+T35	Spelling 1563 1569	speare
+#33	AnnotatorNotes T35	sphere
+T36	Redundant_comp 1494 1569	Now our general aim is happening people from music and cinemagraphic speare
+A3	Delete T36

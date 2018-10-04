@@ -1,0 +1,129 @@
+T1	Spelling 62 68	traves
+#1	AnnotatorNotes T1	travel
+T2	Redundant_comp 82 87	trips
+A1	Delete T2
+T3	Inappropriate_register 1279 1282	pub
+#2	AnnotatorNotes T3	public
+T4	Spelling 1376 1381	hurms
+#3	AnnotatorNotes T4	harm
+T5	Agreement_errors 1376 1381	hurms
+#4	AnnotatorNotes T5	harm
+T6	Punctuation 1402 1403	,
+A2	Delete T6
+T7	Spelling 1487 1489	Te
+A3	Cause T7 Typo
+#5	AnnotatorNotes T7	The
+T8	Redundant_comp 1583 1585	si
+A4	Cause T8 Typo
+A5	Delete T8
+T9	Punctuation 1571 1582	In addition
+A6	Addition T9
+#6	AnnotatorNotes T9	In addition,
+T10	Ref_device 1633 1645	To sum it up
+#7	AnnotatorNotes T10	To sum up
+T11	Category_confusion 1656 1660	need
+#8	AnnotatorNotes T11	necessary
+T12	Negation 1653 1655	no
+#9	AnnotatorNotes T12	not
+T13	Redundant_comp 87 103	, holidays trips
+A7	Delete T13
+T14	Redundant_comp 116 124	activity
+A8	Delete T14
+T15	Punctuation 246 247	,
+A9	Delete T15
+T16	lex_item_choice 299 306	decline
+#10	AnnotatorNotes T16	limit
+T17	Prepositions 332 334	by
+#11	AnnotatorNotes T17	with
+T18	lex_item_choice 401 410	reason of
+#12	AnnotatorNotes T18	cause of
+T20	Transitive 490 498	consider
+#14	AnnotatorNotes T20	consider it
+T21	Modals 612 619	remains
+#15	AnnotatorNotes T21	should remain 
+T22	Articles 541 556	the governments
+#16	AnnotatorNotes T22	governments
+T23	Noun_number 728 737	the price
+#17	AnnotatorNotes T23	prices
+T24	Agreement_errors 750 755	stays
+#18	AnnotatorNotes T24	stay
+R1	Dependent_change Arg1:T23 Arg2:T24	
+T25	Articles 788 806	the global warming
+#19	AnnotatorNotes T25	global warming
+T26	Articles 910 925	the governments
+#20	AnnotatorNotes T26	governments
+T27	Articles 836 853	the air transport
+#21	AnnotatorNotes T27	air transport
+T28	Spelling 854 860	hurmes
+#22	AnnotatorNotes T28	harm
+T29	Agreement_errors 854 860	hurmes
+#23	AnnotatorNotes T29	harm
+T30	Punctuation 213 218	plane
+#24	AnnotatorNotes T30	plane,
+T31	lex_item_choice 438 449	decrease of
+#25	AnnotatorNotes T31	restriction on
+T32	Punctuation 534 535	,
+A10	Delete T32
+T33	Punctuation 903 904	,
+A11	Delete T33
+T35	Comparative_constr 1064 1068	less
+#26	AnnotatorNotes T35	fewer
+T36	Noun_number 1140 1149	the price
+#27	AnnotatorNotes T36	prices
+T37	Word_choice 1154 1171	tickets to planes
+A13	Cause T37 L1_interference
+#28	AnnotatorNotes T37	plane tickets
+T39	Absence_comp_sent 1409 1415	planes
+#30	AnnotatorNotes T39	planes do
+T40	Punctuation 1458 1459	,
+A14	Delete T40
+T41	Verb_Gerund 1448 1458	to develop
+#31	AnnotatorNotes T41	developing
+T42	Prepositions 1567 1569	km
+#32	AnnotatorNotes T42	of kilometres
+T43	Absence_comp_sent 1490 1494	fact
+#33	AnnotatorNotes T43	fact is
+T44	Redundant_comp 1496 1500	that
+A15	Delete T44
+A16	Addition T43
+T45	lex_item_choice 1680 1687	decline
+#34	AnnotatorNotes T45	limit
+T47	Verb_Gerund 1818 1825	develop
+#36	AnnotatorNotes T47	developing
+T48	Punctuation 1722 1729	firstly
+#37	AnnotatorNotes T48	, firstly
+T49	Tense_choice 1812 1817	stops
+#38	AnnotatorNotes T49	will stop
+T51	Inappropriate_register 484 489	Let’s
+#40	AnnotatorNotes T51	Let us
+T52	Inappropriate_register 500 505	Let’s
+#41	AnnotatorNotes T52	Let us
+T53	Inappropriate_register 877 882	let’s
+#42	AnnotatorNotes T53	let us
+T55	Inappropriate_register 1335 1340	can’t
+#44	AnnotatorNotes T55	cannot
+T56	Punctuation 1344 1345	,
+A17	Delete T56
+T50	Determiners 335 339	laws
+#39	AnnotatorNotes T50	some laws
+T57	suggestion 401 410	reason of
+T19	Articles 728 737	the price
+#13	AnnotatorNotes T19	prices
+T58	lex_item_choice 944 950	amount
+#45	AnnotatorNotes T58	number
+T59	lex_item_choice 594 600	amount
+#46	AnnotatorNotes T59	number
+T34	suggestion 1064 1068	less
+T60	Articles 1140 1149	the price
+#47	AnnotatorNotes T60	prices
+T61	suggestion 1154 1171	tickets to planes
+T38	suggestion 1328 1330	So
+T54	Linking_device 1328 1330	So
+#29	AnnotatorNotes T54	However
+T62	Articles 1426 1437	the tourism
+#43	AnnotatorNotes T62	tourism
+T63	Prepositions 1548 1551	for
+#48	AnnotatorNotes T63	across
+T64	Inappropriate_register 1567 1569	km
+#49	AnnotatorNotes T64	kilometres
+R2	Dependent_change Arg1:T11 Arg2:T12	

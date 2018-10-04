@@ -1,0 +1,82 @@
+T1	Spelling 5 14	pay chart
+#1	AnnotatorNotes T1	pie-chart
+T2	Agreement_errors 15 19	give
+#2	AnnotatorNotes T2	gives
+T3	Agreement_errors 5 14	pay chart
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	Category_confusion 113 121	evidence
+#3	AnnotatorNotes T4	evident
+T5	Prepositions 158 163	goods
+#4	AnnotatorNotes T5	of goods
+T6	Category_confusion 164 175	transported
+#5	AnnotatorNotes T6	transportation
+T7	Agreement_errors 246 250	were
+#6	AnnotatorNotes T7	was
+T8	Agreement_errors 210 216	number
+R2	Dependent_change Arg1:T7 Arg2:T8	
+T9	Prepositions 251 257	metals
+#7	AnnotatorNotes T9	for metals
+T10	Agreement_errors 285 289	were
+#8	AnnotatorNotes T10	was
+T11	Agreement_errors 263 269	number
+R3	Dependent_change Arg1:T10 Arg2:T11	
+T12	Agreement_errors 319 323	were
+#9	AnnotatorNotes T12	was
+T13	Agreement_errors 312 318	number
+R4	Dependent_change Arg1:T12 Arg2:T13	
+T14	Prepositions 324 345	non-metallic minerals
+#10	AnnotatorNotes T14	for non-metallic minerals
+T15	Spelling 347 361	Unfortunatelly
+#11	AnnotatorNotes T15	Unfortunately,
+T16	Punctuation 347 361	Unfortunatelly
+#12	AnnotatorNotes T16	Unfortunately,
+T17	Verbs 368 372	were
+#13	AnnotatorNotes T17	was
+T18	Prepositions 402 404	of
+#14	AnnotatorNotes T18	in
+T19	Noun_number 432 439	product
+#15	AnnotatorNotes T19	products
+T20	Participial_constr 440 451	transported
+#16	AnnotatorNotes T20	were transported
+T21	Absence_explanation 547 567	food products jumped
+#17	AnnotatorNotes T21	food products transpotation rose
+T22	Prepositions 580 582	of
+#18	AnnotatorNotes T22	in 
+T23	Agreement_errors 591 594	are
+#19	AnnotatorNotes T23	is
+T24	Agreement_errors 573 579	number
+R5	Dependent_change Arg1:T23 Arg2:T24	
+T25	Agreement_errors 613 616	are
+#20	AnnotatorNotes T25	is
+T26	Agreement_errors 603 612	machinery
+R6	Dependent_change Arg1:T25 Arg2:T26	
+T27	Category_confusion 631 641	transporte
+#21	AnnotatorNotes T27	transportation
+T28	Prepositions 704 706	of
+#22	AnnotatorNotes T28	as
+T29	Punctuation 714 733	about 11-13 percent
+#23	AnnotatorNotes T29	, about 11-13 percent
+T30	Punctuation 736 749	In conclusion
+#24	AnnotatorNotes T30	In conclusion,
+T31	Articles 831 834	the
+A1	Delete T31
+T32	Voice 897 901	gave
+#25	AnnotatorNotes T32	were given
+T33	Prepositions 878 884	people
+#26	AnnotatorNotes T33	for people
+T34	Absence_comp_sent 927 945	manufactured goods
+#27	AnnotatorNotes T34	transporting manufactured goods
+T35	Agreement_errors 946 950	were
+#28	AnnotatorNotes T35	was
+T36	Agreement_errors 920 923	way
+R7	Dependent_change Arg1:T35 Arg2:T36	
+T37	Agreement_errors 970 974	were
+#29	AnnotatorNotes T37	was
+T38	Agreement_errors 960 969	Machinery
+R8	Dependent_change Arg1:T37 Arg2:T38	
+T39	Tense_choice 1028 1036	decrease
+#30	AnnotatorNotes T39	decreased
+T40	Prepositions 1037 1039	by
+#31	AnnotatorNotes T40	for both
+T41	note 1052 1053	d
+#32	AnnotatorNotes T41	Zavyalov

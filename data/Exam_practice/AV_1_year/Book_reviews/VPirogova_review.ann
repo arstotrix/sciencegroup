@@ -1,0 +1,56 @@
+T1	Verb_pattern 403 411	I   sure
+A1	Cause T1 Typo
+#1	AnnotatorNotes T1	I was sure
+T2	Articles 591 593	an
+#2	AnnotatorNotes T2	the
+T3	Tense_form 1659 1665	putted
+#3	AnnotatorNotes T3	put
+T5	Infinitive_constr 2777 2793	begin sympathize
+#5	AnnotatorNotes T5	begin to sympathize
+T6	Spelling 3181 3186	plays
+#6	AnnotatorNotes T6	place
+T7	Standard 3241 3247	has he
+#7	AnnotatorNotes T7	he has 
+T8	Determiners 204 207	his
+A2	Delete T8
+#8	AnnotatorNotes T8	another book of his
+T9	Prepositions 288 295	through
+#9	AnnotatorNotes T9	to
+T10	Determiners 341 356	mental disorder
+#10	AnnotatorNotes T10	with a mental disorder OR with mental disorders
+T11	Tense_choice 621 624	has
+A3	Delete T11
+T12	Category_confusion 713 722	obviously
+#11	AnnotatorNotes T12	obvious
+T13	Agreement_errors 884 892	reassure
+#12	AnnotatorNotes T13	reassures
+T14	Transitive 884 892	reassure
+#13	AnnotatorNotes T14	reassures the readers
+T15	Tense_choice 1060 1077	has been arrested
+#14	AnnotatorNotes T15	use narrative tenses: was arrested (time is indicated)
+T16	Standard 1220 1224	does
+A4	Delete T16
+T17	lex_item_choice 1171 1180	wholesome
+#15	AnnotatorNotes T17	mentally sane OR mentally healthy (?)
+T18	Articles 1434 1449	mental disorder
+#16	AnnotatorNotes T18	a
+T19	Articles 1583 1593	appearance
+#17	AnnotatorNotes T19	the
+T20	Tense_form 1654 1658	been
+#18	AnnotatorNotes T20	be
+T21	Pronouns 1756 1763	another
+#19	AnnotatorNotes T21	other
+T22	lex_item_choice 1764 1770	people
+#20	AnnotatorNotes T22	personalities
+T23	Tense_form 1868 1877	suspected
+#21	AnnotatorNotes T23	suspect
+T24	Articles 2022 2025	man
+#22	AnnotatorNotes T24	the
+T25	Prepositions 2007 2009	in
+#23	AnnotatorNotes T25	about
+T26	lex_item_choice 2100 2106	lasted
+#24	AnnotatorNotes T26	continued
+T4	Often_confused 2272 2280	terrific
+#4	AnnotatorNotes T4	terrific is positive; terrifying
+T27	Often_confused 2809 2817	consider
+#25	AnnotatorNotes T27	think of all his personalities as real people

@@ -1,0 +1,70 @@
+T1	Spelling 9 13	graf
+#1	AnnotatorNotes T1	graph
+T2	Absence_comp_sent 191 240	winter in Rio de Janeiro a bit warmer then summer
+#2	AnnotatorNotes T2	winter in Rio de Janeiro is a bit warmer then summer
+T3	Spelling 374 380	digree
+#3	AnnotatorNotes T3	degrees
+T4	Noun_number 374 380	digree
+#4	AnnotatorNotes T4	degrees
+T5	Articles 423 424	a
+A1	Delete T5
+T6	lex_item_choice 499 503	grad
+#5	AnnotatorNotes T6	degrees
+T7	Spelling 572 579	maximym
+#6	AnnotatorNotes T7	maximum
+T8	Spelling 580 590	tempriture
+#7	AnnotatorNotes T8	temperature
+T9	Spelling 324 333	temreture
+#8	AnnotatorNotes T9	temperature
+T10	Spelling 124 134	tempreture
+#9	AnnotatorNotes T10	temperature
+T11	Spelling 53 63	tempreture
+#10	AnnotatorNotes T11	temperature
+T12	Spelling 437 446	temreture
+#11	AnnotatorNotes T12	temperature
+T13	Spelling 614 621	monthes
+#12	AnnotatorNotes T13	months
+T14	Spelling 649 659	tempreture
+#13	AnnotatorNotes T14	temperature
+T15	Category_confusion 667 675	possible
+#14	AnnotatorNotes T15	possibly
+T16	Punctuation 693 694	`
+A2	Delete T16
+T17	Spelling 716 723	monthes
+#15	AnnotatorNotes T17	months
+T18	Spelling 756 760	graf
+#16	AnnotatorNotes T18	graph
+T19	Confusion_of_structures 741 755	in case of the
+#17	AnnotatorNotes T19	as we can see from the 
+T20	Spelling 957 967	tepretures
+#18	AnnotatorNotes T20	temperatures
+T21	Spelling 975 978	Mai
+#19	AnnotatorNotes T21	May
+T22	Spelling 983 992	temreture
+#20	AnnotatorNotes T22	temperature
+T23	Spelling 1026 1035	temriture
+#21	AnnotatorNotes T23	temperature
+T24	Absence_comp_sent 1054 1060	slides
+#22	AnnotatorNotes T24	slides down
+T25	Absence_comp_sent 1154 1160	slides
+#23	AnnotatorNotes T25	slides down
+T26	Spelling 1074 1083	temreture
+#24	AnnotatorNotes T26	temperature
+T27	Noun_number 1109 1115	degree
+#25	AnnotatorNotes T27	degees
+T28	Noun_number 597 603	degree
+#26	AnnotatorNotes T28	degrees
+T29	Spelling 1126 1135	temreture
+#27	AnnotatorNotes T29	temperature
+T30	Spelling 1209 1218	temrature
+#28	AnnotatorNotes T30	temperature
+T31	Spelling 1230 1238	diclines
+#29	AnnotatorNotes T31	declines
+T32	Redundant_comp 1280 1284	, it
+A3	Delete T32
+T33	Agreement_errors 1285 1291	become
+#30	AnnotatorNotes T33	becomes
+T34	Agreement_errors 1252 1262	tempreture
+R1	Dependent_change Arg1:T33 Arg2:T34	
+T35	note 1303 1304	r
+#31	AnnotatorNotes T35	Zavyalov

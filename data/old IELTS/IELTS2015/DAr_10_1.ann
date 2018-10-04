@@ -1,0 +1,51 @@
+T1	Agreement_errors 111 117	period
+#1	AnnotatorNotes T1	'periods'
+T2	Agreement_errors 211 218	country
+#2	AnnotatorNotes T2	'countries'
+T3	Articles 242 252	proportion
+#3	AnnotatorNotes T3	the proportion
+T4	Articles 256 266	population
+#4	AnnotatorNotes T4	'the'
+T5	Articles 377 380	the
+A1	Delete T5
+T6	Tense_choice 459 467	is rised
+#5	AnnotatorNotes T6	is rising
+T7	Articles 527 537	population
+#6	AnnotatorNotes T7	'the'
+T8	Agreement_errors 810 817	country
+#7	AnnotatorNotes T8	'countries'
+T14	Word_choice 870 895	number of the populations
+#9	AnnotatorNotes T14	population numbers
+T15	Punctuation 896 913	(depends on ages)
+#10	AnnotatorNotes T15	with age as a reference factor
+T16	Noun_number 512 523	percentages
+#11	AnnotatorNotes T16	proportion
+T17	Absence_comp_sent 481 492	is declined
+#12	AnnotatorNotes T17	this number is declining
+T18	Tense_choice 481 492	is declined
+#13	AnnotatorNotes T18	is declining
+T20	Absence_explanation 897 912	depends on ages
+#15	AnnotatorNotes T20	'with age as a reference factor'
+T22	Ref_device 320 324	than
+#17	AnnotatorNotes T22	than they had
+T23	Tense_choice 219 223	lose
+#18	AnnotatorNotes T23	are going to lose
+T10	Articles 616 637	the similar situation
+#20	AnnotatorNotes T10	a similar situation
+T11	Absence_comp_sent 723 731	the ages
+#21	AnnotatorNotes T11	the ratio of each age group
+T12	Redundant_comp 771 800	past, present and future time
+#22	AnnotatorNotes T12	the past, present and future
+T24	Tense_choice 287 291	have
+#23	AnnotatorNotes T24	will have
+T25	Comparative_constr 320 324	than
+#24	AnnotatorNotes T25	than they had
+T26	Absence_explanation 266 267	.
+#25	AnnotatorNotes T26	by 2050.
+R1	Dependent_change Arg1:T26 Arg2:T23	
+T21	Tense_form 459 467	is rised
+#16	AnnotatorNotes T21	is rising
+T27	lex_item_choice 512 523	percentages
+#26	AnnotatorNotes T27	proportion
+T13	Absence_explanation 727 731	ages
+#19	AnnotatorNotes T13	age group

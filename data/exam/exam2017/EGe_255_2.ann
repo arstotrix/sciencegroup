@@ -1,0 +1,70 @@
+T1	Category_confusion 63 74	development
+#1	AnnotatorNotes T1	developed
+T2	Spelling 166 174	ullusion
+#2	AnnotatorNotes T2	illusion
+T3	Absence_comp_sent 202 209	we need
+#3	AnnotatorNotes T3	do we need
+T4	Spelling 235 241	belive
+#4	AnnotatorNotes T4	believe
+T5	Category_confusion 371 379	humanity
+#5	AnnotatorNotes T5	humanistic
+T6	Voice 352 366	can prove only
+#6	AnnotatorNotes T6	can only be proved
+T7	Spelling 393 397	fist
+#7	AnnotatorNotes T7	first
+T8	Absence_comp_sent 405 414	confident
+#8	AnnotatorNotes T8	is confident
+T9	Voice 561 565	stop
+#9	AnnotatorNotes T9	be stopped by
+T10	Agreement_errors 606 610	need
+#10	AnnotatorNotes T10	needs
+T11	Agreement_errors 600 605	world
+R1	Dependent_change Arg1:T10 Arg2:T11	
+T12	lex_item_choice 658 661	end
+#11	AnnotatorNotes T12	deal
+T13	Agreement_errors 683 686	are
+#12	AnnotatorNotes T13	is
+T14	Agreement_errors 651 654	way
+R2	Dependent_change Arg1:T13 Arg2:T14	
+T15	Word_choice 701 710	to fright
+#13	AnnotatorNotes T15	being afraid
+T16	Agreement_errors 750 755	claim
+#14	AnnotatorNotes T16	claims
+T17	Agreement_errors 743 749	"camp"
+R3	Dependent_change Arg1:T16 Arg2:T17	
+T18	Spelling 823 829	awfull
+#15	AnnotatorNotes T18	awful
+T19	Agreement_errors 889 892	has
+#16	AnnotatorNotes T19	have
+T20	Agreement_errors 882 888	people
+R4	Dependent_change Arg1:T19 Arg2:T20	
+T21	lex_item_choice 899 908	beginning
+#17	AnnotatorNotes T21	origin
+T22	Prepositions 1034 1036	To
+#18	AnnotatorNotes T22	From
+T23	Superlative_adj 1073 1081	the fast
+#19	AnnotatorNotes T23	the fastest
+T24	Spelling 1099 1103	wich
+#20	AnnotatorNotes T24	which
+T25	Spelling 1167 1170	wil
+#21	AnnotatorNotes T25	will
+T26	Tense_choice 1167 1184	wil be continuing
+#22	AnnotatorNotes T26	will continue
+T27	Agreement_errors 1104 1108	make
+#23	AnnotatorNotes T27	makes
+T28	Agreement_errors 1082 1085	way
+R5	Dependent_change Arg1:T27 Arg2:T28	
+T29	Possessive 1280 1286	time's
+#24	AnnotatorNotes T29	time
+T30	Absence_comp_sent 1273 1293	of the time's period
+#25	AnnotatorNotes T30	of changing the time period
+T31	lex_item_choice 1369 1377	stopping
+#26	AnnotatorNotes T31	reducing
+T32	Spelling 1446 1451	frome
+#27	AnnotatorNotes T32	from
+T33	Standard 1578 1698	That's why to achive the worldwide purity we need to develope the best character traits by using immortal values of life
+#28	AnnotatorNotes T33	That's why we need to develop the best character traits by using immortal values of life to achive the worldwide purity
+T34	Spelling 1631 1639	develope
+#29	AnnotatorNotes T34	develop
+T35	note 1697 1698	e
+#30	AnnotatorNotes T35	Zavyalov

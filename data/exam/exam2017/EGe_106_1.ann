@@ -1,0 +1,22 @@
+T1	Conjunctions 1109 1115	either
+#1	AnnotatorNotes T1	both
+T2	Conjunctions 1137 1141	, or
+#2	AnnotatorNotes T2	and
+R1	Parallel_construction Arg1:T1 Arg2:T2	
+T3	Tense_form 249 257	outweigh
+#3	AnnotatorNotes T3	outweighs
+T4	lex_part_choice 300 316	by comparison to
+#4	AnnotatorNotes T4	in comparison to
+T5	Linking_device 423 435	According to
+#5	AnnotatorNotes T5	As for
+T6	note 1247 1248	.
+#6	AnnotatorNotes T6	Разметил Ф. Байков
+T7	Redundant_comp 135 166	in the period of one year, 2015
+#7	AnnotatorNotes T7	in 2015
+T8	Often_confused 37 43	number
+#8	AnnotatorNotes T8	percentage
+T9	Punctuation 405 406	,
+T10	Absence_comp_sent 820 831	36 percents
+#9	AnnotatorNotes T10	consisting 36 percent
+T11	Spelling 823 831	percents
+#10	AnnotatorNotes T11	percent

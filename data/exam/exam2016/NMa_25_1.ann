@@ -1,0 +1,66 @@
+T1	Agreement_errors 1061 1065	this
+#1	AnnotatorNotes T1	these
+T2	Agreement_errors 1066 1071	items
+#2	AnnotatorNotes T2	items
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Agreement_errors 1072 1075	was
+#3	AnnotatorNotes T3	were
+R2	Dependent_change Arg1:T2 Arg2:T3	
+T4	suggestion 1039 1052	Rest of World
+T5	Articles 962 968	number
+#4	AnnotatorNotes T5	the number
+T6	Articles 996 1002	number
+#5	AnnotatorNotes T6	the number
+T7	Absence_comp_sent 960 1010	, number of girls often higher than number of boys
+T8	suggestion 931 942	accordingly
+T9	Agreement_errors 895 904	education
+#6	AnnotatorNotes T9	education
+T10	Agreement_errors 919 925	become
+#7	AnnotatorNotes T10	becomes
+R3	Dependent_change Arg1:T9 Arg2:T10	
+T11	Spelling 815 822	troblle
+#8	AnnotatorNotes T11	trouble
+T12	Suffix 759 768	Summarise
+#9	AnnotatorNotes T12	summarize
+T13	Ref_device 759 786	Summarise this information,
+#10	AnnotatorNotes T13	To summarize this information,
+T14	Numerals 741 749	millions
+#11	AnnotatorNotes T14	miliion
+T15	suggestion 676 689	Rest of World
+T16	Ref_device 485 502	Interesting, that
+#12	AnnotatorNotes T16	Interestingly,
+T17	Articles 506 520	the South Asia
+#13	AnnotatorNotes T17	South Asia
+T18	lex_item_choice 539 548	degreased
+#14	AnnotatorNotes T18	decreased
+T19	note 539 548	degreased
+#15	AnnotatorNotes T19	mixed with 'to degree'
+T20	Numerals 572 580	millions
+#16	AnnotatorNotes T20	million
+T21	Articles 592 596	best
+#17	AnnotatorNotes T21	the best
+T22	lex_part_choice 628 637	say about
+#18	AnnotatorNotes T22	talk about
+T23	Prepositional_noun 347 359	changes with
+#19	AnnotatorNotes T23	changes in
+T24	Articles 383 389	period
+#20	AnnotatorNotes T24	the period
+T25	Prepositional_adv 442 454	became equal
+#21	AnnotatorNotes T25	became equal with
+T26	Articles 455 461	number
+#22	AnnotatorNotes T26	the number
+T27	lex_part_choice 455 475	number of South Asia
+#23	AnnotatorNotes T27	the number in South Asia
+T28	Numerals 326 334	millions
+#24	AnnotatorNotes T28	million
+T29	suggestion 307 317	equal more
+T30	Articles 277 287	the Africa
+#25	AnnotatorNotes T30	Africa
+T31	suggestion 210 213	in.
+T32	suggestion 0 14	This bar graph
+T33	lex_part_choice 31 53	population of children
+#26	AnnotatorNotes T33	the number of children
+T34	note 31 53	population of children
+#27	AnnotatorNotes T34	население включает все половозрастные группы
+T35	suggestion 162 175	Rest of World
+T36	suggestion 153 158	index

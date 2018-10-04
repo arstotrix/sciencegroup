@@ -1,0 +1,57 @@
+T1	Absence_explanation 14 19	below
+T2	Redundant_comp 92 129	. We can see prediction for next year
+A1	Delete T2
+T3	Articles 201 208	company
+#1	AnnotatorNotes T3	the company
+T4	Absence_comp_sent 216 221	named
+T6	Articles 249 265	leading position
+#3	AnnotatorNotes T6	the leading position
+T7	Redundant_comp 303 314	two moments
+#4	AnnotatorNotes T7	??
+T8	suggestion 327 333	, when
+#5	AnnotatorNotes T8	that
+T9	Absence_comp_sent 351 353	is
+#6	AnnotatorNotes T9	is going to have
+T10	Word_choice 359 366	greater
+#7	AnnotatorNotes T10	higher 
+T11	Absence_comp_sent 354 366	much greater
+#8	AnnotatorNotes T11	much higher sales
+T12	Word_choice 378 386	opponent
+#9	AnnotatorNotes T12	rival
+T13	Punctuation 386 387	,
+A2	Delete T13
+T14	Articles 526 535	Situation
+#10	AnnotatorNotes T14	The situation
+T15	Tense_choice 536 546	is changed
+#11	AnnotatorNotes T15	is going to change
+T16	Punctuation 566 570	when
+#12	AnnotatorNotes T16	, when
+T17	Word_choice 580 596	opponent company
+#13	AnnotatorNotes T17	the competing company
+T18	Punctuation 579 597	(opponent company)
+#14	AnnotatorNotes T18	, the competing company,
+T19	Modals 598 606	begin to
+#15	AnnotatorNotes T19	is to
+T20	Articles 856 865	pie chart
+#16	AnnotatorNotes T20	a pie chart
+T21	Coherence 866 880	on our picture
+#17	AnnotatorNotes T21	in the task
+T22	Articles 1028 1039	bigger part
+#18	AnnotatorNotes T22	a bigger part
+T23	Punctuation 1053 1054	,
+A3	Delete T23
+T24	Punctuation 1067 1068	,
+A4	Delete T24
+T25	Punctuation 1124 1127	and
+#19	AnnotatorNotes T25	, and
+T26	Absence_comp_sent 1128 1147	50% other companies
+#20	AnnotatorNotes T26	the share of other companies is expected to be 50%
+T28	Articles 580 596	opponent company
+#21	AnnotatorNotes T1	given in the task
+#22	AnnotatorNotes T4	is named
+T5	Tense_form 239 243	will
+#2	AnnotatorNotes T5	is going to
+A5	Delete T7
+#23	AnnotatorNotes T28	the opponent company
+T27	lex_item_choice 607 614	compete
+#24	AnnotatorNotes T27	catch up with

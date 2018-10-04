@@ -1,0 +1,19 @@
+T1	note 1537 1538	y
+#1	AnnotatorNotes T1	DBatov
+T2	Punctuation 77 85	, rather
+#2	AnnotatorNotes T2	 rather
+T3	Punctuation 156 162	, that
+#3	AnnotatorNotes T3	 that
+T4	Articles 219 232	film industry
+#4	AnnotatorNotes T4	the film industry
+T5	lex_item_choice 333 338	which
+#5	AnnotatorNotes T5	that
+T6	Agreement_errors 595 600	their
+#6	AnnotatorNotes T6	his
+T7	Agreement_errors 680 685	their
+#7	AnnotatorNotes T7	his
+R1	Dependent_change Arg1:T6 Arg2:T7	
+T8	Articles 1093 1102	good crew
+#8	AnnotatorNotes T8	a good crew
+T9	Redundant_comp 1358 1364	indeed
+A1	Delete T9

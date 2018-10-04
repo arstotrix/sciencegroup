@@ -1,0 +1,134 @@
+T1	Spelling 256 272	state of the art
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	state-of-art
+T2	Articles 313 316	the
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+T3	Punctuation 489 490	,
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+T4	Standard 495 514	has not yet done so
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#2	AnnotatorNotes T4	has not done so yet
+T5	Voice 589 605	are comprised of
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Critical
+#3	AnnotatorNotes T5	comprise
+T6	Noun_number 686 700	a musicologist
+A16	Cause T6 Other
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Critical
+#4	AnnotatorNotes T6	musicologists
+T7	Inappropriate_register 1159 1166	just as
+A19	Cause T7 Other
+A20	Weight-language T7 Critical
+A21	Weight-understanding T7 Minor
+#5	AnnotatorNotes T7	like
+T8	Punctuation 1553 1554	,
+A22	Cause T8 L1_interference
+A23	Weight-language T8 Minor
+A24	Weight-understanding T8 Minor
+T9	Punctuation 1667 1668	,
+A25	Cause T9 L1_interference
+A26	Weight-language T9 Minor
+A27	Weight-understanding T9 Minor
+T10	Absence_comp_colloc 1733 1736	few
+A28	Cause T10 Other
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Critical
+#6	AnnotatorNotes T10	a few
+T11	Punctuation 1903 1904	,
+A31	Weight-language T11 Minor
+T12	Punctuation 2034 2035	,
+A32	Cause T12 L1_interference
+A33	Weight-language T12 Minor
+A34	Weight-understanding T12 Minor
+A35	Cause T11 Other
+A36	Weight-understanding T11 Minor
+T13	lex_item_choice 2318 2322	then
+A37	Cause T13 Other
+A38	Weight-language T13 Critical
+A39	Weight-understanding T13 Critical
+#7	AnnotatorNotes T13	afterwards
+T14	Standard 2315 2322	We then
+A40	Cause T14 Other
+A41	Weight-language T14 Critical
+A42	Weight-understanding T14 Critical
+#8	AnnotatorNotes T14	Afterwards we
+T15	Punctuation 3047 3048	,
+A43	Cause T15 Other
+A44	Weight-language T15 Minor
+A45	Weight-understanding T15 Minor
+T16	Non_defining 3087 3088	,
+A46	Cause T16 L1_interference
+A47	Weight-language T16 Critical
+A48	Weight-understanding T16 Critical
+T17	lex_item_choice 3484 3490	select
+A49	Cause T17 Other
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Critical
+#9	AnnotatorNotes T17	selected
+T18	Punctuation 4759 4760	,
+A52	Cause T18 Other
+A53	Weight-language T18 Minor
+A54	Weight-understanding T18 Minor
+T19	Tense_choice 4907 4911	take
+A55	Cause T19 L1_interference
+A56	Weight-language T19 Critical
+A57	Weight-understanding T19 Critical
+#10	AnnotatorNotes T19	would take
+T20	Tense_choice 5258 5263	chose
+A58	Cause T20 Other
+A59	Weight-language T20 Critical
+A60	Weight-understanding T20 Critical
+#11	AnnotatorNotes T20	have chosen
+T21	Tense_choice 5420 5429	developed
+A61	Cause T21 Other
+A62	Weight-language T21 Critical
+A63	Weight-understanding T21 Critical
+#12	AnnotatorNotes T21	have developed
+T23	lex_item_choice 9714 9719	perks
+A67	Cause T23 Other
+A68	Weight-language T23 Critical
+A69	Weight-understanding T23 Critical
+#13	AnnotatorNotes T23	advantages
+T24	Punctuation 11813 11814	,
+A70	Cause T24 Other
+A71	Weight-language T24 Minor
+A72	Weight-understanding T24 Minor
+T25	Tense_choice 12406 12413	decided
+A73	Cause T25 Other
+A74	Weight-language T25 Critical
+A75	Weight-understanding T25 Minor
+#14	AnnotatorNotes T25	have decided
+T27	Articles 13046 13054	composer
+A79	Cause T27 Absence_of_Category_in_L1
+A80	Weight-language T27 Minor
+A81	Weight-understanding T27 Minor
+#15	AnnotatorNotes T27	the composer
+T28	Articles 13059 13063	year
+A82	Cause T28 Absence_of_Category_in_L1
+A83	Weight-language T28 Minor
+A84	Weight-understanding T28 Minor
+#16	AnnotatorNotes T28	the year
+T29	lex_part_choice 13245 13249	they
+A85	Cause T29 Other
+A86	Weight-language T29 Minor
+A87	Weight-understanding T29 Minor
+#17	AnnotatorNotes T29	one
+A64	Delete T3
+A65	Delete T8
+A66	Delete T9
+A76	Delete T11
+A77	Delete T12
+A78	Delete T15
+A88	Delete T16
+A89	Delete T18
+A90	Delete T24

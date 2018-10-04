@@ -1,0 +1,92 @@
+T1	Redundant_comp 301 306	about
+#1	AnnotatorNotes T1	doubts
+T2	Articles 402 411	the sport
+T3	Attr_participial 424 432	Involved
+#2	AnnotatorNotes T3	Having been involved
+T4	Attr_participial 520 532	with growing
+#3	AnnotatorNotes T4	growing up
+T5	Articles 600 603	the
+T6	Tense_choice 630 636	change
+#4	AnnotatorNotes T6	changed
+T8	Articles 667 673	desire
+#6	AnnotatorNotes T8	the desire
+T9	Articles 912 918	person
+#7	AnnotatorNotes T9	a person
+T11	Absence_comp_sent 1211 1219	and does
+T10	Coherence 1136 1146	with money
+T12	Articles 1268 1277	the sport
+T13	Standard 1328 1347	competitions spirit
+#8	AnnotatorNotes T13	spirit of competition
+T15	Articles 1384 1393	the sport
+T17	Voice 1471 1478	is mean
+#11	AnnotatorNotes T17	means
+T19	Articles 1601 1612	starter fee
+#12	AnnotatorNotes T19	the starter fee
+T20	Word_choice 1627 1646	spirit of the sport
+#13	AnnotatorNotes T20	sporting spirit
+T21	lex_item_choice 1654 1658	tell
+#14	AnnotatorNotes T21	talk
+T22	Redundant_comp 1723 1732	that show
+#15	AnnotatorNotes T22	showing
+T24	Articles 1771 1772	a
+#16	AnnotatorNotes T24	the
+T26	suggestion 25 31	became
+A1	Delete T1
+#18	AnnotatorNotes T2	sport
+T30	Absence_comp_colloc 474 480	is for
+#19	AnnotatorNotes T30	is about
+T32	Vocabulary 489 492	for
+#20	AnnotatorNotes T32	about
+R1	Parallel_construction Arg1:T30 Arg2:T32	
+T33	Absence_comp_colloc 520 532	with growing
+#21	AnnotatorNotes T33	growing up
+T34	Absence_comp_sent 589 593	that
+#22	AnnotatorNotes T34	those that
+T36	Spelling 685 690	price
+#23	AnnotatorNotes T36	prize
+T7	lex_item_choice 720 728	perceive
+#5	AnnotatorNotes T7	do
+T38	Articles 729 738	the sport
+#24	AnnotatorNotes T38	sport
+T39	Determiners 743 749	spirit
+#25	AnnotatorNotes T39	its spirit
+T40	Determiners 754 766	satisfaction
+#26	AnnotatorNotes T40	their own satisfaction
+T43	Suffix 802 807	state
+#27	AnnotatorNotes T43	statement
+T44	lex_item_choice 924 927	big
+#28	AnnotatorNotes T44	high
+T47	Articles 970 980	government
+#29	AnnotatorNotes T47	the government
+T48	Capitalisation 903 907	even
+#30	AnnotatorNotes T48	Even
+T50	Comparative_constr 1042 1046	that
+#31	AnnotatorNotes T50	than
+T52	Articles 1047 1055	pleasure
+#32	AnnotatorNotes T52	the pleasure
+T53	Redundant_comp 1056 1063	getting
+A2	Delete T53
+#33	AnnotatorNotes T10	because of
+T55	Prepositional_noun 1165 1175	passion in
+#34	AnnotatorNotes T55	passion for
+#35	AnnotatorNotes T11	and it does
+#36	AnnotatorNotes T12	sport
+T58	Category_confusion 1371 1380	involving
+#37	AnnotatorNotes T58	involvement
+T14	Redundant_comp 1362 1370	people’s
+A3	Delete T14
+T16	Redundant_comp 1394 1415	the circumstances for
+A4	Delete T16
+T61	lex_item_choice 1509 1525	allow themselves
+#9	AnnotatorNotes T61	afford
+T63	Redundant_comp 1567 1573	though
+A5	Delete T63
+T23	Articles 1754 1763	the sport
+#10	AnnotatorNotes T23	sport
+T25	note 1878 1880	l.
+#17	AnnotatorNotes T25	grade - 7; reviewer - Smirnova Kristina
+T64	Word_choice 1791 1798	without
+#38	AnnotatorNotes T64	devoid of
+T66	Redundant_comp 1861 1872	or activity
+A6	Delete T66
+T18	Tense_form 1471 1478	is mean

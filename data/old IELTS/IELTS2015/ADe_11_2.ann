@@ -1,0 +1,185 @@
+T2	Absence_comp_sent 97 113	secondary school
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	in secondary school
+T3	Absence_comp_sent 175 182	believe
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Critical
+#3	AnnotatorNotes T3	I believe
+T4	Absence_comp_sent 295 304	is better
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	it is better
+T5	Pronouns 364 368	they
+A13	Cause T5 Typo
+A14	Weight-language T5 Critical
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	their
+T6	Spelling 464 467	the
+A16	Cause T6 Typo
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	they
+T7	Tense_choice 430 434	took
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	take
+T8	Articles 527 530	the
+A22	Cause T8 Absence_of_Category_in_L1
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	a
+T10	Absence_explanation 583 599	foreign language
+A28	Cause T10 Other
+A29	Weight-language T10 Minor
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	several languages / more than one L1
+T11	lex_item_choice 874 881	back up
+A31	Cause T11 L1_interference
+A32	Weight-language T11 Minor
+A33	Weight-understanding T11 Major
+#11	AnnotatorNotes T11	back OR support
+T12	Voice 1144 1151	connect
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	are connected
+T13	Absence_comp_sent 1173 1181	attitude
+A37	Cause T13 L1_interference
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	with the attitude
+T14	Articles 1185 1190	child
+A40	Cause T14 Absence_of_Category_in_L1
+A41	Weight-language T14 Minor
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	a child
+T15	Punctuation 1237 1246	To sum up
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+T16	Punctuation 1392 1399	parents
+A46	Cause T16 Typo
+A47	Weight-language T16 Minor
+A48	Weight-understanding T16 Minor
+#15	AnnotatorNotes T16	parents'
+T17	Articles 1390 1391	a
+A49	Cause T17 Absence_of_Category_in_L1
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Minor
+A52	Delete T17
+T1	if_whether_clause 23 27	that
+#1	AnnotatorNotes T1	whether
+T18	Prepositions 351 353	in
+T19	Prepositions 386 389	for
+T20	Category_confusion 379 385	opened
+T21	Prepositions 416 418	in
+T22	Noun_number 425 429	ages
+T9	Noun_number 655 662	meaning
+#9	AnnotatorNotes T9	meanings
+T24	Ref_device 651 654	its
+T25	lex_item_choice 966 973	tend to
+T26	Prepositions 1007 1009	in
+T27	lex_item_choice 1072 1082	go through
+T28	Spelling 1094 1101	bariers
+T29	Redundant_comp 1083 1093	limits and
+T30	Articles 1225 1235	in a whole
+T31	Articles 1308 1324	foreign language
+T32	Absence_explanation 1358 1362	them
+T33	lex_item_choice 1436 1442	enable
+A1	Cause T18 Other
+A2	Weight-language T18 Major
+A3	Weight-understanding T18 Minor
+#16	AnnotatorNotes T18	at
+A25	Cause T20 Other
+A26	Weight-language T20 Minor
+A27	Weight-understanding T20 Minor
+#17	AnnotatorNotes T20	open
+A53	Cause T19 Other
+A54	Weight-language T19 Major
+A55	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	to
+A56	Cause T21 Other
+A57	Weight-language T21 Major
+A58	Weight-understanding T21 Minor
+#19	AnnotatorNotes T21	at
+A59	Cause T22 Other
+A60	Weight-language T22 Major
+A61	Weight-understanding T22 Minor
+#20	AnnotatorNotes T22	age
+T23	Prepositions 323 325	in
+A62	Cause T23 Other
+A63	Weight-language T23 Major
+A64	Weight-understanding T23 Minor
+#21	AnnotatorNotes T23	at
+T34	Noun_number 332 336	ages
+A65	Cause T34 Other
+A66	Weight-language T34 Major
+A67	Weight-understanding T34 Minor
+#22	AnnotatorNotes T34	age
+A68	Cause T24 Other
+A69	Weight-language T24 Major
+A70	Weight-understanding T24 Major
+#23	AnnotatorNotes T24	their
+A71	Cause T9 Other
+A72	Weight-language T9 Major
+A73	Weight-understanding T9 Major
+A74	Cause T25 Other
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Minor
+#24	AnnotatorNotes T25	chase OR go for
+A77	Cause T26 Other
+A78	Weight-language T26 Major
+A79	Weight-understanding T26 Minor
+#25	AnnotatorNotes T26	at
+A80	Cause T28 Typo
+A81	Weight-language T28 Major
+A82	Weight-understanding T28 Minor
+#26	AnnotatorNotes T28	barriers
+A83	Cause T27 Other
+A84	Weight-language T27 Major
+A85	Weight-understanding T27 Minor
+#27	AnnotatorNotes T27	get over
+A86	Cause T30 Absence_of_Category_in_L1
+A87	Weight-language T30 Critical
+A88	Weight-understanding T30 Minor
+#28	AnnotatorNotes T30	in whole
+T35	Word_choice 1225 1235	in a whole
+A89	Cause T35 Other
+A90	Weight-language T35 Major
+A91	Weight-understanding T35 Major
+#29	AnnotatorNotes T35	in general
+A92	Cause T31 Absence_of_Category_in_L1
+A93	Weight-language T31 Minor
+A94	Weight-understanding T31 Minor
+#30	AnnotatorNotes T31	a foreign language
+T36	Noun_number 1308 1324	foreign language
+A95	Cause T36 Other
+A96	Weight-language T36 Minor
+A97	Weight-understanding T36 Minor
+#31	AnnotatorNotes T36	foreign languages
+A98	Cause T32 Other
+A99	Weight-language T32 Major
+A100	Weight-understanding T32 Major
+#32	AnnotatorNotes T32	the ones of doing it
+A101	Cause T33 Other
+A102	Weight-language T33 Major
+A103	Weight-understanding T33 Minor
+#33	AnnotatorNotes T33	let (OR make) their children
+A104	Cause T29 Other
+A105	Weight-language T29 Minor
+A106	Weight-understanding T29 Major
+A107	Delete T29
+T37	Ref_device 1094 1101	bariers
+A108	Cause T37 Other
+A109	Weight-language T37 Major
+A110	Weight-understanding T37 Major
+#34	AnnotatorNotes T37	certain barriers
+T38	Determiners 158 162	each
+#35	AnnotatorNotes T38	either
+T39	Articles 332 336	ages
+#36	AnnotatorNotes T39	an early age

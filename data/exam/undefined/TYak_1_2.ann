@@ -1,0 +1,21 @@
+T1	Articles 417 418	a
+#1	AnnotatorNotes T1	the
+T2	Articles 548 549	a
+A1	Cause T2 Absence_of_Category_in_L1
+#2	AnnotatorNotes T2	the
+A2	Cause T1 Absence_of_Category_in_L1
+T3	lex_item_choice 659 663	very
+A3	Cause T3 L1_interference
+#3	AnnotatorNotes T3	absolutely
+T4	Articles 1190 1195	child
+A4	Cause T4 Absence_of_Category_in_L1
+#4	AnnotatorNotes T4	the child
+T5	Verb_Gerund 1306 1314	to smoke
+A5	Cause T5 L1_interference
+#5	AnnotatorNotes T5	smoking
+T6	Category_confusion 1816 1826	rebellions
+A6	Cause T6 Other
+#6	AnnotatorNotes T6	rebellious
+T7	Tense_form 1965 1969	will
+A7	Cause T7 L1_interference
+A8	Delete T7

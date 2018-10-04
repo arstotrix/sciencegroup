@@ -1,0 +1,31 @@
+T1	Articles 119 135	the first glance
+#1	AnnotatorNotes T1	first glance
+T2	Category_confusion 179 191	transporting
+#2	AnnotatorNotes T2	transported
+T3	lex_item_choice 348 354	amount
+#3	AnnotatorNotes T3	proportion
+T4	Category_confusion 463 475	transporting
+#4	AnnotatorNotes T4	transported
+T5	Spelling 547 551	mire
+#5	AnnotatorNotes T5	more
+T6	Comparative_adj 547 551	mire
+#6	AnnotatorNotes T6	bigger
+T7	Absence_comp_sent 719 723	less
+#7	AnnotatorNotes T7	lower than
+T8	Comparative_adj 719 723	less
+#8	AnnotatorNotes T8	lower than
+T9	Articles 846 858	a comparison
+#9	AnnotatorNotes T9	comparison
+T10	Redundant_comp 936 953	, as it was said,
+A1	Delete T10
+T11	Category_confusion 972 986	transportation
+#10	AnnotatorNotes T11	transported
+T12	Noun_number 958 968	percentage
+#11	AnnotatorNotes T12	percentages
+T13	Agreement_errors 1006 1009	was
+#12	AnnotatorNotes T13	were
+R1	Dependent_change Arg1:T13 Arg2:T12	
+T14	Noun_number 1046 1049	way
+#13	AnnotatorNotes T14	ways
+T15	Articles 1037 1049	the both way
+#14	AnnotatorNotes T15	both ways

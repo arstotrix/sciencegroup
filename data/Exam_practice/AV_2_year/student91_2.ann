@@ -1,0 +1,123 @@
+T3	Redundant_comp 250 257	special
+T5	Spelling 335 346	controvercy
+T7	Spelling 608 618	idiom‘love
+T8	Often_confused 768 773	allow
+T9	lex_item_choice 949 956	recover
+T11	lex_part_choice 0 22	﻿It can be easily said
+A1	Cause T11 Other
+A2	Weight-language T11 Minor
+A3	Weight-understanding T11 Minor
+#1	AnnotatorNotes T11	It can certainly be said
+T1	Category_confusion 59 72	reconsidering
+A4	Cause T1 Other
+A5	Weight-language T1 Minor
+A6	Weight-understanding T1 Minor
+#2	AnnotatorNotes T1	reconsideration
+T2	lex_item_choice 50 58	cardinal
+A7	Cause T2 L1_interference
+A8	Weight-language T2 Minor
+A9	Weight-understanding T2 Minor
+#3	AnnotatorNotes T2	radical
+A10	Cause T5 Other
+A11	Weight-language T5 Major
+A12	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	controversy
+A17	Cause T3 Other
+A18	Weight-language T3 Minor
+A19	Weight-understanding T3 Minor
+A20	Delete T3
+T12	Often_confused 483 487	what
+A21	Cause T12 Other
+A22	Weight-language T12 Minor
+A23	Weight-understanding T12 Minor
+#5	AnnotatorNotes T12	which
+T6	Articles 508 519	good salary
+A13	Cause T6 Absence_of_Category_in_L1
+A14	Weight-language T6 Major
+A15	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	a good salary
+T13	Articles 523 538	interesting job
+A16	Cause T13 Absence_of_Category_in_L1
+A24	Weight-language T13 Major
+A25	Weight-understanding T13 Minor
+#7	AnnotatorNotes T13	an interesting job
+A26	Cause T7 Typo
+A27	Weight-language T7 Minor
+A28	Weight-understanding T7 Minor
+#8	AnnotatorNotes T7	idiom 'love
+T14	lex_item_choice 661 675	starts bearing
+A29	Cause T14 Other
+A30	Weight-language T14 Minor
+A31	Weight-understanding T14 Minor
+#9	AnnotatorNotes T14	acquiring
+T15	Agreement_errors 724 728	rule
+A32	Cause T15 L1_interference
+A33	Weight-language T15 Critical
+A34	Weight-understanding T15 Minor
+#10	AnnotatorNotes T15	rules
+A35	Cause T8 L1_interference
+A36	Weight-language T8 Critical
+A37	Weight-understanding T8 Minor
+#11	AnnotatorNotes T8	afford
+T16	note 897 915	paid highly enough
+#12	AnnotatorNotes T16	Suggested correction: "reasonably well-paid"
+T17	Articles 935 938	the
+A38	Cause T17 Absence_of_Category_in_L1
+A39	Weight-language T17 Major
+A40	Weight-understanding T17 Minor
+A41	Delete T17
+A42	Cause T9 Other
+A43	Weight-language T9 Major
+A44	Weight-understanding T9 Minor
+#13	AnnotatorNotes T9	avert
+T18	Absence_explanation 1082 1095	All the money
+A45	Cause T18 L1_interference
+A46	Weight-language T18 Minor
+A47	Weight-understanding T18 Minor
+#14	AnnotatorNotes T18	All the money in the world
+T19	Spelling 1142 1153	sacrisifice
+A48	Cause T19 Typo
+A49	Weight-language T19 Critical
+A50	Weight-understanding T19 Minor
+#15	AnnotatorNotes T19	sacrifice
+T20	Inappropriate_register 1382 1391	I can bet
+A51	Cause T20 Other
+A52	Weight-language T20 Minor
+A53	Weight-understanding T20 Minor
+#16	AnnotatorNotes T20	I know
+T21	note 1382 1391	I can bet
+#17	AnnotatorNotes T21	Your style should be neutral.
+T22	Articles 1532 1543	high salary
+A54	Cause T22 Absence_of_Category_in_L1
+A55	Weight-language T22 Major
+A56	Weight-understanding T22 Minor
+#18	AnnotatorNotes T22	a high salary
+T23	Articles 1548 1563	interesting job
+A57	Cause T23 Absence_of_Category_in_L1
+A58	Weight-language T23 Major
+A59	Weight-understanding T23 Minor
+#19	AnnotatorNotes T23	an interesting job
+T24	Emphatic 1564 1581	are, in fact, not
+A60	Cause T24 Other
+A61	Weight-language T24 Minor
+A62	Weight-understanding T24 Minor
+#20	AnnotatorNotes T24	are not, in fact,
+T25	note 1602 1623	Moreover, to my mind,
+#21	AnnotatorNotes T25	Your text seems a bit overloaded with linking phrases and discourse markers.
+T26	Ref_device 1660 1690	they really adore what they do
+A63	Cause T26 Other
+A64	Weight-language T26 Major
+A65	Weight-understanding T26 Minor
+#22	AnnotatorNotes T26	one really enjoys what one does
+T27	note 1624 1690	one can earn a lot of money only if they really adore what they do
+#23	AnnotatorNotes T27	Alternatively, you could say: "a person//people can earn a lot of money only if they really adore what they do".
+T28	Ref_device 1771 1773	it
+A66	Cause T28 Other
+A67	Weight-language T28 Minor
+A68	Weight-understanding T28 Minor
+#24	AnnotatorNotes T28	our life
+T29	lex_item_choice 1786 1798	, after all,
+A69	Cause T29 Other
+A70	Weight-language T29 Minor
+A71	Weight-understanding T29 Minor
+#25	AnnotatorNotes T29	ultimately

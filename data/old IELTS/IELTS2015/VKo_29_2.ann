@@ -1,0 +1,28 @@
+T1	Spelling 108 119	managerment
+T2	Spelling 1028 1032	then
+#1	AnnotatorNotes T1	management
+T3	lex_item_choice 93 100	power's
+#2	AnnotatorNotes T3	the authorities'
+T4	Redundant_comp 101 107	way of
+A1	Delete T4
+T5	Spelling 464 466	up
+#3	AnnotatorNotes T5	us
+T6	Articles 610 623	the new kinds
+#4	AnnotatorNotes T6	new kinds
+T7	Numerals 734 736	18
+#5	AnnotatorNotes T7	18th
+T8	Redundant 805 818	despite of it
+#6	AnnotatorNotes T8	despite it
+T9	lex_item_choice 950 955	Power
+#7	AnnotatorNotes T9	The authorities
+T10	Category_confusion 956 962	afraid
+#8	AnnotatorNotes T10	are afraid
+T11	Articles 1033 1043	government
+#9	AnnotatorNotes T11	the government
+T12	Articles 1115 1124	indicator
+#10	AnnotatorNotes T12	an indicator
+T13	Category_confusion 1379 1383	sure
+#11	AnnotatorNotes T13	are sure
+T14	Absence_comp_colloc 1514 1521	bad way
+#12	AnnotatorNotes T14	in a bad way
+A2	Cause T10 L1_interference

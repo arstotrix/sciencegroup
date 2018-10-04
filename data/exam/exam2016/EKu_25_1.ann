@@ -1,0 +1,29 @@
+T1	Standard 4 21	information given
+#1	AnnotatorNotes T1	given information 
+T2	Articles 45 55	investment
+#2	AnnotatorNotes T2	the investments 
+T3	Agreement_errors 187 190	are
+#3	AnnotatorNotes T3	is
+T4	Agreement_errors 254 258	were
+#4	AnnotatorNotes T4	was
+T5	Agreement_errors 278 288	investment
+#5	AnnotatorNotes T5	the investments 
+T6	Articles 347 357	investment
+#6	AnnotatorNotes T6	the investments 
+T7	Agreement_errors 382 385	was
+#7	AnnotatorNotes T7	were
+R1	Dependent_change Arg1:T6 Arg2:T7	
+T8	Agreement_errors 347 357	investment
+#8	AnnotatorNotes T8	investments 
+T9	Articles 483 493	investment
+#9	AnnotatorNotes T9	the investments 
+T10	Word_choice 596 598	in
+#10	AnnotatorNotes T10	of
+T11	Articles 599 609	investment
+#11	AnnotatorNotes T11	the investments 
+T12	Spelling 650 659	analysing
+#12	AnnotatorNotes T12	analyzing 
+T13	Standard 664 681	information given
+#13	AnnotatorNotes T13	given information 
+T14	suggestion 769 771	at
+A1	Delete T14

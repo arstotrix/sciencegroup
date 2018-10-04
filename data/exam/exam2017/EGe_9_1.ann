@@ -1,0 +1,62 @@
+T3	Redundant 134 147	groups of age
+T1	Articles 42 54	the percents
+T2	Word_choice 288 305	markedly streamed
+#1	AnnotatorNotes T2	widely spread
+T5	lex_part_choice 388 408	of the age group 65+
+#2	AnnotatorNotes T5	above 65
+T6	lex_item_choice 381 387	adults
+#3	AnnotatorNotes T6	 users
+T8	Often_confused 470 474	such
+#5	AnnotatorNotes T8	so
+T9	Redundant 612 626	ages of groups
+#6	AnnotatorNotes T9	ages
+T10	Ref_device 711 713	it
+#7	AnnotatorNotes T10	LinkedIn
+T11	Spelling 801 807	Whilst
+#8	AnnotatorNotes T11	while
+#10	AnnotatorNotes T3	age
+T12	Absence_comp_sent 131 133	by
+#11	AnnotatorNotes T12	presented by
+T13	Category_confusion 42 54	the percents
+#12	AnnotatorNotes T13	percentages
+#13	AnnotatorNotes T1	percentages
+T14	lex_item_choice 67 76	variative
+#14	AnnotatorNotes T14	different
+T4	lex_item_choice 200 204	ages
+#9	AnnotatorNotes T4	age groups
+T15	Absence_comp_sent 93 95	by
+#15	AnnotatorNotes T15	used by
+T16	Redundant_comp 96 102	online
+A1	Delete T16
+T17	lex_item_choice 161 165	more
+#16	AnnotatorNotes T17	very
+T7	Linking_device 445 453	Although
+#4	AnnotatorNotes T7	However,
+T18	lex_part_choice 515 529	of the ages of
+#17	AnnotatorNotes T18	at the age
+T19	Redundant_comp 553 560	type of
+A2	Delete T19
+T20	Punctuation 578 585	However
+#18	AnnotatorNotes T20	However,
+T21	lex_item_choice 597 605	streamed
+#19	AnnotatorNotes T21	popular
+T22	Punctuation 656 657	.
+#20	AnnotatorNotes T22	,
+T23	Capitalisation 658 665	Whereas
+#21	AnnotatorNotes T23	whereas
+R1	Dependent_change Arg1:T22 Arg2:T23	
+T24	Category_confusion 743 749	usable
+#22	AnnotatorNotes T24	used
+T25	suggestion 738 742	more
+#23	AnnotatorNotes T25	more often
+R2	Dependent_change Arg1:T24 Arg2:T25	
+T26	Redundant_comp 771 773	of
+A3	Delete T26
+T27	Punctuation 799 800	.
+#24	AnnotatorNotes T27	,
+T28	Capitalisation 801 807	Whilst
+#25	AnnotatorNotes T28	while
+T29	Often_confused 823 827	last
+#26	AnnotatorNotes T29	latter
+A4	Cause T29 L1_interference
+R3	Dependent_change Arg1:T27 Arg2:T28	

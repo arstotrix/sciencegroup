@@ -1,0 +1,32 @@
+T1	Spelling 80 91	wide-spread
+#1	AnnotatorNotes T1	widespread
+T2	lex_item_choice 25 34	describes
+#2	AnnotatorNotes T2	informs
+T3	Redundant_comp 208 227	socially networking
+#3	AnnotatorNotes T3	social
+T4	Redundant_comp 235 249	in social reds
+A1	Delete T4
+T5	Spelling 350 354	cite
+#4	AnnotatorNotes T5	site
+T6	Spelling 482 486	reds
+#5	AnnotatorNotes T6	nets
+T7	Agreement_errors 512 518	posses
+#6	AnnotatorNotes T7	possesses
+T8	Agreement_errors 503 511	Facebook
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Spelling 645 652	poesess
+#7	AnnotatorNotes T9	possess
+T10	Punctuation 773 793	30-49, 50-65 and 65+
+#8	AnnotatorNotes T10	, 30-49, 50-65 and 65+,
+T11	Prepositions 811 813	to
+#9	AnnotatorNotes T11	in
+T12	Punctuation 966 973	Overall
+#10	AnnotatorNotes T12	Overall, 
+T13	Spelling 1008 1014	shownt
+#11	AnnotatorNotes T13	shown
+T14	Spelling 1038 1042	reds
+#12	AnnotatorNotes T14	nets
+T15	Category_confusion 1058 1069	networkings
+#13	AnnotatorNotes T15	networks
+T16	note 1213 1214	d
+#14	AnnotatorNotes T16	Zavyalov

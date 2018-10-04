@@ -1,0 +1,118 @@
+T1	Spelling 32 38	numder
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	number 
+T2	Spelling 109 117	psyology
+A4	Cause T2 Typo
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	psychology 
+T3	Punctuation 117 126	, and etc
+A7	Cause T3 Typo
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	, etc
+T4	Punctuation 146 158	showed, that
+A10	Cause T4 Typo
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	showed that 
+T5	Absence_comp_sent 170 200	characteristics more important
+A13	Cause T5 Typo
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	characteristics are more important 
+T6	Formational_affixes 163 169	borned
+A16	Cause T6 Typo
+A17	Weight-language T6 Minor
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	inborn
+T7	Agreement_errors 241 245	have
+A19	Cause T7 Typo
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	has
+T8	Punctuation 257 272	On the one hand
+A22	Cause T8 Typo
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	On the one hand, 
+T9	Absence_comp_sent 273 306	authority of scientists every big
+A25	Cause T9 Typo
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	authority of scientists is every big
+T10	Absence_comp_sent 396 407	we are born
+A28	Cause T10 Typo
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	we are born with 
+T11	Absence_comp_sent 363 419	influence of the characteristics we are born very strong
+A31	Cause T11 Typo
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Major
+#11	AnnotatorNotes T11	influence of the characteristics we are born is very strong
+T12	Tense_choice 502 510	building
+A34	Cause T12 Typo
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	builds
+T13	Formational_affixes 665 671	borned
+A37	Cause T13 Typo
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Critical
+#13	AnnotatorNotes T13	inborn
+T14	Punctuation 689 706	On the other hand
+A40	Cause T14 Typo
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	On the other hand, 
+T15	Spelling 758 765	numders
+A43	Cause T15 Typo
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	numbers 
+T16	Pronouns 779 783	them
+A46	Weight-language T16 Major
+A47	Weight-understanding T16 Major
+#16	AnnotatorNotes T16	their
+T17	Punctuation 0 9	Nowadays,
+#17	AnnotatorNotes T17	Nowadays
+T18	lex_item_choice 18 23	makes
+#18	AnnotatorNotes T18	carry out
+T19	Articles 159 185	the borned characteristics
+#19	AnnotatorNotes T19	inborn characteristics
+T20	Spelling 297 302	every
+#20	AnnotatorNotes T20	very
+T21	Articles 273 296	authority of scientists
+#21	AnnotatorNotes T21	the authority of scientists
+T22	Modals 314 331	should to believe
+#22	AnnotatorNotes T22	should believe
+T23	Articles 363 395	influence of the characteristics
+#23	AnnotatorNotes T23	the influence of the characteristics
+T24	Articles 483 487	life
+#24	AnnotatorNotes T24	a life
+T29	lex_item_choice 530 533	way
+#28	AnnotatorNotes T29	lifetime
+T31	Determiners 603 610	another
+#30	AnnotatorNotes T31	other
+T32	Determiners 715 720	point
+#31	AnnotatorNotes T32	another point
+T34	Defining 743 750	, which
+#33	AnnotatorNotes T34	who
+T38	Redundant_comp 119 122	and
+A48	Delete T38
+T26	Category_confusion 10 17	science
+#25	AnnotatorNotes T26	scientists
+T39	Agreement_errors 18 23	makes
+#37	AnnotatorNotes T39	carry out
+R2	Dependent_change Arg1:T26 Arg2:T39	
+T25	Standard 469 482	gives us only
+#38	AnnotatorNotes T25	only gives us
+T27	Transitive 619 631	influence on
+#26	AnnotatorNotes T27	influence
+T28	Spelling 732 743	scientiests
+#27	AnnotatorNotes T28	scientists
+T30	Absence_comp_colloc 795 799	than
+#29	AnnotatorNotes T30	rather than

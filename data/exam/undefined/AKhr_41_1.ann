@@ -1,0 +1,26 @@
+T1	Punctuation 183 195	Nevertheless
+#1	AnnotatorNotes T1	Nevertheless,
+T2	Word_choice 331 337	amount
+#2	AnnotatorNotes T2	percentage
+T3	Word_choice 374 377	was
+#3	AnnotatorNotes T3	showed
+T4	suggestion 378 381	not
+#4	AnnotatorNotes T4	no
+R1	Dependent_change Arg1:T3 Arg2:T4	
+T5	Redundant_comp 432 434	it
+A1	Delete T5
+T6	Absence_comp_sent 439 451	about 45-50%
+#5	AnnotatorNotes T6	about 45-50% for both sexes
+T7	Word_choice 517 521	thus
+#6	AnnotatorNotes T7	but
+T8	Discourse 551 559	Men more
+A2	Cause T8 L1_interference
+#7	AnnotatorNotes T8	More men
+T9	Articles 641 644	the
+T10	Punctuation 654 660	degree
+#8	AnnotatorNotes T10	degree, 
+A3	Delete T9
+T11	Word_choice 942 944	to
+#9	AnnotatorNotes T11	in
+T12	Redundant_comp 27 40	percentage of
+#10	AnnotatorNotes T12	percentage of people obtaining

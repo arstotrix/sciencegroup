@@ -1,0 +1,928 @@
+T3	Abs_comp_clause 279 283	deal
+#3	AnnotatorNotes T3	she deal
+T4	Word_choice 296 303	noticed	
+#4	AnnotatorNotes T4	noted
+T5	Tense_choice 312 314	is	
+#5	AnnotatorNotes T5	was
+T6	Articles 357 358;359 368	a defendant	
+#6	AnnotatorNotes T6	the
+T7	Tense_choice 369 371	is	
+#7	AnnotatorNotes T7	was
+T8	Word_choice 394 401	founder	
+#8	AnnotatorNotes T8	co-founder
+T9	Word_choice 436 444	imagined	
+#9	AnnotatorNotes T9	believed
+T11	lex_item_choice 582 587	usual	
+T12	Tense_choice 642 645	had	
+#12	AnnotatorNotes T12	had had
+T13	Relative_clause 664 668	when	
+A13	Delete T13
+T14	Word_choice 669 672;673 681	the incident	
+#14	AnnotatorNotes T14	accident
+T15	Tense_choice 682 694	had happened	
+#15	AnnotatorNotes T15	happened
+T17	Agreement_errors 904 919	an acquaintance	
+#17	AnnotatorNotes T17	acquainted
+T18	Punctuation 933 939	lawyer
+#18	AnnotatorNotes T18	lawyer,
+T21	Conjunctions 1209 1212	and	
+#21	AnnotatorNotes T21	nor
+T22	Often_confused 1242 1249	founded	
+#22	AnnotatorNotes T22	found
+T23	Abs_comp_clause 1400 1407	unusual
+#23	AnnotatorNotes T23	unusual if not unethical
+T24	Word_choice 1412 1417	apply	
+#24	AnnotatorNotes T24	refer
+T26	Articles 1549 1550	a	
+A26	Delete T26
+T27	Articles 1573 1574;1575 1580	a judge	
+#27	AnnotatorNotes T27	the
+T28	Word_choice 1584 1597	use a help of	
+#28	AnnotatorNotes T28	let
+T29	Articles 1599 1603	jury
+#29	AnnotatorNotes T29	the jury
+T33	Articles 1836 1837	a	
+A33	Delete T33
+T36	Tense_choice 1894 1901	accused	
+#36	AnnotatorNotes T36	could accuse
+T37	Word_choice 1915 1926	indifferent	
+#37	AnnotatorNotes T37	negligent
+T38	Absence_explanation 2002 2011	the trial
+#38	AnnotatorNotes T38	the trial couldn't go on with using a reference to the First Amendment and so it
+A5	Cause T3 Other
+A6	Weight-language T3 Major
+A7	Cause T4 Typo
+A8	Weight-language T4 Minor
+A9	Cause T5 Typo
+A10	Weight-language T5 Major
+A11	Cause T6 Absence_of_Category_in_L1
+A12	Weight-language T6 Minor
+A14	Cause T7 Typo
+A15	Weight-language T7 Major
+A16	Cause T8 Typo
+A17	Weight-language T8 Minor
+A18	Cause T9 Other
+A19	Weight-language T9 Minor
+A22	Cause T11 L1_interference
+A23	Weight-language T11 Minor
+A24	Cause T12 Absence_of_Category_in_L1
+A25	Weight-language T12 Major
+A27	Cause T13 L1_interference
+A28	Weight-language T13 Minor
+A32	Cause T14 Other
+A35	Weight-language T14 Minor
+A36	Cause T15 Absence_of_Category_in_L1
+A37	Weight-language T15 Major
+T40	Pronouns 893 898	there
+A40	Cause T40 Other
+A41	Weight-language T40 Major
+A42	Cause T17 Other
+A43	Weight-language T17 Major
+A44	Cause T18 Typo
+A45	Weight-language T18 Major
+A50	Cause T21 Other
+A51	Weight-language T21 Major
+A52	Cause T22 Other
+A53	Weight-language T22 Major
+A54	Cause T23 Other
+A55	Weight-language T23 Minor
+A56	Cause T24 Other
+A57	Weight-language T24 Minor
+A60	Cause T26 Absence_of_Category_in_L1
+A61	Weight-language T26 Minor
+A62	Cause T27 Absence_of_Category_in_L1
+A63	Weight-language T27 Minor
+A64	Cause T28 Other
+A65	Weight-language T28 Minor
+A66	Cause T29 Absence_of_Category_in_L1
+A67	Weight-language T29 Minor
+T41	Voice 1827 1835	had made
+A74	Cause T41 Other
+A75	Weight-language T41 Minor
+A76	Cause T33 Absence_of_Category_in_L1
+A77	Weight-language T33 Minor
+A80	Cause T36 Typo
+A81	Weight-language T36 Minor
+A82	Cause T37 Other
+A83	Weight-language T37 Minor
+A84	Cause T38 L1_interference
+T2	that_clause 265 276	demanded to
+A3	Cause T2 Other
+A4	Weight-language T2 Critical
+#2	AnnotatorNotes T2	demanded that she
+T20	Prepositional_verb 1055 1067	agree to him
+#13	AnnotatorNotes T20	agree with him OR agree to that
+T42	Articles 1765 1766;1767 1777	a prosecutor
+#26	AnnotatorNotes T42	the
+T34	Articles 1927 1932;1933 1934;1935 1944	about a defective
+#31	AnnotatorNotes T34	the
+T35	Articles 2027 2030;2031 2032	for a
+#33	AnnotatorNotes T35	the
+T10	suggestion 1798 1800	in
+A20	Delete T10
+T30	lex_item_choice 1807 1816	were said
+#10	AnnotatorNotes T30	revealed
+T31	Voice 1807 1816	were said
+#20	AnnotatorNotes T31	revealed
+R1	Dependent_change Arg1:T31 Arg2:T10	
+#1	AnnotatorNotes T40	they
+T1	Spelling 1549 1555	acourt
+#11	AnnotatorNotes T1	a court
+T16	Tense_choice 952 964	investigated
+#16	AnnotatorNotes T16	was investigating
+T43	DET 0 4	This
+#39	AnnotatorNotes T43	lemma = 'this'
+T44	NOUN 5 12	episode
+#40	AnnotatorNotes T44	lemma = 'episode'
+T45	AUX 13 15	is
+#41	AnnotatorNotes T45	lemma = 'be'
+T46	ADP 16 21	about
+#42	AnnotatorNotes T46	lemma = 'about'
+T47	DET 22 23	a
+#43	AnnotatorNotes T47	lemma = 'a'
+T48	ADV 24 28	very
+#44	AnnotatorNotes T48	lemma = 'very'
+T49	ADJ 29 40	interesting
+#45	AnnotatorNotes T49	lemma = 'interesting'
+T50	NOUN 41 45	case
+#46	AnnotatorNotes T50	lemma = 'case'
+T51	ADP 46 48	in
+#47	AnnotatorNotes T51	lemma = 'in'
+T52	PRON 49 54	which
+#48	AnnotatorNotes T52	lemma = 'which'
+T53	DET 55 56	a
+#49	AnnotatorNotes T53	lemma = 'a'
+T54	NOUN 57 68	complainant
+#50	AnnotatorNotes T54	lemma = 'complainant'
+T55	VERB 69 74	wants
+#51	AnnotatorNotes T55	lemma = 'want'
+T56	PART 75 77	to
+#52	AnnotatorNotes T56	lemma = 'to'
+T57	VERB 78 82	have
+#53	AnnotatorNotes T57	lemma = 'have'
+T58	NUM 83 86	1.2
+#54	AnnotatorNotes T58	lemma = '1.2'
+T59	NUM 87 94	million
+#55	AnnotatorNotes T59	lemma = 'million'
+T60	NOUN 95 102	dollars
+#56	AnnotatorNotes T60	lemma = 'dollar'
+T61	ADP 103 105	as
+#57	AnnotatorNotes T61	lemma = 'as'
+T62	DET 106 107	a
+#58	AnnotatorNotes T62	lemma = 'a'
+T63	ADJ 108 120	Compensatory
+#59	AnnotatorNotes T63	lemma = 'Compensatory'
+T64	NOUN 121 127	damage
+#60	AnnotatorNotes T64	lemma = 'damage'
+T65	ADP 128 130	as
+#61	AnnotatorNotes T65	lemma = 'as'
+T66	PRON 131 134	she
+#62	AnnotatorNotes T66	lemma = 'she'
+T67	VERB 135 139	fell
+#63	AnnotatorNotes T67	lemma = 'fell'
+T68	ADV 140 144	down
+#64	AnnotatorNotes T68	lemma = 'down'
+T69	ADP 145 152	because
+#65	AnnotatorNotes T69	lemma = 'because'
+T70	ADP 153 155	of
+#66	AnnotatorNotes T70	lemma = 'of'
+T71	ADJ 156 165	defective
+#67	AnnotatorNotes T71	lemma = 'defective'
+T72	ADJ 166 170	eruv
+#68	AnnotatorNotes T72	lemma = 'erufifth'
+T73	NOUN 171 175	wire
+#69	AnnotatorNotes T73	lemma = 'wire'
+T74	PUNCT 175 176	.
+#70	AnnotatorNotes T74	lemma = '.'
+T75	AUX 177 181	Will
+#71	AnnotatorNotes T75	lemma = 'will'
+T76	PROPN 182 189	Gardner
+#72	AnnotatorNotes T76	lemma = 'Gardner'
+T77	PUNCT 189 190	,
+#73	AnnotatorNotes T77	lemma = ','
+T78	DET 191 192	a
+#74	AnnotatorNotes T78	lemma = 'a'
+T79	NOUN 193 200	founder
+#75	AnnotatorNotes T79	lemma = 'founder'
+T80	ADP 201 203	of
+#76	AnnotatorNotes T80	lemma = 'of'
+T81	DET 204 205	a
+#77	AnnotatorNotes T81	lemma = 'a'
+T82	NOUN 206 209	law
+#78	AnnotatorNotes T82	lemma = 'law'
+T83	NOUN 210 214	firm
+#79	AnnotatorNotes T83	lemma = 'firm'
+T84	PUNCT 214 215	,
+#80	AnnotatorNotes T84	lemma = ','
+T85	VERB 216 224	informed
+#81	AnnotatorNotes T85	lemma = 'inform'
+T86	DET 225 228	his
+#82	AnnotatorNotes T86	lemma = 'his'
+T87	NOUN 229 237	employee
+#83	AnnotatorNotes T87	lemma = 'employee'
+T88	PROPN 238 244	Alicia
+#84	AnnotatorNotes T88	lemma = 'Alicia'
+T89	ADP 245 250	about
+#85	AnnotatorNotes T89	lemma = 'about'
+T90	DET 251 255	this
+#86	AnnotatorNotes T90	lemma = 'this'
+T91	NOUN 256 260	case
+#87	AnnotatorNotes T91	lemma = 'case'
+T92	CCONJ 261 264	and
+#88	AnnotatorNotes T92	lemma = 'and'
+T93	VERB 265 273	demanded
+#89	AnnotatorNotes T93	lemma = 'demand'
+T94	PART 274 276	to
+#90	AnnotatorNotes T94	lemma = 'to'
+T95	VERB 279 283	deal
+#91	AnnotatorNotes T95	lemma = 'deal'
+T96	ADP 284 288	with
+#92	AnnotatorNotes T96	lemma = 'with'
+T97	PRON 289 291	it
+#93	AnnotatorNotes T97	lemma = 'it'
+T98	PUNCT 291 292	.
+#94	AnnotatorNotes T98	lemma = '.'
+T99	PRON 293 295	He
+#95	AnnotatorNotes T99	lemma = 'he'
+T100	VERB 296 303	noticed
+#96	AnnotatorNotes T100	lemma = 'notice'
+T101	SCONJ 304 308	that
+#97	AnnotatorNotes T101	lemma = 'that'
+T102	PRON 309 311	it
+#98	AnnotatorNotes T102	lemma = 'it'
+T103	AUX 312 314	is
+#99	AnnotatorNotes T103	lemma = 'be'
+T104	DET 315 316	a
+#100	AnnotatorNotes T104	lemma = 'a'
+T105	ADV 317 321	very
+#101	AnnotatorNotes T105	lemma = 'very'
+T106	ADJ 322 331	sensitive
+#102	AnnotatorNotes T106	lemma = 'sensitive'
+T107	NOUN 332 337	issue
+#103	AnnotatorNotes T107	lemma = 'issue'
+T108	ADP 338 341	for
+#104	AnnotatorNotes T108	lemma = 'for'
+T109	DET 342 345	the
+#105	AnnotatorNotes T109	lemma = 'the'
+T110	NOUN 346 353	company
+#106	AnnotatorNotes T110	lemma = 'company'
+T111	ADP 354 356	as
+#107	AnnotatorNotes T111	lemma = 'as'
+T112	DET 357 358	a
+#108	AnnotatorNotes T112	lemma = 'a'
+T113	NOUN 359 368	defendant
+#109	AnnotatorNotes T113	lemma = 'defendant'
+T114	AUX 369 371	is
+#110	AnnotatorNotes T114	lemma = 'be'
+T115	DET 372 373	a
+#111	AnnotatorNotes T115	lemma = 'a'
+T116	NOUN 374 382	daughter
+#112	AnnotatorNotes T116	lemma = 'daughter'
+T117	ADP 383 385	of
+#113	AnnotatorNotes T117	lemma = 'of'
+T118	DET 386 393	another
+#114	AnnotatorNotes T118	lemma = 'another'
+T119	NOUN 394 401	founder
+#115	AnnotatorNotes T119	lemma = 'founder'
+T120	PUNCT 401 402	.
+#116	AnnotatorNotes T120	lemma = '.'
+T121	PROPN 403 409	Alicia
+#117	AnnotatorNotes T121	lemma = 'Alicia'
+T122	CCONJ 410 413	and
+#118	AnnotatorNotes T122	lemma = 'and'
+T123	DET 414 417	her
+#119	AnnotatorNotes T123	lemma = 'her'
+T124	NOUN 418 427	colleague
+#120	AnnotatorNotes T124	lemma = 'colleague'
+T125	PROPN 428 435	Kalinda
+#121	AnnotatorNotes T125	lemma = 'Kalinda'
+T126	VERB 436 444	imagined
+#122	AnnotatorNotes T126	lemma = 'imagin'
+T127	SCONJ 445 449	that
+#123	AnnotatorNotes T127	lemma = 'that'
+T128	PRON 450 454	they
+#124	AnnotatorNotes T128	lemma = 'they'
+T129	AUX 455 460	would
+#125	AnnotatorNotes T129	lemma = 'will'
+T130	VERB 461 464	see
+#126	AnnotatorNotes T130	lemma = 'see'
+T131	DET 465 466	a
+#127	AnnotatorNotes T131	lemma = 'a'
+T132	ADJ 467 480	sophisticated
+#128	AnnotatorNotes T132	lemma = 'sophisticated'
+T133	CCONJ 481 484	and
+#129	AnnotatorNotes T133	lemma = 'and'
+T134	ADJ 485 492	spoiled
+#130	AnnotatorNotes T134	lemma = 'spoiled'
+T135	NOUN 493 498	woman
+#131	AnnotatorNotes T135	lemma = 'woman'
+T136	VERB 499 504	named
+#132	AnnotatorNotes T136	lemma = 'name'
+T137	PROPN 505 509	Anna
+#133	AnnotatorNotes T137	lemma = 'Anna'
+T138	ADV 510 512	so
+#134	AnnotatorNotes T138	lemma = 'so'
+T139	PRON 513 517	they
+#135	AnnotatorNotes T139	lemma = 'they'
+T140	AUX 518 522	were
+#136	AnnotatorNotes T140	lemma = 'be'
+T141	ADV 523 527	very
+#137	AnnotatorNotes T141	lemma = 'very'
+T142	VERB 528 537	surprised
+#138	AnnotatorNotes T142	lemma = 'surprise'
+T143	PART 538 540	to
+#139	AnnotatorNotes T143	lemma = 'to'
+T144	VERB 541 544	see
+#140	AnnotatorNotes T144	lemma = 'see'
+T145	DET 545 546	a
+#141	AnnotatorNotes T145	lemma = 'a'
+T146	ADJ 547 553	modest
+#142	AnnotatorNotes T146	lemma = 'modest'
+T147	NOUN 554 559	woman
+#143	AnnotatorNotes T147	lemma = 'woman'
+T148	PRON 560 563	who
+#144	AnnotatorNotes T148	lemma = 'who'
+T149	VERB 564 569	lived
+#145	AnnotatorNotes T149	lemma = 'live'
+T150	ADP 570 572	in
+#146	AnnotatorNotes T150	lemma = 'in'
+T151	DET 573 574	a
+#147	AnnotatorNotes T151	lemma = 'a'
+T152	ADJ 575 581	rather
+#148	AnnotatorNotes T152	lemma = 'rather'
+T153	ADJ 582 587	usual
+#149	AnnotatorNotes T153	lemma = 'usual'
+T154	NOUN 588 593	house
+#150	AnnotatorNotes T154	lemma = 'house'
+T155	ADP 594 598	with
+#151	AnnotatorNotes T155	lemma = 'with'
+T156	DET 599 602	her
+#152	AnnotatorNotes T156	lemma = 'her'
+T157	ADJ 603 609	Jewish
+#153	AnnotatorNotes T157	lemma = 'jewish'
+T158	NOUN 610 617	husband
+#154	AnnotatorNotes T158	lemma = 'husband'
+T159	PUNCT 617 618	.
+#155	AnnotatorNotes T159	lemma = '.'
+T160	PRON 619 622	She
+#156	AnnotatorNotes T160	lemma = 'she'
+T161	VERB 623 632	explained
+#157	AnnotatorNotes T161	lemma = 'explain'
+T162	SCONJ 633 637	that
+#158	AnnotatorNotes T162	lemma = 'that'
+T163	PRON 638 641	she
+#159	AnnotatorNotes T163	lemma = 'she'
+T164	VERB 642 645	had
+#160	AnnotatorNotes T164	lemma = 'have'
+T165	DET 646 647	a
+#161	AnnotatorNotes T165	lemma = 'a'
+T166	NOUN 648 655	Shabbat
+#162	AnnotatorNotes T166	lemma = 'Shabbat'
+T167	DET 656 659	the
+#163	AnnotatorNotes T167	lemma = 'the'
+T168	NOUN 660 663	day
+#164	AnnotatorNotes T168	lemma = 'day'
+T169	SCONJ 664 668	when
+#165	AnnotatorNotes T169	lemma = 'when'
+T170	DET 669 672	the
+#166	AnnotatorNotes T170	lemma = 'the'
+T171	NOUN 673 681	incident
+#167	AnnotatorNotes T171	lemma = 'incident'
+T172	AUX 682 685	had
+#168	AnnotatorNotes T172	lemma = 'have'
+T173	VERB 686 694	happened
+#169	AnnotatorNotes T173	lemma = 'happen'
+T174	ADV 695 697	so
+#170	AnnotatorNotes T174	lemma = 'so'
+T175	PRON 698 701	she
+#171	AnnotatorNotes T175	lemma = 'she'
+T176	_ 702 710	couldn't
+#172	AnnotatorNotes T176	lemma = '_'
+T177	VERB 711 714	use
+#173	AnnotatorNotes T177	lemma = 'use'
+T178	DET 715 718	any
+#174	AnnotatorNotes T178	lemma = 'any'
+T179	ADJ 719 729	electrical
+#175	AnnotatorNotes T179	lemma = 'electrical'
+T180	NOUN 730 737	devices
+#176	AnnotatorNotes T180	lemma = 'device'
+T181	ADP 738 740	in
+#177	AnnotatorNotes T181	lemma = 'in'
+T182	NOUN 741 746	order
+#178	AnnotatorNotes T182	lemma = 'order'
+T183	ADP 747 749	to
+#179	AnnotatorNotes T183	lemma = 'to'
+T184	VERB 750 754	tell
+#180	AnnotatorNotes T184	lemma = 'tell'
+T185	PRON 755 762	someone
+#181	AnnotatorNotes T185	lemma = 'someone'
+T186	ADP 763 768	about
+#182	AnnotatorNotes T186	lemma = 'about'
+T187	DET 769 770	a
+#183	AnnotatorNotes T187	lemma = 'a'
+T188	ADJ 771 780	defective
+#184	AnnotatorNotes T188	lemma = 'defective'
+T189	ADJ 781 785	eruv
+#185	AnnotatorNotes T189	lemma = 'erufifth'
+T190	NOUN 786 790	wire
+#186	AnnotatorNotes T190	lemma = 'wire'
+T191	PUNCT 790 791	.
+#187	AnnotatorNotes T191	lemma = '.'
+T192	PRON 792 795	She
+#188	AnnotatorNotes T192	lemma = 'she'
+T193	ADV 796 800	also
+#189	AnnotatorNotes T193	lemma = 'also'
+T194	VERB 801 810	presented
+#190	AnnotatorNotes T194	lemma = 'present'
+T195	DET 811 814	her
+#191	AnnotatorNotes T195	lemma = 'her'
+T196	NOUN 815 822	husband
+#192	AnnotatorNotes T196	lemma = 'husband'
+T197	ADP 823 825	to
+#193	AnnotatorNotes T197	lemma = 'to'
+T198	PRON 826 830	them
+#194	AnnotatorNotes T198	lemma = 'they'
+T199	CCONJ 831 834	and
+#195	AnnotatorNotes T199	lemma = 'and'
+T200	PRON 835 837	he
+#196	AnnotatorNotes T200	lemma = 'he'
+T201	ADV 838 842	once
+#197	AnnotatorNotes T201	lemma = 'once'
+T202	ADV 843 847	more
+#198	AnnotatorNotes T202	lemma = 'more'
+T203	VERB 848 859	accentuated
+#199	AnnotatorNotes T203	lemma = 'accentuate'
+T204	PRON 860 864	that
+#200	AnnotatorNotes T204	lemma = 'that'
+T205	PRON 865 867	it
+#201	AnnotatorNotes T205	lemma = 'it'
+T206	_ 868 874	wasn't
+#202	AnnotatorNotes T206	lemma = '_'
+T207	DET 875 880	their
+#203	AnnotatorNotes T207	lemma = 'their'
+T208	NOUN 881 886	fault
+#204	AnnotatorNotes T208	lemma = 'fault'
+T209	PUNCT 886 887	.
+#205	AnnotatorNotes T209	lemma = '.'
+T210	SCONJ 888 892	Then
+#206	AnnotatorNotes T210	lemma = 'then'
+T211	ADV 893 898	there
+#207	AnnotatorNotes T211	lemma = 'there'
+T212	AUX 899 903	were
+#208	AnnotatorNotes T212	lemma = 'be'
+T213	DET 904 906	an
+#209	AnnotatorNotes T213	lemma = 'a'
+T214	NOUN 907 919	acquaintance
+#210	AnnotatorNotes T214	lemma = 'acquaintance'
+T215	ADP 920 924	with
+#211	AnnotatorNotes T215	lemma = 'with'
+T216	DET 925 932	another
+#212	AnnotatorNotes T216	lemma = 'another'
+T217	NOUN 933 939	lawyer
+#213	AnnotatorNotes T217	lemma = 'lawyer'
+T218	PROPN 940 946	Alprin
+#214	AnnotatorNotes T218	lemma = 'Alprin'
+T219	PUNCT 946 947	,
+#215	AnnotatorNotes T219	lemma = ','
+T220	PRON 948 951	who
+#216	AnnotatorNotes T220	lemma = 'who'
+T221	VERB 952 964	investigated
+#217	AnnotatorNotes T221	lemma = 'investigate'
+T222	DET 965 969	this
+#218	AnnotatorNotes T222	lemma = 'this'
+T223	NOUN 970 974	case
+#219	AnnotatorNotes T223	lemma = 'case'
+T224	PUNCT 974 975	.
+#220	AnnotatorNotes T224	lemma = '.'
+T225	PRON 976 978	He
+#221	AnnotatorNotes T225	lemma = 'he'
+T226	VERB 979 987	expected
+#222	AnnotatorNotes T226	lemma = 'expect'
+T227	PROPN 988 994	Alicia
+#223	AnnotatorNotes T227	lemma = 'Alicia'
+T228	PART 995 997	to
+#224	AnnotatorNotes T228	lemma = 'to'
+T229	VERB 998 1000	go
+#225	AnnotatorNotes T229	lemma = 'go'
+T230	ADV 1001 1005	away
+#226	AnnotatorNotes T230	lemma = 'away'
+T231	CCONJ 1006 1009	and
+#227	AnnotatorNotes T231	lemma = 'and'
+T232	PART 1010 1013	not
+#228	AnnotatorNotes T232	lemma = 'not'
+T233	ADP 1014 1016	to
+#229	AnnotatorNotes T233	lemma = 'to'
+T234	ADV 1017 1026	interfere
+#230	AnnotatorNotes T234	lemma = 'interfere'
+T235	ADP 1027 1029	in
+#231	AnnotatorNotes T235	lemma = 'in'
+T236	DET 1030 1034	this
+#232	AnnotatorNotes T236	lemma = 'this'
+T237	NOUN 1035 1039	case
+#233	AnnotatorNotes T237	lemma = 'case'
+T238	PUNCT 1039 1040	.
+#234	AnnotatorNotes T238	lemma = '.'
+T239	PROPN 1041 1047	Alicia
+#235	AnnotatorNotes T239	lemma = 'Alicia'
+T240	_ 1048 1054	didn't
+#236	AnnotatorNotes T240	lemma = '_'
+T241	VERB 1055 1060	agree
+#237	AnnotatorNotes T241	lemma = 'agree'
+T242	ADP 1061 1063	to
+#238	AnnotatorNotes T242	lemma = 'to'
+T243	PRON 1064 1067	him
+#239	AnnotatorNotes T243	lemma = 'him'
+T244	CCONJ 1068 1071	and
+#240	AnnotatorNotes T244	lemma = 'and'
+T245	PRON 1072 1075	she
+#241	AnnotatorNotes T245	lemma = 'she'
+T246	VERB 1076 1081	tried
+#242	AnnotatorNotes T246	lemma = 'tried'
+T247	PART 1082 1084	to
+#243	AnnotatorNotes T247	lemma = 'to'
+T248	VERB 1085 1087	do
+#244	AnnotatorNotes T248	lemma = 'do'
+T249	PRON 1088 1098	everything
+#245	AnnotatorNotes T249	lemma = 'everything'
+T250	ADP 1099 1101	in
+#246	AnnotatorNotes T250	lemma = 'in'
+T251	NOUN 1102 1107	order
+#247	AnnotatorNotes T251	lemma = 'order'
+T252	ADP 1108 1110	to
+#248	AnnotatorNotes T252	lemma = 'to'
+T253	VERB 1111 1115	make
+#249	AnnotatorNotes T253	lemma = 'make'
+T254	DET 1116 1119	the
+#250	AnnotatorNotes T254	lemma = 'the'
+T255	NOUN 1120 1125	judge
+#251	AnnotatorNotes T255	lemma = 'judge'
+T256	SCONJ 1126 1132	acquit
+#252	AnnotatorNotes T256	lemma = 'acquit'
+T257	DET 1133 1136	the
+#253	AnnotatorNotes T257	lemma = 'the'
+T258	NOUN 1137 1143	couple
+#254	AnnotatorNotes T258	lemma = 'couple'
+T259	PUNCT 1143 1144	.
+#255	AnnotatorNotes T259	lemma = '.'
+T260	CCONJ 1145 1148	But
+#256	AnnotatorNotes T260	lemma = 'but'
+T261	PROPN 1149 1155	Alprin
+#257	AnnotatorNotes T261	lemma = 'Alprin'
+T262	_ 1156 1162	didn't
+#258	AnnotatorNotes T262	lemma = '_'
+T263	VERB 1163 1167	give
+#259	AnnotatorNotes T263	lemma = 'give'
+T264	ADP 1168 1170	up
+#260	AnnotatorNotes T264	lemma = 'up'
+T265	CCONJ 1171 1174	and
+#261	AnnotatorNotes T265	lemma = 'and'
+T266	VERB 1175 1179	told
+#262	AnnotatorNotes T266	lemma = 'told'
+T267	PRON 1180 1183	her
+#263	AnnotatorNotes T267	lemma = 'her'
+T268	PRON 1184 1188	that
+#264	AnnotatorNotes T268	lemma = 'that'
+T269	PRON 1189 1191	it
+#265	AnnotatorNotes T269	lemma = 'it'
+T270	AUX 1192 1195	was
+#266	AnnotatorNotes T270	lemma = 'be'
+T271	PART 1196 1199	not
+#267	AnnotatorNotes T271	lemma = 'not'
+T272	DET 1200 1203	her
+#268	AnnotatorNotes T272	lemma = 'her'
+T273	NOUN 1204 1208	case
+#269	AnnotatorNotes T273	lemma = 'case'
+T274	CCONJ 1209 1212	and
+#270	AnnotatorNotes T274	lemma = 'and'
+T275	DET 1213 1216	her
+#271	AnnotatorNotes T275	lemma = 'her'
+T276	NOUN 1217 1225	business
+#272	AnnotatorNotes T276	lemma = 'business'
+T277	PUNCT 1225 1226	.
+#273	AnnotatorNotes T277	lemma = '.'
+T278	CCONJ 1227 1230	But
+#274	AnnotatorNotes T278	lemma = 'but'
+T279	ADV 1231 1236	later
+#275	AnnotatorNotes T279	lemma = 'later'
+T280	PRON 1237 1241	they
+#276	AnnotatorNotes T280	lemma = 'they'
+T281	VERB 1242 1249	founded
+#277	AnnotatorNotes T281	lemma = 'found'
+T282	DET 1250 1251	a
+#278	AnnotatorNotes T282	lemma = 'a'
+T283	NOUN 1252 1255	way
+#279	AnnotatorNotes T283	lemma = 'way'
+T284	PART 1256 1258	to
+#280	AnnotatorNotes T284	lemma = 'to'
+T285	VERB 1259 1263	work
+#281	AnnotatorNotes T285	lemma = 'work'
+T286	ADV 1264 1272	together
+#282	AnnotatorNotes T286	lemma = 'together'
+T287	PUNCT 1272 1273	.
+#283	AnnotatorNotes T287	lemma = '.'
+T288	ADP 1274 1280	Alprin
+#284	AnnotatorNotes T288	lemma = 'Alprin'
+T289	VERB 1281 1288	offered
+#285	AnnotatorNotes T289	lemma = 'offer'
+T290	PART 1289 1291	to
+#286	AnnotatorNotes T290	lemma = 'to'
+T291	VERB 1292 1295	use
+#287	AnnotatorNotes T291	lemma = 'use'
+T292	DET 1296 1299	the
+#288	AnnotatorNotes T292	lemma = 'the'
+T293	ADJ 1300 1305	First
+#289	AnnotatorNotes T293	lemma = 'first'
+T294	NOUN 1306 1315	Amendment
+#290	AnnotatorNotes T294	lemma = 'amendment'
+T295	ADP 1316 1318	in
+#291	AnnotatorNotes T295	lemma = 'in'
+T296	DET 1319 1323	this
+#292	AnnotatorNotes T296	lemma = 'this'
+T297	NOUN 1324 1328	case
+#293	AnnotatorNotes T297	lemma = 'case'
+T298	PUNCT 1328 1329	,
+#294	AnnotatorNotes T298	lemma = ','
+T299	PRON 1330 1335	which
+#295	AnnotatorNotes T299	lemma = 'which'
+T300	VERB 1336 1345	surprised
+#296	AnnotatorNotes T300	lemma = 'surprise'
+T301	ADP 1346 1352	Alicia
+#297	AnnotatorNotes T301	lemma = 'Alicia'
+T302	DET 1353 1354	a
+#298	AnnotatorNotes T302	lemma = 'a'
+T303	NOUN 1355 1358	lot
+#299	AnnotatorNotes T303	lemma = 'lot'
+T304	CCONJ 1359 1362	and
+#300	AnnotatorNotes T304	lemma = 'and'
+T305	PRON 1363 1366	she
+#301	AnnotatorNotes T305	lemma = 'she'
+T306	VERB 1367 1376	protested
+#302	AnnotatorNotes T306	lemma = 'protest'
+T307	SCONJ 1377 1381	that
+#303	AnnotatorNotes T307	lemma = 'that'
+T308	PRON 1382 1384	it
+#304	AnnotatorNotes T308	lemma = 'it'
+T309	AUX 1385 1388	was
+#305	AnnotatorNotes T309	lemma = 'be'
+T310	ADJ 1389 1395	stupid
+#306	AnnotatorNotes T310	lemma = 'stupid'
+T311	CCONJ 1396 1399	and
+#307	AnnotatorNotes T311	lemma = 'and'
+T312	ADJ 1400 1407	unusual
+#308	AnnotatorNotes T312	lemma = 'unusual'
+T313	PART 1409 1411	to
+#309	AnnotatorNotes T313	lemma = 'to'
+T314	VERB 1412 1417	apply
+#310	AnnotatorNotes T314	lemma = 'apply'
+T315	ADP 1418 1420	to
+#311	AnnotatorNotes T315	lemma = 'to'
+T316	DET 1421 1424	the
+#312	AnnotatorNotes T316	lemma = 'the'
+T317	ADJ 1425 1430	First
+#313	AnnotatorNotes T317	lemma = 'first'
+T318	NOUN 1431 1440	Amendment
+#314	AnnotatorNotes T318	lemma = 'amendment'
+T319	ADP 1441 1443	in
+#315	AnnotatorNotes T319	lemma = 'in'
+T320	DET 1444 1445	a
+#316	AnnotatorNotes T320	lemma = 'a'
+T321	NOUN 1446 1450	slip
+#317	AnnotatorNotes T321	lemma = 'slip'
+T322	PUNCT 1450 1451	-
+#318	AnnotatorNotes T322	lemma = '-'
+T323	CCONJ 1451 1454	and
+#319	AnnotatorNotes T323	lemma = 'and'
+T324	PUNCT 1454 1455	-
+#320	AnnotatorNotes T324	lemma = '-'
+T325	NOUN 1455 1459	fall
+#321	AnnotatorNotes T325	lemma = 'fall'
+T326	NOUN 1460 1464	case
+#322	AnnotatorNotes T326	lemma = 'case'
+T327	CCONJ 1465 1468	and
+#323	AnnotatorNotes T327	lemma = 'and'
+T328	PRON 1469 1472	she
+#324	AnnotatorNotes T328	lemma = 'she'
+T329	VERB 1473 1480	refused
+#325	AnnotatorNotes T329	lemma = 'refuse'
+T330	ADP 1481 1483	to
+#326	AnnotatorNotes T330	lemma = 'to'
+T331	NOUN 1484 1488	work
+#327	AnnotatorNotes T331	lemma = 'work'
+T332	SCONJ 1489 1493	that
+#328	AnnotatorNotes T332	lemma = 'that'
+T333	NOUN 1494 1497	way
+#329	AnnotatorNotes T333	lemma = 'way'
+T334	PUNCT 1497 1498	.
+#330	AnnotatorNotes T334	lemma = '.'
+T335	CCONJ 1499 1502	But
+#331	AnnotatorNotes T335	lemma = 'but'
+T336	PRON 1503 1505	he
+#332	AnnotatorNotes T336	lemma = 'he'
+T337	VERB 1506 1514	insisted
+#333	AnnotatorNotes T337	lemma = 'insist'
+T338	ADP 1515 1517	on
+#334	AnnotatorNotes T338	lemma = 'on'
+T339	PRON 1518 1520	it
+#335	AnnotatorNotes T339	lemma = 'it'
+T340	CCONJ 1521 1524	and
+#336	AnnotatorNotes T340	lemma = 'and'
+T341	PRON 1525 1529	they
+#337	AnnotatorNotes T341	lemma = 'they'
+T342	VERB 1530 1537	decided
+#338	AnnotatorNotes T342	lemma = 'decide'
+T343	PART 1538 1540	to
+#339	AnnotatorNotes T343	lemma = 'to'
+T344	VERB 1541 1544	try
+#340	AnnotatorNotes T344	lemma = 'try'
+T345	PUNCT 1544 1545	.
+#341	AnnotatorNotes T345	lemma = '.'
+T346	ADP 1546 1548	In
+#342	AnnotatorNotes T346	lemma = 'in'
+T347	NOUN 1549 1555	acourt
+#343	AnnotatorNotes T347	lemma = 'acourt'
+T348	ADP 1556 1562	Alprin
+#344	AnnotatorNotes T348	lemma = 'Alprin'
+T349	VERB 1563 1572	persuaded
+#345	AnnotatorNotes T349	lemma = 'persuad'
+T350	DET 1573 1574	a
+#346	AnnotatorNotes T350	lemma = 'a'
+T351	NOUN 1575 1580	judge
+#347	AnnotatorNotes T351	lemma = 'judge'
+T352	PART 1581 1583	to
+#348	AnnotatorNotes T352	lemma = 'to'
+T353	VERB 1584 1587	use
+#349	AnnotatorNotes T353	lemma = 'use'
+T354	DET 1588 1589	a
+#350	AnnotatorNotes T354	lemma = 'a'
+T355	NOUN 1590 1594	help
+#351	AnnotatorNotes T355	lemma = 'help'
+T356	ADP 1595 1597	of
+#352	AnnotatorNotes T356	lemma = 'of'
+T357	NOUN 1599 1603	jury
+#353	AnnotatorNotes T357	lemma = 'jury'
+T358	PUNCT 1604 1605	.
+#354	AnnotatorNotes T358	lemma = '.'
+T359	ADP 1606 1608	At
+#355	AnnotatorNotes T359	lemma = 'at'
+T360	DET 1609 1612	the
+#356	AnnotatorNotes T360	lemma = 'the'
+T361	NOUN 1613 1622	beginning
+#357	AnnotatorNotes T361	lemma = 'beginning'
+T362	PUNCT 1622 1623	,
+#358	AnnotatorNotes T362	lemma = ','
+T363	PRON 1624 1634	everything
+#359	AnnotatorNotes T363	lemma = 'everything'
+T364	AUX 1635 1638	was
+#360	AnnotatorNotes T364	lemma = 'be'
+T365	ADJ 1639 1643	fine
+#361	AnnotatorNotes T365	lemma = 'fine'
+T366	CCONJ 1644 1647	and
+#362	AnnotatorNotes T366	lemma = 'and'
+T367	PROPN 1648 1654	Alicia
+#363	AnnotatorNotes T367	lemma = 'Alicia'
+T368	VERB 1655 1663	admitted
+#364	AnnotatorNotes T368	lemma = 'admitt'
+T369	SCONJ 1664 1668	that
+#365	AnnotatorNotes T369	lemma = 'that'
+T370	DET 1669 1674	their
+#366	AnnotatorNotes T370	lemma = 'their'
+T371	NOUN 1675 1683	strategy
+#367	AnnotatorNotes T371	lemma = 'strategy'
+T372	AUX 1684 1687	was
+#368	AnnotatorNotes T372	lemma = 'be'
+T373	ADJ 1688 1693	right
+#369	AnnotatorNotes T373	lemma = 'right'
+T374	CCONJ 1694 1697	and
+#370	AnnotatorNotes T374	lemma = 'and'
+T375	VERB 1698 1705	thanked
+#371	AnnotatorNotes T375	lemma = 'thank'
+T376	ADP 1706 1712	Alprin
+#372	AnnotatorNotes T376	lemma = 'Alprin'
+T377	ADP 1713 1716	for
+#373	AnnotatorNotes T377	lemma = 'for'
+T378	VERB 1717 1722	doing
+#374	AnnotatorNotes T378	lemma = 'do'
+T379	DET 1723 1724	a
+#375	AnnotatorNotes T379	lemma = 'a'
+T380	ADJ 1725 1730	great
+#376	AnnotatorNotes T380	lemma = 'great'
+T381	NOUN 1731 1734	job
+#377	AnnotatorNotes T381	lemma = 'job'
+T382	PUNCT 1734 1735	.
+#378	AnnotatorNotes T382	lemma = '.'
+T383	CCONJ 1736 1739	But
+#379	AnnotatorNotes T383	lemma = 'but'
+T384	ADP 1740 1745	after
+#380	AnnotatorNotes T384	lemma = 'after'
+T385	DET 1746 1747	a
+#381	AnnotatorNotes T385	lemma = 'a'
+T386	NOUN 1748 1753	break
+#382	AnnotatorNotes T386	lemma = 'break'
+T387	ADP 1754 1756	in
+#383	AnnotatorNotes T387	lemma = 'in'
+T388	DET 1757 1758	a
+#384	AnnotatorNotes T388	lemma = 'a'
+T389	ADJ 1759 1764	trial
+#385	AnnotatorNotes T389	lemma = 'trial'
+T390	DET 1765 1766	a
+#386	AnnotatorNotes T390	lemma = 'a'
+T391	NOUN 1767 1777	prosecutor
+#387	AnnotatorNotes T391	lemma = 'prosecutor'
+T392	VERB 1778 1786	revealed
+#388	AnnotatorNotes T392	lemma = 'reveal'
+T393	DET 1787 1788	a
+#389	AnnotatorNotes T393	lemma = 'a'
+T394	NOUN 1789 1797	document
+#390	AnnotatorNotes T394	lemma = 'document'
+T395	ADP 1798 1800	in
+#391	AnnotatorNotes T395	lemma = 'in'
+T396	PRON 1801 1806	which
+#392	AnnotatorNotes T396	lemma = 'which'
+T397	AUX 1807 1811	were
+#393	AnnotatorNotes T397	lemma = 'be'
+T398	VERB 1812 1816	said
+#394	AnnotatorNotes T398	lemma = 'say'
+T399	SCONJ 1817 1821	that
+#395	AnnotatorNotes T399	lemma = 'that'
+T400	PROPN 1822 1826	Anna
+#396	AnnotatorNotes T400	lemma = 'Anna'
+T401	AUX 1827 1830	had
+#397	AnnotatorNotes T401	lemma = 'have'
+T402	VERB 1831 1835	made
+#398	AnnotatorNotes T402	lemma = 'make'
+T403	DET 1836 1837	a
+#399	AnnotatorNotes T403	lemma = 'a'
+T404	NOUN 1838 1843	phone
+#400	AnnotatorNotes T404	lemma = 'phone'
+T405	VERB 1844 1849	calls
+#401	AnnotatorNotes T405	lemma = 'call'
+T406	ADP 1850 1852	to
+#402	AnnotatorNotes T406	lemma = 'to'
+T407	DET 1853 1856	her
+#403	AnnotatorNotes T407	lemma = 'her'
+T408	NOUN 1857 1863	father
+#404	AnnotatorNotes T408	lemma = 'father'
+T409	ADP 1864 1870	during
+#405	AnnotatorNotes T409	lemma = 'during'
+T410	DET 1871 1874	the
+#406	AnnotatorNotes T410	lemma = 'the'
+T411	NOUN 1875 1882	Shabbat
+#407	AnnotatorNotes T411	lemma = 'Shabbat'
+T412	ADV 1883 1885	so
+#408	AnnotatorNotes T412	lemma = 'so'
+T413	SCONJ 1886 1890	that
+#409	AnnotatorNotes T413	lemma = 'that'
+T414	PRON 1891 1893	he
+#410	AnnotatorNotes T414	lemma = 'he'
+T415	VERB 1894 1901	accused
+#411	AnnotatorNotes T415	lemma = 'accuse'
+T416	PRON 1902 1905	her
+#412	AnnotatorNotes T416	lemma = 'her'
+T417	ADP 1906 1908	of
+#413	AnnotatorNotes T417	lemma = 'of'
+T418	AUX 1909 1914	being
+#414	AnnotatorNotes T418	lemma = 'being'
+T419	ADJ 1915 1926	indifferent
+#415	AnnotatorNotes T419	lemma = 'indifferent'
+T420	ADP 1927 1932	about
+#416	AnnotatorNotes T420	lemma = 'about'
+T421	DET 1933 1934	a
+#417	AnnotatorNotes T421	lemma = 'a'
+T422	ADJ 1935 1944	defective
+#418	AnnotatorNotes T422	lemma = 'defective'
+T423	ADJ 1945 1949	eruv
+#419	AnnotatorNotes T423	lemma = 'erufifth'
+T424	NOUN 1950 1954	wire
+#420	AnnotatorNotes T424	lemma = 'wire'
+T425	PUNCT 1954 1955	.
+#421	AnnotatorNotes T425	lemma = '.'
+T426	ADV 1956 1958	So
+#422	AnnotatorNotes T426	lemma = 'so'
+T427	SCONJ 1959 1963	that
+#423	AnnotatorNotes T427	lemma = 'that'
+T428	SCONJ 1964 1968	when
+#424	AnnotatorNotes T428	lemma = 'when'
+T429	NOUN 1969 1978	everybody
+#425	AnnotatorNotes T429	lemma = 'everybody'
+T430	VERB 1979 1991	acknowledged
+#426	AnnotatorNotes T430	lemma = 'acknowledge'
+T431	DET 1992 1995	the
+#427	AnnotatorNotes T431	lemma = 'the'
+T432	NOUN 1996 2001	truth
+#428	AnnotatorNotes T432	lemma = 'truth'
+T433	DET 2002 2005	the
+#429	AnnotatorNotes T433	lemma = 'the'
+T434	NOUN 2006 2011	trial
+#430	AnnotatorNotes T434	lemma = 'trail'
+T435	AUX 2013 2016	was
+#431	AnnotatorNotes T435	lemma = 'be'
+T436	VERB 2017 2026	adjourned
+#432	AnnotatorNotes T436	lemma = 'adjourn'
+T437	ADP 2027 2030	for
+#433	AnnotatorNotes T437	lemma = 'for'
+T438	DET 2031 2032	a
+#434	AnnotatorNotes T438	lemma = 'a'
+T439	NOUN 2033 2036	day
+#435	AnnotatorNotes T439	lemma = 'day'
+T440	PUNCT 2036 2037	.
+#436	AnnotatorNotes T440	lemma = '.'

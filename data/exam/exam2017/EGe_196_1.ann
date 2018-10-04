@@ -1,0 +1,12 @@
+T1	Noun_number 86 91	sport
+#1	AnnotatorNotes T1	sports
+T2	Punctuation 212 257	except the one of people from 55 to 64 years,
+#2	AnnotatorNotes T2	, except the one of people from 55 to 64 years,
+T3	Noun_number 360 365	sport
+#3	AnnotatorNotes T3	sports
+T4	Agreement_errors 749 753	were
+#4	AnnotatorNotes T4	was
+T5	Agreement_errors 740 748	activity
+R1	Parallel_construction Arg1:T4 Arg2:T5	
+T6	note 961 962	e
+#5	AnnotatorNotes T6	Zavyalov

@@ -1,0 +1,49 @@
+T1	Spelling 115 117	if
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	of 
+T3	Punctuation 272 291	passengers per year
+A7	Cause T3 Typo
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	'passengers per year'
+T4	Numerals 300 308	millions
+A10	Cause T4 Typo
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	million
+T5	Absence_explanation 361 365	1191
+A13	Weight-language T5 Major
+A14	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	1191 million of passengers per year 
+T6	lex_item_choice 375 385	kilometres
+A15	Cause T6 Typo
+A16	Weight-language T6 Major
+A17	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	the length
+T8	Agreement_errors 395 398	are
+A21	Cause T8 Typo
+A22	Weight-language T8 Major
+A23	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	is
+T9	lex_item_choice 399 405	longer
+A24	Cause T9 Typo
+A25	Weight-language T9 Minor
+A26	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	bigger 
+T13	lex_item_choice 584 594	kilometres
+A36	Cause T13 Typo
+A37	Weight-language T13 Minor
+A38	Weight-understanding T13 Major
+#13	AnnotatorNotes T13	length
+R1	Dependent_change Arg1:T6 Arg2:T8	
+T7	lex_item_choice 521 531	kilometres
+#7	AnnotatorNotes T7	the length
+T2	Word_choice 197 215	less kilometres of
+#2	AnnotatorNotes T2	shorter
+T10	Determiners 216 221	route
+#10	AnnotatorNotes T10	its route
+T11	Word_choice 222 228	it has
+#11	AnnotatorNotes T11	is
+R2	Dependent_change Arg1:T2 Arg2:T11	

@@ -1,0 +1,89 @@
+T1	Spelling 40 47	diffent
+#1	AnnotatorNotes T1	different
+T2	Spelling 48 58	coutntries
+#2	AnnotatorNotes T2	countries 
+T3	Numerals 172 183	20 millions
+#3	AnnotatorNotes T3	20 million
+T4	lex_item_choice 166 171	exact
+#4	AnnotatorNotes T4	exactly
+T5	Articles 288 294	amount
+#5	AnnotatorNotes T5	the number
+T6	Spelling 940 949	mantioned
+#6	AnnotatorNotes T6	mentioned
+T7	Word_choice 964 982	an unwarding thend
+#7	AnnotatorNotes T7	an upward trend
+T8	Spelling 977 982	thend
+#8	AnnotatorNotes T8	trend
+T9	Spelling 462 472	ammounting
+#9	AnnotatorNotes T9	amounting
+T10	Numerals 476 489	14,5 millions
+#10	AnnotatorNotes T10	14,5 million
+T11	Numerals 494 507	18,5 millions
+#11	AnnotatorNotes T11	18,5 million
+T12	Articles 402 409	country
+#12	AnnotatorNotes T12	the country
+T13	Coherence 410 429	was slightly solved
+T14	Spelling 903 914	relativelly
+#13	AnnotatorNotes T14	relatively
+T15	Numerals 854 866	2,7 millions
+#14	AnnotatorNotes T15	2,7 million
+T16	Numerals 871 883	5,1 millions
+#15	AnnotatorNotes T16	5,1 million
+T17	Spelling 767 779	opprtunities
+#16	AnnotatorNotes T17	opportunities
+T18	Spelling 700 703	rom
+#17	AnnotatorNotes T18	from
+T19	Numerals 582 595	11,1 millions
+#18	AnnotatorNotes T19	11,1 million
+T20	Prepositions 25 58	information in diffent coutntries
+#19	AnnotatorNotes T20	information from different countries
+T21	Tense_choice 81 83	do
+#20	AnnotatorNotes T21	did 
+T22	Often_confused 93 102	abilities
+#21	AnnotatorNotes T22	opportunities
+A1	Cause T3 L1_interference
+T23	Often_confused 288 303	amount of girls
+#22	AnnotatorNotes T23	the number of girls
+T24	Numerals 263 276	13,7 millions
+#23	AnnotatorNotes T24	13,7 million
+A2	Cause T24 L1_interference
+T25	Redundant_comp 253 282	It was by 13,7 millions lower
+#24	AnnotatorNotes T25	It was 13,7 million lower
+#25	AnnotatorNotes T13	slightly improved
+A3	Cause T10 L1_interference
+A4	Cause T11 L1_interference
+T27	Absence_comp_sent 431 456	Uneducated boys and girls
+#27	AnnotatorNotes T27	The number of uneducated boys and girls
+T26	Spelling 565 575	ammounting
+#26	AnnotatorNotes T26	amounting
+T28	Absence_comp_sent 555 559	boys
+#28	AnnotatorNotes T28	the number of boys
+A5	Cause T19 L1_interference
+T29	Tense_form 560 581	were ammounting up to
+#29	AnnotatorNotes T29	amounted up to
+T30	Tense_form 457 475	were ammounting to
+#30	AnnotatorNotes T30	amounted to
+T31	Word_choice 605 625	decreased in 2 times
+#31	AnnotatorNotes T31	halved / reduced by half / decreased by a factor of 2 
+T32	Absence_comp_sent 627 658	The same tendency was for girls
+#32	AnnotatorNotes T32	The same tendency was seen for girls
+T33	Spelling 671 675	then
+#33	AnnotatorNotes T33	them
+T34	Pronouns 660 675	numbers of then
+#34	AnnotatorNotes T34	the number of whom
+T35	Spelling 709 714	mill.
+T36	Spelling 722 727	mill.
+T37	Noun_number 660 667	numbers
+#35	AnnotatorNotes T37	the number
+T38	Punctuation 808 811	and
+#36	AnnotatorNotes T38	, and
+T39	Spelling 823 831	educates
+#37	AnnotatorNotes T39	educated
+A6	Cause T15 L1_interference
+A7	Cause T16 L1_interference
+T40	Articles 812 819	numbers
+#38	AnnotatorNotes T40	the numbers
+T41	lex_item_choice 903 914	relativelly
+#39	AnnotatorNotes T41	respectively
+T42	Determiners 983 988	whole
+#40	AnnotatorNotes T42	all

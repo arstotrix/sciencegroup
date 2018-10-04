@@ -1,0 +1,32 @@
+T1	Spelling 11 22	widespreade
+#1	AnnotatorNotes T1	widespread
+T2	Absence_explanation 218 226	pressure
+#2	AnnotatorNotes T2	blood pressure
+T3	Spelling 244 258	recomendations
+#3	AnnotatorNotes T3	recommendations
+T4	Articles 326 334	problems
+#4	AnnotatorNotes T4	the problems
+T5	Punctuation 444 449	, etc
+#5	AnnotatorNotes T5	etc
+T6	Articles 540 548	diseases
+#6	AnnotatorNotes T6	the diseases
+T7	lex_part_choice 554 563	head pain
+#7	AnnotatorNotes T7	headache
+T8	Voice 656 664	required
+#8	AnnotatorNotes T8	require
+T9	Punctuation 719 773	2016 research, published in the New York Times showed,
+#9	AnnotatorNotes T9	2016 research published in the New York Times showed
+T10	Prepositions 1134 1136	in
+#10	AnnotatorNotes T10	on
+T11	Punctuation 1150 1182	, doing some physical activities
+#11	AnnotatorNotes T11	doing some physical activities
+T12	Agreement_errors 1229 1234	comes
+#12	AnnotatorNotes T12	come
+T13	Agreement_errors 1217 1224	workers
+R1	Dependent_change Arg1:T12 Arg2:T13	
+T14	Spelling 1248 1255	bycicle
+#13	AnnotatorNotes T14	bicycle
+T15	Noun_number 1533 1539	essays
+#14	AnnotatorNotes T15	essay
+T16	note 1669 1670	s
+#15	AnnotatorNotes T16	Zavyalov

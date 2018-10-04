@@ -1,0 +1,41 @@
+T1	Capitalisation 663 665	Us
+#1	AnnotatorNotes T1	US
+T2	Category_confusion 825 829	life
+#2	AnnotatorNotes T2	live
+T3	Articles 663 665	Us
+#3	AnnotatorNotes T3	The US
+T4	lex_item_choice 20 25	below
+T5	Absence_explanation 177 253	We can see that all countries are aware of the importance of good healthcare
+T6	Prepositional_adv 311 321	ahead from
+#4	AnnotatorNotes T6	ahead of
+T7	Ref_device 447 457	belongs to
+#5	AnnotatorNotes T7	is that of
+T8	Articles 458 460	US
+T9	Word_choice 502 507	takes
+#6	AnnotatorNotes T9	is occupied by
+T10	Linking_device 560 571	On contrary
+T12	Agreement_errors 795 807	this numbers
+T13	Articles 852 854	US
+T15	Conjunctions 951 958	however
+T16	Punctuation 993 998	which
+#7	AnnotatorNotes T16	, which
+T17	Articles 1025 1027	US
+T18	lex_item_choice 38 46	quantity
+T19	Agreement_errors 127 136	resources
+A1	Delete T19
+T20	Agreement_errors 112 115	the
+A2	Delete T20
+R1	Dependent_change Arg1:T19 Arg2:T20	
+T21	Linking_device 255 262	However
+T22	lex_item_choice 355 361	amount
+T23	Category_confusion 608 616	spending
+#8	AnnotatorNotes T23	expenses
+T24	Punctuation 854 855	,
+#9	AnnotatorNotes T24	:
+T25	Agreement_errors 897 900	are
+T11	Agreement_errors 617 624	differs
+#10	AnnotatorNotes T11	differ
+R2	Dependent_change Arg1:T23 Arg2:T11	
+#11	AnnotatorNotes T25	is
+#12	AnnotatorNotes T15	while
+#13	AnnotatorNotes T17	the US

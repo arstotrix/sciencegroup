@@ -1,0 +1,48 @@
+T1	lex_item_choice 123 126	has
+#1	AnnotatorNotes T1	is
+T2	Absence_comp_sent 171 204	the highest level of unemployment
+#2	AnnotatorNotes T2	the highest level of unemployment is
+T3	Determiners 276 286	other side
+#3	AnnotatorNotes T3	the other side 
+T4	Category_confusion 339 350	unemploymen
+#4	AnnotatorNotes T4	unemployed
+T5	Noun_number 365 373	percents
+#5	AnnotatorNotes T5	percent
+T6	Prepositions 410 429	On the second place
+#6	AnnotatorNotes T6	In the second place
+T7	Articles 462 479	most unemployment
+#7	AnnotatorNotes T7	the most unemployment
+T8	Agreement_errors 489 493	stay
+#8	AnnotatorNotes T8	stays
+T9	Ref_device 544 548	this
+#9	AnnotatorNotes T9	it 
+T10	Redundant_comp 566 569	his
+A1	Delete T10
+T11	Absence_explanation 587 589	it
+#10	AnnotatorNotes T11	it's rate
+T12	lex_item_choice 590 595	roses
+#11	AnnotatorNotes T12	went
+T13	Prepositions 657 670	at the middle
+#12	AnnotatorNotes T13	in the middle
+T14	Confusion_of_structures 686 692	it has
+#13	AnnotatorNotes T14	there are
+T15	Agreement_errors 822 826	have
+#14	AnnotatorNotes T15	has
+T16	Category_confusion 866 874	changing
+#15	AnnotatorNotes T16	changes
+T17	lex_item_choice 902 907	stays
+#16	AnnotatorNotes T17	remains
+T18	Redundant_comp 921 927	of the
+A2	Delete T18
+T19	Punctuation 946 959	as we can see
+#17	AnnotatorNotes T19	as we can see, 
+T20	Redundant_comp 986 992	people
+A3	Delete T20
+T21	Tense_choice 993 1004	is changing
+#18	AnnotatorNotes T21	changes
+T22	Absence_comp_sent 1006 1016	increasing
+#19	AnnotatorNotes T22	it increases
+T23	Tense_choice 1006 1016	increasing
+#20	AnnotatorNotes T23	it increases
+T24	Redundant_comp 1068 1079	rose in the
+A4	Delete T24

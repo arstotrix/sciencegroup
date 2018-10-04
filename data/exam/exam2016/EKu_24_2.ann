@@ -1,0 +1,23 @@
+T1	Punctuation 222 223	-
+A1	Delete T1
+T2	Articles 325 328	one
+#1	AnnotatorNotes T2	the one 
+T3	Tense_choice 531 536	would
+#2	AnnotatorNotes T3	will 
+T4	Tense_choice 575 579	will
+#3	AnnotatorNotes T4	could
+T5	Word_choice 575 579	will
+#4	AnnotatorNotes T5	could 
+T6	Spelling 822 826	ther
+#5	AnnotatorNotes T6	other 
+T7	Agreement_errors 1199 1204	takes
+#6	AnnotatorNotes T7	take 
+T8	Articles 1222 1223	a
+#7	AnnotatorNotes T8	the 
+T9	Agreement_errors 1224 1236	government's
+#8	AnnotatorNotes T9	governments
+T10	Formational_affixes 1224 1236	government's
+#9	AnnotatorNotes T10	governments'
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	Agreement_errors 1632 1642	government
+#10	AnnotatorNotes T11	governments 

@@ -1,0 +1,46 @@
+T1	Participial_constr 115 122	divided
+#1	AnnotatorNotes T1	is divided
+T2	Punctuation 200 239	As it is possible to see from the graph
+#2	AnnotatorNotes T2	As it is possible to see from the graph,
+T3	Noun_number 284 293	Facebooks
+#3	AnnotatorNotes T3	Facebook
+T4	Capitalisation 428 437	instagram
+#4	AnnotatorNotes T4	Instagram
+T5	Articles 423 426	the
+A1	Delete T5
+T6	Spelling 491 496	thins
+#5	AnnotatorNotes T6	thing
+T7	Punctuation 610 637	Switching to younger groups
+#6	AnnotatorNotes T7	Switching to younger groups
+T8	Absence_comp_sent 680 686	groups
+#7	AnnotatorNotes T8	in groups
+T9	Articles 773 776	the
+A2	Delete T9
+T10	Articles 806 809	the
+A3	Delete T10
+T11	lex_item_choice 810 814	teen
+#8	AnnotatorNotes T11	teenagers
+T12	lex_item_choice 863 867	teen
+#9	AnnotatorNotes T12	teenagers
+T13	Prepositions 885 887	by
+#10	AnnotatorNotes T13	of
+T14	Punctuation 911 923	What is more
+#11	AnnotatorNotes T14	What is more,
+T15	Articles 955 958	the
+A4	Delete T15
+T16	Spelling 992 999	younest
+#12	AnnotatorNotes T16	youngest
+T17	Spelling 1015 1021	Suming
+#13	AnnotatorNotes T17	Summing
+T18	Agreement_errors 1037 1045	provides
+#14	AnnotatorNotes T18	provide
+T19	Agreement_errors 1030 1036	tables
+R1	Dependent_change Arg1:T18 Arg2:T19	
+T20	Absence_comp_sent 1086 1110	diffrent social networks
+#15	AnnotatorNotes T20	of diffrent social networks
+T21	Absence_comp_sent 1123 1185	which of the networks is more popular and among what age group
+#16	AnnotatorNotes T21	about which of the networks is more popular and among what age group
+T22	note 1184 1185	p
+#17	AnnotatorNotes T22	Zavyalov
+T23	Punctuation 1121 1185	, which of the networks is more popular and among what age group
+#18	AnnotatorNotes T23	which of the networks is more popular and among what age group

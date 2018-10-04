@@ -1,0 +1,35 @@
+T1	Numerals 447 455	millions
+#1	AnnotatorNotes T1	million
+T2	Numerals 746 754	millions
+#2	AnnotatorNotes T2	million
+T3	Numerals 1001 1009	millions
+#3	AnnotatorNotes T3	million
+T4	Numerals 1364 1372	millions
+#4	AnnotatorNotes T4	million
+T5	Spelling 127 130	for
+#5	AnnotatorNotes T5	far
+T6	Spelling 194 204	oassengers
+#6	AnnotatorNotes T6	passengers
+T7	Articles 295 316	a famous world cities
+#7	AnnotatorNotes T7	famous world cities
+T8	Participial_constr 476 483	Compare
+#8	AnnotatorNotes T8	Compared
+T10	Redundant_comp 558 608	allowed significantly more passengers to transport
+#10	AnnotatorNotes T10	transported significantly more passengers
+T11	Participial_constr 686 693	compare
+#11	AnnotatorNotes T11	compared
+T12	Determiners 827 840	another three
+#12	AnnotatorNotes T12	three other
+T13	Linking_device 870 878	although
+#13	AnnotatorNotes T13	, however,
+T14	Ref_device 1162 1178	in Washington DC
+#14	AnnotatorNotes T14	those in Washington, DC
+T15	Punctuation 1165 1178	Washington DC
+#15	AnnotatorNotes T15	Washington, DC
+T16	Articles 1304 1311	figures
+#16	AnnotatorNotes T16	the figures
+T17	Redundant_comp 1373 1383	of people,
+A1	Delete T17
+T9	Comparative_adj 545 552	shorter
+A2	Cause T9 L1_interference
+#9	AnnotatorNotes T9	as short

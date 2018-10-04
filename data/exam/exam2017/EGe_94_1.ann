@@ -1,0 +1,97 @@
+T2	Absence_explanation 87 91	book
+#2	AnnotatorNotes T2	book sales
+T3	Spelling 92 94	un
+#3	AnnotatorNotes T3	in
+T5	Tense_form 263 274	will became
+#5	AnnotatorNotes T5	will become
+T6	Spelling 322 334	For inctanse
+#6	AnnotatorNotes T6	For instance
+T7	Word_choice 339 350	most bright
+#7	AnnotatorNotes T7	largest
+T8	lex_part_choice 288 304	in contrast with
+#8	AnnotatorNotes T8	in contrast to
+T9	Articles 415 424	bar chart
+#9	AnnotatorNotes T9	the bar chart
+T10	Absence_explanation 426 441	the print books
+#10	AnnotatorNotes T10	the sales of printed books
+T11	Category_confusion 430 435	print
+#11	AnnotatorNotes T11	printed
+T12	Prepositions 455 458	for
+#12	AnnotatorNotes T12	by
+T13	Linking_device 527 532	While
+#13	AnnotatorNotes T13	However,
+T14	Absence_explanation 552 575	10,5 billion US dollars
+#14	AnnotatorNotes T14	the revenue of 10.5 billion US dollars
+T15	Agreement_errors 547 551	were
+#15	AnnotatorNotes T15	was
+R1	Dependent_change Arg1:T14 Arg2:T15	
+T16	Category_confusion 579 584	print
+#16	AnnotatorNotes T16	printed 
+T17	Category_confusion 650 655	print
+#17	AnnotatorNotes T17	printed 
+T18	Articles 697 706	bar chart
+#18	AnnotatorNotes T18	the bar chart
+T19	Category_confusion 1236 1244	slightly
+#19	AnnotatorNotes T19	slight
+T20	Numerals 1258 1270	half billion
+#20	AnnotatorNotes T20	half a billion
+T21	Prepositions 1254 1257	for
+#21	AnnotatorNotes T21	by
+T22	Punctuation 1245 1248	and
+#22	AnnotatorNotes T22	- 
+T23	Word_choice 617 649	amount of US billion dollars for
+#23	AnnotatorNotes T23	sales of
+T24	Redundant_comp 761 767	amount
+A1	Delete T24
+T25	Standard 752 788	the same amount we will have in 2018
+#24	AnnotatorNotes T25	we will have the same in 2018
+T26	Spelling 799 809	intersting
+#25	AnnotatorNotes T26	interesting
+T27	Redundant_comp 818 835	that can be found
+A2	Delete T27
+T28	Word_choice 844 898	the amount for billion US dollars for electronic books
+#26	AnnotatorNotes T28	income from electronic books 
+T29	Prepositions 934 937	for
+#27	AnnotatorNotes T29	of
+T30	Numerals 980 1003	3 billion of US dollars
+#28	AnnotatorNotes T30	3 billion US dollars
+T31	Redundant_comp 970 973	for
+A3	Delete T31
+T32	Numerals 1109 1134	0,5 billion of US dollars
+#29	AnnotatorNotes T32	0.5 billion US dollars
+T33	Numerals 1174 1198	1 billion of US dollars.
+#30	AnnotatorNotes T33	1 billion US dollars
+T34	Category_confusion 1373 1378	print
+#31	AnnotatorNotes T34	printed
+T35	Spelling 1416 1421	exept
+#32	AnnotatorNotes T35	except
+T36	Punctuation 1430 1433	and
+#33	AnnotatorNotes T36	, and
+T37	note 1537 1538	.
+#34	AnnotatorNotes T37	Larionova
+T1	Redundant_comp 110 117	such as
+A4	Delete T1
+T4	Punctuation 118 121	USA
+#1	AnnotatorNotes T4	- the USA
+T38	Articles 118 121	USA
+#4	AnnotatorNotes T38	- the USA
+T39	Spelling 237 242	exept
+T40	Formational_affixes 251 256	print
+#35	AnnotatorNotes T40	printed
+T41	Redundant_comp 351 365	example of the
+A5	Delete T41
+T42	Voice 375 389	we can observe
+#36	AnnotatorNotes T42	can be observed
+T43	Confusion_of_structures 716 726	there were
+#37	AnnotatorNotes T43	they were
+T44	Punctuation 748 751	and
+#38	AnnotatorNotes T44	, and
+T45	Articles 944 947	USA
+#39	AnnotatorNotes T45	the USA
+T46	Punctuation 1143 1146	and
+#40	AnnotatorNotes T46	, and
+T47	Articles 1451 1461	the ebooks
+#41	AnnotatorNotes T47	ebooks
+T48	Articles 1508 1512	such
+#42	AnnotatorNotes T48	such a
+#43	AnnotatorNotes T39	except

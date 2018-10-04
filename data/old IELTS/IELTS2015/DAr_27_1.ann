@@ -1,0 +1,39 @@
+T1	Agreement_errors 22 27	chart
+#1	AnnotatorNotes T1	'charts'
+T2	Articles 117 127	population
+#2	AnnotatorNotes T2	'the'
+T3	Vocabulary 186 198	coliberation
+#3	AnnotatorNotes T3	'consideration'
+T4	Articles 290 300	population
+#4	AnnotatorNotes T4	'the'
+T5	Agreement_errors 301 303	is
+#5	AnnotatorNotes T5	'are'
+T6	Spelling 364 377	approximently
+#6	AnnotatorNotes T6	'approximately'
+T7	Articles 13 17	four
+#7	AnnotatorNotes T7	'the'
+T8	Adjectives 28 43	the one present
+#8	AnnotatorNotes T8	'presented'
+T10	Absence_comp_sent 501 512	middle-aged
+#10	AnnotatorNotes T10	middle-aged people
+T11	Agreement_errors 669 671	is
+#11	AnnotatorNotes T11	'are'
+T12	Absence_comp_sent 736 746	Old people
+#12	AnnotatorNotes T12	The number of old people
+T13	Agreement_errors 747 751	tend
+#13	AnnotatorNotes T13	'tends'
+T14	Spelling 764 773	drasticly
+#14	AnnotatorNotes T14	'drastically'
+T15	Discourse 807 813	people
+#15	AnnotatorNotes T15	the number of people
+T16	Articles 910 920	situations
+#16	AnnotatorNotes T16	'the'
+T17	Articles 959 963	same
+#17	AnnotatorNotes T17	'the'
+T18	Spelling 968 972	gave
+#18	AnnotatorNotes T18	'have'
+R1	Dependent_change Arg1:T12 Arg2:T13	
+T19	Adj_as_collective 405 416	middle-aged
+#19	AnnotatorNotes T19	the middle-aged
+T9	Prepositions 611 613	on
+#9	AnnotatorNotes T9	at

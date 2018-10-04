@@ -1,0 +1,52 @@
+T1	Coherence 64 162	Before reporting the main stages of making this kind of food, it should be said about its contents
+#1	AnnotatorNotes T1	The first picture shows what a pie looks like and its ingredients
+T2	Linking_device 198 206	potatoes
+#2	AnnotatorNotes T2	and potatoes
+T3	Prepositions 326 331	up to
+#3	AnnotatorNotes T3	within
+T4	Absence_explanation 336 341	month
+#4	AnnotatorNotes T4	month after they were delivered
+T5	Coherence 297 310	are delivered
+#5	AnnotatorNotes T5	have to be processed
+T6	Prepositions 311 313	to
+#6	AnnotatorNotes T6	at
+R1	Dependent_change Arg1:T5 Arg2:T6	
+T7	lex_item_choice 351 358	changes
+#7	AnnotatorNotes T7	processes
+T8	lex_item_choice 377 381	made
+#8	AnnotatorNotes T8	performed
+T9	Redundant 397 418	In the first instance
+#9	AnnotatorNotes T9	First
+T10	Coherence 479 523	and chilled. After being stored the potatoes
+#10	AnnotatorNotes T10	, chilled and stored before they
+T11	Ref_device 590 600	fish’s one
+#11	AnnotatorNotes T11	fish
+T12	Modals 601 606	lasts
+#12	AnnotatorNotes T12	cannot last 
+T13	Absence_explanation 607 627	twelve hours or less
+#13	AnnotatorNotes T13	more than twelve hours after delivery before being processed
+T14	Standard 639 694	fresh salmon is covered by lemon juice and then by salt
+#14	AnnotatorNotes T14	lemon juice and then salt are added to fresh salmon
+T15	Word_choice 756 765	by people
+#15	AnnotatorNotes T15	manually
+T16	Word_choice 804 809	using
+#16	AnnotatorNotes T16	with the use of
+T17	Category_confusion 880 903	, having been combined,
+#17	AnnotatorNotes T17	the combination of 
+T18	Coherence 923 931	potatoes
+#18	AnnotatorNotes T18	vegetables
+T19	Agreement_errors 932 935	are
+#19	AnnotatorNotes T19	is
+R2	Dependent_change Arg1:T17 Arg2:T19	
+T20	lex_item_choice 950 954	made
+#20	AnnotatorNotes T20	prepared
+T21	Redundant_comp 964 969	to be
+A1	Delete T21
+T22	Absence_explanation 1011 1017	stored
+#21	AnnotatorNotes T22	stored at the factory
+T23	Absence_explanation 1021 1031	dispatched
+#22	AnnotatorNotes T23	dispatched to be sold
+T24	Prepositions 50 52	in
+#23	AnnotatorNotes T24	at
+T25	note 1031 1032	.
+#24	AnnotatorNotes T25	I AM AFRAID THE GRADE CANNOT BE HIGHER THAN 6 IF SO MANY PIECES ARE EXPRESSED IN A WAY THAT IS HARD TO UNDERSTAND,

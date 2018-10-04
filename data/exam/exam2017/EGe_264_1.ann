@@ -1,0 +1,35 @@
+T1	note 1391 1392	.
+#1	AnnotatorNotes T1	Oleynik
+T2	Tense_form 129 132	are
+#2	AnnotatorNotes T2	is
+T3	Spelling 1010 1017	variaty
+#3	AnnotatorNotes T3	variety
+T4	Determiners 1081 1085	this
+#4	AnnotatorNotes T4	these
+T5	Noun_number 1106 1118	temperatures
+#5	AnnotatorNotes T5	temperature
+T6	Tense_form 1137 1143	remain
+#6	AnnotatorNotes T6	remains
+R1	Parallel_construction Arg1:T6 Arg2:T5	
+T7	Category_confusion 1249 1259	Differents
+#7	AnnotatorNotes T7	Difference
+T8	lex_item_choice 1344 1346	go
+#8	AnnotatorNotes T8	range
+T9	Tense_form 1301 1304	are
+#9	AnnotatorNotes T9	is
+T10	Noun_number 1249 1259	Differents
+#10	AnnotatorNotes T10	Difference
+R2	Parallel_construction Arg1:T9 Arg2:T10	
+T11	Voice 1061 1096	it needs to compare this two graphs
+#11	AnnotatorNotes T11	these two graphs need to be compared
+T12	Noun_number 1183 1195	temperatures
+#12	AnnotatorNotes T12	temperature
+T13	Tense_form 1207 1213	change
+#13	AnnotatorNotes T13	changes
+R3	Parallel_construction Arg1:T13 Arg2:T12	
+T14	Absence_comp_sent 540 551	the warmest
+#14	AnnotatorNotes T14	the warmest one
+T15	Articles 963 979	two-time decline
+#15	AnnotatorNotes T15	a double decline
+T16	lex_item_choice 963 971	two-time
+#16	AnnotatorNotes T16	double

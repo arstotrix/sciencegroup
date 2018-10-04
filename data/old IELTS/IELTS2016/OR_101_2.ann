@@ -1,0 +1,31 @@
+T1	Articles 25 37	large amount
+#1	AnnotatorNotes T1	the large amount
+T2	Agreement_errors 52 57	cause
+#2	AnnotatorNotes T2	causes
+T3	Spelling 232 240	soluting
+#3	AnnotatorNotes T3	solving
+T4	Confusion_of_structures 330 335	it is
+#4	AnnotatorNotes T4	there are
+T5	Spelling 398 401	etc
+#5	AnnotatorNotes T5	etc.
+T6	Punctuation 670 671	,
+A1	Delete T6
+T7	lex_item_choice 685 690	earth
+A2	Cause T7 L1_interference
+#6	AnnotatorNotes T7	land
+T8	Comparative_adj 708 727	more and more clear
+#7	AnnotatorNotes T8	clearer and clearer
+T9	Punctuation 757 758	,
+A3	Delete T9
+T10	Spelling 781 795	non-dangerouse
+#8	AnnotatorNotes T10	not dangerous
+T11	Negation 898 911	is not create
+#9	AnnotatorNotes T11	does not create
+T12	Category_confusion 927 933	safety
+#10	AnnotatorNotes T12	safe
+T13	Voice 991 999	is using
+#11	AnnotatorNotes T13	is used
+T14	Tense_form 1145 1150	taken
+#12	AnnotatorNotes T14	took
+T15	Category_confusion 1352 1358	wisdom
+#13	AnnotatorNotes T15	wise

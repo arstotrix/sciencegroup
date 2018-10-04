@@ -1,0 +1,20 @@
+T1	Redundant_comp 138 143	begin
+A1	Cause T1 L1_interference
+A2	Delete T1
+T2	suggestion 205 206	?
+A3	Delete T2
+T3	Spelling 330 336	awfull
+A4	Cause T3 Typo
+#1	AnnotatorNotes T3	awful 
+T4	Redundant_comp 576 578	to
+T5	Category_confusion 632 639	solving
+A6	Cause T5 L1_interference
+#2	AnnotatorNotes T5	solution to
+T6	Pronouns 640 644	this
+A7	Cause T6 Other
+#3	AnnotatorNotes T6	these
+T7	Possessive 941 949	students
+A8	Cause T7 Other
+#4	AnnotatorNotes T7	student
+T8	Inappropriate_register 1325 1341	it will be apsen
+#5	AnnotatorNotes T8	there will be no problem

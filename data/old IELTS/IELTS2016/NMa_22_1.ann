@@ -1,0 +1,24 @@
+T1	Superlative_adj 217 233	the most highest
+#1	AnnotatorNotes T1	the highest
+T2	Prepositions 465 467	by
+#2	AnnotatorNotes T2	over
+T3	suggestion 521 534	Rest of World
+T4	Absence_comp_sent 562 571	. in 2012
+T5	lex_part_choice 207 216	they were
+#3	AnnotatorNotes T5	there were
+T6	suggestion 243 255	no-accessing
+#4	AnnotatorNotes T6	children who have no access
+T7	Tense_choice 593 598	shown
+#5	AnnotatorNotes T7	shows
+T8	Articles 631 637	female
+#6	AnnotatorNotes T8	the female
+T9	Articles 622 626	male
+#7	AnnotatorNotes T9	the male
+R1	Parallel_construction Arg1:T9 Arg2:T8	
+T10	suggestion 712 714	in
+#8	AnnotatorNotes T10	at
+T11	lex_part_choice 305 314	they were
+#9	AnnotatorNotes T11	there were
+R2	Parallel_construction Arg1:T5 Arg2:T11	
+T12	Redundant_comp 75 109	access to obtain primary education
+#10	AnnotatorNotes T12	access to primary education

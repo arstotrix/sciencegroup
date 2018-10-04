@@ -1,0 +1,102 @@
+T1	Agreement_errors 161 164	are
+#1	AnnotatorNotes T1	is
+T2	Agreement_errors 156 160	data
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T3	Spelling 177 184	celcles
+#2	AnnotatorNotes T3	Celsius
+T4	lex_item_choice 328 335	celcles
+#3	AnnotatorNotes T4	degrees
+T5	lex_item_choice 352 359	celcles
+#4	AnnotatorNotes T5	degrees
+T6	Capitalisation 408 412	june
+#5	AnnotatorNotes T6	June
+T7	lex_item_choice 451 458	celcles
+#6	AnnotatorNotes T7	degrees
+T8	lex_item_choice 576 583	celcles
+#7	AnnotatorNotes T8	degrees
+T9	Capitalisation 339 345	januar
+#8	AnnotatorNotes T9	January
+T10	Spelling 339 345	januar
+#9	AnnotatorNotes T10	January
+T11	Capitalisation 363 367	june
+#10	AnnotatorNotes T11	June
+T12	Capitalisation 462 470	december
+#11	AnnotatorNotes T12	December
+T13	Capitalisation 587 593	januar
+#12	AnnotatorNotes T13	January
+T14	Spelling 587 593	januar
+#13	AnnotatorNotes T14	January
+T15	Spelling 625 631	januar
+#14	AnnotatorNotes T15	January
+T16	Capitalisation 625 631	januar
+#15	AnnotatorNotes T16	January
+T17	Capitalisation 635 639	july
+#16	AnnotatorNotes T17	July
+T18	lex_item_choice 699 706	celcles
+#17	AnnotatorNotes T18	degrees
+T19	lex_item_choice 720 727	celcles
+#18	AnnotatorNotes T19	degrees
+T20	Capitalisation 764 768	july
+#19	AnnotatorNotes T20	July
+T21	Capitalisation 773 781	december
+#20	AnnotatorNotes T21	December
+T22	lex_item_choice 798 805	celcles
+#21	AnnotatorNotes T22	degrees
+T23	lex_item_choice 826 833	celcles
+#22	AnnotatorNotes T23	degrees
+T24	Agreement_errors 901 904	has
+#23	AnnotatorNotes T24	have
+T25	Agreement_errors 867 879	temperatures
+R2	Dependent_change Arg1:T24 Arg2:T25	
+T26	Spelling 990 996	januar
+#24	AnnotatorNotes T26	January
+T27	Capitalisation 990 996	januar
+#25	AnnotatorNotes T27	January
+T28	Capitalisation 1000 1004	july
+#26	AnnotatorNotes T28	July
+T29	lex_item_choice 1022 1029	celcles
+#27	AnnotatorNotes T29	degrees
+T30	lex_item_choice 1036 1043	celcles
+#28	AnnotatorNotes T30	degrees
+T31	lex_item_choice 1088 1095	celcles
+#29	AnnotatorNotes T31	degrees
+T32	lex_item_choice 1103 1110	celcles
+#30	AnnotatorNotes T32	degrees
+T33	Capitalisation 1114 1122	december
+#31	AnnotatorNotes T33	December
+T34	lex_item_choice 1174 1181	celcles
+#32	AnnotatorNotes T34	degrees
+T35	Spelling 1185 1191	januar
+#33	AnnotatorNotes T35	January
+T36	Capitalisation 1185 1191	januar
+#34	AnnotatorNotes T36	January
+T37	lex_item_choice 1205 1212	celcles
+#35	AnnotatorNotes T37	degrees
+T38	Capitalisation 1216 1220	july
+#36	AnnotatorNotes T38	July
+T39	lex_item_choice 1248 1255	celcles
+#37	AnnotatorNotes T39	degrees
+T40	lex_item_choice 1263 1269	cecles
+#38	AnnotatorNotes T40	degrees
+T41	Capitalisation 1276 1280	july
+#39	AnnotatorNotes T41	July
+T42	Capitalisation 1284 1292	december
+#40	AnnotatorNotes T42	December
+T43	lex_item_choice 1439 1446	celcles
+#41	AnnotatorNotes T43	degrees
+T44	lex_item_choice 1474 1481	celcles
+#42	AnnotatorNotes T44	degrees
+T45	Redundant_comp 1487 1498	peak of the
+A1	Delete T45
+T46	lex_item_choice 1551 1558	celcles
+#43	AnnotatorNotes T46	degrees
+T47	Redundant_comp 1585 1596	peak of the
+A2	Delete T47
+T48	lex_item_choice 1499 1504	least
+#44	AnnotatorNotes T48	lowest
+T49	lex_item_choice 1597 1602	least
+#45	AnnotatorNotes T49	lowest
+T50	lex_item_choice 1648 1655	celcles
+#46	AnnotatorNotes T50	degrees
+T51	note 1654 1655	s
+#47	AnnotatorNotes T51	Zavyalov

@@ -1,0 +1,85 @@
+T1	Redundant_comp 14 19	below
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+A4	Delete T1
+T2	Articles 26 49	percentage distribution
+A5	Cause T2 Absence_of_Category_in_L1
+A6	Weight-language T2 Major
+A7	Weight-understanding T2 Major
+#1	AnnotatorNotes T2	the percentage distribution
+T3	Possessive 139 150	Australians
+A8	Cause T3 Other
+A9	Weight-language T3 Major
+A10	Weight-understanding T3 Minor
+#2	AnnotatorNotes T3	Australians'
+T4	Prepositions 80 92	according to
+A11	Cause T4 Other
+A12	Weight-language T4 Major
+A13	Weight-understanding T4 Major
+#3	AnnotatorNotes T4	between
+T5	Noun_number 97 103	gender
+A14	Cause T5 Other
+A15	Weight-language T5 Major
+A16	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	genders
+T6	Articles 93 103	the gender
+A17	Cause T6 Absence_of_Category_in_L1
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Major
+#5	AnnotatorNotes T6	genders
+T7	Punctuation 184 198	As you can see
+A20	Cause T7 Other
+A21	Weight-language T7 Major
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	As you can see,
+T8	Redundant_comp 205 208	are
+A23	Cause T8 Other
+A24	Weight-language T8 Critical
+A25	Weight-understanding T8 Minor
+A26	Delete T8
+T9	Absence_explanation 266 270	more
+A27	Cause T9 Other
+A28	Weight-language T9 Minor
+A29	Weight-understanding T9 Minor
+#7	AnnotatorNotes T9	more often
+T10	Tense_choice 281 289	reaching
+A30	Cause T10 Other
+A31	Weight-language T10 Major
+A32	Weight-understanding T10 Major
+#8	AnnotatorNotes T10	reached
+T11	Absence_comp_sent 281 289	reaching
+A33	Cause T11 Other
+A34	Weight-language T11 Critical
+A35	Weight-understanding T11 Major
+#9	AnnotatorNotes T11	males and females reached
+T12	Tense_choice 209 213	tend
+A36	Cause T12 Other
+A37	Weight-language T12 Major
+A38	Weight-understanding T12 Major
+#10	AnnotatorNotes T12	tended
+T13	Absence_explanation 300 311	70% and 55%
+A39	Cause T13 Other
+A40	Weight-language T13 Minor
+A41	Weight-understanding T13 Major
+#11	AnnotatorNotes T13	70% and 55% respectively in this categories
+T14	Non_defining 342 418	such as skilled vocational diploma, postgraduate diploma and Master's degree
+A42	Cause T14 Other
+A43	Weight-language T14 Major
+A44	Weight-understanding T14 Minor
+#12	AnnotatorNotes T14	, such as skilled vocational diploma, postgraduate diploma and Master's degree,
+T15	Spelling 431 438	choosen
+A45	Cause T15 Other
+A46	Weight-language T15 Major
+A47	Weight-understanding T15 Minor
+#13	AnnotatorNotes T15	chosen
+T16	Tense_choice 419 438	are usually choosen
+A48	Cause T16 Other
+A49	Weight-language T16 Major
+A50	Weight-understanding T16 Major
+#14	AnnotatorNotes T16	were usually chosen
+T17	Spelling 609 618	mirroning
+A51	Cause T17 Typo
+A52	Weight-language T17 Critical
+A53	Weight-understanding T17 Major
+#15	AnnotatorNotes T17	mirroring

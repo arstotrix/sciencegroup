@@ -1,0 +1,36 @@
+T1	lex_part_choice 20 34	is facing with
+#1	AnnotatorNotes T1	is faced with
+T2	Conditionals 332 340	would be
+#2	AnnotatorNotes T2	was
+T3	Conditionals 379 389	always had
+#3	AnnotatorNotes T3	would always have
+T4	Conditionals 434 442	revealed
+#4	AnnotatorNotes T4	would have revealed
+R1	Dependent_change Arg1:T2 Arg2:T3	
+R2	Dependent_change Arg1:T3 Arg2:T4	
+T5	lex_item_choice 465 474	concerned
+#5	AnnotatorNotes T5	convinced
+T6	Tense_choice 664 669	begin
+#6	AnnotatorNotes T6	began
+T7	Spelling 742 750	buisness
+#7	AnnotatorNotes T7	business
+T8	Spelling 883 893	dicreesing
+#8	AnnotatorNotes T8	decreasing
+T9	Punctuation 989 990	.
+#9	AnnotatorNotes T9	?
+T10	Tense_form 1008 1023	are always been
+#10	AnnotatorNotes T10	have always been
+T11	Punctuation 1087 1097	Personally
+#11	AnnotatorNotes T11	Personally,
+T12	Word_order 1162 1193	some interesting to them things
+#12	AnnotatorNotes T12	some things in which they would be interested
+T13	lex_item_choice 1416 1421	bound
+#13	AnnotatorNotes T13	get involved
+T14	Punctuation 1445 1458	In conclusion
+#14	AnnotatorNotes T14	In conclusion,
+T15	Spelling 1522 1534	phycological
+#15	AnnotatorNotes T15	psychological
+T16	Punctuation 1646 1665	In my point of view
+#16	AnnotatorNotes T16	In my point of view,
+T17	note 1757 1758	.
+#17	AnnotatorNotes T17	F. Baykov

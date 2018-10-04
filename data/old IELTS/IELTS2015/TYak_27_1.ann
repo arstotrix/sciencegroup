@@ -1,0 +1,68 @@
+T1	Possessive 37 46	UK people
+#1	AnnotatorNotes T1	people from the UK 
+T2	Articles 37 39	UK
+A1	Cause T2 Absence_of_Category_in_L1
+#2	AnnotatorNotes T2	the UK 
+T3	Redundant_comp 95 99	year
+A2	Delete T3
+T4	Spelling 47 55	traveled
+#3	AnnotatorNotes T4	travelled
+T5	Articles 213 215	UK
+A3	Cause T5 Absence_of_Category_in_L1
+#4	AnnotatorNotes T5	the UK 
+T6	Prepositions 306 319	the 1979 year
+A4	Cause T6 L1_interference
+#5	AnnotatorNotes T6	the year of 1979
+T7	Numerals 324 332	millions
+A5	Cause T7 Other
+#6	AnnotatorNotes T7	million
+T8	Articles 320 323	the
+A6	Cause T8 Absence_of_Category_in_L1
+A7	Delete T8
+T9	Tense_choice 344 350	travel
+A8	Cause T9 Other
+#7	AnnotatorNotes T9	travelled
+T10	Articles 356 358	UK
+A9	Cause T10 Absence_of_Category_in_L1
+#8	AnnotatorNotes T10	the UK 
+T11	Absence_comp_sent 374 383	travel to
+A10	Cause T11 L1_interference
+#9	AnnotatorNotes T11	travelled to the UK 
+T12	Tense_choice 374 380	travel
+A11	Cause T12 Other
+#10	AnnotatorNotes T12	travelled
+T13	Absence_comp_sent 421 430	much more
+A12	Cause T13 Other
+#11	AnnotatorNotes T13	more often 
+T14	Determiners 421 425	much
+A13	Cause T14 Absence_of_Category_in_L1
+A14	Delete T14
+T15	Articles 468 470	UK
+A15	Cause T15 Absence_of_Category_in_L1
+#12	AnnotatorNotes T15	the UK 
+T16	Redundant_comp 565 569	year
+A16	Delete T16
+T17	Tense_choice 686 691	visit
+A17	Cause T17 Other
+#13	AnnotatorNotes T17	visited
+T18	Articles 692 694	UK
+A18	Cause T18 Absence_of_Category_in_L1
+#14	AnnotatorNotes T18	the UK 
+T19	Articles 794 796	UK
+A19	Cause T19 Absence_of_Category_in_L1
+#15	AnnotatorNotes T19	the UK 
+T20	Noun_number 918 924	travel
+A20	Cause T20 Other
+#16	AnnotatorNotes T20	travels
+T21	Articles 935 938	U&K
+A21	Cause T21 Absence_of_Category_in_L1
+#17	AnnotatorNotes T21	the UK 
+T22	Articles 975 981	number
+A22	Cause T22 Absence_of_Category_in_L1
+#18	AnnotatorNotes T22	the number
+T23	Defining 985 999	people visited
+A23	Cause T23 L1_interference
+#19	AnnotatorNotes T23	people who visited
+T24	Articles 1000 1002	UK
+A24	Cause T24 Absence_of_Category_in_L1
+#20	AnnotatorNotes T24	the UK 

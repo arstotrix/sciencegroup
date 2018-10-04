@@ -1,0 +1,98 @@
+T1	Agreement_errors 36 42	arrise
+#1	AnnotatorNotes T1	arises
+T2	Spelling 36 42	arrise
+#2	AnnotatorNotes T2	arises
+T3	Punctuation 57 58	,
+#3	AnnotatorNotes T3	:
+T4	lex_item_choice 148 154	amount
+#4	AnnotatorNotes T4	numbers
+T5	Articles 142 154	equal amount
+#5	AnnotatorNotes T5	the equal numbers
+T6	Category_confusion 158 175	males and females
+#6	AnnotatorNotes T6	male and female students
+T8	Prepositions 195 198	for
+#8	AnnotatorNotes T8	to
+T9	Noun_number 148 154	amount
+#9	AnnotatorNotes T9	numbers
+T10	Absence_comp_sent 158 175	males and females
+#10	AnnotatorNotes T10	male and female students
+T12	lex_part_choice 249 264	On the one side
+#11	AnnotatorNotes T12	On the one hand
+T13	Spelling 271 281	propotiton
+#12	AnnotatorNotes T13	propositon
+T14	lex_item_choice 348 358	irigrality
+#13	AnnotatorNotes T14	political incorrectness
+T7	Determiners 199 211	each faculty
+#7	AnnotatorNotes T7	every faculty
+T11	Standard 422 446	male or female jobs only
+#14	AnnotatorNotes T11	only male or only female jobs
+T15	Standard 506 578	who is not suited for a particular work, according to the overall belief
+#15	AnnotatorNotes T15	who, according to the overall belief, is not suited for a particular work
+T16	lex_item_choice 541 545	work
+#16	AnnotatorNotes T16	job
+A1	Cause T16 L1_interference
+A2	Cause T12 L1_interference
+T17	Spelling 705 714	bussiness
+#17	AnnotatorNotes T17	business
+T18	lex_item_choice 606 614	percicre
+#18	AnnotatorNotes T18	take
+T19	Punctuation 662 673	for example
+#19	AnnotatorNotes T19	for example,
+T20	Articles 677 681	such
+#20	AnnotatorNotes T20	such a
+T21	lex_part_choice 716 733	On the other side
+A4	Cause T21 L1_interference
+#21	AnnotatorNotes T21	On the other hand
+T22	lex_item_choice 758 768	tendencies
+#22	AnnotatorNotes T22	opinions
+T23	Comparative_adj 791 807	most interesting
+#23	AnnotatorNotes T23	more interesting
+T24	Conjunctions 828 831	and
+#24	AnnotatorNotes T24	or
+T25	Prepositions 769 771	in
+#25	AnnotatorNotes T25	according to
+T26	Spelling 893 904	engeneering
+#26	AnnotatorNotes T26	engineering
+T27	Spelling 910 918	majoritu
+#27	AnnotatorNotes T27	majority
+T28	Spelling 928 932	migh
+#28	AnnotatorNotes T28	might
+T29	Spelling 985 994	psycology
+#29	AnnotatorNotes T29	psychology
+T30	Absence_explanation 957 963	social
+#30	AnnotatorNotes T30	social sciences
+T31	Standard 940 994	more creative or social subjects like art or psycology
+#31	AnnotatorNotes T31	more creative subjects like art or social sciences like psychology
+T32	Category_confusion 1027 1036	philology
+#32	AnnotatorNotes T32	philological
+T33	Articles 1027 1044	philology faculty
+#33	AnnotatorNotes T33	the philological faculty
+T34	Spelling 1263 1269	persue
+#34	AnnotatorNotes T34	pursue
+T35	Absence_comp_sent 1290 1297	subject
+#35	AnnotatorNotes T35	take up a certain subject
+T36	Absence_explanation 1290 1297	subject
+#36	AnnotatorNotes T36	a certain subject
+T37	Spelling 1336 1344	iquality
+#37	AnnotatorNotes T37	equality
+T38	Articles 1348 1352	such
+#38	AnnotatorNotes T38	such a
+T39	lex_item_choice 1328 1335	express
+#39	AnnotatorNotes T39	achieve
+T40	lex_item_choice 1423 1429	amount
+#40	AnnotatorNotes T40	numbers
+T41	Noun_number 1423 1428	amoun
+T42	Spelling 1755 1764	standarts
+A3	Cause T42 L1_interference
+#41	AnnotatorNotes T42	standards
+T43	lex_item_choice 1556 1562	amount
+#42	AnnotatorNotes T43	number
+T44	lex_item_choice 1674 1680	amount
+#43	AnnotatorNotes T44	level
+T45	Articles 1799 1810	right thing
+#44	AnnotatorNotes T45	the right thing
+T46	lex_item_choice 1962 1969	nolence
+#45	AnnotatorNotes T46	nonsense
+T47	Absence_explanation 1931 1938	purpose
+#46	AnnotatorNotes T47	stated purpose
+T48	suggestion 186 211	accepted for each faculty

@@ -1,0 +1,56 @@
+T1	Noun_number 61 67	number
+#1	AnnotatorNotes T1	numbers
+T2	Absence_comp_sent 141 147	gender
+#2	AnnotatorNotes T2	of different genders
+T3	Linking_device 149 156	Summary
+T4	Redundant_comp 245 254	2000 year
+#4	AnnotatorNotes T4	2000
+T5	Absence_comp_sent 158 254	the greatest number of girls and boys without access to primary education in Africa in 2000 year
+#5	AnnotatorNotes T5	the greatest number of girls and boys without access to primary education was recorded in Africa in 2000
+#3	AnnotatorNotes T3	Overall
+T6	Redundant_comp 317 326	2012 year
+#6	AnnotatorNotes T6	2012
+R1	Parallel_construction Arg1:T4 Arg2:T6	
+T7	Superlative_adj 330 338	smallest
+#7	AnnotatorNotes T7	the smallest
+T8	lex_item_choice 351 358	variant
+#8	AnnotatorNotes T8	obsevations
+T9	Linking_device 256 269	Alternatively
+#9	AnnotatorNotes T9	In contrast
+T10	lex_item_choice 373 376	bar
+#10	AnnotatorNotes T10	chart
+T11	Punctuation 429 460	, who withous primary education
+#11	AnnotatorNotes T11	who had not recieved primary education
+T12	Prepositions 360 362	On
+#12	AnnotatorNotes T12	In
+T13	Absence_comp_sent 461 474	slightly less
+#13	AnnotatorNotes T13	was slightly less
+T14	Punctuation 474 480	, than
+#14	AnnotatorNotes T14	than
+T15	Articles 481 487	number
+#15	AnnotatorNotes T15	the number
+T16	Absence_comp_sent 498 535	but more than boys in Africa in 2012.
+#16	AnnotatorNotes T16	but was more than the figure for boys in Africa in 2012
+T17	Redundant_comp 539 554	there is we see
+#17	AnnotatorNotes T17	there we see
+T18	Articles 555 563	decrease
+#18	AnnotatorNotes T18	a decrease
+T19	Spelling 435 442	withous
+#19	AnnotatorNotes T19	without
+T20	Articles 613 620	decline
+#20	AnnotatorNotes T20	a decline
+T21	Spelling 765 773	wiithout
+#21	AnnotatorNotes T21	without
+T22	Articles 966 976	a 12 years
+#22	AnnotatorNotes T22	12 years
+T23	Punctuation 675 700	In the period of 12 years
+#23	AnnotatorNotes T23	In the period of 12 years,
+T24	lex_item_choice 737 744	falling
+#24	AnnotatorNotes T24	decrease 
+T25	Prepositional_noun 737 744	falling
+#25	AnnotatorNotes T25	decrease in
+T26	Punctuation 910 926	, without access
+#26	AnnotatorNotes T26	without access
+T27	Articles 948 961	Rest of World
+#27	AnnotatorNotes T27	the Rest of the World
+T28	Discourse 945 976	in Rest of World for a 12 years

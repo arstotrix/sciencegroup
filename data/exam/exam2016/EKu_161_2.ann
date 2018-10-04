@@ -1,0 +1,24 @@
+T1	Word_choice 52 54	is
+#1	AnnotatorNotes T1	to be
+T2	Noun_number 99 104	crime
+#2	AnnotatorNotes T2	crimes
+T3	Word_choice 113 118	argue
+#3	AnnotatorNotes T3	argue that
+T4	Tense_choice 291 301	would have
+#4	AnnotatorNotes T4	had
+T5	Noun_number 363 371	activity
+#5	AnnotatorNotes T5	ativities
+T6	Category_confusion 564 572	humanism
+T7	Category_confusion 639 648	criminals
+#6	AnnotatorNotes T7	crimes
+T8	Spelling 900 902	so
+#7	AnnotatorNotes T8	do
+T9	lex_item_choice 900 902	so
+#8	AnnotatorNotes T9	doing
+T10	Tense_choice 983 988	would
+#9	AnnotatorNotes T10	will
+T11	Noun_number 1112 1120	activity
+#10	AnnotatorNotes T11	activities
+T12	Agreement_errors 1121 1124	has
+#11	AnnotatorNotes T12	have
+R1	Dependent_change Arg1:T11 Arg2:T12	

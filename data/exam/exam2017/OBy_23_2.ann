@@ -1,0 +1,120 @@
+T1	Spelling 0 7	Nowaday
+#1	AnnotatorNotes T1	Nowadays
+T2	Absence_explanation 9 15	people
+#2	AnnotatorNotes T2	some people
+T3	Articles 57 66	a problem
+#3	AnnotatorNotes T3	the problem
+T4	lex_item_choice 70 77	growing
+#4	AnnotatorNotes T4	increasing
+T5	Defining 134 166	, which new technology can cause
+#5	AnnotatorNotes T5	which new technology can cause
+T6	Word_order 111 134	the one of the problems
+#6	AnnotatorNotes T6	one of the problems
+T7	lex_item_choice 170 173	low
+#7	AnnotatorNotes T7	bad
+T8	Prepositions 203 207	into
+#8	AnnotatorNotes T8	in
+T9	Redundant_comp 248 258	a constant
+A1	Delete T9
+T10	Voice 276 287	is required
+#9	AnnotatorNotes T10	requires
+T11	Ref_device 288 292	that
+#10	AnnotatorNotes T11	this
+T12	Defining 330 367	, which can be done only at computers
+#11	AnnotatorNotes T12	which can be done only using computers
+T13	Category_confusion 355 357	at
+#12	AnnotatorNotes T13	using
+T14	Redundant 432 436	with
+A2	Delete T14
+T15	Articles 446 454	the news
+#13	AnnotatorNotes T15	news
+T16	lex_item_choice 479 487	everyday
+#14	AnnotatorNotes T16	daily
+T17	lex_item_choice 496 503	becomes
+#15	AnnotatorNotes T17	turns into
+T18	lex_item_choice 536 547	a less of a
+#16	AnnotatorNotes T18	the absence of
+T19	Punctuation 592 595	too
+#17	AnnotatorNotes T19	, too
+T20	Voice 569 575	caused
+#18	AnnotatorNotes T20	is caused
+T21	lex_item_choice 613 616	get
+#19	AnnotatorNotes T21	go
+T22	Redundant 621 631	of a house
+A3	Delete T22
+T23	lex_item_choice 650 660	all things
+#20	AnnotatorNotes T23	everything they need
+T24	Articles 665 676	proper life
+#21	AnnotatorNotes T24	a proper life
+T25	lex_item_choice 712 720	Internet
+#22	AnnotatorNotes T25	online
+T26	Conjunctions 727 730	and
+#23	AnnotatorNotes T26	to
+T27	Articles 735 755	a necessary products
+#24	AnnotatorNotes T27	necessary products
+T28	Redundant_comp 798 805	because
+A4	Delete T28
+T29	Articles 827 833	a half
+#25	AnnotatorNotes T29	half
+T30	Redundant 839 844	whole
+A5	Delete T30
+T31	Absence_comp_sent 870 880	even sleep
+#26	AnnotatorNotes T31	they even sleep
+T32	Absence_explanation 875 903	sleep with their smartphones
+#27	AnnotatorNotes T32	sleep with their smartphones near them
+T33	Ref_device 945 949	this
+#28	AnnotatorNotes T33	these
+T34	lex_item_choice 988 1004	think more about
+#29	AnnotatorNotes T34	make
+T35	Category_confusion 1017 1026	in a work
+#30	AnnotatorNotes T35	when working
+T36	Prepositions 1082 1090	more awa
+#31	AnnotatorNotes T36	far away
+T37	Absence_explanation 1101 1109	computer
+#32	AnnotatorNotes T37	computer screen
+T38	Spelling 1187 1197	Furthemore
+#33	AnnotatorNotes T38	Furthermore
+T39	lex_item_choice 1291 1299	be fired
+#34	AnnotatorNotes T39	regret 
+T40	Defining 1341 1391	, who is walking at least thirty minutes in a day,
+#35	AnnotatorNotes T40	who is walking at least thirty minutes a day
+T41	Tense_choice 1392 1399	will be
+#36	AnnotatorNotes T41	is
+T42	Prepositions 1416 1420	in a
+#37	AnnotatorNotes T42	at 
+T43	Redundant 1431 1433	of
+A6	Delete T43
+T44	Prepositional_verb 1441 1450	depend in
+#38	AnnotatorNotes T44	depend on
+T45	Prepositions 1485 1487	of
+#39	AnnotatorNotes T45	for
+T46	Articles 1488 1507	the health problems
+#40	AnnotatorNotes T46	health problems
+T47	Absence_comp_colloc 1525 1529	time
+#41	AnnotatorNotes T47	amount of time
+T48	Redundant 1530 1532	of
+A7	Delete T48
+T49	Ref_device 1625 1627	it
+#42	AnnotatorNotes T49	they
+T50	Agreement_errors 1628 1633	helps
+#43	AnnotatorNotes T50	help us
+R1	Dependent_change Arg1:T50 Arg2:T49	
+T51	Transitive 1628 1633	helps
+#44	AnnotatorNotes T51	help us
+T52	Absence_explanation 1676 1680	life
+#45	AnnotatorNotes T52	our life
+T53	Ref_device 1705 1707	it
+#46	AnnotatorNotes T53	they
+T54	Agreement_errors 1708 1715	creates
+#47	AnnotatorNotes T54	create
+R2	Dependent_change Arg1:T54 Arg2:T53	
+T55	Noun_number 1722 1729	problem
+#48	AnnotatorNotes T55	problems
+T56	lex_item_choice 1734 1741	destroy
+#49	AnnotatorNotes T56	damage
+T57	Absence_comp_sent 1775 1786	responsible
+#50	AnnotatorNotes T57	are responsible
+T58	Punctuation 1821 1877	and all the problems from too much time of usage gadgets
+#51	AnnotatorNotes T58	, and all the problems related to the use of gadgets
+T59	Category_confusion 1864 1869	usage
+#52	AnnotatorNotes T59	the use of

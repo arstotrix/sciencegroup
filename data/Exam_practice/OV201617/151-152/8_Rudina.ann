@@ -1,0 +1,90 @@
+T1	Noun_number 186 189	pie
+#1	AnnotatorNotes T1	pies
+T2	Linking_device 271 301	As for a marketable condition,
+#2	AnnotatorNotes T2	To increase its marketable value,
+T3	Voice 313 325	is been sold
+#3	AnnotatorNotes T3	is sold
+T4	Noun_number 527 533	potato
+#4	AnnotatorNotes T4	potatoes
+T5	Category_confusion 539 548	separated
+#5	AnnotatorNotes T5	separate
+T6	Voice 558 567	consisted
+#6	AnnotatorNotes T6	consisting
+T7	lex_item_choice 599 607	incoming
+#7	AnnotatorNotes T7	delivery
+T8	Absence_explanation 619 625	potato
+#8	AnnotatorNotes T8	potato slices
+T9	Category_confusion 633 638	store
+#9	AnnotatorNotes T9	storage
+T10	Redundant_comp 657 664	usually
+A1	Delete T10
+T11	Voice 654 675	is usually been added
+#10	AnnotatorNotes T11	is added
+T12	Intransitive 711 719	wrapping
+#11	AnnotatorNotes T12	wrapping it
+T13	Redundant_comp 762 823	(except the specialization on potato, which was said earlier)
+A2	Delete T13
+T14	Coherence 886 890	come
+#12	AnnotatorNotes T14	have to processed
+T15	Prepositions 891 893	to
+#13	AnnotatorNotes T15	at
+R1	Dependent_change Arg1:T14 Arg2:T15	
+T16	Prepositions 904 909	up to
+#14	AnnotatorNotes T16	within
+T17	Coherence 919 969	, no one preparing stage is not taken into account
+#15	AnnotatorNotes T17	after the delivery
+T18	Coherence 1001 1038	plus adding lemon juice and salt take
+#16	AnnotatorNotes T18	has to be followed by the processing of the fish within
+T19	Word_choice 1105 1107	is
+#17	AnnotatorNotes T19	takes place
+T20	Word_choice 1170 1203	as a cause of wastes is been done
+#18	AnnotatorNotes T20	are disposed of
+T21	Noun_number 1162 1169	peeling
+#19	AnnotatorNotes T21	peelings
+T22	Prepositions 1251 1253	of
+#20	AnnotatorNotes T22	from
+T23	lex_item_choice 1273 1277	work
+#21	AnnotatorNotes T23	task
+T24	Voice 1316 1328	is been done
+#22	AnnotatorNotes T24	is being done
+T25	Redundant_comp 1356 1385	removing is as important that
+A3	Delete T25
+T26	Determiners 1386 1397	another one
+#23	AnnotatorNotes T26	another 
+T27	lex_item_choice 1405 1409	work
+#24	AnnotatorNotes T27	job
+T28	Punctuation 1421 1437	inspect, whether
+#25	AnnotatorNotes T28	 inspect whether
+T29	Tense_choice 1449 1457	was done
+#26	AnnotatorNotes T29	has been done
+T30	Category_confusion 1458 1465	correct
+#27	AnnotatorNotes T30	correctly
+T31	Category_confusion 1470 1474	safe
+#28	AnnotatorNotes T31	safely
+R2	Parallel_construction Arg1:T30 Arg2:T31	
+T32	Absence_explanation 1490 1493	Two
+#29	AnnotatorNotes T32	Two more
+T33	Articles 1824 1847	a preparation of salmon
+#30	AnnotatorNotes T33	preparation of salmon
+T34	Noun_number 1887 1893	potato
+#31	AnnotatorNotes T34	potatoes
+T35	Absence_explanation 1908 1914	potato
+#32	AnnotatorNotes T35	potato slices
+T36	Modals 1971 1978	freezed
+#33	AnnotatorNotes T36	frozen
+T37	Determiners 2055 2066	other shops
+#34	AnnotatorNotes T37	shops
+T38	Redundant_comp 2068 2156	Probably, there is a local store near a factory which is named the same as a factory is.
+A4	Delete T38
+T39	Spelling 2160 2163	cum
+#35	AnnotatorNotes T39	sum
+T40	Absence_explanation 2019 2066	not all ready pies are delivered to other shops
+#36	AnnotatorNotes T40	not all ready pies are delivered to other shops - some are stored at the factory
+T41	Punctuation 2304 2307	and
+#37	AnnotatorNotes T41	, and
+T42	Coherence 2308 2349	there must be definite stages of wrapping
+#38	AnnotatorNotes T42	it must undergo all the stages
+T43	Voice 2357 2368	dispatching
+#39	AnnotatorNotes T43	being dispatched
+T44	note 2368 2369	.
+#40	AnnotatorNotes T44	OLYA, I RECOMMEND THAT YOU NOT USE SOPHISTICATED PHRASES TO MAKE THE DESCRIPTION SOUND MORE ACADEMIC - TRY SIMPLE COMMON SENSE INSTEAD. THE GRADE WILL HARDLY BE HIGHER THAN 6 FOR AN ESSAY LIKE THIS ONE.

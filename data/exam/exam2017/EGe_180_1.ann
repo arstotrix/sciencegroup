@@ -1,0 +1,22 @@
+T1	Redundant_comp 0 4	﻿The
+T2	Capitalisation 5 10	given
+T3	Punctuation 105 106	,
+T4	Punctuation 134 135	,
+T5	Punctuation 164 165	,
+T6	Defining 810 898	, who were using Facebook with the intention of finding new ways of helping other people
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T7	Redundant_comp 43 46	the
+A1	Delete T7
+A2	Delete T3
+A3	Delete T4
+A4	Delete T5
+#1	AnnotatorNotes T6	who were using Facebook with the intention of finding new ways of helping other people
+T8	Punctuation 810 811	,
+A5	Delete T8
+T9	Redundant_comp 78 80	of
+A6	Delete T9
+T10	Spelling 188 194	verson
+#2	AnnotatorNotes T10	version
+T11	Spelling 462 471	Analizing
+#3	AnnotatorNotes T11	Analyzing
+A7	Delete T1

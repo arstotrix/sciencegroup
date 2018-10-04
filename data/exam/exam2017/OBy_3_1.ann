@@ -1,0 +1,51 @@
+T1	Articles 152 167	in charts given
+#1	AnnotatorNotes T1	in the given charts
+T2	Standard 155 167	charts given
+#2	AnnotatorNotes T2	the given charts
+T3	Spelling 184 191	notices
+#3	AnnotatorNotes T3	noticed
+T4	Spelling 224 229	stead
+#4	AnnotatorNotes T4	steady
+T5	Articles 239 253	transportation
+#5	AnnotatorNotes T5	the transportation
+T6	Spelling 270 274	good
+#6	AnnotatorNotes T6	goods
+T7	Punctuation 275 280	which
+#7	AnnotatorNotes T7	, which
+T8	Spelling 354 359	stead
+#8	AnnotatorNotes T8	steady
+T9	Absence_explanation 369 380	‘Chemicals’
+#9	AnnotatorNotes T9	the transportation of Chemicals
+T10	Punctuation 423 427	Also
+#10	AnnotatorNotes T10	Also,
+T11	Voice 450 463	transportated
+#11	AnnotatorNotes T11	were transported
+T12	lex_item_choice 464 470	nearly
+#12	AnnotatorNotes T12	almost
+T13	Articles 598 614	sharp difference
+#13	AnnotatorNotes T13	a sharp difference
+T14	Spelling 630 644	transportating
+#14	AnnotatorNotes T14	transportation
+T15	Articles 697 706	amount of
+#15	AnnotatorNotes T15	the amount of
+T16	Spelling 707 721	transportating
+#16	AnnotatorNotes T16	transported
+T17	lex_item_choice 761 764	one
+#17	AnnotatorNotes T17	the transportation
+T18	Redundant_comp 30 39	transport
+A1	Delete T18
+T19	Absence_comp_sent 40 48	exchange
+#18	AnnotatorNotes T19	exchange of goods
+T20	Modals 175 180	could
+#19	AnnotatorNotes T20	can
+T21	Absence_comp_colloc 747 752	third
+#20	AnnotatorNotes T21	one-third
+T22	lex_item_choice 822 831	concerned
+#21	AnnotatorNotes T22	ovserved
+T23	Absence_explanation 860 862	it
+#22	AnnotatorNotes T23	the direction of the pattern
+T24	Redundant_comp 328 339	After that,
+A2	Delete T24
+T25	Capitalisation 340 343	the
+#23	AnnotatorNotes T25	The
+R1	Dependent_change Arg1:T25 Arg2:T24	

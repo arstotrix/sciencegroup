@@ -1,0 +1,54 @@
+T1	Spelling 25 32	nessery
+#1	AnnotatorNotes T1	necessary
+T2	Spelling 133 143	advanteges
+#2	AnnotatorNotes T2	advantages
+T3	Spelling 148 159	gisadvatges
+#3	AnnotatorNotes T3	disadvantages
+T4	Category_confusion 178 186	commoned
+#4	AnnotatorNotes T4	a common
+T5	Articles 178 186	commoned
+#5	AnnotatorNotes T5	a common
+T6	Category_confusion 187 194	believe
+#6	AnnotatorNotes T6	belief
+T7	Absence_comp_sent 240 249	transport
+#7	AnnotatorNotes T7	types of transport
+T8	lex_item_choice 395 402	statics
+#8	AnnotatorNotes T8	statistics
+T9	Confusion_of_structures 457 464	to face
+#9	AnnotatorNotes T9	of facing
+T10	Prepositions 465 469	with
+A1	Delete T10
+T11	Spelling 555 557	de
+#10	AnnotatorNotes T11	be
+T12	Category_confusion 642 648	travel
+#11	AnnotatorNotes T12	traveling
+T13	Agreement_errors 603 608	it is
+#12	AnnotatorNotes T13	they are
+T14	Agreement_errors 587 593	planes
+R1	Dependent_change Arg1:T13 Arg2:T14	
+T15	Spelling 689 700	buisnessmen
+#13	AnnotatorNotes T15	businessmen
+T16	Noun_number 778 785	country
+#14	AnnotatorNotes T16	countries
+T17	Spelling 1037 1046	endengerd
+#15	AnnotatorNotes T17	endangered
+T18	Spelling 1047 1055	specious
+#16	AnnotatorNotes T18	species
+T19	Spelling 1089 1095	flobal
+#17	AnnotatorNotes T19	global
+T20	lex_item_choice 1175 1180	slide
+#18	AnnotatorNotes T20	melt
+T21	Spelling 1231 1236	tupes
+#19	AnnotatorNotes T21	types
+T22	Standard 1182 1246	Would exist problem with electricity and another tupes of energy
+#20	AnnotatorNotes T22	The problem with electricity and another types of energy would exist
+T23	lex_item_choice 1249 1266	Having consumpted
+#21	AnnotatorNotes T23	Considering
+T24	Spelling 1390 1393	low
+#22	AnnotatorNotes T24	law
+T25	lex_item_choice 1448 1457	mentioned
+#23	AnnotatorNotes T25	need
+T26	Punctuation 1434 1471	People do not mentioned that transpor
+#24	AnnotatorNotes T26	People do not mentioned that transport.
+T27	note 1470 1471	r
+#25	AnnotatorNotes T27	Zavyalov

@@ -1,0 +1,37 @@
+T1	Tense_form 184 186	is
+#1	AnnotatorNotes T1	are
+T2	Noun_number 287 292	eBook
+#2	AnnotatorNotes T2	eBook products
+T3	Absence_explanation 384 389	eBook
+#3	AnnotatorNotes T3	electronic books sales
+T4	Inappropriate_register 509 516	doesn't
+#4	AnnotatorNotes T4	do not
+T5	Absence_comp_sent 582 587	there
+#5	AnnotatorNotes T5	there are
+T6	Absence_explanation 758 763	eBook
+#6	AnnotatorNotes T6	eBook production
+T7	Tense_choice 293 299	shoots
+#7	AnnotatorNotes T7	are expected to shoot
+T8	Tense_choice 390 410	just slightly change
+#8	AnnotatorNotes T8	are just expected to change slightly
+T9	lex_item_choice 486 491	usage
+#9	AnnotatorNotes T9	sales
+R1	Dependent_change Arg1:T9 Arg2:T4	
+T10	Category_confusion 596 606	immenselly
+#10	AnnotatorNotes T10	immense
+T11	Redundant 613 623	of figures
+A1	Delete T11
+T12	Absence_comp_sent 624 638	The same about
+#11	AnnotatorNotes T12	The same is true for
+T13	Redundant_comp 694 696	on
+A2	Delete T13
+T14	Redundant_comp 706 711	posts
+A3	Delete T14
+T15	Absence_comp_sent 907 912	there
+#12	AnnotatorNotes T15	there is
+T16	Agreement_errors 509 516	doesn't
+#14	AnnotatorNotes T16	do not
+T18	Tense_choice 196 206	be changed
+#15	AnnotatorNotes T18	change
+T17	Prepositions 633 638	about
+#13	AnnotatorNotes T17	for

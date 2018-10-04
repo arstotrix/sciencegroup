@@ -1,0 +1,109 @@
+T2	Spelling 144 148	tako
+T3	lex_item_choice 298 303	threw
+T4	Spelling 425 428	ude
+T5	lex_item_choice 400 404	most
+T6	Spelling 477 485	cerosine
+T8	Spelling 872 878	Becaue
+T9	Punctuation 1180 1190	TV-channel
+T10	Capitalisation 1109 1117	saturday
+T11	Capitalisation 1154 1161	warming
+T13	lex_item_choice 1265 1268	But
+T15	Spelling 1515 1520	coure
+T16	Spelling 1547 1550	som
+#1	AnnotatorNotes T2	take
+#2	AnnotatorNotes T4	use
+#3	AnnotatorNotes T6	kerosene
+#4	AnnotatorNotes T9	TV channel
+#5	AnnotatorNotes T10	Saturday
+#6	AnnotatorNotes T8	Because
+#7	AnnotatorNotes T11	Warming
+#9	AnnotatorNotes T15	course
+#10	AnnotatorNotes T16	some
+#11	AnnotatorNotes T3	emit
+T17	Word_choice 304 314	some gases
+#12	AnnotatorNotes T17	the fuel
+T18	Prepositions 315 317	to
+#13	AnnotatorNotes T18	in
+#15	AnnotatorNotes T5	majority
+T20	Spelling 620 626	e.t.c.
+#16	AnnotatorNotes T20	etc.
+T21	Absence_explanation 723 759	gases that factories give to the air
+#18	AnnotatorNotes T21	factories' emissions in the air
+T7	lex_item_choice 907 911	left
+#19	AnnotatorNotes T7	dumped
+T22	Agreement_errors 904 906	is
+#20	AnnotatorNotes T22	are
+T23	Articles 978 981	air
+#21	AnnotatorNotes T23	the air
+#23	AnnotatorNotes T13	However,
+T25	Redundant_comp 1502 1505	for
+A1	Delete T25
+T26	Punctuation 1512 1520	Of coure
+#17	AnnotatorNotes T26	Of course,
+T27	Agreement_errors 1555 1561	effect
+#25	AnnotatorNotes T27	effects
+T28	lex_part_choice 1675 1688	attention for
+#26	AnnotatorNotes T28	attention to
+T29	lex_item_choice 200 206	travel
+#27	AnnotatorNotes T29	flights
+T30	Redundant_comp 691 704	in many times
+A3	Delete T30
+T31	Standard 1494 1510	correct for 100%
+T32	note 1693 1694	.
+#29	AnnotatorNotes T32	Berseneva
+T1	lex_part_choice 59 69	reasons of
+#28	AnnotatorNotes T1	reasons for
+T33	Tense_form 221 240	'm totally disagree
+#30	AnnotatorNotes T33	totally disagree
+R1	Dependent_change Arg1:T3 Arg2:T18	
+T35	Determiners 338 340	it
+#31	AnnotatorNotes T35	this
+T36	lex_item_choice 356 363	ecology
+#32	AnnotatorNotes T36	environment
+T37	Articles 375 390	well-known fact
+#33	AnnotatorNotes T37	a well-known fact
+T38	Redundant_comp 502 509	effects
+A2	Delete T38
+T40	Agreement_errors 539 542	are
+#34	AnnotatorNotes T40	is
+R2	Dependent_change Arg1:T38 Arg2:T40	
+T41	Prepositions 571 585	, providing by
+#35	AnnotatorNotes T41	from
+T42	Redundant_comp 598 605	working
+A5	Delete T42
+T43	lex_item_choice 606 618	manifactures
+#36	AnnotatorNotes T43	factories
+T44	Redundant_comp 765 777	they came to
+T45	Articles 879 896	the most of gases
+#38	AnnotatorNotes T45	most gases
+T46	Non_defining 896 903	, which
+#39	AnnotatorNotes T46	which
+T47	Prepositions 982 994	on the level
+#40	AnnotatorNotes T47	at the height
+T48	lex_item_choice 1080 1095	another reasons
+#41	AnnotatorNotes T48	other reasons
+T49	Category_confusion 1126 1136	documental
+#42	AnnotatorNotes T49	documentary
+T12	Redundant_comp 1211 1214	any
+#8	AnnotatorNotes T12	were no words
+T24	Category_confusion 1231 1237	damage
+#22	AnnotatorNotes T24	damaging
+T50	Absence_comp_sent 1303 1307	that
+#43	AnnotatorNotes T50	proving that
+T51	suggestion 1317 1327	reasons of
+T14	Determiners 1373 1382	much cars
+#24	AnnotatorNotes T14	many cars
+T52	Voice 1383 1388	using
+#44	AnnotatorNotes T52	used
+T53	Articles 1425 1440	world's climate
+#45	AnnotatorNotes T53	the world's climate
+#46	AnnotatorNotes T31	100% correct
+T19	Absence_comp_sent 782 792	conclusion
+#14	AnnotatorNotes T19	conclusion is
+R3	Dependent_change Arg1:T44 Arg2:T19	
+A4	Delete T44
+T34	Prepositions 888 890	of
+A6	Delete T34
+T39	Negation 1207 1210	not
+#37	AnnotatorNotes T39	no
+#47	AnnotatorNotes T51	?

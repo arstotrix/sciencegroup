@@ -1,0 +1,57 @@
+T1	Agreement_errors 14 23	visualize
+T4	Redundant_comp 509 513	part
+T5	Spelling 687 691	whew
+T7	Articles 0 13	Given diagram
+#1	AnnotatorNotes T7	The given diagram
+#2	AnnotatorNotes T1	demonstrates
+T8	lex_item_choice 14 23	visualize
+#3	AnnotatorNotes T8	demonstrates
+T9	Absence_explanation 199 206	century
+#4	AnnotatorNotes T9	XXth century
+T10	lex_item_choice 366 373	incline
+#5	AnnotatorNotes T10	increase
+T2	Articles 436 448	a population
+#7	AnnotatorNotes T2	the Japanese population
+T3	Absence_explanation 436 448	a population
+#8	AnnotatorNotes T3	the Japanese population
+T12	Tense_choice 449 457	would be
+#9	AnnotatorNotes T12	is going to be
+T13	Punctuation 482 483	,
+#10	AnnotatorNotes T13	-
+T14	Articles 541 552	bigger part
+#11	AnnotatorNotes T14	a bigger part
+T15	lex_item_choice 556 559	old
+#12	AnnotatorNotes T15	elderly
+T16	Absence_explanation 582 589	century
+#13	AnnotatorNotes T16	XXth century
+T17	Redundant_comp 615 619	even
+A1	Delete T17
+T18	Tense_choice 654 662	would be
+#14	AnnotatorNotes T18	is expected to be
+T19	Tense_choice 696 704	would be
+#15	AnnotatorNotes T19	are going to be
+T6	Word_choice 719 731	Sweden chart
+#16	AnnotatorNotes T6	The graph for Sweden
+T20	Ref_device 751 761	the US one
+#17	AnnotatorNotes T20	that of the USA
+T21	Articles 763 783	only big discrepancy
+#18	AnnotatorNotes T21	the only big discrepancy
+T22	Suffix 866 876	tendention
+#19	AnnotatorNotes T22	tendency
+T23	Articles 882 892	population
+#20	AnnotatorNotes T23	the population
+T24	Redundant_comp 910 920	at a whole
+A2	Delete T24
+T26	Articles 42 52	population
+#21	AnnotatorNotes T26	the population
+T25	Articles 523 526	USA
+#22	AnnotatorNotes T25	The USA
+T27	lex_item_choice 649 653	part
+#23	AnnotatorNotes T27	percentage
+#24	AnnotatorNotes T5	when
+T28	Infinitive_constr 877 903	that population is getting
+#25	AnnotatorNotes T28	for the population to get
+A3	Cause T22 L1_interference
+A4	Cause T13 L1_interference
+T29	Ref_device 669 677	Japanese
+#26	AnnotatorNotes T29	that of the Japanese

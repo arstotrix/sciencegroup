@@ -1,0 +1,41 @@
+T1	Absence_comp_sent 75 103	misbehave a studying process
+A1	Cause T1 L1_interference
+#1	AnnotatorNotes T1	misbehave during the studying process
+T2	Articles 85 86	a
+A2	Cause T2 Absence_of_Category_in_L1
+#2	AnnotatorNotes T2	the
+T3	Spelling 175 178	now
+A3	Cause T3 Typo
+#3	AnnotatorNotes T3	how
+T4	Articles 327 328	a
+A4	Cause T4 Absence_of_Category_in_L1
+#4	AnnotatorNotes T4	the
+T5	Prepositions 709 711	in
+A5	Cause T5 L1_interference
+#5	AnnotatorNotes T5	at
+T6	suggestion 725 731	cancan
+A6	Cause T6 Typo
+#6	AnnotatorNotes T6	can
+T7	Spelling 755 760	cvena
+A7	Cause T7 Typo
+#7	AnnotatorNotes T7	???
+T8	Spelling 766 771	amond
+#8	AnnotatorNotes T8	among
+T9	lex_item_choice 738 750	un pleasance
+A8	Cause T9 L1_interference
+#9	AnnotatorNotes T9	unpleasance/hostility
+T10	suggestion 885 893	satis by
+A9	Cause T10 Typo
+#10	AnnotatorNotes T10	satisfy 
+T11	Articles 1108 1109	a
+A10	Cause T11 Absence_of_Category_in_L1
+#11	AnnotatorNotes T11	the
+T12	Noun_number 939 946	Student
+A11	Cause T12 Other
+#12	AnnotatorNotes T12	Students
+T13	Articles 1374 1375	a
+A12	Cause T13 Absence_of_Category_in_L1
+#13	AnnotatorNotes T13	the
+T14	Absence_explanation 1581 1587	powers
+A13	Cause T14 Other
+#14	AnnotatorNotes T14	???

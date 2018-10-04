@@ -1,0 +1,51 @@
+T1	Spelling 602 611	orginized
+T2	lex_item_choice 906 918	consiousness
+T3	Spelling 924 932	harmfull
+T4	Spelling 1275 1284	tollerant
+T5	Spelling 1377 1383	dicide
+T6	Spelling 1128 1137	everytime
+T7	Redundant_comp 79 88	spreading
+A1	Delete T7
+T8	Redundant_comp 229 234	inner
+A2	Delete T8
+#1	AnnotatorNotes T1	organised
+T9	Often_confused 682 686	it's
+#2	AnnotatorNotes T9	its
+T10	Articles 758 770	the children
+#3	AnnotatorNotes T10	children
+T11	Ref_device 780 782	it
+#4	AnnotatorNotes T11	they
+T12	lex_item_choice 851 857	little
+#5	AnnotatorNotes T12	young
+T13	Determiners 846 861	this little age
+#6	AnnotatorNotes T13	young age
+#7	AnnotatorNotes T2	souls
+#8	AnnotatorNotes T3	harmful
+T14	Non_defining 1009 1015	, that
+#9	AnnotatorNotes T14	, which
+T15	Inappropriate_register 1104 1106	he
+#10	AnnotatorNotes T15	he or she
+#11	AnnotatorNotes T6	every time
+T16	Inappropriate_register 1168 1170	he
+#12	AnnotatorNotes T16	they
+T17	suggestion 1181 1184	his
+#13	AnnotatorNotes T17	their
+R1	Dependent_change Arg1:T16 Arg2:T17	
+#14	AnnotatorNotes T4	tolerant
+T18	lex_item_choice 1300 1308	opposite
+#15	AnnotatorNotes T18	different
+T19	suggestion 1297 1299	an
+#16	AnnotatorNotes T19	a
+R2	Dependent_change Arg1:T18 Arg2:T19	
+#17	AnnotatorNotes T5	decide
+T20	Inappropriate_register 1388 1395	himself
+#18	AnnotatorNotes T20	themselves
+T21	suggestion 1399 1401	he
+#19	AnnotatorNotes T21	they
+R3	Dependent_change Arg1:T20 Arg2:T21	
+T22	Defining 1423 1430	, which
+#20	AnnotatorNotes T22	which
+T23	Redundant_comp 1441 1447	of him
+A3	Delete T23
+T24	Negation 152 165	should not be
+#21	AnnotatorNotes T24	should be no

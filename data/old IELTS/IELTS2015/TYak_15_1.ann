@@ -1,0 +1,27 @@
+T1	Redundant_comp 59 64	there
+A1	Cause T1 Other
+A2	Delete T1
+T2	Tense_choice 390 393	are
+A3	Cause T2 L1_interference
+#1	AnnotatorNotes T2	were
+T3	Articles 532 534	UK
+A4	Cause T3 Absence_of_Category_in_L1
+#2	AnnotatorNotes T3	the UK
+T4	Articles 645 647	UK
+A5	Cause T4 Absence_of_Category_in_L1
+#3	AnnotatorNotes T4	the UK
+T5	Numerals 1095 1103	millions
+A6	Cause T5 L1_interference
+#4	AnnotatorNotes T5	million people
+T6	Absence_comp_sent 1095 1103	millions
+A7	Cause T6 L1_interference
+#5	AnnotatorNotes T6	million people
+T7	Numerals 1235 1243	millions
+A8	Cause T7 L1_interference
+#6	AnnotatorNotes T7	million
+T8	Numerals 1133 1141	millions
+A9	Cause T8 L1_interference
+#7	AnnotatorNotes T8	million
+T9	Tense_choice 440 443	are
+#8	AnnotatorNotes T9	were
+T10	suggestion 314 492	The number of tourists travelling to the UK grew as well, but in 1999 there are only about 28 millions of tourists when there are about 52 millions of english people going abroad

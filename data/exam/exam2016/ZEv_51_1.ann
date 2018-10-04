@@ -1,0 +1,42 @@
+T1	Agreement_errors 11 21	represents
+#1	AnnotatorNotes T1	represent
+T2	lex_item_choice 30 36	amount
+#2	AnnotatorNotes T2	number
+T3	Defining 238 239	,
+A1	Delete T3
+T4	Articles 308 315	numbers
+#3	AnnotatorNotes T4	the number
+T5	Noun_number 314 315	s
+A2	Delete T5
+T6	Often_confused 303 307	then
+#4	AnnotatorNotes T6	than
+T7	Tense_choice 407 422	had not changed
+#5	AnnotatorNotes T7	did not change
+T8	lex_item_choice 474 480	amount
+#6	AnnotatorNotes T8	number
+T9	Numerals 527 535	millions
+#7	AnnotatorNotes T9	million
+T10	Numerals 543 551	millions
+#8	AnnotatorNotes T10	million
+T11	Articles 566 570	same
+#9	AnnotatorNotes T11	the same
+T12	Prepositions 609 611	on
+#10	AnnotatorNotes T12	by
+T13	Numerals 640 648	millions
+#11	AnnotatorNotes T13	million
+T14	Numerals 666 674	millions
+#12	AnnotatorNotes T14	million
+T15	lex_part_choice 739 742	got
+A3	Delete T15
+T16	Punctuation 754 765	for example
+#13	AnnotatorNotes T16	,for example,
+T17	Often_confused 818 822	then
+#14	AnnotatorNotes T17	than
+T18	Numerals 851 859	millions
+#15	AnnotatorNotes T18	million
+T19	Spelling 884 897	globalisation
+#16	AnnotatorNotes T19	globalization
+T20	lex_part_choice 948 959	aggregative
+#17	AnnotatorNotes T20	common
+T21	Articles 948 959	aggregative
+#18	AnnotatorNotes T21	a common

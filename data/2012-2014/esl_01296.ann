@@ -1,0 +1,810 @@
+T1	Absence_comp_sent 127 129	by
+#1	AnnotatorNotes T1	worn by
+T2	Spelling 184 192	thursday
+#2	AnnotatorNotes T2	Thursday
+T3	Spelling 193 209	the 18 september
+#3	AnnotatorNotes T3	September 18
+T4	lex_item_choice 166 175	mentioned
+#4	AnnotatorNotes T4	informed us
+T5	Inappropriate_register 314 321	Whereat
+#5	AnnotatorNotes T5	At that
+T6	Articles 344 347	the
+A1	Delete T6
+T7	Absence_explanation 341 343	if
+#6	AnnotatorNotes T7	whether or not
+T8	Often_confused 483 487	it’s
+#7	AnnotatorNotes T8	its
+T9	Often_confused 500 504	it’s
+#8	AnnotatorNotes T9	its
+T10	Often_confused 523 527	it’s
+#9	AnnotatorNotes T10	its
+T11	Articles 674 677	The
+A2	Delete T11
+T12	Spelling 950 951	i
+#10	AnnotatorNotes T12	I
+T13	Tense_form 952 963	didn’t knew
+#11	AnnotatorNotes T13	didn't know
+T14	Articles 996 1004	narrator
+#12	AnnotatorNotes T14	the narrator
+T15	Tense_choice 1040 1049	coexisted
+#13	AnnotatorNotes T15	had coexisted
+T16	Redundant_comp 1050 1058	together
+A3	Delete T16
+T17	Non_defining 1087 1091	1707
+#14	AnnotatorNotes T17	, which
+T18	Spelling 1098 1102	maid
+#15	AnnotatorNotes T18	made
+T19	Spelling 1227 1235	the 1970
+#16	AnnotatorNotes T19	1970 OR the 1970s
+T20	Punctuation 1452 1453	:
+#17	AnnotatorNotes T20	,
+T21	Punctuation 1498 1500	up
+#18	AnnotatorNotes T21	up,
+T22	lex_item_choice 1555 1563	wondered
+#19	AnnotatorNotes T22	was amazed
+T23	Standard 1897 1911	would Scotland
+#20	AnnotatorNotes T23	Scotland would
+T24	Absence_comp_colloc 1915 1921	better
+#21	AnnotatorNotes T24	better off
+T25	Word_order 1889 1954	whether would Scotland be better as an independent country or not
+#22	AnnotatorNotes T25	whether or not Scotland would be better off as an independent country
+T26	Punctuation 1973 1974	:
+#23	AnnotatorNotes T26	, 
+T27	note 1989 1990	.
+#24	AnnotatorNotes T27	Brilliant reporting in spite of some inaccuracies - the grade is 10.
+T28	pos_TO 0 2	To
+#25	AnnotatorNotes T28	lemma = 'to'
+T29	pos_VB 3 8	begin
+#26	AnnotatorNotes T29	lemma = 'begin'
+T30	pos_IN 9 13	with
+#27	AnnotatorNotes T30	lemma = 'with'
+T31	pos_Fc 13 14	,
+#28	AnnotatorNotes T31	lemma = ','
+T32	pos_DT 14 15	a
+#29	AnnotatorNotes T32	lemma = 'a'
+T33	pos_NN 16 24	narrator
+#30	AnnotatorNotes T33	lemma = 'narrator'
+T34	pos_VBD 25 33	reminded
+#31	AnnotatorNotes T34	lemma = 'remind'
+T35	pos_IN 34 38	that
+#32	AnnotatorNotes T35	lemma = 'that'
+T36	pos_NP 39 47	Scotland
+#33	AnnotatorNotes T36	lemma = 'scotland'
+T37	pos_VBZ 48 50	is
+#34	AnnotatorNotes T37	lemma = 'be'
+T38	pos_VBN 51 58	located
+#35	AnnotatorNotes T38	lemma = 'locate'
+T39	pos_IN 59 61	at
+#36	AnnotatorNotes T39	lemma = 'at'
+T40	pos_DT 62 65	the
+#37	AnnotatorNotes T40	lemma = 'the'
+T41	pos_NN 66 69	top
+#38	AnnotatorNotes T41	lemma = 'top'
+T42	pos_IN 70 72	of
+#39	AnnotatorNotes T42	lemma = 'of'
+T43	pos_DT 73 76	the
+#40	AnnotatorNotes T43	lemma = 'the'
+T44	pos_NN 77 83	island
+#41	AnnotatorNotes T44	lemma = 'island'
+T45	pos_IN 84 86	of
+#42	AnnotatorNotes T45	lemma = 'of'
+T46	pos_NP 87 100	Great Britain
+#43	AnnotatorNotes T46	lemma = 'great_britain'
+T47	pos_Fc 100 101	,
+#44	AnnotatorNotes T47	lemma = ','
+T48	pos_VBG 102 112	resembling
+#45	AnnotatorNotes T48	lemma = 'resemble'
+T49	pos_DT 113 116	the
+#46	AnnotatorNotes T49	lemma = 'the'
+T50	pos_JJ 117 122	crazy
+#47	AnnotatorNotes T50	lemma = 'crazy'
+T51	pos_NN 123 126	hat
+#48	AnnotatorNotes T51	lemma = 'hat'
+T52	pos_IN 127 129	by
+#49	AnnotatorNotes T52	lemma = 'by'
+T53	pos_DT 130 133	the
+#50	AnnotatorNotes T53	lemma = 'the'
+T54	pos_VBN 134 141	bearded
+#51	AnnotatorNotes T54	lemma = 'beard'
+T55	pos_VBG 142 150	laughing
+#52	AnnotatorNotes T55	lemma = 'laugh'
+T56	pos_NN 151 156	troll
+#53	AnnotatorNotes T56	lemma = 'troll'
+T57	pos_Fp 156 157	.
+#54	AnnotatorNotes T57	lemma = '.'
+T58	pos_PRP 158 160	He
+#55	AnnotatorNotes T58	lemma = 'he'
+T59	pos_RB 161 165	also
+#56	AnnotatorNotes T59	lemma = 'also'
+T60	pos_VBN 166 175	mentioned
+#57	AnnotatorNotes T60	lemma = 'mention'
+T61	pos_IN 176 180	that
+#58	AnnotatorNotes T61	lemma = 'that'
+T62	pos_IN 181 183	on
+#59	AnnotatorNotes T62	lemma = 'on'
+T63	pos_W 184 209	thursday the 18 september
+#60	AnnotatorNotes T63	lemma = '[J:-1/9/??:??.??:??]'
+T64	pos_DT 210 213	the
+#61	AnnotatorNotes T64	lemma = 'the'
+T65	pos_NNS 214 220	people
+#62	AnnotatorNotes T65	lemma = 'people'
+T66	pos_IN 221 223	of
+#63	AnnotatorNotes T66	lemma = 'of'
+T67	pos_NP 224 232	Scotland
+#64	AnnotatorNotes T67	lemma = 'scotland'
+T68	pos_MD 233 238	would
+#65	AnnotatorNotes T68	lemma = 'would'
+T69	pos_VB 239 243	vote
+#66	AnnotatorNotes T69	lemma = 'vote'
+T70	pos_TO 244 246	to
+#67	AnnotatorNotes T70	lemma = 'to'
+T71	pos_VB 247 253	decide
+#68	AnnotatorNotes T71	lemma = 'decide'
+T72	pos_IN 254 261	whether
+#69	AnnotatorNotes T72	lemma = 'whether'
+T73	pos_CC 262 264	or
+#70	AnnotatorNotes T73	lemma = 'or'
+T74	pos_RB 265 268	not
+#71	AnnotatorNotes T74	lemma = 'not'
+T75	pos_PRP 269 271	it
+#72	AnnotatorNotes T75	lemma = 'it'
+T76	pos_MD 272 277	would
+#73	AnnotatorNotes T76	lemma = 'would'
+T77	pos_VB 278 284	become
+#74	AnnotatorNotes T77	lemma = 'become'
+T78	pos_DT 285 286	a
+#75	AnnotatorNotes T78	lemma = 'a'
+T79	pos_NN 287 294	country
+#76	AnnotatorNotes T79	lemma = 'country'
+T80	pos_IN 295 297	on
+#77	AnnotatorNotes T80	lemma = 'on'
+T81	pos_PRP2 298 301	its
+#78	AnnotatorNotes T81	lemma = 'its'
+T82	pos_JJ 302 305	own
+#79	AnnotatorNotes T82	lemma = 'own'
+T83	pos_NNS 306 312	rights
+#80	AnnotatorNotes T83	lemma = 'right'
+T84	pos_Fp 312 313	.
+#81	AnnotatorNotes T84	lemma = '.'
+T85	pos_RB 314 321	Whereat
+#82	AnnotatorNotes T85	lemma = 'whereat'
+T86	pos_DT 322 325	the
+#83	AnnotatorNotes T86	lemma = 'the'
+T87	pos_NN 326 334	narrator
+#84	AnnotatorNotes T87	lemma = 'narrator'
+T88	pos_VBD 335 340	asked
+#85	AnnotatorNotes T88	lemma = 'ask'
+T89	pos_IN 341 343	if
+#86	AnnotatorNotes T89	lemma = 'if'
+T90	pos_DT 344 347	the
+#87	AnnotatorNotes T90	lemma = 'the'
+T91	pos_NP 348 356	Scotland
+#88	AnnotatorNotes T91	lemma = 'scotland'
+T92	pos_VBZ 357 359	is
+#89	AnnotatorNotes T92	lemma = 'be'
+T93	pos_RB 360 367	already
+#90	AnnotatorNotes T93	lemma = 'already'
+T94	pos_DT 368 369	a
+#91	AnnotatorNotes T94	lemma = 'a'
+T95	pos_NN 370 377	country
+#92	AnnotatorNotes T95	lemma = 'country'
+T96	pos_Fp 377 378	.
+#93	AnnotatorNotes T96	lemma = '.'
+T97	pos_PRP 379 381	He
+#94	AnnotatorNotes T97	lemma = 'he'
+T98	pos_VBD 382 386	told
+#95	AnnotatorNotes T98	lemma = 'tell'
+T99	pos_IN 387 391	that
+#96	AnnotatorNotes T99	lemma = 'that'
+T100	pos_RB 392 403	technically
+#97	AnnotatorNotes T100	lemma = 'technically'
+T101	pos_NP 404 412	Scotland
+#98	AnnotatorNotes T101	lemma = 'scotland'
+T102	pos_VBZ 413 415	is
+#99	AnnotatorNotes T102	lemma = 'be'
+T103	pos_DT 416 417	a
+#100	AnnotatorNotes T103	lemma = 'a'
+T104	pos_NN 418 425	country
+#101	AnnotatorNotes T104	lemma = 'country'
+T105	pos_IN 426 432	within
+#102	AnnotatorNotes T105	lemma = 'within'
+T106	pos_DT 433 434	a
+#103	AnnotatorNotes T106	lemma = 'a'
+T107	pos_NN 435 442	country
+#104	AnnotatorNotes T107	lemma = 'country'
+T108	pos_Fp 442 443	.
+#105	AnnotatorNotes T108	lemma = '.'
+T109	pos_DT 444 447	The
+#106	AnnotatorNotes T109	lemma = 'the'
+T110	pos_NN 448 455	speaker
+#107	AnnotatorNotes T110	lemma = 'speaker'
+T111	pos_VBN 456 464	admitted
+#108	AnnotatorNotes T111	lemma = 'admit'
+T112	pos_IN 465 469	that
+#109	AnnotatorNotes T112	lemma = 'that'
+T113	pos_NP 470 478	Scotland
+#110	AnnotatorNotes T113	lemma = 'scotland'
+T114	pos_VBZ 479 482	has
+#111	AnnotatorNotes T114	lemma = 'have'
+T115	pos_PRP 483 485	it
+#112	AnnotatorNotes T115	lemma = 'it'
+T116	pos_Fw 485 486	’
+#113	AnnotatorNotes T116	lemma = '’'
+T117	pos_NNS 486 487	s
+#114	AnnotatorNotes T117	lemma = 's'
+T118	pos_JJ 488 491	own
+#115	AnnotatorNotes T118	lemma = 'own'
+T119	pos_NN 492 498	church
+#116	AnnotatorNotes T119	lemma = 'church'
+T120	pos_Fc 498 499	,
+#117	AnnotatorNotes T120	lemma = ','
+T121	pos_PRP 500 502	it
+#118	AnnotatorNotes T121	lemma = 'it'
+T122	pos_Fw 502 503	’
+#119	AnnotatorNotes T122	lemma = '’'
+T123	pos_VBZ 503 504	s
+#120	AnnotatorNotes T123	lemma = 's'
+T124	pos_JJ 505 508	own
+#121	AnnotatorNotes T124	lemma = 'own'
+T125	pos_JJ 509 514	legal
+#122	AnnotatorNotes T125	lemma = 'legal'
+T126	pos_NN 515 521	system
+#123	AnnotatorNotes T126	lemma = 'system'
+T127	pos_Fc 521 522	,
+#124	AnnotatorNotes T127	lemma = ','
+T128	pos_PRP 523 525	it
+#125	AnnotatorNotes T128	lemma = 'it'
+T129	pos_Fw 525 526	’
+#126	AnnotatorNotes T129	lemma = '’'
+T130	pos_VBZ 526 527	s
+#127	AnnotatorNotes T130	lemma = 's'
+T131	pos_JJ 528 531	own
+#128	AnnotatorNotes T131	lemma = 'own'
+T132	pos_JJ 532 544	professional
+#129	AnnotatorNotes T132	lemma = 'professional'
+T133	pos_NN 545 554	sacrilege
+#130	AnnotatorNotes T133	lemma = 'sacrilege'
+T134	pos_CC 555 558	and
+#131	AnnotatorNotes T134	lemma = 'and'
+T135	pos_RB 559 564	so on
+#132	AnnotatorNotes T135	lemma = 'so_on'
+T136	pos_Fc 564 565	,
+#133	AnnotatorNotes T136	lemma = ','
+T137	pos_CC 566 569	but
+#134	AnnotatorNotes T137	lemma = 'but'
+T138	pos_PRP 570 572	it
+#135	AnnotatorNotes T138	lemma = 'it'
+T139	pos_VBZ 573 575	is
+#136	AnnotatorNotes T139	lemma = 'be'
+T140	pos_RB 576 581	still
+#137	AnnotatorNotes T140	lemma = 'still'
+T141	pos_DT 582 583	a
+#138	AnnotatorNotes T141	lemma = 'a'
+T142	pos_NN 584 588	part
+#139	AnnotatorNotes T142	lemma = 'part'
+T143	pos_IN 589 591	of
+#140	AnnotatorNotes T143	lemma = 'of'
+T144	pos_DT 592 595	the
+#141	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NP 596 598	UK
+#142	AnnotatorNotes T145	lemma = 'uk'
+T146	pos_Fc 598 599	,
+#143	AnnotatorNotes T146	lemma = ','
+T147	pos_WDT 600 605	which
+#144	AnnotatorNotes T147	lemma = 'which'
+T148	pos_RB 606 610	also
+#145	AnnotatorNotes T148	lemma = 'also'
+T149	pos_VBZ 611 619	includes
+#146	AnnotatorNotes T149	lemma = 'include'
+T150	pos_NP 620 627	England
+#147	AnnotatorNotes T150	lemma = 'england'
+T151	pos_Fc 627 628	,
+#148	AnnotatorNotes T151	lemma = ','
+T152	pos_NP 629 634	Wales
+#149	AnnotatorNotes T152	lemma = 'wales'
+T153	pos_CC 635 638	and
+#150	AnnotatorNotes T153	lemma = 'and'
+T154	pos_NP 639 655	Northern Ireland
+#151	AnnotatorNotes T154	lemma = 'northern_ireland'
+T155	pos_Fp 655 656	.
+#152	AnnotatorNotes T155	lemma = '.'
+T156	pos_PRP 657 659	He
+#153	AnnotatorNotes T156	lemma = 'he'
+T157	pos_VBD 660 668	remarked
+#154	AnnotatorNotes T157	lemma = 'remark'
+T158	pos_IN 669 673	that
+#155	AnnotatorNotes T158	lemma = 'that'
+T159	pos_NP 674 686	The Scotland
+#156	AnnotatorNotes T159	lemma = 'the_scotland'
+T160	pos_VBD 687 690	did
+#157	AnnotatorNotes T160	lemma = 'do'
+T161	pos_VBN 691 695	used
+#158	AnnotatorNotes T161	lemma = 'use'
+T162	pos_TO 696 698	to
+#159	AnnotatorNotes T162	lemma = 'to'
+T163	pos_VB 699 701	be
+#160	AnnotatorNotes T163	lemma = 'be'
+T164	pos_DT 702 703	a
+#161	AnnotatorNotes T164	lemma = 'a'
+T165	pos_JJ 704 712	separate
+#162	AnnotatorNotes T165	lemma = 'separate'
+T166	pos_NN 713 720	country
+#163	AnnotatorNotes T166	lemma = 'country'
+T167	pos_IN 721 725	with
+#164	AnnotatorNotes T167	lemma = 'with'
+T168	pos_PRP2 726 729	its
+#165	AnnotatorNotes T168	lemma = 'its'
+T169	pos_JJ 730 733	own
+#166	AnnotatorNotes T169	lemma = 'own'
+T170	pos_NN 734 738	king
+#167	AnnotatorNotes T170	lemma = 'king'
+T171	pos_Fg 738 739	-
+#168	AnnotatorNotes T171	lemma = '-'
+T172	pos_NP 740 752	James the Vl
+#169	AnnotatorNotes T172	lemma = 'james_the_vl'
+T173	pos_Fc 752 753	,
+#170	AnnotatorNotes T173	lemma = ','
+T174	pos_CC 754 757	but
+#171	AnnotatorNotes T174	lemma = 'but'
+T175	pos_IN 758 760	in
+#172	AnnotatorNotes T175	lemma = 'in'
+T176	pos_W 761 765	1603
+#173	AnnotatorNotes T176	lemma = '[??:??/??/1603:??.??:??]'
+T177	pos_NN 766 771	queen
+#174	AnnotatorNotes T177	lemma = 'queen'
+T178	pos_NP 772 781	Elizabeth
+#175	AnnotatorNotes T178	lemma = 'elizabeth'
+T179	pos_DT 782 785	the
+#176	AnnotatorNotes T179	lemma = 'the'
+T180	pos_JJ 786 789	1st
+#177	AnnotatorNotes T180	lemma = '1'
+T181	pos_VBN 790 794	died
+#178	AnnotatorNotes T181	lemma = 'die'
+T182	pos_IN 795 802	without
+#179	AnnotatorNotes T182	lemma = 'without'
+T183	pos_VBG 803 809	living
+#180	AnnotatorNotes T183	lemma = 'live'
+T184	pos_DT 810 812	an
+#181	AnnotatorNotes T184	lemma = 'a'
+T185	pos_NN 813 817	heir
+#182	AnnotatorNotes T185	lemma = 'heir'
+T186	pos_Fc 817 818	,
+#183	AnnotatorNotes T186	lemma = ','
+T187	pos_CC 819 822	and
+#184	AnnotatorNotes T187	lemma = 'and'
+T188	pos_IN 823 827	that
+#185	AnnotatorNotes T188	lemma = 'that'
+T189	pos_Fw 827 828	’
+#186	AnnotatorNotes T189	lemma = '’'
+T190	pos_NNS 828 829	s
+#187	AnnotatorNotes T190	lemma = 's'
+T191	pos_WRB 830 833	how
+#188	AnnotatorNotes T191	lemma = 'how'
+T192	pos_NP 834 846	James the Vl
+#189	AnnotatorNotes T192	lemma = 'james_the_vl'
+T193	pos_Fc 846 847	,
+#190	AnnotatorNotes T193	lemma = ','
+T194	pos_PRP2 848 851	her
+#191	AnnotatorNotes T194	lemma = 'her'
+T195	pos_RBS 852 859	nearest
+#192	AnnotatorNotes T195	lemma = 'near'
+T196	pos_JJ 860 868	relative
+#193	AnnotatorNotes T196	lemma = 'relative'
+T197	pos_Fc 868 869	,
+#194	AnnotatorNotes T197	lemma = ','
+T198	pos_VBD 870 876	became
+#195	AnnotatorNotes T198	lemma = 'become'
+T199	pos_NP 877 882	James
+#196	AnnotatorNotes T199	lemma = 'james'
+T200	pos_DT 883 886	the
+#197	AnnotatorNotes T200	lemma = 'the'
+T201	pos_JJ 887 890	1st
+#198	AnnotatorNotes T201	lemma = '1'
+T202	pos_IN 891 893	of
+#199	AnnotatorNotes T202	lemma = 'of'
+T203	pos_NP 894 901	England
+#200	AnnotatorNotes T203	lemma = 'england'
+T204	pos_Fg 901 902	-
+#201	AnnotatorNotes T204	lemma = '-'
+T205	pos_DT 903 907	this
+#202	AnnotatorNotes T205	lemma = 'this'
+T206	pos_NN 908 912	fact
+#203	AnnotatorNotes T206	lemma = 'fact'
+T207	pos_VBD 913 916	was
+#204	AnnotatorNotes T207	lemma = 'be'
+T208	pos_RB 917 922	quite
+#205	AnnotatorNotes T208	lemma = 'quite'
+T209	pos_VBG 923 934	interesting
+#206	AnnotatorNotes T209	lemma = 'interest'
+T210	pos_TO 935 937	to
+#207	AnnotatorNotes T210	lemma = 'to'
+T211	pos_PRP 938 940	me
+#208	AnnotatorNotes T211	lemma = 'me'
+T212	pos_Fc 940 941	,
+#209	AnnotatorNotes T212	lemma = ','
+T213	pos_IN 942 949	because
+#210	AnnotatorNotes T213	lemma = 'because'
+T214	pos_PRP 950 951	i
+#211	AnnotatorNotes T214	lemma = 'i'
+T215	pos_VBD 952 956	didn
+#212	AnnotatorNotes T215	lemma = 'didn'
+T216	pos_Fw 956 957	’
+#213	AnnotatorNotes T216	lemma = '’'
+T217	pos_NN 957 958	t
+#214	AnnotatorNotes T217	lemma = 't'
+T218	pos_VBD 959 963	knew
+#215	AnnotatorNotes T218	lemma = 'know'
+T219	pos_IN 964 969	about
+#216	AnnotatorNotes T219	lemma = 'about'
+T220	pos_PRP 970 972	it
+#217	AnnotatorNotes T220	lemma = 'it'
+T221	pos_IN 973 979	before
+#218	AnnotatorNotes T221	lemma = 'before'
+T222	pos_Fp 979 980	.
+#219	AnnotatorNotes T222	lemma = '.'
+T223	pos_RB 981 983	So
+#220	AnnotatorNotes T223	lemma = 'so'
+T224	pos_Fc 983 984	,
+#221	AnnotatorNotes T224	lemma = ','
+T225	pos_IN 985 990	after
+#222	AnnotatorNotes T225	lemma = 'after'
+T226	pos_DT 991 995	that
+#223	AnnotatorNotes T226	lemma = 'that'
+T227	pos_NN 996 1004	narrator
+#224	AnnotatorNotes T227	lemma = 'narrator'
+T228	pos_VBD 1005 1013	reported
+#225	AnnotatorNotes T228	lemma = 'report'
+T229	pos_IN 1014 1018	that
+#226	AnnotatorNotes T229	lemma = 'that'
+T230	pos_NP 1019 1026	England
+#227	AnnotatorNotes T230	lemma = 'england'
+T231	pos_CC 1027 1030	and
+#228	AnnotatorNotes T231	lemma = 'and'
+T232	pos_NP 1031 1039	Scotland
+#229	AnnotatorNotes T232	lemma = 'scotland'
+T233	pos_VBD 1040 1049	coexisted
+#230	AnnotatorNotes T233	lemma = 'coexist'
+T234	pos_RP 1050 1058	together
+#231	AnnotatorNotes T234	lemma = 'together'
+T235	pos_IN 1059 1065	before
+#232	AnnotatorNotes T235	lemma = 'before'
+T236	pos_DT 1066 1069	the
+#233	AnnotatorNotes T236	lemma = 'the'
+T237	pos_NNS 1070 1074	acts
+#234	AnnotatorNotes T237	lemma = 'act'
+T238	pos_IN 1075 1077	of
+#235	AnnotatorNotes T238	lemma = 'of'
+T239	pos_NN 1078 1083	union
+#236	AnnotatorNotes T239	lemma = 'union'
+T240	pos_IN 1084 1086	in
+#237	AnnotatorNotes T240	lemma = 'in'
+T241	pos_W 1087 1091	1707
+#238	AnnotatorNotes T241	lemma = '[??:??/??/1707:??.??:??]'
+T242	pos_WDT 1092 1097	which
+#239	AnnotatorNotes T242	lemma = 'which'
+T243	pos_NN 1098 1102	maid
+#240	AnnotatorNotes T243	lemma = 'maid'
+T244	pos_DT 1103 1106	the
+#241	AnnotatorNotes T244	lemma = 'the'
+T245	pos_Z 1107 1110	two
+#242	AnnotatorNotes T245	lemma = '2'
+T246	pos_NNS 1111 1118	nations
+#243	AnnotatorNotes T246	lemma = 'nation'
+T247	pos_DT 1119 1120	a
+#244	AnnotatorNotes T247	lemma = 'a'
+T248	pos_JJ 1121 1127	single
+#245	AnnotatorNotes T248	lemma = 'single'
+T249	pos_NN 1128 1134	entity
+#246	AnnotatorNotes T249	lemma = 'entity'
+T250	pos_IN 1135 1139	with
+#247	AnnotatorNotes T250	lemma = 'with'
+T251	pos_DT 1140 1143	one
+#248	AnnotatorNotes T251	lemma = 'one'
+T252	pos_NN 1144 1154	parliament
+#249	AnnotatorNotes T252	lemma = 'parliament'
+T253	pos_VBN 1155 1162	located
+#250	AnnotatorNotes T253	lemma = 'locate'
+T254	pos_IN 1163 1165	in
+#251	AnnotatorNotes T254	lemma = 'in'
+T255	pos_NP 1166 1172	London
+#252	AnnotatorNotes T255	lemma = 'london'
+T256	pos_Fp 1172 1173	.
+#253	AnnotatorNotes T256	lemma = '.'
+T257	pos_IN 1174 1179	After
+#254	AnnotatorNotes T257	lemma = 'after'
+T258	pos_DT 1180 1181	a
+#255	AnnotatorNotes T258	lemma = 'a'
+T259	pos_JJ 1182 1187	small
+#256	AnnotatorNotes T259	lemma = 'small'
+T260	pos_JJ 1188 1195	musical
+#257	AnnotatorNotes T260	lemma = 'musical'
+T261	pos_NN 1196 1201	pause
+#258	AnnotatorNotes T261	lemma = 'pause'
+T262	pos_DT 1202 1205	the
+#259	AnnotatorNotes T262	lemma = 'the'
+T263	pos_NN 1206 1213	speaker
+#260	AnnotatorNotes T263	lemma = 'speaker'
+T264	pos_VBD 1214 1218	said
+#261	AnnotatorNotes T264	lemma = 'say'
+T265	pos_IN 1219 1223	that
+#262	AnnotatorNotes T265	lemma = 'that'
+T266	pos_IN 1224 1226	in
+#263	AnnotatorNotes T266	lemma = 'in'
+T267	pos_W 1227 1235	the 1970
+#264	AnnotatorNotes T267	lemma = '[??:??/??/1970:??.??:??]'
+T268	pos_NN 1236 1247	speculation
+#265	AnnotatorNotes T268	lemma = 'speculation'
+T269	pos_IN 1248 1253	about
+#266	AnnotatorNotes T269	lemma = 'about'
+T270	pos_NN 1254 1264	devolution
+#267	AnnotatorNotes T270	lemma = 'devolution'
+T271	pos_Fc 1264 1265	,
+#268	AnnotatorNotes T271	lemma = ','
+T272	pos_DT 1266 1269	the
+#269	AnnotatorNotes T272	lemma = 'the'
+T273	pos_NN 1270 1276	notion
+#270	AnnotatorNotes T273	lemma = 'notion'
+T274	pos_IN 1277 1279	of
+#271	AnnotatorNotes T274	lemma = 'of'
+T275	pos_VBG 1280 1289	returning
+#272	AnnotatorNotes T275	lemma = 'return'
+T276	pos_DT 1290 1293	the
+#273	AnnotatorNotes T276	lemma = 'the'
+T277	pos_NN 1294 1301	measure
+#274	AnnotatorNotes T277	lemma = 'measure'
+T278	pos_IN 1302 1304	of
+#275	AnnotatorNotes T278	lemma = 'of'
+T279	pos_NN 1305 1310	power
+#276	AnnotatorNotes T279	lemma = 'power'
+T280	pos_TO 1311 1313	to
+#277	AnnotatorNotes T280	lemma = 'to'
+T281	pos_DT 1314 1317	the
+#278	AnnotatorNotes T281	lemma = 'the'
+T282	pos_NP 1318 1326	Scottish
+#279	AnnotatorNotes T282	lemma = 'scottish'
+T283	pos_NN 1327 1337	government
+#280	AnnotatorNotes T283	lemma = 'government'
+T284	pos_Fc 1337 1338	,
+#281	AnnotatorNotes T284	lemma = ','
+T285	pos_VBD 1339 1346	outgrew
+#282	AnnotatorNotes T285	lemma = 'outgrow'
+T286	pos_IN 1347 1351	into
+#283	AnnotatorNotes T286	lemma = 'into'
+T287	pos_DT 1352 1355	the
+#284	AnnotatorNotes T287	lemma = 'the'
+T288	pos_NP 1356 1368	West Lothian
+#285	AnnotatorNotes T288	lemma = 'west_lothian'
+T289	pos_NN 1369 1377	question
+#286	AnnotatorNotes T289	lemma = 'question'
+T290	pos_Fp 1377 1378	.
+#287	AnnotatorNotes T290	lemma = '.'
+T291	pos_PRP 1379 1381	He
+#288	AnnotatorNotes T291	lemma = 'he'
+T292	pos_VBD 1382 1387	joked
+#289	AnnotatorNotes T292	lemma = 'joke'
+T293	pos_IN 1388 1392	that
+#290	AnnotatorNotes T293	lemma = 'that'
+T294	pos_IN 1393 1396	for
+#291	AnnotatorNotes T294	lemma = 'for'
+T295	pos_RBS 1397 1401	most
+#292	AnnotatorNotes T295	lemma = 'many'
+T296	pos_NNS 1402 1408	people
+#293	AnnotatorNotes T296	lemma = 'people'
+T297	pos_IN 1409 1411	in
+#294	AnnotatorNotes T297	lemma = 'in'
+T298	pos_DT 1412 1415	the
+#295	AnnotatorNotes T298	lemma = 'the'
+T299	pos_NP 1416 1418	UK
+#296	AnnotatorNotes T299	lemma = 'uk'
+T300	pos_DT 1419 1422	the
+#297	AnnotatorNotes T300	lemma = 'the'
+T301	pos_JJ 1423 1427	real
+#298	AnnotatorNotes T301	lemma = 'real'
+T302	pos_NP 1428 1440	West Lothian
+#299	AnnotatorNotes T302	lemma = 'west_lothian'
+T303	pos_NN 1441 1449	question
+#300	AnnotatorNotes T303	lemma = 'question'
+T304	pos_VBZ 1450 1452	is
+#301	AnnotatorNotes T304	lemma = 'be'
+T305	pos_Fd 1452 1453	:
+#302	AnnotatorNotes T305	lemma = ':'
+T306	pos_Fw 1454 1455	«
+#303	AnnotatorNotes T306	lemma = '«'
+T307	pos_WP 1455 1459	What
+#304	AnnotatorNotes T307	lemma = 'what'
+T308	pos_VBZ 1460 1462	is
+#305	AnnotatorNotes T308	lemma = 'be'
+T309	pos_DT 1463 1466	the
+#306	AnnotatorNotes T309	lemma = 'the'
+T310	pos_NP 1467 1479	West Lothian
+#307	AnnotatorNotes T310	lemma = 'west_lothian'
+T311	pos_NN 1480 1488	question
+#308	AnnotatorNotes T311	lemma = 'question'
+T312	pos_Fit 1488 1489	?
+#309	AnnotatorNotes T312	lemma = '?'
+T313	pos_Fw 1489 1490	»
+#310	AnnotatorNotes T313	lemma = '»'
+T314	pos_TO 1491 1493	To
+#311	AnnotatorNotes T314	lemma = 'to'
+T315	pos_VB 1494 1497	sum
+#312	AnnotatorNotes T315	lemma = 'sum'
+T316	pos_RP 1498 1500	up
+#313	AnnotatorNotes T316	lemma = 'up'
+T317	pos_IN 1501 1505	with
+#314	AnnotatorNotes T317	lemma = 'with'
+T318	pos_DT 1506 1509	the
+#315	AnnotatorNotes T318	lemma = 'the'
+T319	pos_NN 1510 1515	issue
+#316	AnnotatorNotes T319	lemma = 'issue'
+T320	pos_IN 1516 1518	of
+#317	AnnotatorNotes T320	lemma = 'of'
+T321	pos_DT 1519 1522	the
+#318	AnnotatorNotes T321	lemma = 'the'
+T322	pos_NP 1523 1544	West Lothian Question
+#319	AnnotatorNotes T322	lemma = 'west_lothian_question'
+T323	pos_PRP 1545 1554	everybody
+#320	AnnotatorNotes T323	lemma = 'everybody'
+T324	pos_VBD 1555 1563	wondered
+#321	AnnotatorNotes T324	lemma = 'wonder'
+T325	pos_IN 1564 1568	that
+#322	AnnotatorNotes T325	lemma = 'that'
+T326	pos_NP 1569 1577	Scotland
+#323	AnnotatorNotes T326	lemma = 'scotland'
+T327	pos_MD 1578 1583	could
+#324	AnnotatorNotes T327	lemma = 'can'
+T328	pos_VB 1584 1588	vote
+#325	AnnotatorNotes T328	lemma = 'vote'
+T329	pos_IN 1589 1591	on
+#326	AnnotatorNotes T329	lemma = 'on'
+T330	pos_NNS 1592 1596	laws
+#327	AnnotatorNotes T330	lemma = 'law'
+T331	pos_WDT 1597 1601	that
+#328	AnnotatorNotes T331	lemma = 'that'
+T332	pos_VBD 1602 1610	affected
+#329	AnnotatorNotes T332	lemma = 'affect'
+T333	pos_JJ 1611 1615	only
+#330	AnnotatorNotes T333	lemma = 'only'
+T334	pos_NP 1616 1623	England
+#331	AnnotatorNotes T334	lemma = 'england'
+T335	pos_CC 1624 1627	and
+#332	AnnotatorNotes T335	lemma = 'and'
+T336	pos_VBD 1628 1631	had
+#333	AnnotatorNotes T336	lemma = 'have'
+T337	pos_DT 1632 1634	no
+#334	AnnotatorNotes T337	lemma = 'no'
+T338	pos_NN 1635 1639	vote
+#335	AnnotatorNotes T338	lemma = 'vote'
+T339	pos_IN 1640 1642	on
+#336	AnnotatorNotes T339	lemma = 'on'
+T340	pos_NNS 1643 1650	matters
+#337	AnnotatorNotes T340	lemma = 'matter'
+T341	pos_WDT 1651 1655	that
+#338	AnnotatorNotes T341	lemma = 'that'
+T342	pos_VBD 1656 1664	affected
+#339	AnnotatorNotes T342	lemma = 'affect'
+T343	pos_NP 1665 1673	Scotland
+#340	AnnotatorNotes T343	lemma = 'scotland'
+T344	pos_Fp 1673 1674	.
+#341	AnnotatorNotes T344	lemma = '.'
+T345	pos_DT 1675 1678	The
+#342	AnnotatorNotes T345	lemma = 'the'
+T346	pos_NN 1679 1687	narrator
+#343	AnnotatorNotes T346	lemma = 'narrator'
+T347	pos_VBN 1688 1694	stated
+#344	AnnotatorNotes T347	lemma = 'state'
+T348	pos_IN 1695 1699	that
+#345	AnnotatorNotes T348	lemma = 'that'
+T349	pos_IN 1700 1705	after
+#346	AnnotatorNotes T349	lemma = 'after'
+T350	pos_NN 1706 1716	referendum
+#347	AnnotatorNotes T350	lemma = 'referendum'
+T351	pos_IN 1717 1719	on
+#348	AnnotatorNotes T351	lemma = 'on'
+T352	pos_NN 1720 1730	devolution
+#349	AnnotatorNotes T352	lemma = 'devolution'
+T353	pos_PRP 1731 1735	they
+#350	AnnotatorNotes T353	lemma = 'they'
+T354	pos_VBD 1736 1739	did
+#351	AnnotatorNotes T354	lemma = 'do'
+T355	pos_VBN 1740 1743	set
+#352	AnnotatorNotes T355	lemma = 'set'
+T356	pos_RP 1744 1746	up
+#353	AnnotatorNotes T356	lemma = 'up'
+T357	pos_DT 1747 1748	a
+#354	AnnotatorNotes T357	lemma = 'a'
+T358	pos_NP 1749 1757	Scottish
+#355	AnnotatorNotes T358	lemma = 'scottish'
+T359	pos_NN 1758 1768	parliament
+#356	AnnotatorNotes T359	lemma = 'parliament'
+T360	pos_Fp 1768 1769	.
+#357	AnnotatorNotes T360	lemma = '.'
+T361	pos_Fpa 1770 1771	(
+#358	AnnotatorNotes T361	lemma = '('
+T362	pos_PRP 1771 1773	He
+#359	AnnotatorNotes T362	lemma = 'he'
+T363	pos_VBD 1774 1783	explained
+#360	AnnotatorNotes T363	lemma = 'explain'
+T364	pos_DT 1784 1788	that
+#361	AnnotatorNotes T364	lemma = 'that'
+T365	pos_NN 1789 1799	devolution
+#362	AnnotatorNotes T365	lemma = 'devolution'
+T366	pos_VBZ 1800 1802	is
+#363	AnnotatorNotes T366	lemma = 'be'
+T367	pos_RB 1803 1806	not
+#364	AnnotatorNotes T367	lemma = 'not'
+T368	pos_DT 1807 1810	the
+#365	AnnotatorNotes T368	lemma = 'the'
+T369	pos_JJ 1811 1815	same
+#366	AnnotatorNotes T369	lemma = 'same'
+T370	pos_IN 1816 1818	as
+#367	AnnotatorNotes T370	lemma = 'as'
+T371	pos_VBG 1819 1824	being
+#368	AnnotatorNotes T371	lemma = 'be'
+T372	pos_DT 1825 1826	a
+#369	AnnotatorNotes T372	lemma = 'a'
+T373	pos_JJ 1827 1835	separate
+#370	AnnotatorNotes T373	lemma = 'separate'
+T374	pos_NN 1836 1843	country
+#371	AnnotatorNotes T374	lemma = 'country'
+T375	pos_Fp 1843 1844	.
+#372	AnnotatorNotes T375	lemma = '.'
+T376	pos_Fpt 1844 1845	)
+#373	AnnotatorNotes T376	lemma = ')'
+T377	pos_NP 1846 1848	So
+#374	AnnotatorNotes T377	lemma = 'so'
+T378	pos_PRP 1849 1851	he
+#375	AnnotatorNotes T378	lemma = 'he'
+T379	pos_VBD 1852 1861	concluded
+#376	AnnotatorNotes T379	lemma = 'conclude'
+T380	pos_IN 1862 1866	that
+#377	AnnotatorNotes T380	lemma = 'that'
+T381	pos_DT 1867 1870	the
+#378	AnnotatorNotes T381	lemma = 'the'
+T382	pos_JJ 1871 1875	real
+#379	AnnotatorNotes T382	lemma = 'real'
+T383	pos_NN 1876 1884	question
+#380	AnnotatorNotes T383	lemma = 'question'
+T384	pos_VBD 1885 1888	was
+#381	AnnotatorNotes T384	lemma = 'be'
+T385	pos_CC 1889 1896	whether
+#382	AnnotatorNotes T385	lemma = 'whether'
+T386	pos_MD 1897 1902	would
+#383	AnnotatorNotes T386	lemma = 'would'
+T387	pos_NP 1903 1911	Scotland
+#384	AnnotatorNotes T387	lemma = 'scotland'
+T388	pos_VB 1912 1914	be
+#385	AnnotatorNotes T388	lemma = 'be'
+T389	pos_JJR 1915 1921	better
+#386	AnnotatorNotes T389	lemma = 'good'
+T390	pos_IN 1922 1924	as
+#387	AnnotatorNotes T390	lemma = 'as'
+T391	pos_DT 1925 1927	an
+#388	AnnotatorNotes T391	lemma = 'a'
+T392	pos_JJ 1928 1939	independent
+#389	AnnotatorNotes T392	lemma = 'independent'
+T393	pos_NN 1940 1947	country
+#390	AnnotatorNotes T393	lemma = 'country'
+T394	pos_CC 1948 1950	or
+#391	AnnotatorNotes T394	lemma = 'or'
+T395	pos_RB 1951 1954	not
+#392	AnnotatorNotes T395	lemma = 'not'
+T396	pos_CC 1955 1958	and
+#393	AnnotatorNotes T396	lemma = 'and'
+T397	pos_DT 1959 1962	the
+#394	AnnotatorNotes T397	lemma = 'the'
+T398	pos_NN 1963 1969	answer
+#395	AnnotatorNotes T398	lemma = 'answer'
+T399	pos_VBD 1970 1973	was
+#396	AnnotatorNotes T399	lemma = 'be'
+T400	pos_Fd 1973 1974	:
+#397	AnnotatorNotes T400	lemma = ':'
+T401	pos_Fw 1975 1976	«
+#398	AnnotatorNotes T401	lemma = '«'
+T402	pos_NN 1976 1982	nobody
+#399	AnnotatorNotes T402	lemma = 'nobody'
+T403	pos_VBZ 1983 1988	knows
+#400	AnnotatorNotes T403	lemma = 'know'
+T404	pos_Fw 1988 1989	»
+#401	AnnotatorNotes T404	lemma = '»'
+T405	pos_Fp 1989 1990	.
+#402	AnnotatorNotes T405	lemma = '.'

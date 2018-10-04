@@ -1,0 +1,109 @@
+T1	Spelling 26 36	persantage
+#1	AnnotatorNotes T1	percentage
+T2	Punctuation 40 51	post school
+#2	AnnotatorNotes T2	post-school
+T3	Category_confusion 75 84	different
+#3	AnnotatorNotes T3	difference
+T4	Spelling 93 103	percantage
+#4	AnnotatorNotes T4	the percentages
+T5	Articles 93 103	percantage
+#5	AnnotatorNotes T5	the percentages
+T6	Prepositions 125 142	according to 1999
+#6	AnnotatorNotes T6	 in 1999
+T7	Spelling 173 183	percantage
+#7	AnnotatorNotes T7	percentage
+T8	Absence_explanation 196 225	is skilled vocational diploma
+#8	AnnotatorNotes T8	was that of skilled specialists with the vocational diploma
+T9	Comparative_constr 233 241	more 90%
+#9	AnnotatorNotes T9	higher than 90%
+T10	lex_part_choice 247 261	according with
+#10	AnnotatorNotes T10	according to
+T11	Spelling 299 309	percantage
+#11	AnnotatorNotes T11	percentage
+T12	Superlative_adj 293 298	large
+#12	AnnotatorNotes T12	largest
+T13	Word_choice 348 351	are
+#13	AnnotatorNotes T13	stood for
+T14	Tense_choice 385 391	wanted
+#14	AnnotatorNotes T14	want
+T15	Redundant_comp 400 404	what
+A1	Delete T15
+T16	Superlative_adj 405 417	the most low
+#15	AnnotatorNotes T16	the lowest
+T17	Spelling 418 429	percantages
+#16	AnnotatorNotes T17	percentage
+T18	Agreement_errors 418 429	percantages
+#17	AnnotatorNotes T18	percentage
+T19	Absence_explanation 433 440	femails
+#18	AnnotatorNotes T19	female graduates
+T20	Noun_number 316 322	female
+#19	AnnotatorNotes T20	women
+T21	Punctuation 470 471	.
+#20	AnnotatorNotes T21	,
+T22	Agreement_errors 335 339	this
+#21	AnnotatorNotes T22	these
+T24	Often_confused 483 486	see
+#23	AnnotatorNotes T24	look at
+T26	Voice 551 565	can associated
+#25	AnnotatorNotes T26	can be associated
+T29	Superlative_adj 625 637	the most low
+#28	AnnotatorNotes T29	the lowest
+T30	Spelling 638 649	percantages
+#29	AnnotatorNotes T30	percentage
+T31	Countable_uncountable 638 649	percantages
+#30	AnnotatorNotes T31	percentage
+T32	Spelling 662 668	thouse
+#31	AnnotatorNotes T32	those
+T33	Redundant_comp 669 672	man
+T35	Punctuation 720 723	see
+#34	AnnotatorNotes T35	see,
+T36	Redundant_comp 724 728	that
+A2	Delete T36
+T37	Spelling 768 773	midle
+#35	AnnotatorNotes T37	middle
+T38	Absence_comp_sent 788 808	and less interesting
+#36	AnnotatorNotes T38	and are less interesting
+T39	Noun_number 93 103	percantage
+#37	AnnotatorNotes T39	the percentages
+T40	Capitalisation 331 334	And
+#38	AnnotatorNotes T40	and
+T41	Punctuation 329 330	.
+#39	AnnotatorNotes T41	,
+T44	Redundant_comp 600 603	And
+A3	Delete T44
+T45	Capitalisation 604 608	also
+#42	AnnotatorNotes T45	Also,
+T46	lex_item_choice 107 124	males and females
+T48	lex_item_choice 190 195	males
+#43	AnnotatorNotes T48	men
+T49	Tense_choice 230 232	is
+#44	AnnotatorNotes T49	was
+T50	Category_confusion 316 322	female
+T51	Tense_choice 323 325	is
+#45	AnnotatorNotes T51	was
+T23	Modals 475 486	must to see
+#22	AnnotatorNotes T23	must look at
+T27	Absence_explanation 581 599	and educate their.
+#24	AnnotatorNotes T27	that some women got the highest educational degree
+T28	lex_part_choice 571 580	that fact
+#26	AnnotatorNotes T28	the fact
+T42	Category_confusion 653 658	males
+A4	Delete T33
+T34	Prepositions 650 652	of
+#27	AnnotatorNotes T34	among
+T52	Tense_choice 659 661	is
+#33	AnnotatorNotes T52	were
+T53	Tense_choice 677 681	have
+#40	AnnotatorNotes T53	received
+#41	AnnotatorNotes T46	men and women
+#46	AnnotatorNotes T50	women
+#49	AnnotatorNotes T42	men
+T47	Agreement_errors 659 661	is
+#50	AnnotatorNotes T47	were
+T25	Capitalisation 472 474	we
+#32	AnnotatorNotes T25	We
+T43	Tense_choice 348 351	are
+#47	AnnotatorNotes T43	stood for
+R1	Dependent_change Arg1:T41 Arg2:T40	
+T54	lex_item_choice 677 681	have
+#48	AnnotatorNotes T54	received

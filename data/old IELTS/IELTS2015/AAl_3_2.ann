@@ -1,0 +1,130 @@
+T1	Spelling 136 137	a
+T2	Interrogative 163 231	or it will be more preferable not to pay attention to this situation
+T3	Interrogative 550 563	What it leads
+T4	Redundant_comp 607 617	vise-revsa
+T5	Spelling 933 939	imrove
+T6	Prefix 1100 1105	afirm
+T7	Spelling 1496 1507	consiquence
+T8	Spelling 1587 1593	strill
+T10	Spelling 295 296	a
+#1	AnnotatorNotes T10	and
+T11	Standard 323 338	are talking not
+#2	AnnotatorNotes T11	are not talking
+T12	Punctuation 387 388	.
+#3	AnnotatorNotes T12	,
+T14	Spelling 471 478	emagine
+#4	AnnotatorNotes T14	imagine
+T15	Spelling 516 517	a
+#5	AnnotatorNotes T15	and
+#6	AnnotatorNotes T3	What does it lead 
+T16	Possessive 589 594	girls
+#7	AnnotatorNotes T16	girls'
+T18	Prepositions 1070 1077	with no
+#9	AnnotatorNotes T18	without
+T19	Spelling 1089 1096	studing
+#10	AnnotatorNotes T19	studying
+T20	Capitalisation 1146 1153	Females
+#11	AnnotatorNotes T20	girls
+T21	Spelling 1154 1155	2
+#12	AnnotatorNotes T21	to
+T22	Category_confusion 1374 1378	wide
+#13	AnnotatorNotes T22	widely
+T23	Articles 1389 1417	an English speaking counties
+#14	AnnotatorNotes T23	English speaking counties
+#15	AnnotatorNotes T2	or will it be more preferable not to pay attention to this situation
+T24	Spelling 605 606	a
+#16	AnnotatorNotes T24	and
+T26	Punctuation 617 618	.
+T27	Capitalisation 619 626	Females
+#19	AnnotatorNotes T27	female students
+T28	Coherence 723 731	would be
+#20	AnnotatorNotes T28	will be
+#21	AnnotatorNotes T8	still
+T29	Punctuation 673 674	,
+#22	AnnotatorNotes T5	improve
+#23	AnnotatorNotes T7	consequence
+#24	AnnotatorNotes T6	confirm
+T30	Spelling 1418 1419	a
+#25	AnnotatorNotes T30	, and
+T31	Articles 1420 1440	an educational level
+#26	AnnotatorNotes T31	the educational level
+T32	Punctuation 260 266	, that
+T33	Suffix 378 387	relations
+#27	AnnotatorNotes T33	relationships
+T35	lex_item_choice 406 414	consider
+#28	AnnotatorNotes T35	look at
+T37	Articles 492 507	an equal number
+#29	AnnotatorNotes T37	the equal number
+T38	Punctuation 490 491	:
+R1	Dependent_change Arg1:T26 Arg2:T27	
+T25	Category_confusion 568 573	Males
+#31	AnnotatorNotes T25	Male students
+A1	Delete T4
+A2	Delete T26
+T40	Category_confusion 619 626	Females
+#18	AnnotatorNotes T40	female students
+T42	Prepositions 659 661	on
+#32	AnnotatorNotes T42	in
+A3	Delete T29
+T43	Absence_comp_colloc 666 673	subject
+#33	AnnotatorNotes T43	subject area
+T44	Determiners 662 673	the subject
+#34	AnnotatorNotes T44	some subject are
+T45	Punctuation 759 765	, that
+T48	Voice 777 789	woud concern
+#35	AnnotatorNotes T48	will be concerned
+T49	Tense_choice 777 789	woud concern
+#36	AnnotatorNotes T49	will be concerned
+T50	Noun_number 807 812	study
+#8	AnnotatorNotes T50	studies
+T51	Articles 863 880	the communication
+#37	AnnotatorNotes T51	communication
+T52	Punctuation 960 966	, that
+#38	AnnotatorNotes T52	that
+T53	Category_confusion 1078 1088	destroy of
+#39	AnnotatorNotes T53	distraction from
+T54	Prepositional_noun 1078 1088	destroy of
+#40	AnnotatorNotes T54	distraction from
+R2	Dependent_change Arg1:T53 Arg2:T54	
+T55	Punctuation 1105 1111	, that
+T59	Category_confusion 1146 1161	Females 2 males
+#41	AnnotatorNotes T59	girls to boys
+T60	lex_item_choice 1236 1242	appear
+#42	AnnotatorNotes T60	be admitted
+T61	Standard 1229 1269	should appear only males or only females
+#43	AnnotatorNotes T61	only male or only female students should be admitted
+T62	lex_item_choice 1293 1302	presented
+#44	AnnotatorNotes T62	supported
+T63	Prepositions 1303 1305	on
+#45	AnnotatorNotes T63	with
+T68	Category_confusion 1346 1362	males or females
+#46	AnnotatorNotes T68	men or women
+T70	Punctuation 1418 1419	a
+#47	AnnotatorNotes T70	, and
+T71	Punctuation 1461 1467	, than
+#48	AnnotatorNotes T71	than
+T72	Articles 1471 1489	average university
+#49	AnnotatorNotes T72	an average university
+T73	Punctuation 1525 1531	, that
+T75	lex_item_choice 1548 1553	sexes
+#50	AnnotatorNotes T75	gender
+T76	lex_item_choice 1595 1599	open
+#51	AnnotatorNotes T76	on the agenda
+T77	Linking_device 1602 1617	but, as for me,
+#52	AnnotatorNotes T77	and I, for one, think that
+T78	Linking_device 1602 1617	but, as for me,
+T9	Redundant_comp 1650 1715	, in the way, of the whole ie section of mixed sexes universities
+A4	Delete T9
+#53	AnnotatorNotes T32	that
+#54	AnnotatorNotes T45	that
+#55	AnnotatorNotes T55	that
+#56	AnnotatorNotes T73	that
+#57	AnnotatorNotes T78	and I, for one, think that
+T13	Category_confusion 1248 1269	males or only females
+#58	AnnotatorNotes T13	males or only female students
+A5	Delete T38
+T17	Prepositions 481 507	situation: an equal number
+#17	AnnotatorNotes T17	situation of the equal number
+T34	Capitalisation 389 391	We
+#30	AnnotatorNotes T34	we
+R3	Dependent_change Arg1:T12 Arg2:T34	

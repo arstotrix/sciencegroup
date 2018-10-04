@@ -1,0 +1,81 @@
+T1	Articles 26 41	the information
+#1	AnnotatorNotes T1	information
+T2	Agreement_errors 90 97	compare
+#2	AnnotatorNotes T2	compares
+T3	Standard 98 119	two years information
+#3	AnnotatorNotes T3	the information of two years
+T4	Articles 108 119	information
+#4	AnnotatorNotes T4	the information
+T5	Absence_comp_sent 125 127	is
+#5	AnnotatorNotes T5	it is
+T6	lex_item_choice 128 136	observed
+#6	AnnotatorNotes T6	seen
+T7	Spelling 191 199	simmelar
+#7	AnnotatorNotes T7	similar
+T8	Noun_number 164 174	percentage
+#8	AnnotatorNotes T8	percentages
+T9	Agreement_errors 187 190	was
+#9	AnnotatorNotes T9	were
+R1	Dependent_change Arg1:T9 Arg2:T8	
+T10	Absence_comp_sent 224 242	The same situation
+#10	AnnotatorNotes T10	The same situation is
+T11	Prepositions 243 258	about worldwide
+#11	AnnotatorNotes T11	in worldwide
+T12	Punctuation 258 273	. And in S.Asia
+#12	AnnotatorNotes T12	and in S.Asia
+T13	Articles 289 304	the Middle East
+#13	AnnotatorNotes T13	Middle East
+T14	Articles 323 328	level
+#14	AnnotatorNotes T14	the level
+T15	Often_confused 364 368	then
+#15	AnnotatorNotes T15	than
+T16	Prepositions 364 373	then 2015
+#16	AnnotatorNotes T16	than in 2015
+T17	Articles 378 393	the Middle East
+#17	AnnotatorNotes T17	Middle East
+T18	Absence_comp_sent 418 427	get lower
+#18	AnnotatorNotes T18	it got lower
+T19	Tense_choice 418 421	get
+#19	AnnotatorNotes T19	got
+T20	Superlative_adj 454 466	higher point
+#20	AnnotatorNotes T20	the highest point
+T21	Tense_choice 480 484	it’s
+#21	AnnotatorNotes T21	it was
+T22	Inappropriate_register 480 484	it’s
+#22	AnnotatorNotes T22	it was
+T23	Absence_comp_sent 496 505	decreased
+#23	AnnotatorNotes T23	it decreased
+T24	Category_confusion 520 529	different
+#24	AnnotatorNotes T24	difference
+T25	Category_confusion 538 544	others
+#25	AnnotatorNotes T25	other
+T26	lex_item_choice 577 581	Wich
+#26	AnnotatorNotes T26	It's
+T27	Redundant_comp 591 596	get a
+A1	Delete T27
+T28	Punctuation 609 620	, with 7,9%
+#27	AnnotatorNotes T28	with 7,9,
+T29	Tense_choice 625 631	become
+#28	AnnotatorNotes T29	became
+T30	lex_item_choice 650 656	is now
+#29	AnnotatorNotes T30	became
+T31	Articles 676 695	the all information
+#30	AnnotatorNotes T31	all information
+T32	Punctuation 664 695	Summarising the all information
+#31	AnnotatorNotes T32	Summarising all information,
+T33	Absence_comp_sent 696 708	can bee seen
+#32	AnnotatorNotes T33	it can be seen
+T34	Spelling 700 703	bee
+#33	AnnotatorNotes T34	be
+T35	Spelling 762 770	simmelar
+#34	AnnotatorNotes T35	similar
+T36	Articles 758 788	the simmelar unemployment rate
+#35	AnnotatorNotes T36	similar unemployment rates
+T37	Noun_number 784 788	rate
+#36	AnnotatorNotes T37	rates
+T38	Redundant_comp 789 797	percents
+A2	Delete T38
+T39	Tense_choice 831 836	reach
+#37	AnnotatorNotes T39	reached
+T40	Spelling 839 842	pic
+#38	AnnotatorNotes T40	peak

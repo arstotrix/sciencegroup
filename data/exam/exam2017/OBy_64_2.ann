@@ -1,0 +1,77 @@
+T1	Spelling 0 7	Nowdays
+#1	AnnotatorNotes T1	Nowadays
+T2	lex_item_choice 8 16	humanity
+#2	AnnotatorNotes T2	people
+T3	Articles 81 90	microwave
+#3	AnnotatorNotes T3	a microwave
+T4	Inappropriate_register 100 103	his
+#4	AnnotatorNotes T4	his/her
+T5	Tense_choice 120 126	become
+#5	AnnotatorNotes T5	has become
+T6	Punctuation 152 155	but
+#6	AnnotatorNotes T6	, but
+T7	lex_item_choice 156 162	it has
+#7	AnnotatorNotes T7	there is  
+T8	Articles 179 184	medal
+#8	AnnotatorNotes T8	the medal
+T9	Noun_number 215 225	technology
+#9	AnnotatorNotes T9	technologies
+T10	Tense_choice 230 236	caused
+#10	AnnotatorNotes T10	cause
+T11	Inappropriate_register 332 336	It’s
+#11	AnnotatorNotes T11	It is
+T12	Redundant_comp 337 342	gives
+A1	Delete T12
+T13	Prepositions 347 354	to much
+#12	AnnotatorNotes T13	so much
+T14	Spelling 381 385	lige
+#13	AnnotatorNotes T14	life
+T15	Spelling 386 390	gull
+#14	AnnotatorNotes T15	full
+T16	Absence_comp_sent 386 390	gull
+#15	AnnotatorNotes T16	is full
+T17	Spelling 394 401	getjets
+#16	AnnotatorNotes T17	gadgets
+T18	Punctuation 402 440	the number of radiation is really high
+#17	AnnotatorNotes T18	, the level of radiation is really high
+T19	lex_item_choice 406 412	number
+#18	AnnotatorNotes T19	level
+T20	Spelling 452 459	dameges
+#19	AnnotatorNotes T20	damages
+T21	Punctuation 473 475	so
+#20	AnnotatorNotes T21	, so
+T22	Tense_choice 476 488	it’s causing
+#21	AnnotatorNotes T22	it causes
+T23	Inappropriate_register 476 480	it’s
+#22	AnnotatorNotes T23	it is
+T24	Articles 489 505	a deathly issues
+#23	AnnotatorNotes T24	deadly issues
+T25	Spelling 491 498	deathly
+#24	AnnotatorNotes T25	deadly
+T26	Punctuation 507 515	Moreover
+#25	AnnotatorNotes T26	Moreover,
+T27	Ref_device 563 565	it
+#26	AnnotatorNotes T27	they
+T28	Spelling 582 591	phisicaly
+#27	AnnotatorNotes T28	physically
+T29	Absence_comp_sent 607 620	are to reduce
+#28	AnnotatorNotes T29	are able to reduce
+T30	Inappropriate_register 674 679	don’t
+#29	AnnotatorNotes T30	do not
+T31	Inappropriate_register 691 695	it’s
+#30	AnnotatorNotes T31	it is
+T32	Punctuation 766 768	so
+#31	AnnotatorNotes T32	, so
+T33	lex_item_choice 895 898	men
+#32	AnnotatorNotes T33	people
+T34	Ref_device 928 930	he
+#33	AnnotatorNotes T34	they
+R1	Dependent_change Arg1:T34 Arg2:T33	
+T35	Ref_device 961 963	He
+#34	AnnotatorNotes T35	They
+R2	Dependent_change Arg1:T35 Arg2:T33	
+T36	Ref_device 1016 1019	him
+#35	AnnotatorNotes T36	them
+R3	Dependent_change Arg1:T36 Arg2:T33	
+T37	Punctuation 1020 1031	for example
+#36	AnnotatorNotes T37	, for example

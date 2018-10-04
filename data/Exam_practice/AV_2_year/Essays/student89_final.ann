@@ -1,0 +1,45 @@
+T1	Tense_choice 25 32	becomes
+#1	AnnotatorNotes T1	is becoming
+T2	lex_item_choice 97 105	supposed
+#2	AnnotatorNotes T2	assumed OR believed
+T3	Ref_device 216 218	it
+#3	AnnotatorNotes T3	this assumption
+T4	note 216 218	it
+#4	AnnotatorNotes T4	'IT' CAN ONLY REFER TO 'PROBLEM' IN THIS SENTENCE
+T5	Punctuation 236 246	Personally
+#5	AnnotatorNotes T5	Personally,
+T6	Ref_device 417 420	you
+#6	AnnotatorNotes T6	they
+T7	lex_part_choice 485 494	sportsmen
+#7	AnnotatorNotes T7	sportspeople
+T8	Defining 494 495	,
+A1	Delete T8
+T9	Word_choice 661 673	happen to be
+#8	AnnotatorNotes T9	become
+T10	note 661 673	happen to be
+#9	AnnotatorNotes T10	It doesn't happen by chance!
+T11	Tense_choice 782 785	did
+#10	AnnotatorNotes T11	have done
+T12	lex_part_choice 772 781	sportsmen
+A2	Cause T12 L1_interference
+#11	AnnotatorNotes T12	sportspeople
+A3	Cause T7 L1_interference
+T13	Spelling 763 771	favorite
+#12	AnnotatorNotes T13	favourite
+T14	Determiners 842 855	every of them
+#13	AnnotatorNotes T14	every one of them OR each of them OR every village
+T15	Defining 871 872	,
+A4	Delete T15
+A5	Cause T15 L1_interference
+T16	Lack_par_constr 900 901	,
+#14	AnnotatorNotes T16	 and 
+T17	Agreement_errors 1124 1128	make
+#15	AnnotatorNotes T17	makes
+T18	Verb_object_bare 1124 1139	make them to do
+#16	AnnotatorNotes T18	makes them do
+T19	Category_confusion 1211 1218	human’s
+#17	AnnotatorNotes T19	human
+T20	lex_item_choice 1247 1255	rightful
+#18	AnnotatorNotes T20	justified OR so OR true
+T21	note 1373 1392	In Russia, at least
+#19	AnnotatorNotes T21	If this is the last sentence in your essay, it is perceived as making the main point in your conclusion. You should have developed this point about Russia and then make a generalising conclusion. Alternatively, you can delete the last sentence. 

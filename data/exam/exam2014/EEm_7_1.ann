@@ -1,0 +1,109 @@
+T2	Redundant_comp 78 94	and will be live
+T3	Articles 138 141	USA
+#1	AnnotatorNotes T3	the USA
+T5	Confusion_of_structures 37 53	people’s procent
+#3	AnnotatorNotes T5	the percentage of people
+T6	lex_item_choice 154 157	say
+#4	AnnotatorNotes T6	see
+T7	lex_part_choice 194 198	aged
+#5	AnnotatorNotes T7	age group
+T8	Superlative_adj 226 230	high
+#6	AnnotatorNotes T8	highest
+T9	lex_item_choice 216 221	be on
+#7	AnnotatorNotes T9	reach
+T10	Absence_comp_sent 247 261	In detail look
+#8	AnnotatorNotes T10	Taking a closer look
+T13	Voice 340 353	was decreased
+T14	Spelling 361 368	procent
+#9	AnnotatorNotes T14	percent
+T15	Spelling 46 53	procent
+#10	AnnotatorNotes T15	the percentage
+T16	Spelling 374 381	procent
+#11	AnnotatorNotes T16	percent
+T17	Spelling 415 422	procent
+#12	AnnotatorNotes T17	percent
+T18	Spelling 430 437	procent
+#13	AnnotatorNotes T18	percent
+T19	Standard 410 438	to 8 procent from 4 procent.
+#14	AnnotatorNotes T19	from 4 percent to 8 percent
+T20	Spelling 469 476	procent
+#15	AnnotatorNotes T20	percent
+T21	Articles 453 456	USA
+#16	AnnotatorNotes T21	the USA
+T22	Articles 645 648	USA
+#17	AnnotatorNotes T22	the USA
+T23	Linking_device 623 629	Unless
+#18	AnnotatorNotes T23	In contrast
+T24	Absence_explanation 657 677	to 14 and 15 percent
+#19	AnnotatorNotes T24	to 14 and 15 percent respectively
+T25	lex_item_choice 695 703	presents
+#20	AnnotatorNotes T25	shows
+T26	Dative 695 709	presents to us
+T28	Spelling 762 769	procent
+#21	AnnotatorNotes T28	percent
+T4	Spelling 776 783	procent
+#2	AnnotatorNotes T4	percent
+T29	Coherence 750 754	rise
+T30	Tense_choice 802 804	is
+#22	AnnotatorNotes T30	was
+T31	Spelling 828 835	procent
+#23	AnnotatorNotes T31	percent
+T32	Spelling 871 878	procent
+#24	AnnotatorNotes T32	percent
+T33	Spelling 984 991	procent
+#25	AnnotatorNotes T33	percentage
+T34	Superlative_adj 1021 1025	high
+T35	Spelling 1047 1054	procent
+#26	AnnotatorNotes T35	percent
+T36	Articles 1059 1062	USA
+#27	AnnotatorNotes T36	the USA
+T37	Tense_form 1134 1144	is rise up
+#28	AnnotatorNotes T37	is rising 
+T38	Spelling 1145 1152	nowdays
+#29	AnnotatorNotes T38	nowadays
+#30	AnnotatorNotes T26	shows us
+R1	Dependent_change Arg1:T25 Arg2:T26	
+T27	Punctuation 709 715	, that
+#31	AnnotatorNotes T27	that
+#32	AnnotatorNotes T29	will have risen
+T39	Confusion_of_structures 799 801	it
+#33	AnnotatorNotes T39	there
+T40	Linking_device 785 788	but
+#34	AnnotatorNotes T40	while
+T41	lex_item_choice 853 857	high
+#35	AnnotatorNotes T41	sharp
+T42	lex_item_choice 984 991	procent
+#36	AnnotatorNotes T42	percentage
+T43	Prepositions 1014 1016	on
+#37	AnnotatorNotes T43	at
+#38	AnnotatorNotes T34	highest
+T44	Redundant 1134 1144	is rise up
+#39	AnnotatorNotes T44	is rising
+T45	Absence_explanation 1115 1133	the old population
+#40	AnnotatorNotes T45	the proportion of the elderly population
+#41	AnnotatorNotes T13	decreased
+T46	Redundant_comp 10 15	below
+A1	Delete T46
+T47	Redundant_comp 28 36	how many
+A2	Delete T47
+T48	Category_confusion 46 53	procent
+#42	AnnotatorNotes T48	the percentage 
+T49	lex_item_choice 54 60	of age
+#43	AnnotatorNotes T49	aged
+A3	Delete T2
+T1	Participial_constr 73 77	live
+#44	AnnotatorNotes T1	living
+T11	Punctuation 273 274	,
+A4	Delete T11
+T12	Agreement_errors 463 466	was
+#45	AnnotatorNotes T12	were
+T50	Redundant_comp 689 694	below
+A5	Delete T50
+T51	Redundant_comp 825 827	13
+A6	Delete T51
+T52	Linking_device 837 840	but
+#46	AnnotatorNotes T52	after which
+T53	Redundant_comp 1063 1064	-
+A7	Delete T53
+T54	lex_item_choice 1119 1122	old
+#47	AnnotatorNotes T54	elderly 

@@ -1,0 +1,47 @@
+T2	Spelling 31 40	air-plane
+#1	AnnotatorNotes T2	airplane
+T3	Tense_choice 71 77	damage
+#2	AnnotatorNotes T3	damages
+T4	Redundant_comp 422 468	companies related to transportation in the air
+#3	AnnotatorNotes T4	air companies
+T5	lex_item_choice 414 421	explain
+#4	AnnotatorNotes T5	restrict
+T6	Ref_device 414 512	explain companies related to transportation in the air, that they have to decline everyday flights
+#5	AnnotatorNotes T6	restrict everyday flights to air companies
+T7	Word_choice 155 168	from all over
+#6	AnnotatorNotes T7	all around
+T8	Redundant_comp 187 207	provide and organize
+#7	AnnotatorNotes T8	organize
+T9	Redundant_comp 294 320	departures and air-flights
+#8	AnnotatorNotes T9	air flights
+T10	Spelling 309 320	air-flights
+#9	AnnotatorNotes T10	air flights
+T11	Spelling 561 574	air-transport
+#10	AnnotatorNotes T11	air transport
+T12	lex_item_choice 587 592	short
+#11	AnnotatorNotes T12	reduce
+T13	Spelling 702 713	air-flights
+#12	AnnotatorNotes T13	air flights
+R1	Parallel_construction Arg1:T10 Arg2:T13	
+T14	Punctuation 702 713	air-flights
+#13	AnnotatorNotes T14	air flights,
+T15	Modals 740 754	do not need to
+#14	AnnotatorNotes T15	shouldn't
+T16	Word_choice 755 771	have a deal with
+#15	AnnotatorNotes T16	relate to
+T17	Redundant_comp 787 798	Firstly, it
+#16	AnnotatorNotes T17	It
+T1	Spelling 593 600	crushes
+#17	AnnotatorNotes T1	crashes
+T18	Modals 915 932	can be in need to
+#18	AnnotatorNotes T18	should
+T19	Prepositions 966 968	of
+#19	AnnotatorNotes T19	in
+T20	Infinitive_constr 1019 1022	get
+#20	AnnotatorNotes T20	to get
+T21	Standard 1256 1310	today it is a very important to care about environment
+#21	AnnotatorNotes T21	it is a very important to care about environment today
+T22	Articles 1268 1284	a very important
+#22	AnnotatorNotes T22	very important
+T23	lex_item_choice 1343 1349	myself
+#23	AnnotatorNotes T23	ourselfes

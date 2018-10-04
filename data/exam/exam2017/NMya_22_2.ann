@@ -1,0 +1,60 @@
+T1	Articles 21 39	increasing concern
+#1	AnnotatorNotes T1	an increasing concern
+T2	Category_confusion 191 206	law’s - respect
+#2	AnnotatorNotes T2	respect for the law
+T3	Spelling 301 312	intellegent
+#3	AnnotatorNotes T3	intelligent
+T4	Articles 332 338	future
+#4	AnnotatorNotes T4	the future
+T5	Defining 363 396	, who should guide their children
+#5	AnnotatorNotes T5	who should guide their children
+T6	Coherence 401 498	in order to prevent catastrophic damages to the humanity in terms of dangerous coming generations
+T7	Redundant_comp 397 400	and
+A1	Delete T7
+#6	AnnotatorNotes T6	in order to prevent catastrophic damages to the future of humanity and next generations
+T8	Articles 445 457	the humanity
+#7	AnnotatorNotes T8	humanity
+T9	Tense_form 697 714	have been working
+#8	AnnotatorNotes T9	would have been working
+T10	Tense_form 725 736	for 5 years
+#9	AnnotatorNotes T10	for 5 years already
+R1	Dependent_change Arg1:T10 Arg2:T9	
+T11	Spelling 850 861	prosperious
+#10	AnnotatorNotes T11	prosperous
+T12	Inappropriate_register 898 902	kids
+#11	AnnotatorNotes T12	children
+T13	Spelling 1179 1188	commiting
+#12	AnnotatorNotes T13	committing
+T14	Inappropriate_register 1263 1267	kids
+#13	AnnotatorNotes T14	children
+T15	lex_item_choice 1330 1337	besides
+#14	AnnotatorNotes T15	outside
+T16	Articles 1338 1344	school
+#15	AnnotatorNotes T16	the school
+T17	Suffix 1434 1445	disobeyment
+#16	AnnotatorNotes T17	disobedience
+T18	Articles 1468 1476	person’s
+#17	AnnotatorNotes T18	a person's
+T19	Possessive 1514 1518	life
+#18	AnnotatorNotes T19	life's
+T20	Spelling 1554 1563	rebelious
+#19	AnnotatorNotes T20	rebellious
+T21	Inappropriate_register 1537 1545	teenager
+#20	AnnotatorNotes T21	adolescent
+T22	Noun_number 1537 1547	teenager’s
+#21	AnnotatorNotes T22	adolescents'
+T23	Spelling 1892 1901	determing
+#22	AnnotatorNotes T23	determining
+T24	Possessive 1902 1909	young’s
+#23	AnnotatorNotes T24	young people's
+T25	Spelling 1910 1919	beheviour
+#24	AnnotatorNotes T25	behaviour
+T26	Possessive 1977 1982	child
+#25	AnnotatorNotes T26	child's
+T27	Spelling 1983 1990	thoughs
+#26	AnnotatorNotes T27	thoughts
+T28	Verb_Inf_Gerund 2179 2209	began to feel allmighty and do
+#27	AnnotatorNotes T28	began to feel allmighty and to do
+T29	Spelling 2248 2256	behavior
+#28	AnnotatorNotes T29	behaviour
+R2	Dependent_change Arg1:T29 Arg2:T25	

@@ -1,0 +1,85 @@
+T1	Agreement_errors 10 19	illustrat
+#1	AnnotatorNotes T1	illustrates
+T2	Determiners 20 30	proportion
+#2	AnnotatorNotes T2	the proportion
+T3	Prepositions 20 35	proportion boys
+A1	Addition T3
+#3	AnnotatorNotes T3	the proportion of boys
+T4	Note_structure 133 146	Rest of World
+#4	AnnotatorNotes T4	in the rest of the world
+T5	Often_confused 157 169	more numbers
+#5	AnnotatorNotes T5	larger number
+T6	Prepositions 157 175	more numbers girls
+A2	Addition T6
+#6	AnnotatorNotes T6	the larger number of girls
+T7	Ref_device 176 184	finished
+#7	AnnotatorNotes T7	who finished
+T8	Punctuation 257 258	,
+A3	Delete T8
+T9	Agreement_errors 288 296	millions
+#8	AnnotatorNotes T9	million
+T10	Redundant 357 361	year
+A4	Delete T10
+T11	Note_structure 378 391	Rest of World
+#9	AnnotatorNotes T11	the rest of the world
+T12	Agreement_errors 399 407	millions
+#10	AnnotatorNotes T12	million
+T13	Absence_comp_sent 392 393	–
+#11	AnnotatorNotes T13	there were
+T14	Redundant 432 436	year
+A5	Delete T14
+T15	Note_structure 437 450	Rest of World
+#12	AnnotatorNotes T15	the rest of the world
+T16	lex_item_choice 455 462	minimum
+#13	AnnotatorNotes T16	the lowest number of
+T17	Non_defining 471 472	,
+A6	Delete T17
+T18	Articles 517 541	a average value children
+#14	AnnotatorNotes T18	an average value of children
+T19	Punctuation 541 542	,
+A7	Delete T19
+T20	Agreement_errors 553 561	millions
+#15	AnnotatorNotes T20	million
+T21	Spelling 588 597	dicriesed
+#16	AnnotatorNotes T21	decreased
+T22	Determiners 598 616	number of children
+#17	AnnotatorNotes T22	the number of children
+T23	Standard 588 616	dicriesed number of children
+#18	AnnotatorNotes T23	the number of children decreased
+T24	Redundant 661 665	year
+A8	Delete T24
+T25	Determiners 681 687	number
+#19	AnnotatorNotes T25	the number
+T26	Spelling 697 708	dramaticaly
+#20	AnnotatorNotes T26	dramatically
+T27	Punctuation 743 744	,
+A9	Delete T27
+T28	Determiners 745 751	number
+#21	AnnotatorNotes T28	the number
+T29	Spelling 761 769	decrised
+#22	AnnotatorNotes T29	decreased
+T30	Determiners 792 798	number
+#23	AnnotatorNotes T30	the number
+T31	Spelling 807 813	droped
+#24	AnnotatorNotes T31	dropped
+T32	Note_structure 834 847	Rest of World
+#25	AnnotatorNotes T32	the rest of the world
+T33	Determiners 848 854	number
+#26	AnnotatorNotes T33	the number
+T34	Agreement_errors 893 901	millions
+#27	AnnotatorNotes T34	million
+T35	Agreement_errors 915 923	millions
+#28	AnnotatorNotes T35	million
+T36	Agreement_errors 1018 1026	millions
+#29	AnnotatorNotes T36	million
+T37	Redundant 933 937	year
+A10	Delete T37
+T38	lex_item_choice 953 960	minimum
+#30	AnnotatorNotes T38	the lowest amount of
+T39	Absence_explanation 1014 1026	9.9 millions
+#31	AnnotatorNotes T39	9.9 million respectively
+T40	lex_item_choice 871 882	common with
+#32	AnnotatorNotes T40	similar to
+T41	Ref_device 889 901	7.6 millions
+T42	Absence_comp_sent 906 923	boys 7.7 millions
+#33	AnnotatorNotes T42	there were 7.7 million boys

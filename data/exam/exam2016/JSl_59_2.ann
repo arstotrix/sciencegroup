@@ -1,0 +1,32 @@
+T1	lex_item_choice 0 11	In our time
+#1	AnnotatorNotes T1	Nowadays
+T2	Punctuation 0 12	In our time,
+A1	Delete T2
+#2	AnnotatorNotes T2	Nowadays
+T3	Verb_Inf 49 55	having
+#3	AnnotatorNotes T3	to have
+T4	Punctuation 13 102	a lot of international firms prefer having their manufactures in the 3rd world countries,
+A2	Delete T4
+#4	AnnotatorNotes T4	a lot of international firms prefer to have their manufactures in the 3rd world countries
+T5	lex_item_choice 174 180	states
+#5	AnnotatorNotes T5	countries
+T6	Linking_device 232 249	On the other hand
+#6	AnnotatorNotes T6	However,
+T7	Infinitive_constr 332 336	save
+#7	AnnotatorNotes T7	to save
+T8	Comparative_adj 375 380	lower
+#8	AnnotatorNotes T8	low
+T9	Articles 430 448	a higher education
+#9	AnnotatorNotes T9	higher education
+T10	lex_item_choice 726 732	states
+#10	AnnotatorNotes T10	countries
+T11	Linking_device 856 873	On the other hand
+#11	AnnotatorNotes T11	However
+T12	Suffix 1015 1023	specifie
+#12	AnnotatorNotes T12	special
+T13	Category_confusion 1163 1169	brands
+#13	AnnotatorNotes T13	brand
+T14	Noun_number 1534 1540	impact
+#14	AnnotatorNotes T14	impacts
+T15	Redundant_comp 1574 1587	, personally,
+A3	Delete T15

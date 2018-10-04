@@ -1,0 +1,71 @@
+T1	Spelling 74 80	wether
+T3	Redundant_comp 560 563	the
+A1	Delete T3
+T11	Spelling 917 921	clar
+A6	Cause T11 Typo
+#7	AnnotatorNotes T11	clear
+T12	Redundant_comp 942 951	generally
+T16	Spelling 180 187	desided
+A8	Cause T16 Typo
+A9	Weight-understanding T16 Minor
+#12	AnnotatorNotes T16	decided
+T17	lex_item_choice 894 898	held
+#13	AnnotatorNotes T17	made up
+T2	Attributes 242 258	according to sex
+#1	AnnotatorNotes T2	of either sex
+T18	Standard 173 258	pupils desided to get post-school qualification in Australia in 1999 according to sex
+#14	AnnotatorNotes T18	pupils of either sex decided to get post-school qualification in Australia in 1999
+T19	lex_item_choice 288 291	men
+#15	AnnotatorNotes T19	male students
+T20	Tense_choice 327 329	is
+#16	AnnotatorNotes T20	was
+T21	Redundant_comp 458 461	for
+A11	Cause T21 L1_interference
+A12	Weight-language T21 Major
+A13	Weight-understanding T21 Minor
+A14	Delete T21
+T22	Spelling 472 479	desided
+A15	Cause T22 Typo
+A16	Weight-language T22 Minor
+A17	Weight-understanding T22 Minor
+#17	AnnotatorNotes T22	decided
+T23	lex_item_choice 483 487	hold
+#18	AnnotatorNotes T23	get
+T24	lex_item_choice 538 546	greatest
+#19	AnnotatorNotes T24	highest
+T25	lex_item_choice 547 553	number
+#20	AnnotatorNotes T25	proportion
+T26	Formational_affixes 555 559	near
+#21	AnnotatorNotes T26	nearly
+T4	Redundant_comp 574 578	same
+A18	Delete T4
+A19	Cause T4 Other
+A20	Weight-language T4 Minor
+A21	Weight-understanding T4 Major
+T27	Absence_comp_sent 597 621	got postgraduate diploma
+A22	Cause T27 Other
+A23	Weight-language T27 Minor
+A24	Weight-understanding T27 Major
+#2	AnnotatorNotes T27	who got postgraduate diploma was 70
+T5	Ref_device 740 750	first ones
+#3	AnnotatorNotes T5	the former
+T6	Ref_device 770 776	second
+#4	AnnotatorNotes T6	the latter
+T7	Redundant_comp 779 795	Contraditionally
+A2	Delete T7
+T8	Spelling 797 799	on
+A3	Cause T8 Typo
+#5	AnnotatorNotes T8	On
+T9	lex_item_choice 854 862	quantity
+#6	AnnotatorNotes T9	part
+T10	lex_item_choice 883 887	when
+#22	AnnotatorNotes T10	while
+A4	Delete T12
+T13	Noun_number 970 973	man
+#8	AnnotatorNotes T13	men
+T14	Redundant 1060 1075	by the contrast
+A5	Delete T14
+#9	AnnotatorNotes T14	by contrast
+T28	Noun_number 1111 1124	undegraduates
+#10	AnnotatorNotes T28	undergraduate
+T15	Absence_explanation 1055 1155	But, by the contrast, females have higher proportion of undegraduates diplomas and Bachelor's degree

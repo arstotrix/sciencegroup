@@ -1,0 +1,198 @@
+T1	Absence_explanation 77 96	according to gender
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	and their distribution among genders
+T2	Absence_comp_sent 157 162	males
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	males have
+T3	Noun_number 143 156	qualification
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	qualifications
+T4	Standard 143 167	qualification males more
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	males had more/higher qualifications
+T5	Redundant_comp 129 142	percentage of
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+A16	Delete T5
+T6	Standard 182 215	The biggest difference we can see
+A17	Cause T6 L1_interference
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	We can see the biggest difference
+T7	Absence_comp_sent 219 245	skilled vocational diploma
+A20	Cause T7 Other
+A21	Weight-language T7 Major
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	the field of skilled vocational diploma
+T8	Absence_explanation 251 256	males
+A23	Cause T8 Other
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	percentage of males
+T9	Absence_comp_sent 285 303	approximaly bigger
+A26	Cause T9 L1_interference
+A27	Weight-language T9 Critical
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	was approximately higher
+T10	Spelling 285 296	approximaly
+A29	Cause T10 Other
+A30	Weight-language T10 Major
+A31	Weight-understanding T10 Minor
+#9	AnnotatorNotes T10	approximately
+T11	Prepositions 304 306	on
+A32	Cause T11 Other
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Minor
+#10	AnnotatorNotes T11	by
+T12	lex_item_choice 338 343	is in
+A35	Cause T12 Other
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Minor
+#11	AnnotatorNotes T12	concerns
+T13	lex_item_choice 406 410	more
+A38	Cause T13 Other
+A39	Weight-language T13 Major
+A40	Weight-understanding T13 Minor
+#12	AnnotatorNotes T13	higher
+T15	Numerical 504 527	doubled percentage then
+A44	Cause T15 Other
+A45	Weight-language T15 Critical
+A46	Weight-understanding T15 Major
+#14	AnnotatorNotes T15	twice as often as
+T17	Spelling 492 503	approximaly
+A50	Cause T17 Other
+A51	Weight-language T17 Major
+A52	Weight-understanding T17 Minor
+#16	AnnotatorNotes T17	approximately
+T19	Spelling 574 578	posr
+A56	Cause T19 Typo
+A57	Weight-language T19 Critical
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	post
+T20	Spelling 748 753	lever
+A59	Cause T20 Typo
+A60	Weight-language T20 Major
+A61	Weight-understanding T20 Minor
+#19	AnnotatorNotes T20	level
+T21	Absence_comp_sent 795 813	skilled vocational
+A62	Cause T21 Other
+A63	Weight-language T21 Critical
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	skilled vocational diploma
+T22	Absence_comp_sent 680 693	undergraduate
+A65	Cause T22 Other
+A66	Weight-language T22 Critical
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	undergraduate diploma
+T24	Absence_comp_sent 603 621	skilled vocational
+A71	Cause T24 Other
+A72	Weight-language T24 Critical
+A73	Weight-understanding T24 Minor
+#23	AnnotatorNotes T24	skilled vocational diploma
+T25	Prepositions 600 602	in
+A74	Cause T25 Other
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Minor
+#24	AnnotatorNotes T25	as
+T26	Standard 574 621	posr-school qualification in skilled vocational
+A77	Cause T26 Other
+A78	Weight-language T26 Critical
+A79	Weight-understanding T26 Major
+#25	AnnotatorNotes T26	skilled vocational diploma as a post-school qualification
+T23	Articles 574 599	posr-school qualification
+A68	Cause T23 Absence_of_Category_in_L1
+A69	Weight-language T23 Minor
+A70	Weight-understanding T23 Minor
+#22	AnnotatorNotes T23	a post-school qualification
+T28	Often_confused 627 631	then
+A83	Cause T28 Other
+A84	Weight-language T28 Major
+A85	Weight-understanding T28 Minor
+#27	AnnotatorNotes T28	than
+T31	Punctuation 622 643	more then 80 per cent
+A92	Cause T31 Other
+A93	Weight-language T31 Minor
+A94	Weight-understanding T31 Minor
+#30	AnnotatorNotes T31	- higher than 80 per cent
+T32	Prepositions 677 679	in
+A95	Cause T32 Other
+A96	Weight-language T32 Major
+A97	Weight-understanding T32 Minor
+#31	AnnotatorNotes T32	of
+T33	Redundant_comp 695 754	However, in this qualification males have the lowest lever.
+A98	Delete T33
+#32	AnnotatorNotes T33	THE SENTENCE AS A WHOLE IS REDUNDANT
+T34	lex_item_choice 764 768	data
+A99	Cause T34 Other
+A100	Weight-language T34 Major
+A101	Weight-understanding T34 Critical
+#33	AnnotatorNotes T34	situation
+T35	Standard 755 779	The same data we can see
+A102	Cause T35 L1_interference
+A103	Weight-language T35 Major
+A104	Weight-understanding T35 Minor
+#34	AnnotatorNotes T35	We can see the same situation
+T36	Redundant_comp 792 794	in
+A105	Cause T36 Other
+A106	Weight-language T36 Minor
+A107	Weight-understanding T36 Minor
+T37	Articles 858 868	difference
+A108	Cause T37 Absence_of_Category_in_L1
+A109	Weight-language T37 Minor
+A110	Weight-understanding T37 Minor
+#36	AnnotatorNotes T37	the difference
+T38	Redundant_comp 898 911	percentage of
+A111	Cause T38 Other
+A112	Weight-language T38 Minor
+A113	Weight-understanding T38 Minor
+A114	Delete T38
+T39	lex_item_choice 297 303	bigger
+A115	Cause T39 Other
+A116	Weight-language T39 Major
+A117	Weight-understanding T39 Minor
+#37	AnnotatorNotes T39	higher
+T40	Tense_choice 261 265	have
+A118	Cause T40 Other
+A119	Weight-language T40 Major
+A120	Weight-understanding T40 Major
+#38	AnnotatorNotes T40	had
+T41	Tense_choice 401 405	have
+A121	Cause T41 Other
+A122	Weight-language T41 Major
+A123	Weight-understanding T41 Major
+#39	AnnotatorNotes T41	had
+T14	Tense_choice 462 466	have
+A41	Cause T14 Other
+A42	Weight-language T14 Major
+A43	Weight-understanding T14 Major
+#13	AnnotatorNotes T14	had
+T16	Tense_choice 543 547	have
+A47	Cause T16 Other
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Major
+#15	AnnotatorNotes T16	had
+T18	Tense_choice 653 657	have
+A53	Cause T18 Other
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Major
+#17	AnnotatorNotes T18	had
+T27	lex_item_choice 670 676	number
+A80	Cause T27 Other
+A81	Weight-language T27 Major
+A82	Weight-understanding T27 Minor
+#26	AnnotatorNotes T27	rate
+A86	Delete T36
+T29	Possessive 784 791	females
+A87	Cause T29 Other
+A88	Weight-language T29 Major
+A89	Weight-understanding T29 Minor
+#28	AnnotatorNotes T29	females'

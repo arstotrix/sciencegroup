@@ -1,0 +1,36 @@
+T1	Punctuation 55 56	,
+A1	Delete T1
+T2	Punctuation 147 148	,
+A2	Delete T2
+T3	lex_item_choice 240 253	To start with
+#1	AnnotatorNotes T3	First of all
+T4	lex_item_choice 290 296	nearly
+#2	AnnotatorNotes T4	almost
+T5	Spelling 466 477	substencial
+#3	AnnotatorNotes T5	substantial
+T6	Spelling 622 631	stricking
+T7	Punctuation 687 688	,
+T8	Punctuation 708 709	,
+T9	Spelling 737 745	per cent
+T10	Punctuation 765 766	,
+T11	lex_item_choice 887 899	distribution
+T12	Tense_choice 934 940	varied
+T13	Punctuation 191 192	,
+T15	Tense_form 361 364	was
+T16	Spelling 301 307	quater
+#4	AnnotatorNotes T16	quarter
+#5	AnnotatorNotes T6	striking
+#6	AnnotatorNotes T9	percent
+T17	Articles 664 674	proportion
+#7	AnnotatorNotes T17	the proportion
+#8	AnnotatorNotes T15	were
+A3	Delete T13
+A4	Delete T7
+A5	Delete T8
+A6	Delete T10
+T14	Redundant_comp 597 607	one of the
+A7	Delete T14
+T18	Absence_comp_sent 608 612	road
+#9	AnnotatorNotes T18	road transportation
+#10	AnnotatorNotes T11	transportation
+#11	AnnotatorNotes T12	vary

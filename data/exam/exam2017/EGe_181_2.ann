@@ -1,0 +1,86 @@
+T2	Spelling 44 52	wheather
+#2	AnnotatorNotes T2	whether
+T3	Standard 53 126	should we spent as much money as we do to research space or we should not
+#3	AnnotatorNotes T3	or not we should spend as much money as we do to research space
+T4	Tense_form 63 68	spent
+#4	AnnotatorNotes T4	spend
+T5	Redundant_comp 113 122	we should
+A1	Delete T5
+T6	Absence_comp_sent 16 62	much debate in recent times wheather should we
+#5	AnnotatorNotes T6	many debates recently about whether we should
+T7	Standard 255 283	find there something special
+#6	AnnotatorNotes T7	find something special there
+T8	Absence_comp_sent 285 323	that we do not have here in our planet
+#7	AnnotatorNotes T8	something that we do not have on our planet
+T10	Prepositions 310 312	in
+#8	AnnotatorNotes T10	on
+T11	Defining 365 372	, which
+#9	AnnotatorNotes T11	which 
+T12	Spelling 421 425	here
+#10	AnnotatorNotes T12	there
+T13	suggestion 426 428	is
+#11	AnnotatorNotes T13	are
+T14	Tense_choice 523 526	try
+#12	AnnotatorNotes T14	are trying
+T15	Tense_choice 772 779	will be
+#13	AnnotatorNotes T15	would be
+T16	Noun_number 660 666	salary
+#14	AnnotatorNotes T16	salaries
+T17	Articles 671 680	equipment
+#15	AnnotatorNotes T17	the equipment
+T18	Articles 654 655	a
+A3	Delete T18
+T20	Spelling 900 913	invironmental
+#17	AnnotatorNotes T20	environmental
+T21	lex_item_choice 847 855	the case
+#18	AnnotatorNotes T21	likely
+T22	Spelling 995 1001	may be
+#19	AnnotatorNotes T22	maybe
+T25	Standard 941 974	will be payed much more attention
+#20	AnnotatorNotes T25	much more attention will be paid
+T26	Prepositional_verb 941 977	will be payed much more attention on
+#21	AnnotatorNotes T26	much more attention will be paid to
+T27	Redundant_comp 1170 1179	and only,
+A5	Delete T27
+T28	lex_part_choice 1235 1251	pay attention on
+#22	AnnotatorNotes T28	pay attention to
+T29	suggestion 1273 1275	on
+T31	lex_item_choice 1041 1050	keep well
+#24	AnnotatorNotes T31	get better
+T24	Tense_choice 1100 1103	try
+#25	AnnotatorNotes T24	are trying
+T32	Punctuation 1135 1144	meanwhile
+#26	AnnotatorNotes T32	meanwhile,
+T33	Spelling 356 365	resourses
+#27	AnnotatorNotes T33	resources
+T34	Spelling 388 393	lifes
+#28	AnnotatorNotes T34	lives
+T35	Spelling 949 954	payed
+#29	AnnotatorNotes T35	paid
+T36	Articles 1276 1285	the space
+#30	AnnotatorNotes T36	space
+R1	Dependent_change Arg1:T18 Arg2:T16	
+T1	Countable_uncountable 16 27	much debate
+#1	AnnotatorNotes T1	many debates
+T38	suggestion 16 27	much debate
+T39	suggestion 28 43	in recent times
+#32	AnnotatorNotes T39	recently
+T9	suggestion 439 448	milliards
+#33	AnnotatorNotes T9	billion
+T40	suggestion 437 458	7 milliards of people
+#34	AnnotatorNotes T40	7 billion people
+T41	suggestion 637 647	researches
+#35	AnnotatorNotes T41	researchers
+T42	suggestion 747 755	a lot of
+#36	AnnotatorNotes T42	too much
+T19	suggestion 935 940	there
+A2	Delete T19
+T23	suggestion 1089 1099	researches
+#16	AnnotatorNotes T23	researchers
+T30	suggestion 1148 1155	can not
+#23	AnnotatorNotes T30	cannot
+T37	Ref_device 1161 1169	this one
+#31	AnnotatorNotes T37	the one
+T43	suggestion 1189 1211	very important - it is
+A4	Delete T43
+#37	AnnotatorNotes T29	to

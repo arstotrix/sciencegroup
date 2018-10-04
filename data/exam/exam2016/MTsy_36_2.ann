@@ -1,0 +1,64 @@
+T1	Verb_Bare_Inf 36 54	should to restrict
+#1	AnnotatorNotes T1	should restrict
+T2	Spelling 127 134	warning
+#2	AnnotatorNotes T2	warming
+T3	Compound_word 152 162	well known
+#3	AnnotatorNotes T3	well-known
+T4	Articles 192 210	negative influence
+#4	AnnotatorNotes T4	a negative influence
+T5	Articles 323 329	number
+#5	AnnotatorNotes T5	the number
+T6	Articles 351 355	life
+#6	AnnotatorNotes T6	the life
+T7	lex_item_choice 385 397	inconvenient
+T8	Absence_comp_sent 455 468	quite various
+#7	AnnotatorNotes T8	may be various
+T9	Punctuation 548 555	however
+#8	AnnotatorNotes T9	however,
+T11	Ref_device 647 649	it
+#10	AnnotatorNotes T11	flights
+T12	lex_item_choice 703 706	way
+#11	AnnotatorNotes T12	case
+T13	Derivation 731 741	airflights
+#12	AnnotatorNotes T13	air flights
+T14	lex_item_choice 747 755	distinct
+#13	AnnotatorNotes T14	change
+T15	Agreement_errors 815 818	are
+#14	AnnotatorNotes T15	is
+T16	Punctuation 844 849	, who
+#15	AnnotatorNotes T16	who
+T17	Agreement_errors 902 910	restrict
+#16	AnnotatorNotes T17	restricts
+T18	Punctuation 977 989	, because of
+#17	AnnotatorNotes T18	because of
+T19	Spelling 994 1003	unability
+#18	AnnotatorNotes T19	inability
+T20	Often_confused 1113 1122	effect on
+#19	AnnotatorNotes T20	affect
+T21	Punctuation 1280 1290	To my mind
+#20	AnnotatorNotes T21	To my mind,
+T22	Linking_device 1060 1071	In this way
+#21	AnnotatorNotes T22	Thus
+T23	Punctuation 1247 1252	, who
+#22	AnnotatorNotes T23	who
+T24	Punctuation 1409 1416	, which
+#23	AnnotatorNotes T24	which
+T25	Spelling 1449 1458	influense
+#24	AnnotatorNotes T25	influence
+T26	Articles 1490 1500	government
+#25	AnnotatorNotes T26	the government
+T27	Agreement_errors 1501 1505	need
+#26	AnnotatorNotes T27	needs
+R1	Dependent_change Arg1:T26 Arg2:T27	
+T28	Redundant_comp 1549 1551	to
+A1	Delete T28
+T29	Articles 1637 1643	number
+#27	AnnotatorNotes T29	the number
+T30	Punctuation 1658 1667	, because
+#28	AnnotatorNotes T30	because
+T31	Punctuation 1728 1733	, but
+#29	AnnotatorNotes T31	but
+T10	lex_item_choice 441 445	aims
+#9	AnnotatorNotes T10	reasons
+T32	Redundant 455 460	quite
+A2	Delete T32

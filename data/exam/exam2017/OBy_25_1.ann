@@ -1,0 +1,9 @@
+T1	Inappropriate_register 51 55	it’s
+#1	AnnotatorNotes T1	it is
+T2	Category_confusion 61 67	noting
+#2	AnnotatorNotes T2	to note
+T3	Noun_number 73 82	the metal
+#3	AnnotatorNotes T3	metals
+T4	Agreement_errors 83 85	is
+#4	AnnotatorNotes T4	are
+R1	Dependent_change Arg1:T4 Arg2:T3	

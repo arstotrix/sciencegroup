@@ -1,0 +1,43 @@
+T1	Agreement_errors 30 40	investment
+#1	AnnotatorNotes T1	investments 
+T2	Agreement_errors 72 79	changes
+#2	AnnotatorNotes T2	change 
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T3	lex_item_choice 93 95	on
+#3	AnnotatorNotes T3	in 
+T4	Agreement_errors 263 273	investment
+#4	AnnotatorNotes T4	investments 
+T5	Absence_comp_sent 309 311	25
+#5	AnnotatorNotes T5	25 billion 
+T6	Agreement_errors 330 338	billions
+#6	AnnotatorNotes T6	billion 
+T7	Agreement_errors 418 426	billions
+#7	AnnotatorNotes T7	billion 
+T8	Agreement_errors 432 442	investment
+#8	AnnotatorNotes T8	investments 
+T9	Agreement_errors 487 495	billions
+#9	AnnotatorNotes T9	billion 
+T10	Agreement_errors 511 519	billions
+#10	AnnotatorNotes T10	billion 
+T11	Agreement_errors 557 565	billions
+#11	AnnotatorNotes T11	billion 
+T12	Often_confused 583 587	it’s
+#12	AnnotatorNotes T12	its
+T13	Agreement_errors 600 608	billions
+#13	AnnotatorNotes T13	billion 
+T14	Agreement_errors 670 678	billions
+#14	AnnotatorNotes T14	billion 
+T15	suggestion 662 665	the
+A1	Delete T15
+T16	Spelling 754 764	countries’
+#15	AnnotatorNotes T16	countries 
+T17	Agreement_errors 790 798	billions
+#16	AnnotatorNotes T17	billion 
+T18	Agreement_errors 843 851	billions
+#17	AnnotatorNotes T18	billion 
+T19	Agreement_errors 889 897	billions
+#18	AnnotatorNotes T19	billion 
+T20	Agreement_errors 937 945	billions
+#19	AnnotatorNotes T20	billion 
+T21	Articles 662 678	the 125 billions
+#20	AnnotatorNotes T21	125 billion

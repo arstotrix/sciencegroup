@@ -1,0 +1,47 @@
+T1	Tense_choice 61 71	is causing
+#1	AnnotatorNotes T1	causes
+T2	Articles 188 226	a wide range of illnesses and deceases
+#2	AnnotatorNotes T2	wide range of illnesses and diseases
+T3	Spelling 218 226	deceases
+#3	AnnotatorNotes T3	diseases
+T4	Redundant 244 254	developing
+A1	Delete T4
+T5	Articles 474 495	a traffic congestions
+#4	AnnotatorNotes T5	traffic congestions
+T6	lex_item_choice 496 508	which causes
+#5	AnnotatorNotes T6	the reasons of that
+T7	Redundant 608 613	about
+A2	Delete T7
+T8	Articles 657 664	ecology
+#6	AnnotatorNotes T8	the ecology
+T9	Prepositions 679 701	is at a very bad state
+#7	AnnotatorNotes T9	in a very bad state
+T10	Redundant_comp 843 869	in air and water pollution
+A3	Delete T10
+T11	lex_item_choice 707 714	willing
+#8	AnnotatorNotes T11	suggestion
+T12	lex_item_choice 794 816	end in a bad condition
+#9	AnnotatorNotes T12	ends badly because
+T13	Conjunctions 1280 1288	choosing
+#10	AnnotatorNotes T13	and choosing
+T14	lex_item_choice 1246 1258	giving up on
+#11	AnnotatorNotes T14	refusing 
+T15	Tense_choice 1259 1264	going
+#12	AnnotatorNotes T15	to go
+R1	Dependent_change Arg1:T15 Arg2:T14	
+T16	Spelling 1308 1318	Futhermore
+#13	AnnotatorNotes T16	Furthermore
+T17	Absence_explanation 1356 1366	everyone’s
+#14	AnnotatorNotes T17	everyone's personal
+T18	Absence_explanation 1413 1422	pollution
+#15	AnnotatorNotes T18	pollution situation
+T19	Prepositions 1443 1454	Focusing in
+#16	AnnotatorNotes T19	Focusing on
+T20	Word_order 1596 1622	will only breath fresh air
+#17	AnnotatorNotes T20	will breath only fresh air
+T21	Conjunctions 1709 1724	avoiding stress
+#18	AnnotatorNotes T21	and avoding stress
+T22	Redundant_comp 1904 1912	to do it
+A4	Delete T22
+T23	Prepositions 1927 1929	in
+#19	AnnotatorNotes T23	on 

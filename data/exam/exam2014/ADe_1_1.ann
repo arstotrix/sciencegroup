@@ -1,0 +1,130 @@
+T1	Transitive 55 66	learning of
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	learning
+T2	Tense_choice 23 30	will be
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	is
+T3	Ref_device 190 192	it
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	such approach
+T4	Absence_comp_sent 306 312	easier
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	easier for them
+T5	Word_choice 396 415	children’s poetries
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	nursery rhymes
+T6	Inappropriate_register 456 460	kids
+A16	Cause T6 Other
+A17	Weight-language T6 Minor
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	children
+T7	Tense_form 379 387	remember
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	remembers
+T8	Standard 357 387	Everyone , I suppose, remember
+A22	Cause T8 L1_interference
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	I suppose, everyone remembers
+T9	lex_item_choice 495 501	remind
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	recall
+T10	Articles 656 665	the child
+A28	Cause T10 Absence_of_Category_in_L1
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	(a) child
+T11	Category_confusion 677 685	memory’s
+A31	Cause T11 L1_interference
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	memory
+T12	Tense_choice 612 624	will benefit
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	can benefit
+T13	Modals 612 624	will benefit
+A37	Cause T13 Other
+A38	Weight-language T13 Minor
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	can benefit
+T14	Absence_comp_sent 617 624	benefit
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Major
+#14	AnnotatorNotes T14	benefit you/one
+T15	Redundant_comp 740 756	started to learn
+A43	Cause T15 Typo
+A44	Weight-language T15 Critical
+A45	Weight-understanding T15 Minor
+A46	Delete T15
+T16	Tense_choice 791 794	are
+A47	Cause T16 L1_interference
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Minor
+#15	AnnotatorNotes T16	were
+T17	Absence_comp_sent 822 831	languages
+A50	Cause T17 Other
+A51	Weight-language T17 Minor
+A52	Weight-understanding T17 Minor
+#16	AnnotatorNotes T17	languages in future
+T18	Tense_choice 839 846	will be
+A53	Cause T18 L1_interference
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Minor
+#17	AnnotatorNotes T18	was
+T19	Category_confusion 872 876	some
+A56	Cause T19 Other
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	someone
+T20	Category_confusion 889 902	this practice
+A59	Cause T20 Other
+A60	Weight-language T20 Major
+A61	Weight-understanding T20 Major
+#19	AnnotatorNotes T20	practising this
+T21	Ref_device 926 928	it
+A62	Cause T21 Other
+A63	Weight-language T21 Major
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	such approach
+T22	Inappropriate_register 1027 1031	kids
+A65	Cause T22 Other
+A66	Weight-language T22 Minor
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	children
+T23	Punctuation 1123 1148	To sum up the information
+A68	Cause T23 Other
+A69	Weight-language T23 Minor
+A70	Weight-understanding T23 Minor
+#22	AnnotatorNotes T23	To sum up the information,
+T24	Articles 1283 1288	child
+A71	Cause T24 Absence_of_Category_in_L1
+A72	Weight-language T24 Major
+A73	Weight-understanding T24 Minor
+#23	AnnotatorNotes T24	a child
+T25	Ref_device 1293 1295	he
+A74	Cause T25 L1_interference
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Minor
+#24	AnnotatorNotes T25	"he or she" / "they"
+T26	Tense_form 1253 1262	should be
+A77	Cause T26 Other
+A78	Weight-language T26 Minor
+A79	Weight-understanding T26 Critical
+#25	AnnotatorNotes T26	should not be

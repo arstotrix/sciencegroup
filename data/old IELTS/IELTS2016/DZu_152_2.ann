@@ -1,0 +1,57 @@
+T1	Tense_form 15 21	gained
+#1	AnnotatorNotes T1	has gained 
+T2	lex_item_choice 192 200	routline
+#2	AnnotatorNotes T2	permanent 
+T3	lex_item_choice 283 285	at
+#3	AnnotatorNotes T3	of 
+T4	lex_item_choice 712 720	continue
+#4	AnnotatorNotes T4	increased
+T6	Punctuation 732 751	as we know it today
+#5	AnnotatorNotes T6	, as we know it today, 
+T7	Tense_form 752 778	would had been disappeared
+#6	AnnotatorNotes T7	would disappear
+T8	Spelling 798 804	oxigen
+#7	AnnotatorNotes T8	oxygen 
+T9	Articles 851 862	governments
+#8	AnnotatorNotes T9	the governments 
+T10	Agreement_errors 1061 1067	orders
+#9	AnnotatorNotes T10	order 
+T11	Punctuation 1142 1144	so
+#10	AnnotatorNotes T11	so, 
+T12	Punctuation 1192 1214	, could help very well
+#11	AnnotatorNotes T12	could help very well 
+T13	Agreement_errors 1235 1239	laws
+#12	AnnotatorNotes T13	law 
+T14	Spelling 1246 1250	leas
+#13	AnnotatorNotes T14	lead 
+T15	Spelling 1324 1331	abcense
+#14	AnnotatorNotes T15	absence 
+T16	Agreement_errors 1278 1283	seems
+#15	AnnotatorNotes T16	seem 
+T17	Relative_clause 1493 1499	, that
+#16	AnnotatorNotes T17	that 
+T18	Punctuation 1554 1566	In this case
+#17	AnnotatorNotes T18	In this case, 
+T19	Punctuation 1591 1596	, and
+#18	AnnotatorNotes T19	and 
+T20	Spelling 1644 1646	mu
+#19	AnnotatorNotes T20	my 
+T21	Articles 1663 1674	governments
+#20	AnnotatorNotes T21	the governments 
+T22	Agreement_errors 1746 1750	this
+#21	AnnotatorNotes T22	these 
+T23	Spelling 1765 1767	ro
+#22	AnnotatorNotes T23	to 
+T24	Word_choice 1924 1930	change
+#23	AnnotatorNotes T24	replace 
+T25	Articles 2070 2081	governments
+#24	AnnotatorNotes T25	the governments 
+T26	Agreement_errors 2082 2085	are
+#25	AnnotatorNotes T26	is 
+T27	Agreement_errors 2095 2105	characters
+#26	AnnotatorNotes T27	character 
+R1	Dependent_change Arg1:T26 Arg2:T27	
+T5	Tense_choice 706 720	would continue
+#27	AnnotatorNotes T5	increased
+T28	Coherence 752 778	would had been disappeared
+#28	AnnotatorNotes T28	would disappear

@@ -1,0 +1,69 @@
+T1	note 2147 2148	.
+#1	AnnotatorNotes T1	Torubarov
+T2	Spelling 38 40	no
+#2	AnnotatorNotes T2	now
+T3	Word_choice 281 289	followed
+#3	AnnotatorNotes T3	and will then give
+T4	suggestion 290 292	by
+T6	Ref_device 596 598	it
+#6	AnnotatorNotes T6	they
+T7	Articles 633 650	vital news outlet
+#7	AnnotatorNotes T7	a vital news outlet
+T8	Ref_device 1052 1055	its
+#8	AnnotatorNotes T8	their
+T9	Spelling 1102 1108	quizes
+#9	AnnotatorNotes T9	quizzes
+T11	Ref_device 1285 1287	it
+#11	AnnotatorNotes T11	they
+T12	Agreement_errors 1288 1290	is
+#12	AnnotatorNotes T12	are
+R2	Dependent_change Arg1:T11 Arg2:T12	
+T14	Standard 1384 1398	need only turn
+#14	AnnotatorNotes T14	only need to
+T15	Punctuation 1541 1542	,
+T16	Agreement_errors 1730 1732	is
+#16	AnnotatorNotes T16	are
+T17	Ref_device 1748 1750	it
+#17	AnnotatorNotes T17	they
+T18	Agreement_errors 1751 1759	posseses
+#18	AnnotatorNotes T18	possess
+R3	Dependent_change Arg1:T17 Arg2:T18	
+T19	Redundant 1579 1598	Entertainment value
+#19	AnnotatorNotes T19	Entertainment
+T24	Word_choice 2036 2046	more vital
+#24	AnnotatorNotes T24	a more important feature
+T25	Confusion_of_structures 2074 2086	it possesses
+#25	AnnotatorNotes T25	there are
+T26	Absence_comp_colloc 41 44	are
+#26	AnnotatorNotes T26	there are
+T27	Ref_device 64 67	its
+#27	AnnotatorNotes T27	their
+A1	Delete T4
+R5	Dependent_change Arg1:T3 Arg2:T4	
+T28	Standard 591 602	also it can
+#5	AnnotatorNotes T28	they can also
+T29	Word_choice 750 759	combating
+#28	AnnotatorNotes T29	protesting against
+T30	Prepositions 1175 1188	any given day
+#29	AnnotatorNotes T30	on any given day
+T10	Prepositions 1309 1314	among
+#10	AnnotatorNotes T10	in
+T31	lex_item_choice 1357 1366	elsewhere
+#30	AnnotatorNotes T31	everywhere
+T32	lex_item_choice 1812 1817	array
+#31	AnnotatorNotes T32	spectrum
+T33	Lack_par_constr 1832 1834	is
+#32	AnnotatorNotes T33	are
+R1	Dependent_change Arg1:T17 Arg2:T33	
+T34	Voice 1857 1864	neglect
+#33	AnnotatorNotes T34	be neglected
+T35	Ref_device 1881 1884	its
+#34	AnnotatorNotes T35	their
+R6	Dependent_change Arg1:T17 Arg2:T35	
+A2	Delete T15
+T5	Category_confusion 1885 1896	information
+#4	AnnotatorNotes T5	informational
+T13	Articles 1315 1320	a sea
+#13	AnnotatorNotes T13	the sea
+T20	Determiners 1438 1443	other
+#15	AnnotatorNotes T20	another

@@ -1,0 +1,25 @@
+T1	Possessive 36 57	goods transportations
+#1	AnnotatorNotes T1	goods' transportations
+T2	Punctuation 79 86	Overall
+#2	AnnotatorNotes T2	Overall,
+T3	Category_confusion 146 159	manufacturing
+#3	AnnotatorNotes T3	manufactured
+T4	Articles 263 285	railway transportation
+#4	AnnotatorNotes T4	the railaway transportation
+T5	Category_confusion 623 627	this
+#5	AnnotatorNotes T5	the
+T6	Noun_number 758 768	proportion
+#6	AnnotatorNotes T6	proportions
+T7	Prepositions 758 776	proportion between
+#7	AnnotatorNotes T7	proportions of
+T8	Agreement_errors 824 826	is
+#8	AnnotatorNotes T8	are
+R1	Dependent_change Arg1:T8 Arg2:T6	
+T9	Tense_choice 853 856	are
+#9	AnnotatorNotes T9	were
+T10	Articles 911 922	differences
+#10	AnnotatorNotes T10	the differences
+T11	Articles 1077 1099	the similar percentage
+#11	AnnotatorNotes T11	similar percentages
+T12	Noun_number 1089 1099	percentage
+#12	AnnotatorNotes T12	percentages

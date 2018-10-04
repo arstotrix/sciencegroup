@@ -1,0 +1,29 @@
+T1	Noun_number 73 78	class
+#1	AnnotatorNotes T1	groups
+T2	lex_item_choice 73 78	class
+#2	AnnotatorNotes T2	groups
+T3	Prepositions 214 221	between
+#3	AnnotatorNotes T3	of
+T4	Coherence 241 277	and income depending on social class
+#4	AnnotatorNotes T4	with the increase in income
+T5	Prepositions 460 489	with the increasing income of
+#5	AnnotatorNotes T5	for
+T6	Redundant_comp 608 610	is
+A1	Delete T6
+T7	Coherence 555 567	social class
+#6	AnnotatorNotes T7	income
+T8	Redundant_comp 568 570	is
+A2	Delete T8
+T9	lex_item_choice 635 644	comprises
+#7	AnnotatorNotes T9	makes up
+T10	Noun_number 821 831	percentage
+#8	AnnotatorNotes T10	percentages
+T11	Agreement_errors 849 856	matches
+#9	AnnotatorNotes T11	match
+R1	Dependent_change Arg1:T10 Arg2:T11	
+T12	Word_choice 873 930	with the income slightly higher than that accepted middle
+#10	AnnotatorNotes T12	on the middle income
+T13	lex_item_choice 965 970	class
+#11	AnnotatorNotes T13	group
+T14	suggestion 1250 1251	.
+#12	AnnotatorNotes T14	THE GRADE IS 8

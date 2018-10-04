@@ -1,0 +1,70 @@
+T1	Spelling 145 153	thatswhy
+A1	Cause T1 Typo
+T3	Spelling 256 265	solvation
+#2	AnnotatorNotes T3	solution
+T4	Ref_device 115 121	effect
+#3	AnnotatorNotes T4	its effect
+T2	note 1885 1886	.
+#1	AnnotatorNotes T2	Смирнова
+#5	AnnotatorNotes T1	that's why
+T6	Articles 280 292	great amount
+#6	AnnotatorNotes T6	a great amount
+T8	Articles 367 378	huge number
+#8	AnnotatorNotes T8	a huge number
+T9	Spelling 449 454	waist
+#9	AnnotatorNotes T9	waste
+T10	Punctuation 546 547	,
+A2	Delete T10
+T11	Agreement_errors 630 635	cause
+#10	AnnotatorNotes T11	causes
+T12	lex_item_choice 668 676	outcomes
+#11	AnnotatorNotes T12	effects 
+T15	Punctuation 1142 1143	,
+A3	Delete T15
+T16	lex_item_choice 1201 1208	actions
+#14	AnnotatorNotes T16	measures
+T17	Infinitive_constr 1289 1299	in solving
+#15	AnnotatorNotes T17	to solve
+T18	Articles 1300 1307	problem
+#16	AnnotatorNotes T18	the problem
+T19	Redundant_comp 1346 1358	for example,
+#17	AnnotatorNotes T19	such as
+T21	Redundant_comp 1647 1657	fall down,
+A4	Delete T21
+T22	lex_item_choice 1795 1806	appropriate
+#19	AnnotatorNotes T22	suitable
+T23	lex_item_choice 194 200	invent
+#4	AnnotatorNotes T23	introduce
+T24	Articles 267 278	On one hand
+#20	AnnotatorNotes T24	On the one hand
+T25	Suffix 432 440	poisoned
+#21	AnnotatorNotes T25	poisonous
+T13	Agreement_errors 908 912	seem
+#12	AnnotatorNotes T13	seems
+T14	Prefix 934 946	not adequate
+#13	AnnotatorNotes T14	inadequate
+T26	Ref_device 973 975	it
+#22	AnnotatorNotes T26	air travel
+T28	lex_item_choice 923 929	strict
+#23	AnnotatorNotes T28	stringent
+T29	Absence_comp_colloc 919 946	too strict and not adequate
+#24	AnnotatorNotes T29	too stringent and inadequate a measure
+T30	Articles 1125 1131	number
+#25	AnnotatorNotes T30	the  number
+T31	Often_confused 1326 1332	except
+A5	Cause T31 L1_interference
+#26	AnnotatorNotes T31	besides
+T32	Punctuation 1324 1325	,
+A6	Delete T32
+A7	Delete T19
+T20	lex_item_choice 1597 1601	make
+#18	AnnotatorNotes T20	reduce
+T33	Defining 1699 1706	, which
+#27	AnnotatorNotes T33	which
+T34	Word_choice 1774 1780	To add
+#28	AnnotatorNotes T34	In addition
+T35	Articles 1795 1813	appropriate option
+#29	AnnotatorNotes T35	a suitable option
+T5	Redundant_comp 401 406	fuel,
+A8	Delete T5
+R1	Dependent_change Arg1:T20 Arg2:T21	

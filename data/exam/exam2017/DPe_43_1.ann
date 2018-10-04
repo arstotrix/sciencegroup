@@ -1,0 +1,57 @@
+T1	Comparative_constr 20 72	compares the level of unemployment in 2014 with 2015
+#1	AnnotatorNotes T1	compares the level of unemployment in 2014 and 2015
+T2	Possessive 134 140	world’
+#2	AnnotatorNotes T2	world's
+T3	Tense_choice 168 173	stays
+#3	AnnotatorNotes T3	stayed
+T4	Articles 183 196	previous year
+#4	AnnotatorNotes T4	the previous year
+T5	Articles 228 237	situation
+#5	AnnotatorNotes T5	the situation
+T6	Tense_choice 256 258	is
+#6	AnnotatorNotes T6	was
+T7	Articles 270 287	unemployment rate
+#7	AnnotatorNotes T7	the unemployment rate
+T8	Agreement_errors 292 296	this
+#8	AnnotatorNotes T8	these
+T9	Noun_number 297 304	country
+#9	AnnotatorNotes T9	contries
+R1	Dependent_change Arg1:T9 Arg2:T8	
+T10	Prepositional_verb 305 312	consist
+#10	AnnotatorNotes T10	consisted of
+T11	Agreement_errors 305 312	consist
+#11	AnnotatorNotes T11	consisted of
+T12	Spelling 326 334	procents
+#12	AnnotatorNotes T12	percents
+T13	Articles 373 384	Middle East
+#13	AnnotatorNotes T13	The Middle East
+T14	Tense_choice 305 312	consist
+#14	AnnotatorNotes T14	consisted of
+T15	Tense_choice 403 407	show
+#15	AnnotatorNotes T15	showed
+T16	Category_confusion 422 429	dynamic
+#16	AnnotatorNotes T16	dynamics
+T17	Articles 433 445	unemployment
+#17	AnnotatorNotes T17	the unemployment
+T18	Agreement_errors 449 453	this
+#18	AnnotatorNotes T18	these
+T19	Tense_choice 462 466	fall
+#19	AnnotatorNotes T19	fell
+T20	Prepositions 501 503	in
+#20	AnnotatorNotes T20	by
+T21	Articles 525 536	Middle East
+#21	AnnotatorNotes T21	the Middle East
+T22	Spelling 562 575	Never theless
+#22	AnnotatorNotes T22	Nevertheless
+T23	Possessive 577 583	Europe
+#23	AnnotatorNotes T23	Europe's
+T24	Spelling 584 595	uneployment
+#24	AnnotatorNotes T24	unemployment
+T25	Spelling 605 612	stadily
+#25	AnnotatorNotes T25	steadily
+T26	Category_confusion 690 696	others
+#26	AnnotatorNotes T26	other
+T27	Spelling 738 741	sad
+#27	AnnotatorNotes T27	said
+T28	lex_item_choice 771 776	saved
+#28	AnnotatorNotes T28	kept

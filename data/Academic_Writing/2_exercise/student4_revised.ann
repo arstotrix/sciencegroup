@@ -1,0 +1,114 @@
+T1	Word_choice 16 26	scientists
+T2	note_EL 16 26	scientists
+#1	AnnotatorNotes T2	Who are the scientists,  Guy Deutscher?
+T3	Word_choice 128 138	depends on
+#2	AnnotatorNotes T3	shaped by?
+T4	Word_choice 113 117	your
+#3	AnnotatorNotes T4	if possible, avoid 1st and 2nd person pronouns
+T5	Word_choice 139 143	your
+T6	note_EL 184 261	But the most important thing that forms your attitude is your native language
+#4	AnnotatorNotes T6	Whose opinion is this? It's too categorical. This is exactly what the article is exploring. 
+T7	Prepositions 320 323	for
+#5	AnnotatorNotes T7	no prep. needed
+T8	Word_choice 291 302	experiments
+#6	AnnotatorNotes T8	experiments are not "used"
+T9	Prepositions 340 342	of
+#7	AnnotatorNotes T9	in
+T10	Prepositions 353 360	between
+#8	AnnotatorNotes T10	among
+T11	Word_choice 489 493	your
+T12	Articles 403 410	article
+#9	AnnotatorNotes T12	the
+T13	Word_choice 452 462	scientists
+#10	AnnotatorNotes T13	wrong referential expression
+T14	Vocabulary 480 485	force
+T15	Word_choice 470 475	prove
+#11	AnnotatorNotes T15	explore/investigate
+#12	AnnotatorNotes T14	influence?
+T16	suggestion 509 510	.
+#13	AnnotatorNotes T16	on ....
+T17	suggestion 546 555	performed
+A1	Delete T17
+T18	Word_choice 526 533	amazing
+#14	AnnotatorNotes T18	too emotional. Interesting? 
+T19	Voice 512 678	here are many amazing experiments performed on studying the speech in the article which show us the power of language and different ways of thinking that are possible
+#15	AnnotatorNotes T19	Make this sentence active: The author describes many interesting experiments that demonstrate ...
+T20	suggestion 661 678	that are possible
+A2	Delete T20
+T21	suggestion 678 679	.
+#16	AnnotatorNotes T21	combine sentences 6 and 7 into one sentence
+T22	Word_choice 690 699	cientists
+T23	Voice 752 753	.
+#17	AnnotatorNotes T23	Too wordy. Passive voice would be better: However, this influence is often overestimated.
+T24	Word_choice 793 798	great
+#18	AnnotatorNotes T24	informal style. 'popular'?
+T25	Word_choice 807 814	creator
+#19	AnnotatorNotes T25	author
+T26	suggestion 834 863	did not have enough resources
+#20	AnnotatorNotes T26	Too wordy. "was not able to prove it"
+T27	note_EL 1026 1030	2010
+#21	AnnotatorNotes T27	not so
+T28	suggestion 1022 1025	the
+A3	Delete T28
+T29	note_EL 1110 1111	.
+#22	AnnotatorNotes T29	combine sentences 11&12
+T30	note_EL 1186 1187	.
+#23	AnnotatorNotes T30	too wordy : This idea returned and provoked many interesting experiments 
+T31	note_EL 1037 1039	it
+#24	AnnotatorNotes T31	What is the antecedent of 'it'? 'Research'? 
+T32	Word_choice 1245 1250	parts
+#25	AnnotatorNotes T32	groups, categories
+T33	Word_choice 1418 1423	sexes
+T34	suggestion 1485 1486	i
+A4	Addition T34
+#26	AnnotatorNotes T34	the
+T35	suggestion 1582 1588	-sexed
+A5	Delete T35
+T36	suggestion 1679 1685	-sexes
+A6	Delete T36
+T37	suggestion 1702 1703	y
+A7	Addition T37
+#27	AnnotatorNotes T37	described as
+T38	Word_choice 1949 1957	not ever
+#28	AnnotatorNotes T38	never
+T39	Word_choice 2006 2016	tremendous
+#29	AnnotatorNotes T39	too strong
+T40	Word_choice 2034 2040	writer
+#30	AnnotatorNotes T40	author
+T41	suggestion 2031 2136	he writer describes Guugu Yimithirr language (Australia) as an example of geographic orientation language
+#31	AnnotatorNotes T41	this sentence is unnecessary, try to incorporate this idea into the next sentence, e.g.: Egocentric languages use the self as a point of reference for describing the relative location of objects. Unlike this, geographic languages, such as G Y, use cardinal directions as an absolute point of reference. 
+T42	suggestion 1931 2028	As for me, I have not ever heard about geographic orientation, so it was a tremendous fact for me
+#32	AnnotatorNotes T42	You need to first explain what these concepts are, and only then you can evaluate them.
+T43	suggestion 2340 2341	o
+A8	Addition T43
+#33	AnnotatorNotes T43	sense of
+T44	suggestion 2030 2300	The writer describes Guugu Yimithirr language (Australia) as an example of geographic orientation language. That is quite strange for us because we got used to speak “right”, ”left”, ”straight” and ”back”. And they have a habit to use “south”, “north”, “east” and “west”
+#34	AnnotatorNotes T44	no logic
+T45	suggestion 2731 2732	t
+A9	Addition T45
+#35	AnnotatorNotes T45	of the article
+T46	Word_choice 2620 2629	upportive
+#36	AnnotatorNotes T46	reference
+T47	suggestion 2688 2716	also have different outlook.
+#37	AnnotatorNotes T47	unclear
+T48	Word_order 2781 2813	that different language speakers
+#38	AnnotatorNotes T48	speakers of different languages
+T49	Articles 2895 2898	the
+A10	Delete T49
+T50	Morphology 2950 2962	most strange
+#39	AnnotatorNotes T50	strangest
+T51	suggestion 2930 3074	For me that iss the most strange point in the article, because I usually imagine the past somewhere back and the future somewhere in front of me
+#40	AnnotatorNotes T51	Again, you have to explain first and then evaluate
+T52	Word_choice 3434 3445	summarising
+#41	AnnotatorNotes T52	summary
+T53	Articles 3478 3483	the f
+A11	Delete T53
+T54	Word_choice 3768 3772	that
+#42	AnnotatorNotes T54	which
+T55	suggestion 3736 3815	All those facts seem intriguing that makes reading this article a real pleasure
+#43	AnnotatorNotes T55	too wordy. "The intriguing facts make this article a pleasure to read."
+T56	note_EL 4038 4039	.
+#44	AnnotatorNotes T56	Audience: misconstrued (the critique is too personal) Purpose: yes. Logic: some flaws. Structure: OK, some flaws on the local level. Grammar: some mistakes. Style: too wordy.  Improved compared to the first draft Grade 6
+T57	Word_choice 1040 1059	became very popular
+#45	AnnotatorNotes T57	reappeared
+T58	Punctuation 3766 3767	g

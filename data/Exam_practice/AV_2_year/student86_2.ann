@@ -1,0 +1,125 @@
+T1	Redundant 339 347	find out
+T2	Redundant_comp 540 541	a
+T4	Agreement_errors 1268 1272	have
+T6	Redundant 1378 1390	regret about
+T7	Redundant_comp 1481 1487	a rich
+T8	Inappropriate_register 13 18	guess
+A1	Cause T8 Other
+A2	Weight-language T8 Minor
+A3	Weight-understanding T8 Minor
+#1	AnnotatorNotes T8	think OR believe OR suppose
+T9	note 13 18	guess
+#2	AnnotatorNotes T9	Your style should be neutral.
+T10	Word_choice 172 188	it is a big luck
+A4	Cause T10 L1_interference
+A5	Weight-language T10 Major
+A6	Weight-understanding T10 Minor
+#3	AnnotatorNotes T10	you are very lucky
+T11	lex_item_choice 218 220	be
+A7	Cause T11 L1_interference
+A8	Weight-language T11 Major
+A9	Weight-understanding T11 Minor
+#4	AnnotatorNotes T11	do
+T12	Word_choice 225 244	it is a double luck
+A10	Cause T12 L1_interference
+A11	Weight-language T12 Major
+A12	Weight-understanding T12 Minor
+#5	AnnotatorNotes T12	you are double lucky
+T13	Determiners 306 320	most of people
+A13	Cause T13 Other
+A14	Weight-language T13 Major
+A15	Weight-understanding T13 Minor
+#6	AnnotatorNotes T13	most people
+A16	Cause T1 Other
+A17	Weight-language T1 Major
+A18	Weight-understanding T1 Minor
+#7	AnnotatorNotes T1	find
+T14	note 373 480	from the very beginning at school students choosing an occupation prefer a well-paid job to a job they like
+#8	AnnotatorNotes T14	Do students actually get to choose a well-paid job at school? You should support your argument and make your meaning clearer.
+T15	Absence_explanation 425 438	an occupation
+A19	Cause T15 Other
+A20	Weight-language T15 Minor
+A21	Weight-understanding T15 Major
+#9	AnnotatorNotes T15	their future occupation
+T16	lex_item_choice 484 489	found
+A22	Cause T16 Other
+A23	Weight-language T16 Minor
+A24	Weight-understanding T16 Minor
+#10	AnnotatorNotes T16	consider
+T17	Tense_choice 484 489	found
+A25	Cause T17 Other
+A26	Weight-language T17 Critical
+A27	Weight-understanding T17 Minor
+#11	AnnotatorNotes T17	find
+T18	Inappropriate_register 514 527	it looks like
+A28	Cause T18 Other
+A29	Weight-language T18 Minor
+A30	Weight-understanding T18 Minor
+#12	AnnotatorNotes T18	it seems that
+A31	Cause T2 Other
+A32	Weight-language T2 Critical
+A33	Weight-understanding T2 Minor
+#13	AnnotatorNotes T2	no right one
+T19	lex_item_choice 605 608	are
+A34	Cause T19 L1_interference
+A35	Weight-language T19 Major
+A36	Weight-understanding T19 Minor
+#14	AnnotatorNotes T19	do
+T21	Word_choice 691 713	being what you want to
+#17	AnnotatorNotes T21	enjoying your job OR being able to enjoy your job OR doing a job that you want to do
+A37	Cause T21 L1_interference
+A38	Weight-language T21 Minor
+A39	Weight-understanding T21 Minor
+T3	lex_item_choice 777 783	manage
+A40	Cause T3 Other
+A41	Weight-language T3 Major
+A42	Weight-understanding T3 Minor
+#15	AnnotatorNotes T3	achieve
+T20	lex_item_choice 842 846	good
+A43	Cause T20 L1_interference
+A44	Weight-language T20 Major
+A45	Weight-understanding T20 Minor
+T22	Punctuation 828 831	you
+A46	Cause T22 Other
+A47	Weight-language T22 Minor
+A48	Weight-understanding T22 Minor
+#16	AnnotatorNotes T22	, you
+T23	lex_item_choice 887 897	dislikable
+A49	Cause T23 Other
+A50	Weight-language T23 Minor
+A51	Weight-understanding T23 Minor
+#18	AnnotatorNotes T23	unenjoyable
+T24	Word_choice 918 938	become what you want
+A52	Cause T24 L1_interference
+A53	Weight-language T24 Minor
+A54	Weight-understanding T24 Minor
+#19	AnnotatorNotes T24	find the right occupation
+T25	lex_item_choice 981 989	one more
+A55	Cause T25 L1_interference
+A56	Weight-language T25 Minor
+A57	Weight-understanding T25 Minor
+#20	AnnotatorNotes T25	another
+A58	Cause T4 Other
+A59	Weight-language T4 Critical
+A60	Weight-understanding T4 Minor
+#21	AnnotatorNotes T4	has
+T26	Determiners 1262 1263	a
+A61	Cause T26 Other
+A62	Weight-language T26 Minor
+A63	Weight-understanding T26 Minor
+#22	AnnotatorNotes T26	our
+T5	Absence_comp_sent 1334 1340	not go
+A64	Cause T5 Other
+A65	Weight-language T5 Critical
+A66	Weight-understanding T5 Minor
+#23	AnnotatorNotes T5	not to go
+#24	AnnotatorNotes T6	regret
+T27	Punctuation 1451 1454	you
+A67	Cause T27 Other
+A68	Weight-language T27 Minor
+A69	Weight-understanding T27 Minor
+#25	AnnotatorNotes T27	, you
+A70	Cause T7 Absence_of_Category_in_L1
+A71	Weight-language T7 Critical
+A72	Weight-understanding T7 Minor
+#26	AnnotatorNotes T7	rich

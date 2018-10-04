@@ -1,0 +1,30 @@
+T1	Spelling 199 206	vesions
+#1	AnnotatorNotes T1	versions
+T2	Agreement_errors 18 30	demonstrates
+#2	AnnotatorNotes T2	demonstrate
+T3	Spelling 869 878	Recieving
+#3	AnnotatorNotes T3	Receiving
+T4	lex_part_choice 1031 1040	reason of
+#4	AnnotatorNotes T4	reason for
+T5	note 1408 1409	n
+#5	AnnotatorNotes T5	DBatov
+T6	Spelling 1306 1308	it
+#6	AnnotatorNotes T6	is
+T7	lex_part_choice 93 103	reasons of
+#7	AnnotatorNotes T7	reasons for
+T8	Prepositions 120 127	between
+#8	AnnotatorNotes T8	for
+T9	Ref_device 180 185	users
+#9	AnnotatorNotes T9	those
+T11	Absence_comp_sent 791 835	54% mentioning it as one of the main reasons
+#10	AnnotatorNotes T11	with 54% mentioning it as one of the main reasons
+T13	Ref_device 864 867	one
+#11	AnnotatorNotes T13	the main reason
+T15	Absence_explanation 1115 1119	main
+#12	AnnotatorNotes T15	main reasons
+T16	Transitive 1181 1191	mention of
+#13	AnnotatorNotes T16	mention 
+T17	Redundant_comp 1230 1232	of
+A1	Delete T17
+R1	Dependent_change Arg1:T16 Arg2:T17	
+T18	Redundant 1181 1191	mention of

@@ -1,0 +1,426 @@
+T1	Spelling 101 107	taking
+#1	AnnotatorNotes T1	talking
+T2	Articles 565 572	uniform
+#2	AnnotatorNotes T2	a uniform
+T3	lex_item_choice 608 613	chair
+#3	AnnotatorNotes T3	class
+T4	Tense_choice 828 836	happened
+#4	AnnotatorNotes T4	that had happened 
+T5	Absence_comp_sent 828 836	happened
+#5	AnnotatorNotes T5	that had happened
+T6	Prepositions 837 841	with
+#6	AnnotatorNotes T6	to
+T7	Punctuation 974 975	.
+#7	AnnotatorNotes T7	!
+T8	Prepositions 961 965	from
+#8	AnnotatorNotes T8	of
+A1	Cause T6 L1_interference
+A2	Weight-language T6 Major
+A3	Weight-understanding T6 Minor
+A4	Cause T8 L1_interference
+A5	Weight-language T8 Minor
+A6	Weight-understanding T8 Minor
+T9	Tense_choice 507 519	haven’t seen
+#9	AnnotatorNotes T9	hadn't seen
+T10	Absence_comp_sent 123 126	saw
+#10	AnnotatorNotes T10	I saw
+T11	Emphatic 455 467	I understood
+#11	AnnotatorNotes T11	did I understand
+T12	pos_DT 0 4	That
+#12	AnnotatorNotes T12	lemma = 'that'
+T13	pos_NN 5 14	encounter
+#13	AnnotatorNotes T13	lemma = 'encounter'
+T14	pos_VBD 15 23	happened
+#14	AnnotatorNotes T14	lemma = 'happen'
+T15	pos_TO 24 26	to
+#15	AnnotatorNotes T15	lemma = 'to'
+T16	pos_PRP 27 29	me
+#16	AnnotatorNotes T16	lemma = 'me'
+T17	pos_DT 30 31	a
+#17	AnnotatorNotes T17	lemma = 'a'
+T18	pos_NN 32 36	week
+#18	AnnotatorNotes T18	lemma = 'week'
+T19	pos_RB 37 40	ago
+#19	AnnotatorNotes T19	lemma = 'ago'
+T20	pos_WRB 41 45	when
+#20	AnnotatorNotes T20	lemma = 'when'
+T21	pos_PRP 46 47	I
+#21	AnnotatorNotes T21	lemma = 'i'
+T22	pos_VBD 48 51	was
+#22	AnnotatorNotes T22	lemma = 'be'
+T23	pos_VBG 52 58	taking
+#23	AnnotatorNotes T23	lemma = 'take'
+T24	pos_DT 59 60	a
+#24	AnnotatorNotes T24	lemma = 'a'
+T25	pos_NN 61 65	tram
+#25	AnnotatorNotes T25	lemma = 'tram'
+T26	pos_NN 66 70	home
+#26	AnnotatorNotes T26	lemma = 'home'
+T27	pos_IN 71 75	from
+#27	AnnotatorNotes T27	lemma = 'from'
+T28	pos_DT 76 79	the
+#28	AnnotatorNotes T28	lemma = 'the'
+T29	pos_VBG 80 88	shopping
+#29	AnnotatorNotes T29	lemma = 'shop'
+T30	pos_NN 89 93	mall
+#30	AnnotatorNotes T30	lemma = 'mall'
+T31	pos_Fp 93 94	.
+#31	AnnotatorNotes T31	lemma = '.'
+T32	pos_PRP 95 96	I
+#32	AnnotatorNotes T32	lemma = 'i'
+T33	pos_VBD 97 100	was
+#33	AnnotatorNotes T33	lemma = 'be'
+T34	pos_VBG 101 107	taking
+#34	AnnotatorNotes T34	lemma = 'take'
+T35	pos_TO 108 110	to
+#35	AnnotatorNotes T35	lemma = 'to'
+T36	pos_PRP2 111 113	my
+#36	AnnotatorNotes T36	lemma = 'my'
+T37	pos_NP 114 117	Mum
+#37	AnnotatorNotes T37	lemma = 'mum'
+T38	pos_WRB 118 122	when
+#38	AnnotatorNotes T38	lemma = 'when'
+T39	pos_VBD 123 126	saw
+#39	AnnotatorNotes T39	lemma = 'saw'
+T40	pos_DT 127 128	a
+#40	AnnotatorNotes T40	lemma = 'a'
+T41	pos_JJ 129 137	familiar
+#41	AnnotatorNotes T41	lemma = 'familiar'
+T42	pos_NN 138 142	face
+#42	AnnotatorNotes T42	lemma = 'face'
+T43	pos_IN 143 145	in
+#43	AnnotatorNotes T43	lemma = 'in'
+T44	pos_DT 146 149	the
+#44	AnnotatorNotes T44	lemma = 'the'
+T45	pos_NN 150 155	crowd
+#45	AnnotatorNotes T45	lemma = 'crowd'
+T46	pos_CC 156 159	but
+#46	AnnotatorNotes T46	lemma = 'but'
+T47	pos_PRP 160 161	I
+#47	AnnotatorNotes T47	lemma = 'i'
+T48	pos_VBD 162 168	couldn
+#48	AnnotatorNotes T48	lemma = 'couldn'
+T49	pos_Fw 168 169	’
+#49	AnnotatorNotes T49	lemma = '’'
+T50	pos_RB 169 170	t
+#50	AnnotatorNotes T50	lemma = 't'
+T51	pos_VB 171 181	understand
+#51	AnnotatorNotes T51	lemma = 'understand'
+T52	pos_WRB 182 187	where
+#52	AnnotatorNotes T52	lemma = 'where'
+T53	pos_PRP 188 189	I
+#53	AnnotatorNotes T53	lemma = 'i'
+T54	pos_MD 190 195	could
+#54	AnnotatorNotes T54	lemma = 'can'
+T55	pos_VB 196 200	have
+#55	AnnotatorNotes T55	lemma = 'have'
+T56	pos_VBN 201 205	seen
+#56	AnnotatorNotes T56	lemma = 'see'
+T57	pos_DT 206 210	this
+#57	AnnotatorNotes T57	lemma = 'this'
+T58	pos_NN 211 215	face
+#58	AnnotatorNotes T58	lemma = 'face'
+T59	pos_RBR 216 223	earlier
+#59	AnnotatorNotes T59	lemma = 'earlier'
+T60	pos_Fp 223 224	.
+#60	AnnotatorNotes T60	lemma = '.'
+T61	pos_PRP 225 226	I
+#61	AnnotatorNotes T61	lemma = 'i'
+T62	pos_VBD 227 230	was
+#62	AnnotatorNotes T62	lemma = 'be'
+T63	pos_RB 231 237	nearly
+#63	AnnotatorNotes T63	lemma = 'nearly'
+T64	pos_VBN 238 245	shocked
+#64	AnnotatorNotes T64	lemma = 'shock'
+T65	pos_WRB 246 250	when
+#65	AnnotatorNotes T65	lemma = 'when'
+T66	pos_DT 251 255	this
+#66	AnnotatorNotes T66	lemma = 'this'
+T67	pos_NN 256 262	person
+#67	AnnotatorNotes T67	lemma = 'person'
+T68	pos_VBD 263 270	greeted
+#68	AnnotatorNotes T68	lemma = 'greet'
+T69	pos_PRP 271 273	me
+#69	AnnotatorNotes T69	lemma = 'me'
+T70	pos_CC 274 277	and
+#70	AnnotatorNotes T70	lemma = 'and'
+T71	pos_RB 278 288	completely
+#71	AnnotatorNotes T71	lemma = 'completely'
+T72	pos_VBN 289 298	horrified
+#72	AnnotatorNotes T72	lemma = 'horrify'
+T73	pos_WRB 299 303	when
+#73	AnnotatorNotes T73	lemma = 'when'
+T74	pos_PRP 304 305	I
+#74	AnnotatorNotes T74	lemma = 'i'
+T75	pos_VBD 306 316	understood
+#75	AnnotatorNotes T75	lemma = 'understand'
+T76	pos_IN 317 321	that
+#76	AnnotatorNotes T76	lemma = 'that'
+T77	pos_DT 322 326	this
+#77	AnnotatorNotes T77	lemma = 'this'
+T78	pos_NN 327 333	person
+#78	AnnotatorNotes T78	lemma = 'person'
+T79	pos_VBD 334 337	was
+#79	AnnotatorNotes T79	lemma = 'be'
+T80	pos_IN 338 340	in
+#80	AnnotatorNotes T80	lemma = 'in'
+T81	pos_DT 341 344	the
+#81	AnnotatorNotes T81	lemma = 'the'
+T82	pos_NN 345 352	uniform
+#82	AnnotatorNotes T82	lemma = 'uniform'
+T83	pos_Fp 352 353	.
+#83	AnnotatorNotes T83	lemma = '.'
+T84	pos_PRP 354 355	I
+#84	AnnotatorNotes T84	lemma = 'i'
+T85	pos_VBP 356 360	hope
+#85	AnnotatorNotes T85	lemma = 'hope'
+T86	pos_IN 361 365	that
+#86	AnnotatorNotes T86	lemma = 'that'
+T87	pos_DT 366 370	this
+#87	AnnotatorNotes T87	lemma = 'this'
+T88	pos_JJ 371 376	messy
+#88	AnnotatorNotes T88	lemma = 'messy'
+T89	pos_NN 377 382	train
+#89	AnnotatorNotes T89	lemma = 'train'
+T90	pos_IN 383 385	of
+#90	AnnotatorNotes T90	lemma = 'of'
+T91	pos_NNS 386 394	thoughts
+#91	AnnotatorNotes T91	lemma = 'thought'
+T92	pos_VBN 395 399	wasn
+#92	AnnotatorNotes T92	lemma = 'wasn'
+T93	pos_Fw 399 400	’
+#93	AnnotatorNotes T93	lemma = '’'
+T94	pos_NN 400 401	t
+#94	AnnotatorNotes T94	lemma = 't'
+T95	pos_VBN 402 407	shown
+#95	AnnotatorNotes T95	lemma = 'show'
+T96	pos_IN 408 410	on
+#96	AnnotatorNotes T96	lemma = 'on'
+T97	pos_PRP2 411 413	my
+#97	AnnotatorNotes T97	lemma = 'my'
+T98	pos_NN 414 418	face
+#98	AnnotatorNotes T98	lemma = 'face'
+T99	pos_Fp 418 419	.
+#99	AnnotatorNotes T99	lemma = '.'
+T100	pos_JJ 420 424	Only
+#100	AnnotatorNotes T100	lemma = 'only'
+T101	pos_IN 425 430	after
+#101	AnnotatorNotes T101	lemma = 'after'
+T102	pos_DT 431 435	this
+#102	AnnotatorNotes T102	lemma = 'this'
+T103	pos_NN 436 442	person
+#103	AnnotatorNotes T103	lemma = 'person'
+T104	pos_VBD 443 447	came
+#104	AnnotatorNotes T104	lemma = 'come'
+T105	pos_NN 448 454	closer
+#105	AnnotatorNotes T105	lemma = 'closer'
+T106	pos_PRP 455 456	I
+#106	AnnotatorNotes T106	lemma = 'i'
+T107	pos_VBD 457 467	understood
+#107	AnnotatorNotes T107	lemma = 'understand'
+T108	pos_IN 468 472	that
+#108	AnnotatorNotes T108	lemma = 'that'
+T109	pos_PRP 473 475	it
+#109	AnnotatorNotes T109	lemma = 'it'
+T110	pos_VBD 476 479	was
+#110	AnnotatorNotes T110	lemma = 'be'
+T111	pos_PRP2 480 482	my
+#111	AnnotatorNotes T111	lemma = 'my'
+T112	pos_JJ 483 489	former
+#112	AnnotatorNotes T112	lemma = 'former'
+T113	pos_NN 490 499	classmate
+#113	AnnotatorNotes T113	lemma = 'classmate'
+T114	pos_WP 500 504	whom
+#114	AnnotatorNotes T114	lemma = 'whom'
+T115	pos_PRP 505 506	I
+#115	AnnotatorNotes T115	lemma = 'i'
+T116	pos_NN 507 512	haven
+#116	AnnotatorNotes T116	lemma = 'haven'
+T117	pos_Fw 512 513	’
+#117	AnnotatorNotes T117	lemma = '’'
+T118	pos_NN 513 514	t
+#118	AnnotatorNotes T118	lemma = 't'
+T119	pos_VBN 515 519	seen
+#119	AnnotatorNotes T119	lemma = 'see'
+T120	pos_IN 520 523	for
+#120	AnnotatorNotes T120	lemma = 'for'
+T121	pos_RB 524 529	about
+#121	AnnotatorNotes T121	lemma = 'about'
+T122	pos_Z 530 531	3
+#122	AnnotatorNotes T122	lemma = '3'
+T123	pos_NNS 532 537	years
+#123	AnnotatorNotes T123	lemma = 'year'
+T124	pos_CC 538 541	and
+#124	AnnotatorNotes T124	lemma = 'and'
+T125	pos_Zp 542 548	a half
+#125	AnnotatorNotes T125	lemma = '1/2'
+T126	pos_Fp 548 549	.
+#126	AnnotatorNotes T126	lemma = '.'
+T127	pos_PRP 550 552	He
+#127	AnnotatorNotes T127	lemma = 'he'
+T128	pos_VBD 553 556	was
+#128	AnnotatorNotes T128	lemma = 'be'
+T129	pos_VBG 557 564	wearing
+#129	AnnotatorNotes T129	lemma = 'wear'
+T130	pos_NN 565 572	uniform
+#130	AnnotatorNotes T130	lemma = 'uniform'
+T131	pos_IN 573 580	because
+#131	AnnotatorNotes T131	lemma = 'because'
+T132	pos_DT 581 585	that
+#132	AnnotatorNotes T132	lemma = 'that'
+T133	pos_NN 586 589	day
+#133	AnnotatorNotes T133	lemma = 'day'
+T134	pos_PRP 590 592	he
+#134	AnnotatorNotes T134	lemma = 'he'
+T135	pos_VBD 593 596	had
+#135	AnnotatorNotes T135	lemma = 'have'
+T136	pos_DT 597 598	a
+#136	AnnotatorNotes T136	lemma = 'a'
+T137	pos_JJ 599 607	military
+#137	AnnotatorNotes T137	lemma = 'military'
+T138	pos_NN 608 613	chair
+#138	AnnotatorNotes T138	lemma = 'chair'
+T139	pos_IN 614 616	at
+#139	AnnotatorNotes T139	lemma = 'at'
+T140	pos_PRP2 617 620	his
+#140	AnnotatorNotes T140	lemma = 'his'
+T141	pos_NN 621 631	university
+#141	AnnotatorNotes T141	lemma = 'university'
+T142	pos_Fp 631 632	.
+#142	AnnotatorNotes T142	lemma = '.'
+T143	pos_PRP2 633 635	My
+#143	AnnotatorNotes T143	lemma = 'my'
+T144	pos_NN 636 645	classmate
+#144	AnnotatorNotes T144	lemma = 'classmate'
+T145	pos_CC 646 649	and
+#145	AnnotatorNotes T145	lemma = 'and'
+T146	pos_PRP 650 651	I
+#146	AnnotatorNotes T146	lemma = 'i'
+T147	pos_VBD 652 655	got
+#147	AnnotatorNotes T147	lemma = 'get'
+T148	pos_RP 656 659	off
+#148	AnnotatorNotes T148	lemma = 'off'
+T149	pos_DT 660 663	the
+#149	AnnotatorNotes T149	lemma = 'the'
+T150	pos_NN 664 668	tram
+#150	AnnotatorNotes T150	lemma = 'tram'
+T151	pos_VBG 669 676	leaving
+#151	AnnotatorNotes T151	lemma = 'leave'
+T152	pos_PRP2 677 679	my
+#152	AnnotatorNotes T152	lemma = 'my'
+T153	pos_NP 680 683	Mum
+#153	AnnotatorNotes T153	lemma = 'mum'
+T154	pos_RB 684 689	alone
+#154	AnnotatorNotes T154	lemma = 'alone'
+T155	pos_IN 690 692	as
+#155	AnnotatorNotes T155	lemma = 'as'
+T156	pos_PRP 693 696	she
+#156	AnnotatorNotes T156	lemma = 'she'
+T157	pos_VBD 697 700	had
+#157	AnnotatorNotes T157	lemma = 'have'
+T158	pos_TO 701 703	to
+#158	AnnotatorNotes T158	lemma = 'to'
+T159	pos_VB 704 711	collect
+#159	AnnotatorNotes T159	lemma = 'collect'
+T160	pos_PRP2 712 714	my
+#160	AnnotatorNotes T160	lemma = 'my'
+T161	pos_NN 715 722	brother
+#161	AnnotatorNotes T161	lemma = 'brother'
+T162	pos_IN 723 727	from
+#162	AnnotatorNotes T162	lemma = 'from'
+T163	pos_NN 728 734	school
+#163	AnnotatorNotes T163	lemma = 'school'
+T164	pos_Fp 734 735	.
+#164	AnnotatorNotes T164	lemma = '.'
+T165	pos_PRP 736 738	We
+#165	AnnotatorNotes T165	lemma = 'we'
+T166	pos_VBP 739 743	live
+#166	AnnotatorNotes T166	lemma = 'live'
+T167	pos_RB 744 750	nearly
+#167	AnnotatorNotes T167	lemma = 'nearly'
+T168	pos_VB 751 756	close
+#168	AnnotatorNotes T168	lemma = 'close'
+T169	pos_TO 757 759	to
+#169	AnnotatorNotes T169	lemma = 'to'
+T170	pos_DT 760 764	each
+#170	AnnotatorNotes T170	lemma = 'each'
+T171	pos_NN 765 770	other
+#171	AnnotatorNotes T171	lemma = 'other'
+T172	pos_CC 771 774	and
+#172	AnnotatorNotes T172	lemma = 'and'
+T173	pos_PRP 775 777	we
+#173	AnnotatorNotes T173	lemma = 'we'
+T174	pos_VBD 778 784	walked
+#174	AnnotatorNotes T174	lemma = 'walk'
+T175	pos_PRP2 785 788	our
+#175	AnnotatorNotes T175	lemma = 'our'
+T176	pos_NNS 789 793	ways
+#176	AnnotatorNotes T176	lemma = 'way'
+T177	pos_NN 794 798	home
+#177	AnnotatorNotes T177	lemma = 'home'
+T178	pos_VBG 799 806	talking
+#178	AnnotatorNotes T178	lemma = 'talk'
+T179	pos_IN 807 812	about
+#179	AnnotatorNotes T179	lemma = 'about'
+T180	pos_PDT 813 816	all
+#180	AnnotatorNotes T180	lemma = 'all'
+T181	pos_DT 817 820	the
+#181	AnnotatorNotes T181	lemma = 'the'
+T182	pos_NNS 821 827	events
+#182	AnnotatorNotes T182	lemma = 'event'
+T183	pos_VBD 828 836	happened
+#183	AnnotatorNotes T183	lemma = 'happen'
+T184	pos_IN 837 841	with
+#184	AnnotatorNotes T184	lemma = 'with'
+T185	pos_PRP 842 844	us
+#185	AnnotatorNotes T185	lemma = 'us'
+T186	pos_WRB 845 849	when
+#186	AnnotatorNotes T186	lemma = 'when'
+T187	pos_PRP 850 852	we
+#187	AnnotatorNotes T187	lemma = 'we'
+T188	pos_VBD 853 857	were
+#188	AnnotatorNotes T188	lemma = 'be'
+T189	pos_VBG 858 866	studying
+#189	AnnotatorNotes T189	lemma = 'study'
+T190	pos_RP 867 875	together
+#190	AnnotatorNotes T190	lemma = 'together'
+T191	pos_Fp 875 876	.
+#191	AnnotatorNotes T191	lemma = '.'
+T192	pos_DT 877 880	The
+#192	AnnotatorNotes T192	lemma = 'the'
+T193	pos_NN 881 888	weather
+#193	AnnotatorNotes T193	lemma = 'weather'
+T194	pos_VBD 889 892	was
+#194	AnnotatorNotes T194	lemma = 'be'
+T195	pos_JJ 893 902	wonderful
+#195	AnnotatorNotes T195	lemma = 'wonderful'
+T196	pos_CC 903 906	and
+#196	AnnotatorNotes T196	lemma = 'and'
+T197	pos_PRP 907 909	it
+#197	AnnotatorNotes T197	lemma = 'it'
+T198	pos_VBD 910 913	was
+#198	AnnotatorNotes T198	lemma = 'be'
+T199	pos_PDT 914 918	such
+#199	AnnotatorNotes T199	lemma = 'such'
+T200	pos_DT 919 920	a
+#200	AnnotatorNotes T200	lemma = 'a'
+T201	pos_JJ 921 925	nice
+#201	AnnotatorNotes T201	lemma = 'nice'
+T202	pos_NN 926 936	experience
+#202	AnnotatorNotes T202	lemma = 'experience'
+T203	pos_TO 937 939	to
+#203	AnnotatorNotes T203	lemma = 'to'
+T204	pos_VB 940 947	discuss
+#204	AnnotatorNotes T204	lemma = 'discuss'
+T205	pos_PRP2 948 951	our
+#205	AnnotatorNotes T205	lemma = 'our'
+T206	pos_NNS 952 960	memories
+#206	AnnotatorNotes T206	lemma = 'memory'
+T207	pos_IN 961 965	from
+#207	AnnotatorNotes T207	lemma = 'from'
+T208	pos_DT 966 969	the
+#208	AnnotatorNotes T208	lemma = 'the'
+T209	pos_NN 970 974	past
+#209	AnnotatorNotes T209	lemma = 'past'
+T210	pos_Fp 974 975	.
+#210	AnnotatorNotes T210	lemma = '.'

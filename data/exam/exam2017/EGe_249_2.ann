@@ -1,0 +1,54 @@
+T1	lex_item_choice 38 41	any
+#1	AnnotatorNotes T1	every
+T2	Often_confused 68 74	decide
+#2	AnnotatorNotes T2	solve
+T3	lex_item_choice 289 295	decide
+#3	AnnotatorNotes T3	solve
+T4	Conditionals 282 284	do
+#4	AnnotatorNotes T4	will
+T5	Voice 374 384	be reduced
+#5	AnnotatorNotes T5	reduce
+T6	Absence_comp_sent 435 438	Let
+#6	AnnotatorNotes T6	Let us
+T7	Interrogative 448 476	is it right statement or not
+#7	AnnotatorNotes T7	if this statement is right or not
+T8	Prepositions 568 578	conributes
+#8	AnnotatorNotes T8	conributes into
+T9	Spelling 539 541	if
+#9	AnnotatorNotes T9	of
+T10	Absence_comp_sent 613 615	is
+#10	AnnotatorNotes T10	and it is
+T11	Absence_comp_colloc 672 676	have
+#11	AnnotatorNotes T11	have to
+T12	Infinitive_constr 773 781	reducing
+#12	AnnotatorNotes T12	to reduce
+T13	lex_item_choice 860 864	want
+#13	AnnotatorNotes T13	try 
+T14	Infinitive_constr 980 995	for introducing
+#14	AnnotatorNotes T14	to introduce
+T15	Spelling 1039 1049	goverments
+#15	AnnotatorNotes T15	governments
+T16	Spelling 1051 1061	Every days
+#16	AnnotatorNotes T16	Everyday 
+T17	Pronouns 1131 1133	it
+#17	AnnotatorNotes T17	them
+T18	Tense_choice 1282 1292	are trying
+#18	AnnotatorNotes T18	try
+T19	Agreement_errors 1486 1493	desires
+#19	AnnotatorNotes T19	desire
+T20	Agreement_errors 1472 1478	people
+R1	Dependent_change Arg1:T19 Arg2:T20	
+T21	lex_item_choice 1511 1521	situations
+#20	AnnotatorNotes T21	conditions
+T22	Often_confused 1570 1576	decide
+#21	AnnotatorNotes T22	solve
+T23	Spelling 1622 1625	rik
+#22	AnnotatorNotes T23	risk
+T24	Spelling 1738 1748	Goverments
+#23	AnnotatorNotes T24	Governments
+T25	Interrogative 1789 1801	we will lose
+#24	AnnotatorNotes T25	will we lose
+T26	lex_item_choice 1840 1847	reduces
+#25	AnnotatorNotes T26	does harm
+T27	note 1873 1874	s
+#26	AnnotatorNotes T27	Zavyalov

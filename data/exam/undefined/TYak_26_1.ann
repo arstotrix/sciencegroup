@@ -1,0 +1,26 @@
+T1	Agreement_errors 11 19	provides
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	provide
+T2	note 641 644	???
+#2	AnnotatorNotes T2	hard to understand
+T3	Inappropriate_register 733 762	The foreign travelers numbers
+A2	Cause T3 L1_interference
+#3	AnnotatorNotes T3	The number of foreign travelers
+T4	Articles 828 829	a
+A3	Cause T4 Absence_of_Category_in_L1
+#4	AnnotatorNotes T4	the
+T5	Noun_number 884 892	resident
+A4	Cause T5 Other
+#5	AnnotatorNotes T5	residents
+T6	Articles 1042 1043	a
+A5	Cause T6 Absence_of_Category_in_L1
+#6	AnnotatorNotes T6	the
+T7	Comparative_adj 1095 1099	then
+A6	Cause T7 Other
+#7	AnnotatorNotes T7	than
+T8	Redundant_comp 1260 1264	very
+A7	Cause T8 L1_interference
+A8	Delete T8
+T9	Spelling 1567 1572	carts
+A9	Cause T9 Typo
+#8	AnnotatorNotes T9	charts

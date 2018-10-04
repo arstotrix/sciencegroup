@@ -1,0 +1,41 @@
+T1	Verb_Inf 12 50	consider having an enjoyable job being
+T2	suggestion 488 496	won't be
+T3	Spelling 788 793	payed
+T4	Punctuation 956 962	, that
+#1	AnnotatorNotes T4	that
+T5	Absence_explanation 1174 1177	job
+#2	AnnotatorNotes T5	job proposal
+T6	Often_confused 1035 1046	proposition
+#3	AnnotatorNotes T6	proposal
+T7	Category_confusion 1407 1419	are existant
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Critical
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+A7	Cause T3 Typo
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Critical
+A13	Cause T6 Other
+A14	Weight-language T6 Critical
+A15	Weight-understanding T6 Critical
+A16	Cause T7 Other
+A17	Weight-language T7 Minor
+A18	Weight-understanding T7 Critical
+A19	Cause T5 Other
+A20	Weight-language T5 Critical
+A21	Weight-understanding T5 Critical
+#4	AnnotatorNotes T1	consider having an enjoyable job to be
+T8	suggestion 12 50	consider having an enjoyable job being
+T9	Tense_choice 488 496	won't be
+#5	AnnotatorNotes T9	isn't
+#6	AnnotatorNotes T7	exist
+A22	Cause T9 Other
+A23	Weight-language T9 Critical
+A24	Weight-understanding T9 Critical
+A25	Delete T2
+A26	Delete T8

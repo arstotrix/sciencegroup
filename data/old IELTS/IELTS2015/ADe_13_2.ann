@@ -1,0 +1,267 @@
+T2	lex_item_choice 90 114	increasing significantly
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	is getting significantly harder
+T3	Punctuation 114 115	,
+A7	Cause T3 Other
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	;
+T5	Discourse 155 174	as best as possible
+A13	Cause T5 Other
+A14	Weight-language T5 Critical
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	of the best possible way
+T6	lex_item_choice 178 185	prepare
+A16	Cause T6 Other
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	provide
+T7	Noun_number 215 220	skill
+A19	Cause T7 Other
+A20	Weight-language T7 Minor
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	skills
+T8	Spelling 262 264	On
+A22	Cause T8 Typo
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	One
+T9	lex_item_choice 309 317	prepared
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	thought of / studied
+T10	Punctuation 352 353	,
+A28	Cause T10 Other
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Major
+A31	Delete T10
+T11	Absence_comp_sent 441 462	to apply a future job
+A32	Cause T11 Other
+A33	Weight-language T11 Critical
+A34	Weight-understanding T11 Major
+#10	AnnotatorNotes T11	to apply in a future job
+T12	Prepositions 547 550	for
+A35	Cause T12 Other
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Major
+#11	AnnotatorNotes T12	to
+T13	Discourse 651 688	advantages and disadvantages, as well
+A38	Cause T13 Other
+A39	Weight-language T13 Major
+A40	Weight-understanding T13 Critical
+#12	AnnotatorNotes T13	disadvantages as well as advantages in it
+T15	Articles 717 720	the
+A44	Cause T15 Absence_of_Category_in_L1
+A45	Weight-language T15 Major
+A46	Weight-understanding T15 Minor
+#14	AnnotatorNotes T15	a
+T16	Noun_number 757 766	character
+A47	Cause T16 L1_interference
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Major
+#15	AnnotatorNotes T16	characters
+T17	Redundant_comp 780 784	that
+A50	Cause T17 Other
+A51	Weight-language T17 Critical
+A52	Weight-understanding T17 Major
+A53	Delete T17
+T18	lex_item_choice 789 794	first
+A54	Cause T18 Other
+A55	Weight-language T18 Major
+A56	Weight-understanding T18 Major
+#16	AnnotatorNotes T18	main
+T21	Punctuation 977 978	,
+A65	Cause T21 L1_interference
+A66	Weight-language T21 Minor
+A67	Weight-understanding T21 Minor
+A68	Delete T21
+T22	Discourse 1030 1057	based on my own experience,
+A69	Cause T22 Other
+A70	Weight-language T22 Major
+A71	Weight-understanding T22 Minor
+#17	AnnotatorNotes T22	I can say from my own experience that
+T23	Discourse 1143 1186	think and remember hard about the materials
+A72	Cause T23 Other
+A73	Weight-language T23 Critical
+A74	Weight-understanding T23 Critical
+#18	AnnotatorNotes T23	think about difficult materials and remember them
+T27	Articles 1202 1205	the
+A84	Cause T27 Absence_of_Category_in_L1
+A85	Weight-language T27 Major
+A86	Weight-understanding T27 Major
+A87	Delete T27
+T28	Tense_choice 1235 1245	are having
+A88	Cause T28 Absence_of_Category_in_L1
+A89	Weight-language T28 Major
+A90	Weight-understanding T28 Major
+#22	AnnotatorNotes T28	have
+T29	Spelling 1337 1345	teaahers
+A91	Cause T29 Typo
+A92	Weight-language T29 Critical
+A93	Weight-understanding T29 Minor
+#23	AnnotatorNotes T29	teachers
+T30	Absence_comp_sent 1346 1349	not
+A94	Cause T30 L1_interference
+A95	Weight-language T30 Critical
+A96	Weight-understanding T30 Minor
+#24	AnnotatorNotes T30	do not / don't
+T31	Spelling 1521 1532	havealready
+A97	Cause T31 Typo
+A98	Weight-language T31 Critical
+A99	Weight-understanding T31 Minor
+#25	AnnotatorNotes T31	already has
+T32	Tense_form 1521 1525	have
+A100	Cause T32 Other
+A101	Weight-language T32 Major
+A102	Weight-understanding T32 Minor
+#26	AnnotatorNotes T32	has
+T33	Standard 1521 1532	havealready
+A103	Cause T33 L1_interference
+A104	Weight-language T33 Major
+A105	Weight-understanding T33 Minor
+#27	AnnotatorNotes T33	already has
+T34	Articles 1533 1552	good brain capacity
+A106	Cause T34 Absence_of_Category_in_L1
+A107	Weight-language T34 Minor
+A108	Weight-understanding T34 Minor
+#28	AnnotatorNotes T34	a sufficient brain capacity
+T35	Punctuation 1495 1496	,
+A109	Cause T35 Other
+A110	Weight-language T35 Critical
+A111	Weight-understanding T35 Minor
+A112	Delete T35
+T36	Articles 1367 1389	the character building
+A113	Cause T36 Absence_of_Category_in_L1
+A114	Weight-language T36 Minor
+A115	Weight-understanding T36 Minor
+#29	AnnotatorNotes T36	character building
+T37	Transitive 1430 1463	study on a more difficult subject
+A116	Cause T37 Other
+A117	Weight-language T37 Major
+A118	Weight-understanding T37 Major
+#30	AnnotatorNotes T37	study a more difficult subject
+T38	Tense_choice 1404 1409	could
+A119	Cause T38 Other
+A120	Weight-language T38 Major
+A121	Weight-understanding T38 Major
+#31	AnnotatorNotes T38	can
+T39	lex_item_choice 1533 1537	good
+A122	Cause T39 Other
+A123	Weight-language T39 Minor
+A124	Weight-understanding T39 Minor
+#32	AnnotatorNotes T39	sufficient
+T40	Articles 1624 1627	the
+A125	Cause T40 Absence_of_Category_in_L1
+A126	Weight-language T40 Major
+A127	Weight-understanding T40 Major
+A128	Delete T40
+T41	lex_item_choice 1614 1642	preparing the children about
+A129	Cause T41 Other
+A130	Weight-language T41 Critical
+A131	Weight-understanding T41 Major
+#33	AnnotatorNotes T41	providing children with
+T42	Standard 1726 1758	are children ready or not for it
+A132	Cause T42 Other
+A133	Weight-language T42 Major
+A134	Weight-understanding T42 Minor
+#34	AnnotatorNotes T42	whether or not children are ready for it 
+T43	Linking_device 1726 1758	are children ready or not for it
+A135	Cause T43 L1_interference
+A136	Weight-language T43 Major
+A137	Weight-understanding T43 Minor
+#35	AnnotatorNotes T43	whether children are ready for it or not
+T44	Prepositions 1790 1793	for
+A138	Cause T44 Other
+A139	Weight-language T44 Major
+A140	Weight-understanding T44 Minor
+#36	AnnotatorNotes T44	to
+T45	Inappropriate_register 1760 1763	So,
+A141	Cause T45 Other
+A142	Weight-language T45 Minor
+A143	Weight-understanding T45 Minor
+#37	AnnotatorNotes T45	So, in my opinion,
+T1	Category_confusion 35 48	has realizing
+#1	AnnotatorNotes T1	realises
+T4	lex_item_choice 128 134	brings
+T46	Standard 224 260	compete in future for successful job
+#4	AnnotatorNotes T46	compete for a successful job in future
+T47	Articles 246 260	successful job
+T48	Articles 321 324	the
+T49	Redundant_comp 463 465	in
+T50	Prepositions 560 562	at
+T51	Absence_comp_sent 605 614	secondary
+T14	Tense_form 881 895	are still need
+T19	Tense_choice 1102 1122	is really pressuring
+T20	Linking_device 1189 1200	In opposite
+T24	Word_choice 1268 1277	mentality
+#13	AnnotatorNotes T24	mental potential
+T25	Negation 1346 1349	not
+#19	AnnotatorNotes T25	do not
+T26	Articles 1562 1569	subject
+T52	Noun_number 1660 1665	skill
+#20	AnnotatorNotes T52	skills
+T53	Articles 1773 1789	foreign language
+T54	Absence_comp_sent 1721 1725	look
+#21	AnnotatorNotes T54	look at
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+#38	AnnotatorNotes T4	induces
+A41	Cause T47 Absence_of_Category_in_L1
+A42	Weight-language T47 Minor
+A43	Weight-understanding T47 Minor
+#39	AnnotatorNotes T47	a successful job
+A57	Cause T46 L1_interference
+A58	Weight-language T46 Minor
+A59	Weight-understanding T46 Minor
+A60	Cause T48 Absence_of_Category_in_L1
+A61	Weight-language T48 Major
+A62	Weight-understanding T48 Major
+#40	AnnotatorNotes T48	a
+A63	Cause T49 Other
+A64	Weight-language T49 Major
+A75	Weight-understanding T49 Minor
+A76	Delete T49
+A77	Cause T50 Other
+A78	Weight-language T50 Major
+A79	Weight-understanding T50 Minor
+#41	AnnotatorNotes T50	in
+A80	Cause T51 L1_interference
+A81	Weight-language T51 Major
+A82	Weight-understanding T51 Minor
+#42	AnnotatorNotes T51	secondary school
+A83	Cause T14 Other
+A144	Weight-language T14 Critical
+A145	Weight-understanding T14 Minor
+#43	AnnotatorNotes T14	still need
+A146	Cause T19 Absence_of_Category_in_L1
+A147	Weight-language T19 Major
+A148	Weight-understanding T19 Major
+#44	AnnotatorNotes T19	really pressures
+A149	Cause T20 Other
+A150	Weight-language T20 Major
+A151	Weight-understanding T20 Minor
+#45	AnnotatorNotes T20	on the contrary
+A152	Cause T24 Other
+A153	Weight-language T24 Minor
+A154	Weight-understanding T24 Minor
+A155	Cause T26 Absence_of_Category_in_L1
+A156	Weight-language T26 Major
+A157	Weight-understanding T26 Minor
+#46	AnnotatorNotes T26	a subject
+A158	Cause T52 Other
+A159	Weight-language T52 Minor
+A160	Weight-understanding T52 Minor
+A161	Cause T54 L1_interference
+A162	Weight-language T54 Major
+A163	Weight-understanding T54 Minor
+A164	Cause T53 Absence_of_Category_in_L1
+A165	Weight-language T53 Minor
+A166	Weight-understanding T53 Minor
+#47	AnnotatorNotes T53	a foreign language

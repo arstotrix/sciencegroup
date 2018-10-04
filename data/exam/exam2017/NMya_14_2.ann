@@ -1,0 +1,55 @@
+T1	Spelling 41 49	commited
+#1	AnnotatorNotes T1	committed
+T2	Absence_explanation 73 81	absolute
+#2	AnnotatorNotes T2	absolute truth
+T3	Absence_explanation 19 65	more crimes are being commited by young people
+#3	AnnotatorNotes T3	nowadays young people commit more crimes than ever before
+T4	Possessive 145 148	the
+#4	AnnotatorNotes T4	their
+T5	Absence_explanation 141 144	but
+#5	AnnotatorNotes T5	but it could also be true that
+T6	Spelling 229 237	youngers
+#6	AnnotatorNotes T6	youngsters
+T7	Inappropriate_register 229 237	youngers
+#7	AnnotatorNotes T7	young people
+T8	Redundant_comp 257 260	the
+A1	Delete T8
+T9	Spelling 287 299	unsufficient
+#8	AnnotatorNotes T9	insufficient
+T10	Absence_explanation 380 388	children
+#9	AnnotatorNotes T10	their children
+T11	Agreement_errors 436 440	need
+#10	AnnotatorNotes T11	needs
+T12	Agreement_errors 876 883	require
+T13	Spelling 912 921	standarts
+A2	Cause T13 L1_interference
+#11	AnnotatorNotes T13	standards
+T14	Redundant_comp 971 974	how
+A3	Delete T14
+T15	Noun_number 1076 1082	parent
+#12	AnnotatorNotes T15	parents
+T16	Spelling 1160 1167	shoulde
+#13	AnnotatorNotes T16	should
+T17	Category_confusion 1168 1174	strick
+#14	AnnotatorNotes T17	be strict
+T18	Punctuation 1124 1133	successes
+#15	AnnotatorNotes T18	successes,
+T19	Absence_explanation 1120 1123	the
+#16	AnnotatorNotes T19	a child's
+T20	Articles 1178 1179	a
+#17	AnnotatorNotes T20	the child
+R1	Dependent_change Arg1:T20 Arg2:T19	
+T21	Suffix 1291 1300	behaviour
+#18	AnnotatorNotes T21	behavior
+T22	Suffix 1317 1326	behaviour
+#19	AnnotatorNotes T22	behavior
+T23	Absence_comp_sent 1388 1394	reason
+#20	AnnotatorNotes T23	reason why
+T24	Inappropriate_register 1451 1456	teens
+#21	AnnotatorNotes T24	adolescents
+T25	Articles 1508 1525	increasing number
+#22	AnnotatorNotes T25	the increasing
+T26	suggestion 876 883	require
+T27	suggestion 1291 1300	behaviour
+T28	suggestion 499 507	behavior
+T29	suggestion 1317 1326	behaviour

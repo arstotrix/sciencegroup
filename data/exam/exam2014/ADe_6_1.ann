@@ -1,0 +1,51 @@
+T1	Determiners 45 49	much
+#1	AnnotatorNotes T1	many
+T2	Articles 175 185	popularity
+T3	lex_item_choice 224 228	work
+#2	AnnotatorNotes T3	jobs
+T4	Word_choice 202 223	requiring less skills
+#3	AnnotatorNotes T4	low skilled
+A1	Cause T4 L1_interference
+T6	Articles 312 321	employees
+T10	Spelling 754 765	an exeption
+#6	AnnotatorNotes T10	the exception of
+T11	Capitalisation 534 537	for
+#7	AnnotatorNotes T11	For
+T13	Redundant_comp 20 22	us
+A4	Delete T13
+T5	Noun_number 224 228	work
+T15	Absence_comp_colloc 230 232	as
+#9	AnnotatorNotes T15	such as
+T16	Absence_comp_sent 233 238	hotel
+#10	AnnotatorNotes T16	hotel employee
+T17	Conjunctions 259 262	and
+#11	AnnotatorNotes T17	or
+T18	Absence_explanation 263 271	building
+#12	AnnotatorNotes T18	construction worker
+T19	Prepositional_noun 286 300	with growth of
+#13	AnnotatorNotes T19	in proportion with
+T21	Spelling 354 365	comparisson
+T22	Determiners 409 425	this kind of job
+#14	AnnotatorNotes T22	these jobs
+T8	Spelling 621 626	exept
+T9	Punctuation 641 642	,
+A2	Delete T9
+T12	Punctuation 729 739	more, than
+#5	AnnotatorNotes T12	more than
+T24	Articles 754 765	an exeption
+#15	AnnotatorNotes T24	the exception of
+T25	Redundant_comp 766 773	such as
+A3	Delete T25
+T26	Word_choice 774 795	the technology sphere
+#16	AnnotatorNotes T26	the sphere of technology
+#17	AnnotatorNotes T21	comparison
+#18	AnnotatorNotes T8	except
+#19	AnnotatorNotes T5	jobs
+#20	AnnotatorNotes T2	the popularity
+#21	AnnotatorNotes T6	the employees
+T23	Tense_choice 834 842	have had
+#8	AnnotatorNotes T23	had
+T14	Standard 548 571	56 and over aged people
+#4	AnnotatorNotes T14	people aged 56 or over
+T7	Absence_comp_sent 754 765	an exeption
+#22	AnnotatorNotes T7	the exception of

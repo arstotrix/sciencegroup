@@ -1,0 +1,68 @@
+T1	Inappropriate_register 244 251	mustn't
+#1	AnnotatorNotes T1	must not
+T2	lex_part_choice 298 304	myself
+#2	AnnotatorNotes T2	me
+T3	Inappropriate_register 531 535	it's
+#3	AnnotatorNotes T3	it is
+T4	Punctuation 580 581	.
+#4	AnnotatorNotes T4	,
+T5	Inappropriate_register 602 607	don't
+#5	AnnotatorNotes T5	do not
+T6	lex_item_choice 648 656	sypplies
+#6	AnnotatorNotes T6	supplements
+T7	Inappropriate_register 746 752	didn't
+#7	AnnotatorNotes T7	did not
+T8	Agreement_errors 901 904	has
+#8	AnnotatorNotes T8	have
+T9	Negation 1182 1191	shouldn't
+#9	AnnotatorNotes T9	should never
+T10	Spelling 1209 1221	competitione
+#10	AnnotatorNotes T10	competition
+T11	Redundant_comp 1222 1226	Ever
+T12	Punctuation 1232 1233	,
+A1	Delete T12
+T13	Inappropriate_register 1247 1252	don't
+#12	AnnotatorNotes T13	do not
+T14	Punctuation 1269 1275	, that
+T15	Absence_comp_colloc 1363 1367	once
+#13	AnnotatorNotes T15	just once
+T16	Determiners 80 94	such sportsmen
+#14	AnnotatorNotes T16	those sportsmen
+T17	Spelling 175 185	temporarly
+#15	AnnotatorNotes T17	temporarily
+T18	Spelling 235 243	athelets
+T19	Category_confusion 282 289	forever
+#16	AnnotatorNotes T19	ever
+T20	Spelling 356 364	athelets
+T21	lex_item_choice 387 393	doping
+#17	AnnotatorNotes T21	drugs
+T22	Spelling 502 511	penylized
+#18	AnnotatorNotes T22	penalised
+T23	Spelling 671 675	pars
+#19	AnnotatorNotes T23	part
+T24	Articles 667 675	the pars
+#20	AnnotatorNotes T24	a part
+T25	Capitalisation 703 710	russian
+#21	AnnotatorNotes T25	Russian
+T26	Spelling 711 719	athelets
+T27	Spelling 1110 1118	athelets
+A3	Delete T11
+T28	lex_item_choice 1253 1259	admire
+#11	AnnotatorNotes T28	respect
+#22	AnnotatorNotes T14	that
+T29	Articles 1334 1347	the sportsman
+#23	AnnotatorNotes T29	a sports person
+T30	lex_item_choice 1334 1347	the sportsman
+#24	AnnotatorNotes T30	a sports person
+T31	Tense_choice 1348 1352	made
+#25	AnnotatorNotes T31	has made
+T32	Ref_device 1368 1370	he
+#26	AnnotatorNotes T32	(s)he
+#27	AnnotatorNotes T18	athletes
+#28	AnnotatorNotes T20	athletes
+#29	AnnotatorNotes T26	athletes
+#30	AnnotatorNotes T27	athletes
+T33	Punctuation 1168 1169	,
+A2	Delete T33
+T34	Tense 1371 1379	deserved
+#31	AnnotatorNotes T34	deserves

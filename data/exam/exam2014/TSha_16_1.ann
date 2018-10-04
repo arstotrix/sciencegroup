@@ -1,0 +1,70 @@
+T1	Agreement_errors 10 21	demonstrate
+#1	AnnotatorNotes T1	demonstrates
+T2	Articles 136 139	USA
+#2	AnnotatorNotes T2	the USA
+T3	Spelling 146 156	immidiatly
+#3	AnnotatorNotes T3	immediately 
+T4	suggestion 232 248	will be incregse
+#4	AnnotatorNotes T4	will increase
+T5	Spelling 240 248	incregse
+#5	AnnotatorNotes T5	increase
+T6	Absence_comp_colloc 228 231	age
+#6	AnnotatorNotes T6	age group
+T7	Agreement_errors 222 227	these
+#7	AnnotatorNotes T7	this
+T8	Spelling 191 200	propotion
+#8	AnnotatorNotes T8	proportion
+T9	Spelling 292 298	eldery
+#9	AnnotatorNotes T9	elderly 
+T10	Absence_explanation 403 410	aged 65
+#10	AnnotatorNotes T10	aged 65 and over
+T11	Absence_comp_colloc 384 402	a rising of people
+#11	AnnotatorNotes T11	a rising percentage of people
+T12	Spelling 342 349	durning
+#12	AnnotatorNotes T12	during
+T13	Spelling 428 440	aproximately
+#13	AnnotatorNotes T13	approximately
+T14	Spelling 449 456	procent
+#14	AnnotatorNotes T14	percent
+T15	Punctuation 458 466	In Japan
+#15	AnnotatorNotes T15	In Japan,
+T16	Spelling 545 558	drammatically
+#16	AnnotatorNotes T16	dramatic
+T17	Punctuation 524 538	But after 2000
+#17	AnnotatorNotes T17	But after 2000,
+T19	Spelling 577 584	procent
+A1	Cause T19 L1_interference
+#19	AnnotatorNotes T19	percent
+A2	Cause T14 L1_interference
+T20	Spelling 591 598	procent
+A3	Cause T20 L1_interference
+#20	AnnotatorNotes T20	percent
+T21	Articles 603 606	USA
+#21	AnnotatorNotes T21	the USA
+T22	Punctuation 600 606	In USA
+#22	AnnotatorNotes T22	In the USA
+T23	Spelling 621 627	eldery
+#23	AnnotatorNotes T23	elderly
+T24	lex_item_choice 611 617	amount
+#24	AnnotatorNotes T24	portion
+T26	Spelling 708 715	procent
+A4	Cause T26 L1_interference
+#26	AnnotatorNotes T26	percent
+T27	Punctuation 717 730	In conclusion
+#27	AnnotatorNotes T27	In conclusion,
+T28	Spelling 809 822	significanlty
+#28	AnnotatorNotes T28	significantly
+T18	Category_confusion 545 558	drammatically
+#18	AnnotatorNotes T18	dramatic
+T29	Category_confusion 559 569	increasing
+#29	AnnotatorNotes T29	increase
+T30	suggestion 45 51	number
+#30	AnnotatorNotes T30	percentage
+T31	suggestion 306 316	population
+A5	Delete T31
+T32	suggestion 327 341	has fluctuated
+#31	AnnotatorNotes T32	fluctuated
+T33	suggestion 539 542	was
+#32	AnnotatorNotes T33	there was
+T34	suggestion 669 673	also
+#33	AnnotatorNotes T34	will also go up

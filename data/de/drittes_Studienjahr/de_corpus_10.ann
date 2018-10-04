@@ -1,0 +1,20 @@
+T1	Spelling 44 47	def
+#1	AnnotatorNotes T1	der
+T2	Spelling 10 13	def
+#2	AnnotatorNotes T2	der
+T3	Determiners 436 439	das
+A1	Delete T3
+T4	Verb_pattern 561 562	.
+#3	AnnotatorNotes T4	ein.
+T5	Verb_pattern 499 505	nehmen
+R1	Parallel_construction Arg1:T5 Arg2:T4	
+T6	Verb_pattern 632 633	.
+#4	AnnotatorNotes T6	ein.
+T7	Verb_pattern 581 587	nehmen
+R2	Parallel_construction Arg1:T7 Arg2:T6	
+T8	Word_choice 653 659	lieben
+#5	AnnotatorNotes T8	mögen (gern)
+T9	Spelling 963 977	Museumkomplexe
+#6	AnnotatorNotes T9	Museumskomplexe
+T10	Word_order 995 1016	die Sammelmuseen sind
+#7	AnnotatorNotes T10	sind die Sammelmuseen

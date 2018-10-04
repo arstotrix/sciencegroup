@@ -1,0 +1,46 @@
+T1	Noun_number 31 38	numbers
+#1	AnnotatorNotes T1	number
+T2	Punctuation 56 57	,
+T3	Capitalisation 137 141	Rest
+T4	Capitalisation 145 150	World
+T5	Articles 137 150	Rest of World
+#2	AnnotatorNotes T5	the rest of world
+T6	Tense_form 181 185	were
+#3	AnnotatorNotes T6	was
+T7	Numerals 189 197	millions
+#4	AnnotatorNotes T7	million
+T8	Numerals 312 320	millions
+#5	AnnotatorNotes T8	million
+A1	Cause T7 L1_interference
+A2	Cause T8 L1_interference
+T9	Numerals 370 378	millions
+#6	AnnotatorNotes T9	million
+T10	Numerals 507 515	millions
+A3	Cause T10 L1_interference
+#7	AnnotatorNotes T10	million
+T11	Numerals 543 551	millions
+A4	Cause T11 L1_interference
+#8	AnnotatorNotes T11	million
+T12	Numerals 588 596	millions
+A5	Cause T12 L1_interference
+#9	AnnotatorNotes T12	million
+A6	Cause T9 L1_interference
+T13	Numerals 629 637	millions
+A7	Cause T13 L1_interference
+#10	AnnotatorNotes T13	million
+T14	Numerals 698 706	millions
+A8	Cause T14 L1_interference
+#11	AnnotatorNotes T14	million
+T15	Numerals 752 760	millions
+A9	Cause T15 L1_interference
+#12	AnnotatorNotes T15	million
+T16	Spelling 287 295	tendancy
+#13	AnnotatorNotes T16	tendency
+T17	Tense_choice 353 361	decrease
+#14	AnnotatorNotes T17	decreased
+T18	Tense_form 422 426	were
+#15	AnnotatorNotes T18	was
+T19	Tense_form 497 501	were
+#16	AnnotatorNotes T19	was
+T20	Tense_form 578 582	were
+#17	AnnotatorNotes T20	was

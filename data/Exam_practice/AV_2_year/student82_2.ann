@@ -1,0 +1,214 @@
+T2	Tense_choice 139 146	is said
+T3	lex_item_choice 243 250	belongs
+T6	Agreement_errors 358 362	does
+T7	lex_item_choice 424 432	consider
+T8	lex_item_choice 492 502	separation
+T10	lex_item_choice 522 527	parts
+T11	Absence_comp_sent 564 578	other pleasure
+T13	lex_item_choice 717 723	but to
+T14	Prepositions 734 736	on
+T15	Noun_number 764 769	thing
+T16	lex_item_choice 841 845	part
+T17	lex_item_choice 902 908	useful
+T19	Standard 944 962	take from life all
+T20	lex_item_choice 984 989	human
+T21	Ref_device 1018 1021	his
+T22	Ref_device 1032 1035	his
+T23	Category_confusion 1040 1043	his
+T24	Articles 1051 1054	the
+T27	lex_item_choice 1156 1161	human
+T29	lex_item_choice 1171 1176	be in
+T30	lex_item_choice 1272 1276	work
+T31	Spelling 1321 1334	enjoy ability
+T1	lex_item_choice 62 85	its ability to enjoy us
+T32	Articles 1233 1236	the
+T33	Redundant_comp 993 1007	glad and happy
+T34	Punctuation 671 672	,
+A1	Cause T1 Other
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	our being able to enjoy it OR its enjoyability
+A4	Cause T3 Other
+A5	Weight-language T3 Major
+A6	Weight-understanding T3 Minor
+#2	AnnotatorNotes T3	apply
+A7	Cause T6 Other
+A8	Weight-language T6 Major
+A9	Weight-understanding T6 Minor
+#3	AnnotatorNotes T6	do
+A10	Cause T7 Other
+A11	Weight-language T7 Minor
+A12	Weight-understanding T7 Minor
+#4	AnnotatorNotes T7	believe
+T4	Articles 295 298	the
+A13	Cause T4 Absence_of_Category_in_L1
+A14	Weight-language T4 Major
+A15	Weight-understanding T4 Minor
+#5	AnnotatorNotes T4	a
+T5	Often_confused 305 309	work
+A16	Cause T5 Other
+A17	Weight-language T5 Major
+A18	Weight-understanding T5 Minor
+#6	AnnotatorNotes T5	job
+T35	lex_item_choice 295 309	the hated work
+A19	Cause T35 Other
+A20	Weight-language T35 Minor
+A21	Weight-understanding T35 Minor
+#7	AnnotatorNotes T35	a job (that) we hate
+A22	Cause T2 Other
+A23	Weight-language T2 Minor
+A24	Weight-understanding T2 Minor
+#8	AnnotatorNotes T2	has been said
+A25	Cause T10 Other
+A26	Weight-language T10 Minor
+A27	Weight-understanding T10 Minor
+#9	AnnotatorNotes T10	halves
+A28	Cause T8 Other
+A29	Weight-language T8 Major
+A30	Weight-understanding T8 Minor
+#10	AnnotatorNotes T8	division
+A31	Cause T11 L1_interference
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	other brings pleasure
+A34	Cause T34 Other
+A35	Weight-language T34 Minor
+A36	Weight-understanding T34 Minor
+#13	AnnotatorNotes T34	- 
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#14	AnnotatorNotes T13	but for
+T36	note 717 733	but to the money
+#15	AnnotatorNotes T36	Alternatively, you could say "but to earn money".
+A40	Cause T14 L1_interference
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#16	AnnotatorNotes T14	with
+A43	Cause T15 Other
+A44	Weight-language T15 Critical
+A45	Weight-understanding T15 Minor
+#17	AnnotatorNotes T15	things
+T12	Absence_comp_sent 653 658	So is
+A46	Cause T12 L1_interference
+A47	Weight-language T12 Major
+A48	Weight-understanding T12 Minor
+#18	AnnotatorNotes T12	So it is
+A49	Cause T16 Other
+A50	Weight-language T16 Minor
+A51	Weight-understanding T16 Minor
+#19	AnnotatorNotes T16	thing
+T37	Articles 826 845	very important part
+A52	Cause T37 Absence_of_Category_in_L1
+A53	Weight-language T37 Major
+A54	Weight-understanding T37 Minor
+#20	AnnotatorNotes T37	a very important thing
+A55	Cause T17 Other
+A56	Weight-language T17 Major
+A57	Weight-understanding T17 Minor
+#21	AnnotatorNotes T17	important
+T18	Often_confused 959 962	all
+A58	Cause T18 Other
+A59	Weight-language T18 Minor
+A60	Weight-understanding T18 Minor
+#22	AnnotatorNotes T18	everything
+A61	Cause T19 L1_interference
+A62	Weight-language T19 Major
+A63	Weight-understanding T19 Minor
+#23	AnnotatorNotes T19	take everything from life
+A64	Cause T20 Other
+A65	Weight-language T20 Minor
+A66	Weight-understanding T20 Minor
+#24	AnnotatorNotes T20	person
+T38	Articles 984 989	human
+A67	Cause T38 Absence_of_Category_in_L1
+A68	Weight-language T38 Major
+A69	Weight-understanding T38 Minor
+#25	AnnotatorNotes T38	a person
+A70	Cause T33 L1_interference
+A71	Weight-language T33 Minor
+A72	Weight-understanding T33 Minor
+#26	AnnotatorNotes T33	happy
+A73	Cause T21 L1_interference
+A74	Weight-language T21 Major
+A75	Weight-understanding T21 Minor
+#27	AnnotatorNotes T21	their
+A76	Cause T22 L1_interference
+A77	Weight-language T22 Major
+A78	Weight-understanding T22 Minor
+#28	AnnotatorNotes T22	them
+T39	Category_confusion 1032 1035	his
+A79	Cause T39 Other
+A80	Weight-language T39 Critical
+A81	Weight-understanding T39 Major
+#29	AnnotatorNotes T39	them
+A82	Cause T23 Other
+A83	Weight-language T23 Critical
+A84	Weight-understanding T23 Major
+#30	AnnotatorNotes T23	they
+T40	Ref_device 1040 1043	his
+A85	Cause T40 L1_interference
+A86	Weight-language T40 Major
+A87	Weight-understanding T40 Minor
+#31	AnnotatorNotes T40	they
+T41	Agreement_errors 1044 1049	wants
+A88	Cause T41 L1_interference
+A89	Weight-language T41 Major
+A90	Weight-understanding T41 Minor
+#32	AnnotatorNotes T41	want
+A91	Cause T24 Absence_of_Category_in_L1
+A92	Weight-language T24 Major
+A93	Weight-understanding T24 Minor
+#33	AnnotatorNotes T24	a
+T25	lex_item_choice 1080 1099	within the possible
+A94	Cause T25 L1_interference
+A95	Weight-language T25 Major
+A96	Weight-understanding T25 Minor
+#34	AnnotatorNotes T25	, as much as they can reasonably expect
+T26	lex_item_choice 1145 1149	used
+A97	Cause T26 Other
+A98	Weight-language T26 Major
+A99	Weight-understanding T26 Major
+#35	AnnotatorNotes T26	supposed
+A100	Cause T27 Other
+A101	Weight-language T27 Minor
+A102	Weight-understanding T27 Minor
+#36	AnnotatorNotes T27	person
+T28	Articles 1156 1161	human
+A103	Cause T28 Absence_of_Category_in_L1
+A104	Weight-language T28 Major
+A105	Weight-understanding T28 Minor
+#37	AnnotatorNotes T28	a person
+A106	Cause T29 Other
+A107	Weight-language T29 Minor
+A108	Weight-understanding T29 Minor
+#38	AnnotatorNotes T29	have
+T42	Articles 1208 1219	ideal world
+A109	Cause T42 Absence_of_Category_in_L1
+A110	Weight-language T42 Major
+A111	Weight-understanding T42 Minor
+#39	AnnotatorNotes T42	an ideal world
+A112	Cause T32 Absence_of_Category_in_L1
+A113	Weight-language T32 Major
+A114	Weight-understanding T32 Minor
+#40	AnnotatorNotes T32	a
+T43	Articles 1254 1263	real word
+A115	Cause T43 Absence_of_Category_in_L1
+A116	Weight-language T43 Major
+A117	Weight-understanding T43 Minor
+#41	AnnotatorNotes T43	the real world
+T44	Spelling 1259 1263	word
+A118	Cause T44 Typo
+A119	Weight-language T44 Critical
+A120	Weight-understanding T44 Minor
+#42	AnnotatorNotes T44	world
+A121	Cause T31 Typo
+A122	Weight-language T31 Critical
+A123	Weight-understanding T31 Minor
+#43	AnnotatorNotes T31	enjoyability
+A124	Cause T30 Other
+A125	Weight-language T30 Major
+A126	Weight-understanding T30 Minor
+#44	AnnotatorNotes T30	strive
+T9	Prepositional_noun 492 517	separation of our life in
+#12	AnnotatorNotes T9	division of our life into

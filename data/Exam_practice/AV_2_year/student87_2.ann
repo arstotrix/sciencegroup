@@ -1,0 +1,99 @@
+T1	Articles 113 116	job
+T2	Spelling 309 315	succes
+T3	Articles 735 752	really low salary
+T4	Articles 887 912	good and efficient worker
+T5	Coherence 932 938	though
+T6	Articles 939 949	profession
+T7	Spelling 1018 1024	talant
+T8	Spelling 1026 1035	enthusiam
+T11	Spelling 1787 1793	others
+T12	lex_item_choice 1758 1781	forget about respecting
+T13	Noun_number 1794 1801	opinion
+T14	Often_confused 72 76	what
+A1	Cause T14 Other
+A2	Weight-language T14 Minor
+A3	Weight-understanding T14 Minor
+#1	AnnotatorNotes T14	which
+A4	Cause T1 Absence_of_Category_in_L1
+A5	Weight-language T1 Major
+A6	Weight-understanding T1 Minor
+#2	AnnotatorNotes T1	a job
+T15	Lack_par_constr 129 136	to earn
+A7	Cause T15 Other
+A8	Weight-language T15 Minor
+A9	Weight-understanding T15 Minor
+#3	AnnotatorNotes T15	earning
+A10	Cause T2 Other
+A11	Weight-language T2 Critical
+A12	Weight-understanding T2 Minor
+#4	AnnotatorNotes T2	success
+T16	Tense_choice 597 606	are doing
+A13	Cause T16 Absence_of_Category_in_L1
+A14	Weight-language T16 Minor
+A15	Weight-understanding T16 Minor
+#5	AnnotatorNotes T16	do
+A16	Cause T3 Absence_of_Category_in_L1
+A17	Weight-language T3 Major
+A18	Weight-understanding T3 Minor
+#6	AnnotatorNotes T3	a really low salary
+T17	Often_confused 795 799	work
+A19	Cause T17 Other
+A20	Weight-language T17 Major
+A21	Weight-understanding T17 Minor
+#7	AnnotatorNotes T17	job
+T18	Tense_choice 859 868	are doing
+A22	Cause T18 Absence_of_Category_in_L1
+A23	Weight-language T18 Minor
+A24	Weight-understanding T18 Minor
+A25	Cause T4 Absence_of_Category_in_L1
+A26	Weight-language T4 Major
+A27	Weight-understanding T4 Minor
+#8	AnnotatorNotes T4	a good and efficient worker
+A28	Cause T6 Absence_of_Category_in_L1
+A29	Weight-language T6 Major
+A30	Weight-understanding T6 Minor
+#9	AnnotatorNotes T6	a profession
+A31	Cause T5 Other
+A32	Weight-language T5 Major
+A33	Weight-understanding T5 Minor
+#10	AnnotatorNotes T5	if
+A34	Cause T7 Typo
+A35	Weight-language T7 Critical
+A36	Weight-understanding T7 Minor
+#11	AnnotatorNotes T7	talent
+A37	Cause T8 Typo
+A38	Weight-language T8 Critical
+A39	Weight-understanding T8 Minor
+#12	AnnotatorNotes T8	enthusiasm
+T19	Standard 1115 1127	you at least
+A40	Cause T19 L1_interference
+A41	Weight-language T19 Minor
+A42	Weight-understanding T19 Minor
+#13	AnnotatorNotes T19	at least
+T20	Tense_choice 1443 1454	is enjoying
+A43	Cause T20 Absence_of_Category_in_L1
+A44	Weight-language T20 Minor
+A45	Weight-understanding T20 Minor
+#14	AnnotatorNotes T20	enjoys
+T21	Tense_choice 1523 1534	are working
+A46	Cause T21 Absence_of_Category_in_L1
+A47	Weight-language T21 Major
+A48	Weight-understanding T21 Minor
+#15	AnnotatorNotes T21	work
+A49	Cause T13 L1_interference
+A50	Weight-language T13 Minor
+A51	Weight-understanding T13 Minor
+#16	AnnotatorNotes T13	opinions
+A52	Cause T11 Other
+A53	Weight-language T11 Critical
+A54	Weight-understanding T11 Minor
+#17	AnnotatorNotes T11	other's
+T22	Linking_device 1735 1739	also
+A55	Cause T22 Other
+A56	Weight-language T22 Minor
+A57	Weight-understanding T22 Minor
+#18	AnnotatorNotes T22	at the same time
+A58	Cause T12 L1_interference
+A59	Weight-language T12 Minor
+A60	Weight-understanding T12 Minor
+#19	AnnotatorNotes T12	fail to respect

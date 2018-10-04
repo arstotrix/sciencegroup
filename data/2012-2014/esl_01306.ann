@@ -1,0 +1,176 @@
+T1	Verb_object_bare 122 140	make them to learn
+T2	suggestion 132 134	to
+A1	Delete T2
+T3	lex_item_choice 228 243	wish them learn
+#1	AnnotatorNotes T3	I would advise them to learn
+T4	Redundant_comp 390 402	wish I could
+#2	AnnotatorNotes T4	would
+T5	Absence_comp_sent 338 386	how interesting and important learning languages
+#3	AnnotatorNotes T1	make them learn
+T6	Ref_device 181 186	it is
+#4	AnnotatorNotes T6	they are
+T7	Articles 250 253	the
+T10	lex_item_choice 283 290	go with
+#7	AnnotatorNotes T10	take
+A2	Delete T7
+#5	AnnotatorNotes T5	how interesting and important learning languages is
+T11	pos_IN 0 2	If
+#8	AnnotatorNotes T11	lemma = 'if'
+T12	pos_PRP 3 4	I
+#9	AnnotatorNotes T12	lemma = 'i'
+T13	pos_VBD 5 9	were
+#10	AnnotatorNotes T13	lemma = 'be'
+T14	pos_TO 10 12	to
+#11	AnnotatorNotes T14	lemma = 'to'
+T15	pos_VB 13 17	give
+#12	AnnotatorNotes T15	lemma = 'give'
+T16	pos_DT 18 19	a
+#13	AnnotatorNotes T16	lemma = 'a'
+T17	pos_NN 20 26	course
+#14	AnnotatorNotes T17	lemma = 'course'
+T18	pos_IN 27 29	of
+#15	AnnotatorNotes T18	lemma = 'of'
+T19	pos_JJ 30 38	creative
+#16	AnnotatorNotes T19	lemma = 'creative'
+T20	pos_NN 39 46	writing
+#17	AnnotatorNotes T20	lemma = 'writing'
+T21	pos_TO 47 49	to
+#18	AnnotatorNotes T21	lemma = 'to'
+T22	pos_NN 50 56	school
+#19	AnnotatorNotes T22	lemma = 'school'
+T23	pos_NNS 57 65	students
+#20	AnnotatorNotes T23	lemma = 'student'
+T24	pos_VBG 66 72	coming
+#21	AnnotatorNotes T24	lemma = 'come'
+T25	pos_TO 73 75	to
+#22	AnnotatorNotes T25	lemma = 'to'
+T26	pos_NP 76 112	School of Young Philologists Classes
+#23	AnnotatorNotes T26	lemma = 'school_of_young_philologists_classes'
+T27	pos_Fc 112 113	,
+#24	AnnotatorNotes T27	lemma = ','
+T28	pos_PRP 114 115	I
+#25	AnnotatorNotes T28	lemma = 'i'
+T29	pos_MD 116 121	would
+#26	AnnotatorNotes T29	lemma = 'would'
+T30	pos_VB 122 126	make
+#27	AnnotatorNotes T30	lemma = 'make'
+T31	pos_PRP 127 131	them
+#28	AnnotatorNotes T31	lemma = 'them'
+T32	pos_TO 132 134	to
+#29	AnnotatorNotes T32	lemma = 'to'
+T33	pos_VB 135 140	learn
+#30	AnnotatorNotes T33	lemma = 'learn'
+T34	pos_DT 141 144	the
+#31	AnnotatorNotes T34	lemma = 'the'
+T35	pos_NNS 145 155	postulates
+#32	AnnotatorNotes T35	lemma = 'postulate'
+T36	pos_IN 156 158	of
+#33	AnnotatorNotes T36	lemma = 'of'
+T37	pos_NP 159 167	Saussure
+#34	AnnotatorNotes T37	lemma = 'saussure'
+T38	pos_Fp 167 168	.
+#35	AnnotatorNotes T38	lemma = '.'
+T39	pos_TO 169 171	To
+#36	AnnotatorNotes T39	lemma = 'to'
+T40	pos_PRP2 172 174	my
+#37	AnnotatorNotes T40	lemma = 'my'
+T41	pos_NN 175 179	mind
+#38	AnnotatorNotes T41	lemma = 'mind'
+T42	pos_Fc 179 180	,
+#39	AnnotatorNotes T42	lemma = ','
+T43	pos_PRP 181 183	it
+#40	AnnotatorNotes T43	lemma = 'it'
+T44	pos_VBZ 184 186	is
+#41	AnnotatorNotes T44	lemma = 'be'
+T45	pos_DT 187 190	the
+#42	AnnotatorNotes T45	lemma = 'the'
+T46	pos_JJ 191 202	fundamental
+#43	AnnotatorNotes T46	lemma = 'fundamental'
+T47	pos_NNS 203 209	things
+#44	AnnotatorNotes T47	lemma = 'thing'
+T48	pos_IN 210 212	in
+#45	AnnotatorNotes T48	lemma = 'in'
+T49	pos_NNS 213 224	linguistics
+#46	AnnotatorNotes T49	lemma = 'linguistics'
+T50	pos_Fp 224 225	.
+#47	AnnotatorNotes T50	lemma = '.'
+T51	pos_PRP 226 227	I
+#48	AnnotatorNotes T51	lemma = 'i'
+T52	pos_VBP 228 232	wish
+#49	AnnotatorNotes T52	lemma = 'wish'
+T53	pos_PRP 233 237	them
+#50	AnnotatorNotes T53	lemma = 'them'
+T54	pos_VBP 238 243	learn
+#51	AnnotatorNotes T54	lemma = 'learn'
+T55	pos_IN 244 249	about
+#52	AnnotatorNotes T55	lemma = 'about'
+T56	pos_DT 250 253	the
+#53	AnnotatorNotes T56	lemma = 'the'
+T57	pos_JJ 254 264	linguistic
+#54	AnnotatorNotes T57	lemma = 'linguistic'
+T58	pos_NNS 265 273	concepts
+#55	AnnotatorNotes T58	lemma = 'concept'
+T59	pos_Fp 273 274	.
+#56	AnnotatorNotes T59	lemma = '.'
+T60	pos_PRP 275 276	I
+#57	AnnotatorNotes T60	lemma = 'i'
+T61	pos_MD 277 282	would
+#58	AnnotatorNotes T61	lemma = 'would'
+T62	pos_VB 283 285	go
+#59	AnnotatorNotes T62	lemma = 'go'
+T63	pos_IN 286 290	with
+#60	AnnotatorNotes T63	lemma = 'with'
+T64	pos_NNS 291 300	teenagers
+#61	AnnotatorNotes T64	lemma = 'teenager'
+T65	pos_TO 301 303	to
+#62	AnnotatorNotes T65	lemma = 'to'
+T66	pos_NN 304 312	language
+#63	AnnotatorNotes T66	lemma = 'language'
+T67	pos_NNS 313 324	expeditions
+#64	AnnotatorNotes T67	lemma = 'expedition'
+T68	pos_TO 325 327	to
+#65	AnnotatorNotes T68	lemma = 'to'
+T69	pos_VB 328 332	show
+#66	AnnotatorNotes T69	lemma = 'show'
+T70	pos_PRP 333 337	them
+#67	AnnotatorNotes T70	lemma = 'them'
+T71	pos_WRB 338 341	how
+#68	AnnotatorNotes T71	lemma = 'how'
+T72	pos_VBG 342 353	interesting
+#69	AnnotatorNotes T72	lemma = 'interest'
+T73	pos_CC 354 357	and
+#70	AnnotatorNotes T73	lemma = 'and'
+T74	pos_JJ 358 367	important
+#71	AnnotatorNotes T74	lemma = 'important'
+T75	pos_VBG 368 376	learning
+#72	AnnotatorNotes T75	lemma = 'learn'
+T76	pos_NNS 377 386	languages
+#73	AnnotatorNotes T76	lemma = 'language'
+T77	pos_Fp 386 387	.
+#74	AnnotatorNotes T77	lemma = '.'
+T78	pos_PRP 388 389	I
+#75	AnnotatorNotes T78	lemma = 'i'
+T79	pos_VBP 390 394	wish
+#76	AnnotatorNotes T79	lemma = 'wish'
+T80	pos_PRP 395 396	I
+#77	AnnotatorNotes T80	lemma = 'i'
+T81	pos_MD 397 402	could
+#78	AnnotatorNotes T81	lemma = 'can'
+T82	pos_VB 403 412	encourage
+#79	AnnotatorNotes T82	lemma = 'encourage'
+T83	pos_PRP 413 417	them
+#80	AnnotatorNotes T83	lemma = 'them'
+T84	pos_TO 418 420	to
+#81	AnnotatorNotes T84	lemma = 'to'
+T85	pos_VB 421 427	devote
+#82	AnnotatorNotes T85	lemma = 'devote'
+T86	pos_PRP2 428 433	their
+#83	AnnotatorNotes T86	lemma = 'their'
+T87	pos_NNS 434 439	lives
+#84	AnnotatorNotes T87	lemma = 'life'
+T88	pos_TO 440 442	to
+#85	AnnotatorNotes T88	lemma = 'to'
+T89	pos_NN 443 450	science
+#86	AnnotatorNotes T89	lemma = 'science'
+T90	pos_Fp 450 451	.
+#87	AnnotatorNotes T90	lemma = '.'

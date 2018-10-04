@@ -1,0 +1,93 @@
+T1	Often_confused 116 123	economy
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	economics
+T2	Absence_comp_sent 83 89	by age
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	and are now sorted by age
+T3	Prepositions 255 260	above
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	over
+T4	Articles 265 278	other sectors
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	the other sectors
+T5	Prepositions 280 282	On
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	in
+T6	Voice 404 408	took
+A16	Cause T6 L1_interference
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	was taken by
+T7	Absence_explanation 597 629	the dominant sector of education
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Critical
+#7	AnnotatorNotes T7	the dominant sector, the sector of education,
+T8	Spelling 708 712	baud
+A22	Cause T8 Typo
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Critical
+#8	AnnotatorNotes T8	band
+T9	Tense_choice 687 692	reach
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	reached
+T10	Spelling 753 759	of her
+A28	Cause T10 Typo
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	other
+T11	Articles 753 767	of her sectors
+A31	Cause T11 Absence_of_Category_in_L1
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	the other sectors
+T12	lex_item_choice 733 745	meanwhile as
+A34	Cause T12 Other
+A35	Weight-language T12 Critical
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	whereas
+T13	Redundant_comp 844 850	by age
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+A40	Delete T13
+T14	Verb_pattern 768 843	the biggest amount of people accounted for the youngest or next young group
+A41	Cause T14 L1_interference
+A42	Weight-language T14 Major
+A43	Weight-understanding T14 Major
+#13	AnnotatorNotes T14	the youngest or the next young group accounted for the biggest amount of people
+T15	Prepositions 919 921	in
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+A46	Delete T15
+T16	Prepositions 977 982	above
+#14	AnnotatorNotes T16	over
+A47	Cause T16 Other
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Minor
+T17	Articles 987 994	sectors
+A50	Cause T17 Absence_of_Category_in_L1
+A51	Weight-language T17 Major
+A52	Weight-understanding T17 Major
+#15	AnnotatorNotes T17	the sectors
+T18	Noun_number 1028 1033	group
+A53	Cause T18 Typo
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Minor
+#16	AnnotatorNotes T18	groups
+T19	Punctuation 346 347	,
+#17	AnnotatorNotes T19	without comma
+T20	Punctuation 381 382	,
+#18	AnnotatorNotes T20	without comma

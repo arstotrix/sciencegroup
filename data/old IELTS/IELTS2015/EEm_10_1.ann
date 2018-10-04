@@ -1,0 +1,103 @@
+T1	Spelling 511 518	gratest
+A1	Cause T1 Typo
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	greatest OR highest
+T2	Agreement_errors 15 25	illustrate
+T3	Punctuation 81 87	, like
+T4	Articles 106 109	USA
+#2	AnnotatorNotes T4	the USA
+T6	Spelling 154 160	cleare
+#4	AnnotatorNotes T6	clear
+T7	Tense_choice 190 194	rise
+T8	Articles 222 231	countries
+#5	AnnotatorNotes T8	the countries
+T9	Spelling 263 269	states
+#6	AnnotatorNotes T9	starts
+T10	Spelling 311 315	othe
+#7	AnnotatorNotes T10	other
+T11	Superlative_adj 377 390	the most high
+#8	AnnotatorNotes T11	the highest
+T12	Redundant_comp 411 428	people those item
+T13	Articles 490 493	USA
+#9	AnnotatorNotes T13	the USA
+T14	Spelling 519 525	resalt
+#10	AnnotatorNotes T14	result
+T15	Spelling 557 562	thiks
+#11	AnnotatorNotes T15	third
+T17	Tense_form 682 695	didn’t rocked
+T18	note 682 698	didn’t rocked at
+#13	AnnotatorNotes T18	ЭТО НЕ ОШИБКА В МОДЕЛИ УПРАВЛЕНИЯ, И ЭТО НЕ ПЕРЕХОДНЫЙ И НЕ ПРЕДЛОЖНЫЙ ГЛАГОЛ, ПОЭТОМУ НАДО ПОСТАВИТЬ ОШИБКУ ТОЛКО НА НЕПРАВИЛЬНОМ ПРЕДЛОГЕ, ЗАМЕНИВ ЕГО НА to
+T19	Spelling 767 774	peackes
+#14	AnnotatorNotes T19	peaks
+T20	Spelling 858 863	peack
+#15	AnnotatorNotes T20	peak
+T22	Absence_comp_sent 856 882	a peack every twenty years
+T23	Spelling 910 918	tendensy
+#17	AnnotatorNotes T23	tendency
+T24	suggestion 110 127	in the percontage
+#18	AnnotatorNotes T7	rose
+T25	Prepositions 195 198	for
+#19	AnnotatorNotes T25	throughout
+T26	lex_item_choice 238 242	line
+T27	Absence_comp_sent 263 269	states
+#20	AnnotatorNotes T27	is predicted to start
+T28	Standard 279 302	after 2020 dramatically
+#21	AnnotatorNotes T28	dramatically after 2020
+T30	Articles 400 410	population
+#23	AnnotatorNotes T30	the population
+T32	Tense_choice 550 552	is
+#25	AnnotatorNotes T17	didn't rocket
+T33	note 699 711	Japan’s line
+#26	AnnotatorNotes T33	ЗДЕСЬ НЕ ДОЛЖНО БЫТЬ ЛЕКСИЧЕСКОГО ТЭГА, КОТОРЫЙ ВЫ ПОСТАВИЛИ
+T16	lex_item_choice 667 671	line
+T34	note 728 733	about
+#12	AnnotatorNotes T34	Я ПЕРЕНЕСЛА ВАШ ЛЕКСИЧЕСКИЙ ТЭГ НА ГЛАГОЛ
+T35	Articles 734 750	more stable rise
+#27	AnnotatorNotes T35	a more stable rise
+T36	Conjunctions 713 716	but
+#28	AnnotatorNotes T36	so
+#16	AnnotatorNotes T22	a peak emerges every twenty years
+#29	AnnotatorNotes T24	percentage
+#30	AnnotatorNotes T26	figure
+#31	AnnotatorNotes T32	will be
+#32	AnnotatorNotes T16	index
+T21	Spelling 572 584	aproximently
+#24	AnnotatorNotes T21	approximately
+T31	note 263 269	states
+#33	AnnotatorNotes T31	Правильно ли выбран дискурсивный тег? Да, но второй тэг должен быть орфографический, а не лексический
+T38	note 307 347	the othe countries have more stable rise
+#34	AnnotatorNotes T38	Нужен ли здесь тег? Нет! Но я добавила тэг для артикля.
+T39	note 411 428	people those item
+T40	Spelling 594 599	peack
+#35	AnnotatorNotes T40	peak
+T41	Articles 604 607	USA
+#36	AnnotatorNotes T41	the USA
+T42	note 856 882	a peack every twenty years
+T37	Redundant 980 985	so on
+#37	AnnotatorNotes T37	on
+A4	Delete T24
+T5	lex_item_choice 30 36	number
+#3	AnnotatorNotes T5	percentage
+R1	Dependent_change Arg1:T5 Arg2:T24	
+T43	Category_confusion 246 251	Japan
+#38	AnnotatorNotes T43	Japanese
+T44	suggestion 246 251	Japan
+T29	Articles 331 347	more stable rise
+#22	AnnotatorNotes T29	a more stable rise
+A5	Delete T12
+#39	AnnotatorNotes T39	Да, это все лишнее,только надо ставить галочку в окне Delete
+T45	Absence_explanation 478 487	slow down
+#40	AnnotatorNotes T45	slow down in the population growth
+T46	lex_item_choice 511 518	gratest
+#41	AnnotatorNotes T46	highest
+T47	Ref_device 699 711	Japan’s line
+#42	AnnotatorNotes T47	that of Japan
+T48	note 713 716	but
+#43	AnnotatorNotes T48	CONCESSION - ЭТО УСТУПИТЕЛЬНЫЙ, А so - ЭТО ПРИЧИННЫЙ СОЮЗ. ПРИ ЭТОМ ПРЕДЛОЖЕННЫЙ СОЮЗ ТОЖЕ ДОПУСТИМ, ТАК ЧТО НЕ НАДО ЕГО МЕНЯТЬ.
+T49	lex_item_choice 724 727	say
+#44	AnnotatorNotes T49	talk
+#45	AnnotatorNotes T42	ОЧЕНЬ ХОРОШО
+T50	suggestion 980 985	so on
+T51	Tense_choice 328 330	ve
+#46	AnnotatorNotes T51	had

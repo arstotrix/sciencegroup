@@ -1,0 +1,44 @@
+T1	Spelling 217 224	tenancy
+#1	AnnotatorNotes T1	tendency
+T2	suggestion 225 269	to the number of adult population increasing
+T3	Articles 271 281	Proportion
+#2	AnnotatorNotes T3	The proportion
+T4	Spelling 417 423	untill
+#3	AnnotatorNotes T4	until
+T5	Prepositions 861 863	by
+#4	AnnotatorNotes T5	until
+T6	Articles 936 947	proportions
+#5	AnnotatorNotes T6	the proportions
+T7	lex_item_choice 817 823	amount
+#6	AnnotatorNotes T7	percentage
+#7	AnnotatorNotes T2	for the part of adult population to increase
+T8	suggestion 330 331	-
+A1	Delete T8
+T9	suggestion 388 395	the USA
+#8	AnnotatorNotes T9	in the USA
+T10	Ref_device 396 400	line
+#9	AnnotatorNotes T10	it
+T11	suggestion 396 400	line
+T12	suggestion 463 473	the Sweden
+#10	AnnotatorNotes T12	in Sweden
+T13	suggestion 463 473	the Sweden
+#11	AnnotatorNotes T13	in Sweden
+T14	suggestion 474 478	line
+#12	AnnotatorNotes T14	it
+T15	suggestion 513 519	amount
+#13	AnnotatorNotes T15	percentage
+T16	suggestion 641 649	crossing
+#14	AnnotatorNotes T16	exceeding
+T17	suggestion 650 673	both Sweden and the USA
+#15	AnnotatorNotes T17	that in both Sweden and the USA
+T18	suggestion 674 679	lines
+A2	Delete T18
+R1	Dependent_change Arg1:T18 Arg2:T17	
+T19	Coordinate 712 716	what
+#16	AnnotatorNotes T19	which
+T20	suggestion 712 716	what
+T21	Numerical 727 744	6 times more than
+#17	AnnotatorNotes T21	6 times as much as
+T22	suggestion 727 744	6 times more than
+T23	suggestion 948 950	of
+#18	AnnotatorNotes T23	in

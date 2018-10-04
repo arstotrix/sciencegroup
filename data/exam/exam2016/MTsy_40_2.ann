@@ -1,0 +1,48 @@
+T2	Spelling 73 78	plans
+#1	AnnotatorNotes T2	planes
+T3	Word_order 216 270	will be examined reasons why air travels are necessary
+#2	AnnotatorNotes T3	reasons why air travels are necessary will be examined
+T4	Spelling 306 311	plans
+#3	AnnotatorNotes T4	planes
+R1	Parallel_construction Arg1:T2 Arg2:T4	
+T5	Adjectives 316 334	fastest and safest
+#4	AnnotatorNotes T5	the fastest and safest
+T6	Spelling 454 458	plan
+#5	AnnotatorNotes T6	plane
+R2	Parallel_construction Arg1:T4 Arg2:T6	
+T1	Absence_comp_sent 465 475	some hours
+#6	AnnotatorNotes T1	just few hours
+T7	Word_choice 465 469	some
+#7	AnnotatorNotes T7	few
+T8	Word_choice 479 482	get
+#8	AnnotatorNotes T8	reach
+T9	Spelling 622 631	airplants
+#9	AnnotatorNotes T9	airplanes
+T10	Word_choice 639 644	rarer
+#10	AnnotatorNotes T10	less often
+T11	Lack_par_constr 616 621	among
+#11	AnnotatorNotes T11	with
+T12	Capitalisation 673 681	secondly
+#12	AnnotatorNotes T12	Secondly
+T13	Word_choice 723 727	temp
+#13	AnnotatorNotes T13	speed
+T14	Prepositions 925 942	of the life level
+#14	AnnotatorNotes T14	the life level
+T15	lex_item_choice 1237 1250	influence air
+#15	AnnotatorNotes T15	pollute the air
+T16	Abs_comp_clause 1270 1282	more harmful
+#16	AnnotatorNotes T16	is more harmful
+T17	Spelling 970 974	than
+#17	AnnotatorNotes T17	that
+T18	Prepositions 1025 1027	in
+#18	AnnotatorNotes T18	of
+T19	Ref_device 1378 1383	earth
+#19	AnnotatorNotes T19	other
+T20	lex_item_choice 1472 1490	bring usility like
+#20	AnnotatorNotes T20	as useful as
+T21	Spelling 1491 1496	plans
+#21	AnnotatorNotes T21	planes
+R3	Parallel_construction Arg1:T6 Arg2:T21	
+T22	Spelling 1585 1593	airplans
+#22	AnnotatorNotes T22	airplanes
+R4	Parallel_construction Arg1:T9 Arg2:T22	

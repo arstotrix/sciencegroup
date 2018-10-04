@@ -1,0 +1,170 @@
+T1	lex_item_choice 14 18	hide
+T2	Tense_choice 29 35	become
+T3	Category_confusion 64 69	youth
+T4	Noun_number 86 89	sex
+T5	Spelling 114 125	universites
+T6	Noun_number 173 180	student
+T8	Ref_device 203 208	other
+T10	suggestion 257 264	faculty
+T11	Word_choice 420 431	only female
+T13	Agreement_errors 495 513	a good specialists
+T14	Tense_choice 562 571	will have
+T15	Noun_number 578 584	number
+T16	Noun_number 625 636	professions
+T17	Redundant_comp 638 706	For example, if university will prepare equal numbers of profesions.
+T22	Standard 801 814	will have not
+T23	Spelling 817 821	goad
+T25	Spelling 865 872	enought
+T27	Defining 840 848	, whitch
+T29	Absence_comp_sent 857 864	will no
+T30	Tense_form 857 864	will no
+T31	Noun_number 895 906	professions
+T34	Absence_comp_sent 960 967	will no
+T35	Defining 989 996	, which
+T36	lex_item_choice 1006 1014	enter on
+T38	Determiners 1039 1042	sex
+T40	suggestion 1147 1152	wants
+T41	suggestion 1156 1164	enter on
+T42	Articles 1217 1224	subject
+T43	suggestion 1208 1216	enter on
+T44	Punctuation 1224 1225	,
+T45	Spelling 1274 1281	exmam’s
+T46	Numerals 1295 1298	1st
+T48	Spelling 1305 1311	whitch
+T49	Defining 1303 1311	, whitch
+T50	Punctuation 1342 1355	In conclusion
+T51	Spelling 1381 1383	ar
+T52	Spelling 1422 1427	bouth
+T53	Spelling 1428 1434	sistem
+T54	Noun_number 1428 1434	sistem
+T56	Punctuation 1477 1478	,
+T57	lex_item_choice 1484 1488	male
+T58	lex_item_choice 1493 1499	female
+T59	Articles 1512 1524	equal chance
+T60	Spelling 1529 1536	entring
+#1	AnnotatorNotes T60	entering
+#2	AnnotatorNotes T58	women
+#3	AnnotatorNotes T57	men
+A1	Delete T56
+#4	AnnotatorNotes T51	are
+#5	AnnotatorNotes T52	both
+#6	AnnotatorNotes T50	In conclusion,
+#7	AnnotatorNotes T53	system
+#8	AnnotatorNotes T54	systems
+#9	AnnotatorNotes T46	the 1st
+A2	Delete T44
+#11	AnnotatorNotes T42	the subject
+#12	AnnotatorNotes T48	which
+#13	AnnotatorNotes T49	who
+T61	Comparative_constr 1290 1294	that
+#14	AnnotatorNotes T61	than
+#15	AnnotatorNotes T23	good
+#18	AnnotatorNotes T25	enough
+#21	AnnotatorNotes T16	profession
+#22	AnnotatorNotes T8	others
+#23	AnnotatorNotes T5	universities
+#24	AnnotatorNotes T6	students
+#27	AnnotatorNotes T31	profession
+#28	AnnotatorNotes T35	who
+T63	Standard 877 886	good work
+#30	AnnotatorNotes T63	working well
+#31	AnnotatorNotes T29	will not be
+#32	AnnotatorNotes T22	will not have
+#33	AnnotatorNotes T27	, whose
+#34	AnnotatorNotes T14	have
+#35	AnnotatorNotes T15	numbers
+T64	Punctuation 389 390	,
+A3	Delete T64
+#36	AnnotatorNotes T40	want
+#37	AnnotatorNotes T1	higher
+#38	AnnotatorNotes T2	is becoming
+#39	AnnotatorNotes T3	young
+#40	AnnotatorNotes T4	sexes
+T66	Word_choice 406 415	only male
+#45	AnnotatorNotes T34	will not be
+#46	AnnotatorNotes T36	enroll to study
+#51	AnnotatorNotes T30	will not be
+#52	AnnotatorNotes T45	exam's
+#53	AnnotatorNotes T41	enter
+#54	AnnotatorNotes T43	enter
+#55	AnnotatorNotes T59	an equal chance
+T67	Spelling 1438 1445	entring
+#57	AnnotatorNotes T67	entering
+T68	Spelling 80 85	bouth
+#58	AnnotatorNotes T68	both
+T70	Determiners 355 358	sex
+T71	Noun_number 331 342	competition
+T72	Determiners 471 481	university
+#60	AnnotatorNotes T72	any university
+T73	Articles 723 733	university
+#61	AnnotatorNotes T73	a university
+T75	Tense_choice 734 746	will prepare
+#64	AnnotatorNotes T75	prepares
+T77	lex_item_choice 968 973	right
+T78	Spelling 909 913	Else
+#65	AnnotatorNotes T78	Also
+#66	AnnotatorNotes T77	fair
+#67	AnnotatorNotes T38	their gender
+#68	AnnotatorNotes T70	their gender
+T39	Prepositional_verb 1317 1325	study in
+#69	AnnotatorNotes T39	study at
+T47	suggestion 1183 1189	ending
+T81	lex_part_choice 1246 1253	just if
+#10	AnnotatorNotes T81	even if
+T82	Ref_device 1274 1281	exmam’s
+T83	Articles 1449 1463	the university
+#72	AnnotatorNotes T83	a university
+#41	AnnotatorNotes T13	good specialists
+T7	Category_confusion 323 330	entring
+#42	AnnotatorNotes T7	entrance
+#47	AnnotatorNotes T71	competitions
+T18	Punctuation 825 826	,
+A7	Delete T18
+T19	Tense_form 960 967	will no
+#29	AnnotatorNotes T19	will not be
+T65	Punctuation 342 343	,
+A9	Delete T65
+T80	suggestion 29 35	become
+T84	suggestion 64 69	youth
+T9	lex_item_choice 257 264	faculty
+#25	AnnotatorNotes T9	requirement
+T85	Articles 254 256	an
+#26	AnnotatorNotes T85	a
+R1	Dependent_change Arg1:T9 Arg2:T85	
+T69	lex_item_choice 344 351	despite
+#59	AnnotatorNotes T69	regardless
+T62	lex_item_choice 355 358	sex
+#70	AnnotatorNotes T62	gender
+T86	suggestion 355 358	sex
+#71	AnnotatorNotes T66	men-only
+#16	AnnotatorNotes T11	women-only
+R2	Parallel_construction Arg1:T66 Arg2:T11	
+T12	Articles 495 513	a good specialists
+#73	AnnotatorNotes T12	good specialists
+T87	suggestion 578 584	number
+A4	Delete T17
+T20	Linking_device 827 836	insted of
+#19	AnnotatorNotes T20	contrary to
+T21	suggestion 828 836	nsted of
+T24	Category_confusion 877 881	good
+#17	AnnotatorNotes T24	well
+T26	Category_confusion 882 886	work
+#48	AnnotatorNotes T26	working
+T28	suggestion 877 886	good work
+T32	suggestion 1006 1014	enter on
+T33	Absence_explanation 1006 1014	enter on
+#43	AnnotatorNotes T33	enroll to study
+T37	Absence_explanation 1028 1035	because
+#20	AnnotatorNotes T37	just because
+T74	suggestion 1028 1035	because
+T76	lex_item_choice 1039 1042	sex
+#44	AnnotatorNotes T76	their gender
+T79	suggestion 1039 1042	sex
+#49	AnnotatorNotes T47	remaining
+#50	AnnotatorNotes T82	exam
+T55	suggestion 1438 1445	entring
+#56	AnnotatorNotes T55	being admitted 
+T88	suggestion 1525 1528	for
+#62	AnnotatorNotes T88	in
+T89	suggestion 1529 1536	entring
+#63	AnnotatorNotes T89	university admissions

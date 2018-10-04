@@ -1,0 +1,40 @@
+T1	Tense_choice 496 503	started
+T3	Tense_choice 1214 1219	arose
+T5	Prepositions 1458 1460	of
+T7	note 1583 1584	.
+#2	AnnotatorNotes T7	9 from Alexandrova
+#3	AnnotatorNotes T5	with
+T6	Prepositions 415 417	to
+#1	AnnotatorNotes T6	with
+#4	AnnotatorNotes T1	has started
+T9	Articles 760 761	a
+A1	Delete T9
+T10	Tense_choice 667 679	didn’t treat
+#6	AnnotatorNotes T10	hadn't treated
+T11	Tense_choice 730 738	can’t be
+#7	AnnotatorNotes T11	couldn't have been
+T12	Tense_choice 777 779	is
+#8	AnnotatorNotes T12	was
+T2	Tense_choice 1080 1082	is
+#9	AnnotatorNotes T2	was
+#10	AnnotatorNotes T3	has arisen
+A2	Addition T6
+A3	Cause T6 L1_interference
+A4	Weight-language T6 Critical
+A5	Weight-understanding T6 Minor
+A10	Addition T11
+A11	Cause T11 Absence_of_Category_in_L1
+A12	Weight-language T11 Critical
+A13	Weight-understanding T11 Minor
+A14	Cause T9 Absence_of_Category_in_L1
+A15	Weight-language T9 Minor
+A16	Weight-understanding T9 Minor
+A17	Addition T12
+A18	Cause T12 Other
+A19	Weight-language T12 Critical
+A20	Weight-understanding T12 Critical
+A21	Cause T2 Other
+A22	Weight-language T2 Critical
+A23	Weight-understanding T2 Minor
+T4	Tense_choice 803 808	isn’t
+#5	AnnotatorNotes T4	wasn't

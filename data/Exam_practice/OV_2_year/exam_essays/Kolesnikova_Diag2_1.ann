@@ -1,0 +1,35 @@
+T1	suggestion 111 126	where were made
+#1	AnnotatorNotes T1	by constructing
+T2	Redundant_comp 172 182	Turning to
+A1	Delete T2
+T3	suggestion 197 208	which means
+#2	AnnotatorNotes T3	shows
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	Spelling 227 239	constraction
+#3	AnnotatorNotes T4	construction
+T5	Punctuation 239 240	,
+#4	AnnotatorNotes T5	:
+T6	Defining 490 505	have been built
+#5	AnnotatorNotes T6	that have been built
+T7	Redundant_comp 413 422	Moving to
+A2	Delete T7
+T8	Redundant_comp 438 440	as
+A3	Delete T8
+T9	Absence_explanation 423 436	the other map
+#6	AnnotatorNotes T9	From the other map
+R2	Dependent_change Arg1:T7 Arg2:T9	
+T10	suggestion 455 463	from it,
+#7	AnnotatorNotes T10	that
+R3	Dependent_change Arg1:T9 Arg2:T10	
+T11	Standard 521 541	was made a reception
+#8	AnnotatorNotes T11	a reception was made 
+T12	Non_defining 542 546	that
+#9	AnnotatorNotes T12	, which
+T13	Articles 628 644	an accommodation
+#10	AnnotatorNotes T13	accommodation
+T14	Articles 689 699	restaurant
+#11	AnnotatorNotes T14	a restaurant
+T15	Standard 701 743	On the opposite sea shore was built a pier
+#12	AnnotatorNotes T15	A pier was built on the opposite sea shore 
+T16	suggestion 1115 1117	t.
+#13	AnnotatorNotes T16	6

@@ -1,0 +1,35 @@
+T1	Spelling 895 905	uniwersity
+#1	AnnotatorNotes T1	university
+T3	Noun_number 252 258	number
+#3	AnnotatorNotes T3	numbers
+T4	Spelling 491 501	openminded
+#4	AnnotatorNotes T4	open-minded
+T6	lex_item_choice 471 473	as
+#6	AnnotatorNotes T6	because
+T7	Absence_comp_colloc 774 777	own
+#7	AnnotatorNotes T7	their own
+T8	Word_choice 804 809	there
+#8	AnnotatorNotes T8	it
+T9	Articles 909 918	the place
+#9	AnnotatorNotes T9	a place
+T10	Prepositions 1003 1023	what subject to take
+#10	AnnotatorNotes T10	of what subject to take up
+T12	Redundant_comp 1243 1252	, in case
+T17	Determiners 226 239	an inequality
+#15	AnnotatorNotes T17	some inequality
+T18	Tense_choice 1019 1023	take
+#5	AnnotatorNotes T18	take up
+T19	lex_item_choice 1025 1040	no matter equal
+#16	AnnotatorNotes T19	independent of 
+T11	Redundant_comp 1077 1087	are or not
+A3	Delete T11
+R1	Dependent_change Arg1:T19 Arg2:T11	
+A4	Delete T12
+T2	Articles 713 721	students
+#2	AnnotatorNotes T2	the students
+T5	Determiners 248 266	the number of them
+#11	AnnotatorNotes T5	their numbers
+T13	lex_item_choice 602 611	different
+#12	AnnotatorNotes T13	varying
+T14	Redundant_comp 617 628	a number of
+A1	Delete T14

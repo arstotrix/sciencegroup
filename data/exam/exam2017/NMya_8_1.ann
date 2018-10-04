@@ -1,0 +1,45 @@
+T1	Category_confusion 109 112	U.S
+#1	AnnotatorNotes T1	American
+T2	Noun_number 237 244	network
+#2	AnnotatorNotes T2	networks
+T3	Absence_comp_sent 343 346	age
+#3	AnnotatorNotes T3	age group
+T4	Spelling 382 392	Instagramm
+#4	AnnotatorNotes T4	Instagram
+T5	Punctuation 369 381	nevertheless
+#5	AnnotatorNotes T5	nevertheless,
+T6	Spelling 463 473	Instagramm
+#6	AnnotatorNotes T6	Instagram
+T8	Spelling 723 733	Instagramm
+#8	AnnotatorNotes T8	Instagram
+T10	Articles 801 812	18-29 group
+#10	AnnotatorNotes T10	the 18-29 group
+T9	Compound_word 759 768	years old
+#9	AnnotatorNotes T9	year-old
+T11	Redundant_comp 999 1001	it
+A1	Delete T11
+T12	Pronouns 1098 1102	it’s
+#11	AnnotatorNotes T12	its
+T13	Spelling 1122 1132	Instagramm
+#12	AnnotatorNotes T13	Instagram
+T14	lex_item_choice 1045 1051	relies
+#13	AnnotatorNotes T14	depends
+T15	lex_item_choice 1006 1036	presence in the social network
+#14	AnnotatorNotes T15	a user's activity in social networks
+T16	Pronouns 1055 1061	user’s
+#15	AnnotatorNotes T16	his
+R1	Dependent_change Arg1:T16 Arg2:T15	
+T17	Standard 1037 1051	greatly relies
+#16	AnnotatorNotes T17	depends greatly
+T18	Articles 1018 1021	the
+A2	Delete T18
+T19	Coherence 1022 1036	social network
+#17	AnnotatorNotes T19	social networks
+T20	Articles 1072 1081	network’s
+#18	AnnotatorNotes T20	a network's
+T21	Punctuation 1110 1118	audience
+#19	AnnotatorNotes T21	audience.
+T22	Linking_device 1119 1121	as
+#20	AnnotatorNotes T22	For example,
+T7	Numerical 778 788	twice less
+#7	AnnotatorNotes T7	twice as low

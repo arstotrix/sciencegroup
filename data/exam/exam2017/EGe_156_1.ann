@@ -1,0 +1,14 @@
+T1	Spelling 68 72	that
+#1	AnnotatorNotes T1	than
+T2	Absence_comp_sent 550 673	One more thing to be mentioned is during the recent period birth rate has reached the point of more than 25 per 1000 people
+#2	AnnotatorNotes T2	One more thing to be mentioned is that during the recent period birth rate has reached the point of more than 25 per 1000 people
+T3	note 892 893	d
+#3	AnnotatorNotes T3	DBatov
+T4	Redundant_comp 87 93	period
+A1	Delete T4
+T5	lex_item_choice 145 149	size
+#4	AnnotatorNotes T5	rate
+T6	Redundant_comp 382 389	size of
+A2	Delete T6
+T7	Absence_comp_colloc 770 778	the fact
+#5	AnnotatorNotes T7	the fact that

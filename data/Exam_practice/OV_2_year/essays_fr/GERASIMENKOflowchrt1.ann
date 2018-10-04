@@ -1,0 +1,21 @@
+T1	Redundant_comp 75 85	pattern of
+T3	lex_item_choice 103 115	accompanying
+#2	AnnotatorNotes T3	linked with
+T2	Prepositions 216 218	of
+#1	AnnotatorNotes T2	for
+T4	lex_item_choice 223 231	intended
+#3	AnnotatorNotes T4	target
+T6	Word_order 410 452	is obtained how materials should be stored
+T7	Prepositional_noun 401 452	feedback is obtained how materials should be stored
+#5	AnnotatorNotes T7	feedback on the storage of materials is obtained
+T8	Word_order 657 667	being also
+#6	AnnotatorNotes T8	also being
+T5	Prepositional_adjective 307 319	relevant for
+#4	AnnotatorNotes T5	relevant to
+T9	Prepositional_adjective 668 680	relevant for
+#7	AnnotatorNotes T9	relevant to
+T10	lex_item_choice 722 729	outcome
+#8	AnnotatorNotes T10	results
+T11	Agreement_errors 730 733	has
+#9	AnnotatorNotes T11	have
+R1	Dependent_change Arg1:T10 Arg2:T11	

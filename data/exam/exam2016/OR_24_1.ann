@@ -1,0 +1,63 @@
+T1	Determiners 44 50	number
+#1	AnnotatorNotes T1	a number
+T2	Possessive 211 228	an African’s boys
+#2	AnnotatorNotes T2	African boys
+T3	Category_confusion 301 307	others
+#3	AnnotatorNotes T3	other
+T4	lex_item_choice 295 300	among
+#4	AnnotatorNotes T4	comparing to
+T5	Agreement_errors 239 244	takes
+#5	AnnotatorNotes T5	take
+T6	Determiners 329 335	amount
+#6	AnnotatorNotes T6	the amount
+T7	Tense_choice 355 357	is
+#7	AnnotatorNotes T7	was
+T8	Note_structure 383 396	Rest of World
+#8	AnnotatorNotes T8	the rest of the world
+T9	Confusion_of_structures 397 402	it is
+#9	AnnotatorNotes T9	there were
+T10	Tense_choice 400 402	is
+#10	AnnotatorNotes T10	were
+T11	Redundant 427 441	the data about
+A1	Delete T11
+T12	Determiners 442 448	number
+#11	AnnotatorNotes T12	the number
+T13	Tense_choice 512 514	is
+#12	AnnotatorNotes T13	was
+T14	lex_item_choice 519 526	highest
+#13	AnnotatorNotes T14	largest
+T15	Category_confusion 546 552	others
+#14	AnnotatorNotes T15	other
+T16	Noun_number 553 560	country
+#15	AnnotatorNotes T16	countries
+T17	Category_confusion 565 571	others
+#16	AnnotatorNotes T17	other
+T18	Punctuation 579 605	As for the lowest position
+#17	AnnotatorNotes T18	As for the lowest position,
+T19	Ref_device 606 610	than
+A2	Delete T19
+T20	Tense_choice 614 616	is
+#18	AnnotatorNotes T20	was
+T21	Tense_choice 672 674	is
+#19	AnnotatorNotes T21	was
+T22	Category_confusion 675 685	minimazing
+#20	AnnotatorNotes T22	minimal
+T23	Tense_choice 693 695	is
+#21	AnnotatorNotes T23	were
+T24	Agreement_errors 693 695	is
+#22	AnnotatorNotes T24	were
+T25	Punctuation 749 750	,
+A3	Delete T25
+T26	Confusion_of_structures 766 780	of South Asian
+#23	AnnotatorNotes T26	in South Asia
+T27	lex_item_choice 809 813	from
+#24	AnnotatorNotes T27	among
+T28	Prepositions 829 833	from
+#25	AnnotatorNotes T28	for
+T29	Spelling 846 854	extremly
+#26	AnnotatorNotes T29	extremely
+T30	Tense_choice 843 845	is
+#27	AnnotatorNotes T30	has gone
+T31	Tense_choice 855 857	go
+#28	AnnotatorNotes T31	has gone
+R1	Dependent_change Arg1:T30 Arg2:T31	

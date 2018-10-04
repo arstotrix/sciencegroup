@@ -1,0 +1,44 @@
+T1	Spelling 24 33	velaiting
+T2	Spelling 73 83	hovirontal
+T3	lex_item_choice 462 466	near
+T4	Spelling 520 528	diagramm
+T5	Spelling 588 593	shord
+T6	Spelling 745 752	consist
+T7	Punctuation 878 887	To sum up
+#1	AnnotatorNotes T2	horizontal
+T9	Spelling 431 438	inJapan
+#2	AnnotatorNotes T9	in Japan
+T10	Noun_number 786 791	years
+#3	AnnotatorNotes T10	year
+T11	Punctuation 492 514	It should be mentioned
+#4	AnnotatorNotes T11	It should be mentioned,
+T12	Articles 129 139	percentage
+#5	AnnotatorNotes T12	the percentage
+T13	Defining 279 298	which are presented
+T14	Defining 324 350	when percentage falls down
+#6	AnnotatorNotes T14	when percentage falls down
+T15	Articles 329 339	percentage
+#7	AnnotatorNotes T15	the percentage
+T16	Prepositional_noun 745 752	consist
+#8	AnnotatorNotes T16	consists of
+#9	AnnotatorNotes T6	consists
+T17	Spelling 901 913	understended
+#10	AnnotatorNotes T17	understood 
+T18	Articles 934 944	percentage
+#11	AnnotatorNotes T18	the percentage
+T19	lex_item_choice 986 989	and
+#12	AnnotatorNotes T19	, but
+T20	Agreement_errors 1043 1046	are
+#13	AnnotatorNotes T20	is
+T8	suggestion 0 140;141 572	The graph presents data velaiting to population of 65 and over aged. The hovirontal line shows years and the vertical line shows percentage. From the graph it can be noted that the proportion of the population aged 65 and over increases from 1940 to 2040 years in all countries, which are presented. The number of periods , when percentage falls down is not big. These periods are in 1940-1960 years in the USA; in 1980-2020 years inJapan and the period between near 2015 and 2030 in Sweden. It should be mentioned that diagramm shows great increase of the population aged
+T21	Word_choice 1003 1007	pics
+T23	Articles 1047 1062	small decreases
+#14	AnnotatorNotes T23	a small decrease
+T22	Noun_number 1053 1062	decreases
+#15	AnnotatorNotes T22	decrease
+R1	Dependent_change Arg1:T22 Arg2:T23	
+R2	Dependent_change Arg1:T22 Arg2:T20	
+T24	Prepositions 1063 1065	of
+#16	AnnotatorNotes T24	in
+T25	Absence_explanation 1070 1080	population
+#17	AnnotatorNotes T25	population numbers

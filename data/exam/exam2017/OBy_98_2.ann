@@ -1,0 +1,65 @@
+T1	Punctuation 115 122	, There
+#1	AnnotatorNotes T1	. There
+T2	lex_item_choice 151 156	theme
+#2	AnnotatorNotes T2	topic
+T3	Punctuation 170 176	think,
+#3	AnnotatorNotes T3	that
+T4	Coherence 201 206	those
+#4	AnnotatorNotes T4	share
+T5	Capitalisation 230 238	internet
+#5	AnnotatorNotes T5	Internet
+T6	Inappropriate_register 378 382	it’s
+#6	AnnotatorNotes T6	it is
+T8	Absence_comp_sent 560 566	honest
+#8	AnnotatorNotes T8	it is the right thing
+T10	Punctuation 594 603	of course
+#10	AnnotatorNotes T10	of course,
+T14	Punctuation 871 901	talking about the consequences
+#14	AnnotatorNotes T14	, talking about the consequences,
+T15	Punctuation 1033 1046	in my opinion
+#15	AnnotatorNotes T15	in my opinon,
+T16	Articles 1093 1105	better level
+#16	AnnotatorNotes T16	a better level
+T17	Defining 1178 1183	, who
+#17	AnnotatorNotes T17	who
+T18	Spelling 1219 1224	freem
+#18	AnnotatorNotes T18	free
+T19	Defining 1269 1275	, that
+#19	AnnotatorNotes T19	that
+T20	Noun_number 1317 1322	price
+#20	AnnotatorNotes T20	prices
+T21	Tense_form 1350 1352	be
+#21	AnnotatorNotes T21	will be
+T23	Spelling 1469 1474	worth
+#23	AnnotatorNotes T23	worst
+T24	Category_confusion 1475 1483	criminal
+#24	AnnotatorNotes T24	crime
+T25	lex_item_choice 1515 1523	consider
+#25	AnnotatorNotes T25	believe
+T27	suggestion 136 142	argues
+#27	AnnotatorNotes T27	arguments
+T28	suggestion 398 405	illegal
+#28	AnnotatorNotes T28	is illegal
+T7	suggestion 560 566	honest
+#7	AnnotatorNotes T7	it to be the right thing
+T9	suggestion 612 617	quite
+A1	Delete T9
+T29	suggestion 618 625	peasant
+#9	AnnotatorNotes T29	pleasant
+T11	suggestion 809 812	and
+#11	AnnotatorNotes T11	, and
+T12	suggestion 1067 1073	labels
+#12	AnnotatorNotes T12	brands
+T13	suggestion 1118 1120	of
+#13	AnnotatorNotes T13	for
+T30	suggestion 1127 1138	information
+#29	AnnotatorNotes T30	products
+T31	Punctuation 1225 1228	but
+#30	AnnotatorNotes T31	, but
+T22	suggestion 1497 1500	and
+#22	AnnotatorNotes T22	, and
+T26	suggestion 1529 1531	it
+#26	AnnotatorNotes T26	these activities
+T32	suggestion 1532 1536	does
+#31	AnnotatorNotes T32	do
+R1	Dependent_change Arg1:T26 Arg2:T32	

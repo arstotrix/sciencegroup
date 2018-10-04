@@ -1,0 +1,122 @@
+T1	Punctuation 8 9	,
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+A4	Delete T1
+T3	Prepositions 124 129	since
+A8	Cause T3 Other
+A9	Weight-language T3 Major
+A10	Weight-understanding T3 Minor
+#2	AnnotatorNotes T3	in
+T4	Linking_device 175 179	that
+A11	Cause T4 Other
+A12	Weight-language T4 Major
+A13	Weight-understanding T4 Major
+#3	AnnotatorNotes T4	whether
+T6	lex_item_choice 201 212	appropriate
+A17	Cause T6 Other
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Major
+#5	AnnotatorNotes T6	suitable 
+T7	Absence_comp_sent 321 329	language
+A20	Cause T7 L1_interference
+A21	Weight-language T7 Minor
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	foreign/second language
+T8	Ref_device 429 431	he
+A23	Cause T8 L1_interference
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	"he/she" / "they"
+T9	lex_item_choice 590 597	becomes
+A26	Cause T9 Other
+A27	Weight-language T9 Major
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	begins
+T5	Standard 663 707	what for they have to learn foreign language
+A14	Cause T5 L1_interference
+A15	Weight-language T5 Minor
+A16	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	what they have to learn a foreign language for
+T10	Punctuation 789 828	a child, who enters the primary school,
+A29	Cause T10 L1_interference
+A30	Weight-language T10 Major
+A31	Weight-understanding T10 Major
+#9	AnnotatorNotes T10	a child who enters a primary school
+T11	Absence_comp_sent 1014 1022	language
+#10	AnnotatorNotes T11	foreign language
+A32	Cause T11 L1_interference
+A33	Weight-language T11 Minor
+A34	Weight-understanding T11 Minor
+T12	Absence_comp_sent 1029 1037	start it
+A35	Cause T12 Other
+A36	Weight-language T12 Minor
+A37	Weight-understanding T12 Minor
+#11	AnnotatorNotes T12	start doing it
+T13	Punctuation 1227 1228	,
+A38	Cause T13 L1_interference
+A39	Weight-language T13 Minor
+A40	Weight-understanding T13 Minor
+A41	Delete T13
+T14	Inappropriate_register 1441 1444	are
+A42	Cause T14 Other
+A43	Weight-language T14 Minor
+A44	Weight-understanding T14 Minor
+#12	AnnotatorNotes T14	seem to be
+T15	Inappropriate_register 1472 1482	will agree
+A45	Cause T15 Other
+A46	Weight-language T15 Minor
+A47	Weight-understanding T15 Minor
+#13	AnnotatorNotes T15	"will supposedly agree" / "are known/supposed to agree"
+T16	Category_confusion 217 225	study of
+#14	AnnotatorNotes T16	studying
+T17	Linking_device 250 262	In this case
+T18	Articles 321 329	language
+T19	Prepositions 532 535	for
+#15	AnnotatorNotes T19	over
+T20	Articles 691 707	foreign language
+T21	Prepositions 761 763	in
+T22	Ref_device 870 872	he
+T23	Linking_device 893 904	In this way
+T24	Articles 1014 1022	language
+T25	Articles 1041 1054	the childhood
+T26	Comparative_adj 1093 1102	more easy
+A48	Cause T17 Other
+A49	Weight-language T17 Major
+A50	Weight-understanding T17 Major
+#16	AnnotatorNotes T17	If so
+A51	Cause T18 Absence_of_Category_in_L1
+A52	Weight-language T18 Minor
+A53	Weight-understanding T18 Minor
+#17	AnnotatorNotes T18	a foreign/second language
+A54	Cause T19 Other
+A55	Weight-language T19 Minor
+A56	Weight-understanding T19 Minor
+A57	Cause T20 Absence_of_Category_in_L1
+A58	Weight-language T20 Minor
+A59	Weight-understanding T20 Minor
+#18	AnnotatorNotes T20	a foreign language
+A60	Cause T21 Other
+A61	Weight-language T21 Major
+A62	Weight-understanding T21 Minor
+#19	AnnotatorNotes T21	at
+A63	Cause T22 L1_interference
+A64	Weight-language T22 Minor
+A65	Weight-understanding T22 Minor
+#20	AnnotatorNotes T22	he or she OR they
+A66	Cause T23 Other
+A67	Weight-language T23 Major
+A68	Weight-understanding T23 Major
+#21	AnnotatorNotes T23	So
+A69	Cause T24 Absence_of_Category_in_L1
+A70	Weight-language T24 Minor
+A71	Weight-understanding T24 Minor
+#22	AnnotatorNotes T24	a foreign language
+A72	Cause T25 Absence_of_Category_in_L1
+A73	Weight-language T25 Minor
+A74	Weight-understanding T25 Minor
+#23	AnnotatorNotes T25	childhood
+A75	Cause T26 Other
+A76	Weight-language T26 Minor
+A77	Weight-understanding T26 Minor
+#24	AnnotatorNotes T26	easier

@@ -1,0 +1,49 @@
+T1	Noun_number 20 25	datas
+#1	AnnotatorNotes T1	the data
+T2	Articles 20 25	datas
+#2	AnnotatorNotes T2	the data
+T3	Agreement_errors 52 55	was
+#3	AnnotatorNotes T3	were
+T4	Spelling 159 170	peneentages
+#4	AnnotatorNotes T4	percentages
+T5	Articles 136 142	Topics
+#5	AnnotatorNotes T5	The topics
+T6	Noun_number 196 206	percentage
+#6	AnnotatorNotes T6	percentages
+T7	Articles 240 255	the both graphs
+#7	AnnotatorNotes T7	both graphs
+T8	Standard 257 290	The biggest proportion had metals
+#8	AnnotatorNotes T8	Metals have the biggest proportion 
+T9	Noun_number 356 367	percentages
+#9	AnnotatorNotes T9	percentage
+T10	Standard 344 443	The highest percentages of things transported by rail had metals (35%) and manufactured goods (25%)
+#10	AnnotatorNotes T10	Metals and manufactured goods had the highest percentages (35% and 25 respectively)
+T11	Articles 450 459	amount of
+#11	AnnotatorNotes T11	the amount of
+T12	Absence_comp_sent 468 484	that transported
+#12	AnnotatorNotes T12	that were transported
+T13	Defining 466 493	, that transported by road,
+#13	AnnotatorNotes T13	that were transported by road
+T14	Articles 514 524	Percentage
+#14	AnnotatorNotes T14	The percentage
+T15	Capitalisation 514 524	Percentage
+#15	AnnotatorNotes T15	The persentage
+R1	Dependent_change Arg1:T15 Arg2:T14	
+T16	Agreement_errors 547 551	were
+#16	AnnotatorNotes T16	was
+T17	Category_confusion 566 575	similarly
+#17	AnnotatorNotes T17	similar
+T18	Standard 605 756	The lowest data had non-metallic minerals, that arrived by rail and machinery goods, transported by road (that had only 2% - the lowest number of all).
+#18	AnnotatorNotes T18	Non-metallic minerals arrived by rail and machinery goods transported by road had the lowes data(2% - the lowes number of all)
+T19	Punctuation 683 709	goods, transported by road
+#19	AnnotatorNotes T19	goods transported by road
+T20	Redundant_comp 711 724	that had only
+A1	Delete T20
+T21	Redundant_comp 646 652	, that
+A2	Delete T21
+T22	Articles 757 768	Percentages
+#20	AnnotatorNotes T22	The percentages 
+T23	lex_item_choice 832 840	majority
+#21	AnnotatorNotes T23	mostly
+T24	Punctuation 862 868	, than
+#22	AnnotatorNotes T24	than

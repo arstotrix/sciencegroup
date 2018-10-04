@@ -1,0 +1,121 @@
+T1	Punctuation 45 53	networks
+#1	AnnotatorNotes T1	networks,
+T2	Redundant 58 60	in
+A1	Delete T2
+T3	Noun_number 104 110	number
+#2	AnnotatorNotes T3	numbers
+T4	Capitalisation 163 166	usa
+#3	AnnotatorNotes T4	USA
+T5	Punctuation 163 166	usa
+#4	AnnotatorNotes T5	USA.
+T6	Capitalisation 167 174	firstly
+#5	AnnotatorNotes T6	Firstly
+T7	Punctuation 167 174	firstly
+#6	AnnotatorNotes T7	Firstly,
+T8	Spelling 182 190	obviusly
+#7	AnnotatorNotes T8	spelling
+T9	lex_item_choice 226 234	extrimly
+#8	AnnotatorNotes T9	much
+T10	Comparative_adj 235 239	high
+#9	AnnotatorNotes T10	higher
+T11	Spelling 281 290	outlinded
+#10	AnnotatorNotes T11	outlined 
+T12	Punctuation 337 345	facebook
+#11	AnnotatorNotes T12	facebook.
+T13	Capitalisation 346 353	however
+#12	AnnotatorNotes T13	However
+T14	Punctuation 346 353	however
+#13	AnnotatorNotes T14	However,
+T15	Spelling 366 376	precentage
+#14	AnnotatorNotes T15	percentage
+T16	Capitalisation 405 414	instagram
+#15	AnnotatorNotes T16	Instagram is
+T18	Capitalisation 469 477	linkedln
+#17	AnnotatorNotes T18	Linkedln
+T20	Capitalisation 392 400	intagram
+#19	AnnotatorNotes T20	Instagram
+T22	Capitalisation 479 487	moreover
+#21	AnnotatorNotes T22	Moreover
+T23	Punctuation 479 487	moreover
+#22	AnnotatorNotes T23	Moreover,
+T24	Capitalisation 488 496	facebook
+#23	AnnotatorNotes T24	Facebook
+T26	Voice 497 506	are using
+#25	AnnotatorNotes T26	is used
+T27	Punctuation 529 537	secondly
+#26	AnnotatorNotes T27	Secondly,
+T28	Capitalisation 529 537	secondly
+#27	AnnotatorNotes T28	Secondly
+T29	Spelling 558 563	tipes
+#28	AnnotatorNotes T29	types
+T30	Countable_uncountable 699 711	informations
+#29	AnnotatorNotes T30	information
+T31	Agreement_errors 717 720	are
+#30	AnnotatorNotes T31	is
+T32	Redundant 735 738	and
+A2	Delete T32
+T33	Capitalisation 739 741	it
+#31	AnnotatorNotes T33	It
+T34	Spelling 785 793	populaar
+#32	AnnotatorNotes T34	popular
+T35	Punctuation 785 793	populaar
+#33	AnnotatorNotes T35	popular.
+T36	Capitalisation 794 796	to
+#34	AnnotatorNotes T36	To sum up
+T37	Spelling 861 866	evary
+#35	AnnotatorNotes T37	every
+T38	Spelling 867 871	tipy
+#36	AnnotatorNotes T38	type
+T39	Capitalisation 918 926	facebook
+#37	AnnotatorNotes T39	Facebook
+T41	Capitalisation 0 8	nowadays
+T42	Articles 90 110	the different number
+#39	AnnotatorNotes T42	different numbers
+T43	Voice 136 145	are using
+#40	AnnotatorNotes T43	are used
+T44	Absence_comp_sent 208 225	usage of facebook
+#41	AnnotatorNotes T44	usage of facebook is
+T45	Punctuation 267 270	and
+#42	AnnotatorNotes T45	, and
+T46	Redundant 294 309	the precentages
+A3	Delete T46
+T47	Spelling 313 320	pracent
+T48	Voice 386 391	shows
+#43	AnnotatorNotes T48	is shown by
+T49	Absence_comp_sent 405 414	instagram
+#44	AnnotatorNotes T49	Instagram is
+T50	Word_choice 465 468	has
+#45	AnnotatorNotes T50	are those of
+T17	Confusion_of_structures 514 527	groups of age
+#16	AnnotatorNotes T17	age groups
+R1	Dependent_change Arg1:T30 Arg2:T31	
+T21	Tense 742 751	is proved
+#20	AnnotatorNotes T21	has been proved
+T25	Agreement_errors 752 793	that among teenagers it is widly populaar
+#24	AnnotatorNotes T25	to be overwhelmingly popular among teenagers
+T51	lex_item_choice 779 784	widly
+#46	AnnotatorNotes T51	overwhelmingly
+T52	Capitalisation 804 805	i
+#47	AnnotatorNotes T52	I
+T53	Tense 837 845	shoud be
+#48	AnnotatorNotes T53	are
+T40	Agreement_errors 954 958	this
+#38	AnnotatorNotes T40	these
+T54	Tense 979 981	is
+#49	AnnotatorNotes T54	was
+T55	Category_confusion 982 989	firstly
+#50	AnnotatorNotes T55	the first to be
+T56	lex_item_choice 990 997	invited
+#51	AnnotatorNotes T56	introduced
+#52	AnnotatorNotes T41	Nowadays
+#53	AnnotatorNotes T47	percent
+T57	Absence_explanation 61 77	this graph below
+#54	AnnotatorNotes T57	the graph in the task
+T58	Punctuation 401 404	and
+#55	AnnotatorNotes T58	, and
+T59	Ref_device 465 468	has
+#56	AnnotatorNotes T59	are those of
+T19	Agreement_errors 497 506	are using
+#18	AnnotatorNotes T19	is used
+T60	Punctuation 794 803	to sum up
+#57	AnnotatorNotes T60	To sum up,

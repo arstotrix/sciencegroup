@@ -1,0 +1,71 @@
+T1	Spelling 23 26	hom
+#1	AnnotatorNotes T1	how
+T2	Articles 169 172	USA
+#2	AnnotatorNotes T2	the USA
+T3	Standard 224 240	probably will be
+#3	AnnotatorNotes T3	will probably be
+T4	Articles 306 311	1980s
+#4	AnnotatorNotes T4	the 1980s
+T6	Spelling 559 568	bejinninj
+#6	AnnotatorNotes T6	beginning
+T8	Category_confusion 642 646	slow
+#8	AnnotatorNotes T8	slowly
+T9	Coherence 698 714	It could be seen
+#9	AnnotatorNotes T9	However,
+T10	Standard 667 696	a sharp growth in 2030 by 25%
+#10	AnnotatorNotes T10	a sharp growth by 25% in 2030
+T11	Absence_explanation 764 771	aged 65
+#11	AnnotatorNotes T11	aged 65 and over
+T12	Prepositions 802 804	on
+#12	AnnotatorNotes T12	by
+A1	Cause T12 L1_interference
+T13	Prepositions 819 821	on
+A2	Cause T13 L1_interference
+#13	AnnotatorNotes T13	by
+T14	Standard 814 829	fell on 1% then
+#14	AnnotatorNotes T14	then fell by 1%
+T15	Redundant_comp 861 877	It could be seen
+A3	Cause T6 Typo
+T18	Punctuation 212 220	1940 and
+#18	AnnotatorNotes T18	1940, and
+T19	Agreement_errors 283 285	is
+#19	AnnotatorNotes T19	are
+T20	lex_item_choice 372 378	really
+#20	AnnotatorNotes T20	quite
+T22	lex_item_choice 1025 1031	bigger
+#22	AnnotatorNotes T22	larger
+T23	Punctuation 1002 1014	nowadays and
+#23	AnnotatorNotes T23	nowadays, and
+T24	Often_confused 991 1001	is raising
+#24	AnnotatorNotes T24	is rising
+T26	Tense_choice 1018 1024	can be
+#26	AnnotatorNotes T26	will become
+T16	suggestion 65 73	a period
+#16	AnnotatorNotes T16	the period
+T17	suggestion 124 130	number
+#17	AnnotatorNotes T17	percentage
+T27	suggestion 156 165	who lived
+A4	Delete T27
+T28	suggestion 173 182	increased
+#27	AnnotatorNotes T28	is expected to increase
+T29	suggestion 333 338	until
+#28	AnnotatorNotes T29	by
+T30	suggestion 372 378	really
+T5	suggestion 462 468	during
+#5	AnnotatorNotes T5	throughout
+T21	suggestion 541 549	the same
+#21	AnnotatorNotes T21	at the same level
+T7	suggestion 698 714	It could be seen
+T32	Punctuation 846 859	in 1980, 2010
+#7	AnnotatorNotes T32	(in 1980, 2010)
+A6	Delete T15
+T34	suggestion 861 877	It could be seen
+T36	suggestion 991 1001	is raising
+T37	lex_item_choice 1018 1024	can be
+#29	AnnotatorNotes T37	will become
+T25	suggestion 663 666	was
+#15	AnnotatorNotes T25	is going to be
+T35	suggestion 896 899	and
+#25	AnnotatorNotes T35	and will be 
+T31	note 1039 1040	.
+#30	AnnotatorNotes T31	Волкова

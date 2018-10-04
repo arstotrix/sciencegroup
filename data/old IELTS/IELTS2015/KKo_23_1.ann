@@ -1,0 +1,52 @@
+T1	Tense_form 48 55	spended
+#1	AnnotatorNotes T1	spent
+T2	Articles 69 71	UK
+#2	AnnotatorNotes T2	the UK
+T3	Word_choice 88 98	categories
+#3	AnnotatorNotes T3	types
+T4	Redundant_comp 118 125	in time
+A1	Delete T4
+T5	Redundant_comp 144 148	year
+A2	Cause T5 L1_interference
+A3	Delete T5
+T6	Tense_form 259 263	rise
+#4	AnnotatorNotes T6	risen
+T7	Adverbs 252 258	steady
+#5	AnnotatorNotes T7	steadily
+T8	Adjectives 276 279	his
+#6	AnnotatorNotes T8	its
+T9	Tense_choice 331 340	goes down
+#7	AnnotatorNotes T9	went down
+T10	Word_choice 318 327	In future
+#8	AnnotatorNotes T10	Later
+T11	Tense_choice 415 418	has
+#9	AnnotatorNotes T11	had
+T12	Tense_choice 206 212	starts
+#10	AnnotatorNotes T12	started
+T13	Word_choice 529 537	stabilly
+#11	AnnotatorNotes T13	steadily
+T14	Prepositions 592 599	through
+#12	AnnotatorNotes T14	by
+T15	Word_choice 652 658	raised
+#13	AnnotatorNotes T15	reaches
+T16	Redundant_comp 678 682	mark
+A4	Delete T16
+T17	Spelling 707 717	technicall
+#14	AnnotatorNotes T17	technical
+T18	Word_choice 718 726	upgrades
+#15	AnnotatorNotes T18	advance
+T19	Often_confused 751 756	rised
+#16	AnnotatorNotes T19	raised
+T20	Word_choice 757 763	number
+#17	AnnotatorNotes T20	the duration
+T21	Noun_number 767 771	call
+#18	AnnotatorNotes T21	calls
+T22	Prepositions 772 779	through
+#19	AnnotatorNotes T22	by
+T23	Absence_comp_sent 850 862	more popular
+#20	AnnotatorNotes T23	were more popular
+T24	Redundant_comp 895 899	year
+A5	Cause T24 L1_interference
+A6	Delete T24
+T25	suggestion 318 375	In future it goes down back to 70 billion minutes in 2002
+T26	suggestion 0 143	In this diagram we can see billions of minutes, spended by people in UK using different categories of telephone lines in time from 1995 to 2002

@@ -1,0 +1,51 @@
+T4	Redundant_comp 848 851	too
+T8	Determiners 1268 1279	their point
+#8	AnnotatorNotes T8	this point
+T9	Word_choice 1303 1316	modern people
+#9	AnnotatorNotes T9	nowadays people 
+T11	Voice 76 85	are aimed
+#11	AnnotatorNotes T11	aim
+T12	Punctuation 108 113	while
+#12	AnnotatorNotes T12	, while
+T13	Infinitive_constr 143 158	way for sharing
+#13	AnnotatorNotes T13	way to share
+T14	lex_item_choice 250 254	gain
+#14	AnnotatorNotes T14	get
+T15	Punctuation 370 372	or
+#15	AnnotatorNotes T15	, or
+T16	Absence_explanation 443 450	discuss
+#16	AnnotatorNotes T16	discuss something
+T2	Agreement_errors 726 729	has
+#2	AnnotatorNotes T2	have
+T3	Ref_device 881 884	his
+#3	AnnotatorNotes T3	their
+T18	lex_item_choice 895 899	gain
+#18	AnnotatorNotes T18	can appeal to get
+T19	Standard 895 962	gain requires sum of money from different users of a social network
+#19	AnnotatorNotes T19	can appeal to get the required sum to different users of a social network 
+T20	Participial_constr 900 908	requires
+#20	AnnotatorNotes T20	required
+T21	Redundant 913 921	of money
+A1	Delete T21
+T5	Determiners 1134 1144	spare time
+#5	AnnotatorNotes T5	their spare time
+T6	lex_part_choice 1321 1329	aimed of
+#6	AnnotatorNotes T6	focused on
+T10	Absence_explanation 1034 1046	social media
+#10	AnnotatorNotes T10	using social networks
+T17	lex_item_choice 1041 1046	media
+#17	AnnotatorNotes T17	networks
+T22	Noun_number 1176 1182	friend
+#21	AnnotatorNotes T22	friends
+A2	Delete T4
+T1	Ref_device 1128 1130	it
+#1	AnnotatorNotes T1	them
+T7	note 1534 1535	.
+#4	AnnotatorNotes T7	Жукова
+T23	Absence_comp_sent 895 899	gain
+#7	AnnotatorNotes T23	can appeal to get
+T24	Prepositions 922 926	from
+#22	AnnotatorNotes T24	to
+R1	Dependent_change Arg1:T23 Arg2:T24	
+T25	Articles 900 912	requires sum
+#23	AnnotatorNotes T25	the required sum

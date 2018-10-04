@@ -1,0 +1,75 @@
+T1	Prepositional_noun 57 94	use Facebook, Instagram, and LinkedIn
+#1	AnnotatorNotes T1	use of Facebook, Instagram, and LinkedIn
+T2	Spelling 171 180	existance
+#2	AnnotatorNotes T2	existence
+T3	Spelling 196 203	beetwen
+#3	AnnotatorNotes T3	between
+T4	Category_confusion 307 312	rarer
+#4	AnnotatorNotes T4	more rarely
+T5	Determiners 318 325	another
+#5	AnnotatorNotes T5	other
+T6	Spelling 330 335	grops
+#6	AnnotatorNotes T6	groups
+T7	Absence_explanation 318 335	another age grops
+#7	AnnotatorNotes T7	people from other age groups
+T8	lex_item_choice 343 350	persons
+#8	AnnotatorNotes T8	people
+T9	Articles 385 389	Data
+#9	AnnotatorNotes T9	The data
+T10	Spelling 799 807	semulary
+#10	AnnotatorNotes T10	similarly
+T11	Determiners 705 712	another
+#11	AnnotatorNotes T11	other
+T12	Derivation 655 672	18 – 29 years old
+#12	AnnotatorNotes T12	18-29 year olds
+T13	Articles 616 619	The
+A1	Delete T13
+T14	Determiners 576 583	another
+#13	AnnotatorNotes T14	other
+T15	Articles 542 545	the
+A2	Delete T15
+T16	Absence_explanation 452 465	from 22 to 31
+#14	AnnotatorNotes T16	aged 22-31
+T17	Derivation 471 482	30 – 64 old
+#15	AnnotatorNotes T17	30-64 year olds
+T18	Articles 752 755	the
+T19	Articles 822 825	the
+#16	AnnotatorNotes T19	a
+T20	lex_item_choice 831 841	previously
+#17	AnnotatorNotes T20	primarily
+T21	Adj_as_collective 846 851	young
+#18	AnnotatorNotes T21	the young
+T22	Absence_explanation 853 904	This group also is the most active visitor Facebook
+#19	AnnotatorNotes T22	This group's members are the most active users of Facebook
+T23	lex_item_choice 888 895	visitor
+A3	Cause T23 L1_interference
+#20	AnnotatorNotes T23	user
+T24	Absence_explanation 910 917	another
+#21	AnnotatorNotes T24	other groups' members
+T25	Determiners 910 917	another
+#22	AnnotatorNotes T25	other groups' members
+T26	Punctuation 932 942	, actively
+#23	AnnotatorNotes T26	actively
+T27	Superlative_adj 678 688	the bigger
+#24	AnnotatorNotes T27	the biggest
+T28	Prepositional_noun 227 230	use
+#25	AnnotatorNotes T28	use of
+T29	Redundant_comp 171 183	existance of
+A4	Delete T29
+T30	Articles 257 266	age group
+#26	AnnotatorNotes T30	the age group
+T31	Ref_device 373 383	these ones
+#27	AnnotatorNotes T31	them
+T32	Discourse 287 290	the
+R1	Dependent_change Arg1:T31 Arg2:T32	
+T33	Absence_explanation 649 653	site
+#28	AnnotatorNotes T33	of the three networks
+T34	Comparative_adj 268 275	Elderly
+#29	AnnotatorNotes T34	Older
+T35	lex_item_choice 268 275	Elderly
+#30	AnnotatorNotes T35	Older
+T36	Comparative_adj 504 509	Young
+#31	AnnotatorNotes T36	Younger
+T37	lex_item_choice 530 538	visitors
+A5	Cause T37 L1_interference
+#32	AnnotatorNotes T37	users

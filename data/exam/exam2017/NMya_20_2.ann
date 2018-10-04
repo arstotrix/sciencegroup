@@ -1,0 +1,32 @@
+T1	Inappropriate_register 53 62	teenagers
+#1	AnnotatorNotes T1	adolescents
+T2	Spelling 2368 2376	commited
+#2	AnnotatorNotes T2	committed
+T3	Inappropriate_register 2071 2080	Teenagers
+#3	AnnotatorNotes T3	Adolescents
+T4	Articles 2055 2056	a
+#4	AnnotatorNotes T4	the
+T5	Prepositional_noun 282 294	solutions of
+#5	AnnotatorNotes T5	solutions to
+T6	Prepositional_noun 271 277	causes
+#6	AnnotatorNotes T6	causes of
+R1	Parallel_construction Arg1:T5 Arg2:T6	
+T7	Articles 321 322	a
+#7	AnnotatorNotes T7	the
+T8	Inappropriate_register 863 867	kids
+#8	AnnotatorNotes T8	children
+T9	lex_item_choice 1184 1188	time
+#9	AnnotatorNotes T9	life
+T10	Inappropriate_register 1266 1270	kids
+#10	AnnotatorNotes T10	children
+T11	Inappropriate_register 1467 1477	teenagers’
+#11	AnnotatorNotes T11	adolescents'
+T12	Inappropriate_register 1531 1535	kids
+#12	AnnotatorNotes T12	children
+T13	Redundant_comp 1592 1600	children
+#13	AnnotatorNotes T13	they
+R2	Dependent_change Arg1:T13 Arg2:T12	
+T14	Prepositions 1621 1623	on
+#14	AnnotatorNotes T14	for
+T15	Inappropriate_register 1662 1667	kids’
+#15	AnnotatorNotes T15	children's

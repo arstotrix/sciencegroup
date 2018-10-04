@@ -1,0 +1,17 @@
+T1	Agreement_errors 10 20	illustrate
+#1	AnnotatorNotes T1	illustrates
+T2	Punctuation 108 120	First of all
+#2	AnnotatorNotes T2	First of all,
+T3	Redundant_comp 132 140	observer
+A1	Delete T3
+T4	Numerals 236 240	43,7
+#3	AnnotatorNotes T4	43.7
+T5	lex_item_choice 316 322	amount
+#4	AnnotatorNotes T5	number
+T6	Agreement_errors 335 343	decrease
+#5	AnnotatorNotes T6	decreases
+T7	suggestion 367 380	maltusianskiy
+T8	Coherence 405 445	with grow big different from 2000 – 2012
+#6	AnnotatorNotes T8	which has a great difference between 2000 and 2012
+T9	Punctuation 461 471	By the end
+#7	AnnotatorNotes T9	By the end,

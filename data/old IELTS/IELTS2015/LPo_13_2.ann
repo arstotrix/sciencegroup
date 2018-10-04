@@ -1,0 +1,99 @@
+T2	Spelling 25 36	Universitie
+#2	AnnotatorNotes T2	universities
+T1	Capitalisation 25 36	Universitie
+#1	AnnotatorNotes T1	universities
+T3	Noun_number 57 63	amount
+#3	AnnotatorNotes T3	amounts
+T4	lex_part_choice 130 134	high
+#4	AnnotatorNotes T4	higher
+T5	Articles 173 178	thing
+#5	AnnotatorNotes T5	a normal and necessary thing
+T6	Noun_number 299 306	subject
+#6	AnnotatorNotes T6	subjects
+T7	Standard 347 407	after graduating from the school have wide choice of faculty
+#7	AnnotatorNotes T7	have wide choice of faculty after graduating from the school
+T8	Articles 369 372	the
+A1	Delete T8
+T9	Noun_number 400 407	faculty
+#8	AnnotatorNotes T9	faculties
+T10	Punctuation 409 424	On the one hand
+#9	AnnotatorNotes T10	On the one hand,
+T11	Spelling 521 526	weman
+#10	AnnotatorNotes T11	women
+T12	lex_item_choice 643 647	male
+#11	AnnotatorNotes T12	men
+T13	lex_item_choice 660 666	female
+#12	AnnotatorNotes T13	women
+R1	Parallel_construction Arg1:T13 Arg2:T12	
+T14	Tense_choice 937 945	happened
+#13	AnnotatorNotes T14	happen
+T15	Prepositions 946 950	with
+#14	AnnotatorNotes T15	to
+T16	Articles 982 992	university
+A2	Addition T16
+#15	AnnotatorNotes T16	a university
+A3	Addition T5
+T17	Punctuation 1020 1037	On the other hand
+A4	Addition T17
+#16	AnnotatorNotes T17	On the other hand,
+A5	Addition T10
+T18	Spelling 1162 1169	neasest
+#17	AnnotatorNotes T18	nearest
+T19	Absence_comp_colloc 1235 1251	different gender
+#18	AnnotatorNotes T19	people of different gender
+T20	Inappropriate_register 931 936	gonna
+#19	AnnotatorNotes T20	is going to / will
+T21	Ref_device 1255 1258	one
+#20	AnnotatorNotes T21	the same
+T22	Pronouns 1294 1299	there
+#21	AnnotatorNotes T22	their
+T23	Vocabulary 1310 1322	future plans
+#22	AnnotatorNotes T23	plans for future
+T24	Spelling 1406 1413	enought
+#23	AnnotatorNotes T24	enough
+T25	Noun_number 1346 1356	university
+#24	AnnotatorNotes T25	universities
+T26	Spelling 1462 1471	dis agree
+#25	AnnotatorNotes T26	disagree
+T27	Redundant_comp 1426 1436	keep exist
+#26	AnnotatorNotes T27	exist
+T28	Spelling 1546 1552	creare
+#27	AnnotatorNotes T28	create
+T29	lex_part_choice 1618 1622	high
+#28	AnnotatorNotes T29	higher
+T30	suggestion 1633 1646	possebilities
+#29	AnnotatorNotes T30	possibilities
+T31	Voice 1725 1731	s need
+#30	AnnotatorNotes T31	needs
+T32	Spelling 1633 1646	possebilities
+T33	Punctuation 179 186	such as
+A6	Addition T33
+#31	AnnotatorNotes T33	, such as
+T34	Tense_choice 227 233	became
+#32	AnnotatorNotes T34	becomes
+T35	Noun_number 503 509	number
+#33	AnnotatorNotes T35	numbers
+T36	Voice 626 633	allowed
+#34	AnnotatorNotes T36	are allowed
+T37	Ref_device 723 728	which
+#35	AnnotatorNotes T37	who
+T38	Tense_form 729 734	wants
+#36	AnnotatorNotes T38	want
+T39	Modals 729 734	wants
+#37	AnnotatorNotes T39	? might want
+T40	Ref_device 856 860	male
+A7	Addition T40
+#38	AnnotatorNotes T40	male ones
+T41	Absence_comp_sent 875 886	reason that
+A8	Addition T41
+#39	AnnotatorNotes T41	reason is that
+T42	Noun_number 887 890	man
+#40	AnnotatorNotes T42	men
+T43	lex_item_choice 1426 1436	keep exist
+#41	AnnotatorNotes T43	? survive
+T44	Word_choice 1482 1488	extent
+#42	AnnotatorNotes T44	opinion
+T45	Formational_affixes 1558 1573	extra-tolerance
+#43	AnnotatorNotes T45	extra-tolerant
+T46	Redundant_comp 1666 1669	our
+#44	AnnotatorNotes T46	the

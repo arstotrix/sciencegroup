@@ -1,0 +1,78 @@
+T2	lex_item_choice 39 47	quantaty
+#2	AnnotatorNotes T2	percentage
+T3	Articles 37 47	a quantaty
+#3	AnnotatorNotes T3	the percentage
+T4	lex_item_choice 51 55	aged
+#4	AnnotatorNotes T4	elderly 
+T5	Articles 137 140	USA
+#5	AnnotatorNotes T5	the
+T6	lex_item_choice 192 200	quantaty
+#6	AnnotatorNotes T6	percentage
+T7	lex_item_choice 204 208	aged
+#7	AnnotatorNotes T7	elderly
+T8	Redundant_comp 460 465	about
+A1	Cause T8 L1_interference
+T9	lex_item_choice 493 499	rising
+#8	AnnotatorNotes T9	increase
+T10	lex_item_choice 510 518	be saved
+#9	AnnotatorNotes T10	remain
+T11	Articles 543 546	USA
+#10	AnnotatorNotes T11	the USA
+T12	Spelling 650 662	aproximately
+#11	AnnotatorNotes T12	approximately
+T13	lex_item_choice 741 749	quantaty
+#12	AnnotatorNotes T13	proportion
+T14	lex_item_choice 753 757	aged
+#13	AnnotatorNotes T14	elderly
+T15	lex_item_choice 776 784	monthned
+#14	AnnotatorNotes T15	observation
+T16	Spelling 874 886	aproximately
+#15	AnnotatorNotes T16	approximately 
+T17	Spelling 997 1002	whlen
+#16	AnnotatorNotes T17	which
+T18	lex_item_choice 1013 1020	planned
+#17	AnnotatorNotes T18	expected
+T19	Noun_number 952 959	country
+#18	AnnotatorNotes T19	countries 
+T20	lex_item_choice 1149 1153	aged
+#19	AnnotatorNotes T20	elderly 
+T21	lex_item_choice 1274 1282	quantaty
+#20	AnnotatorNotes T21	portion
+T22	lex_item_choice 1286 1290	aged
+#21	AnnotatorNotes T22	elderly 
+T23	Absence_explanation 530 541	In contrast
+#22	AnnotatorNotes T23	In contrast to Japan
+T25	Tense 505 518	will be saved
+#24	AnnotatorNotes T25	will remain
+T27	suggestion 1348 1349	.
+#26	AnnotatorNotes T27	Кочнева Полина 
+T1	Superlative_adj 184 191	minimal
+#1	AnnotatorNotes T1	lowest
+A2	Delete T8
+T28	Tense 477 479	is
+T29	Redundant_comp 717 719	it
+A3	Delete T29
+T30	Standard 720 791	can be noticed a big quantaty of aged people during the monthned period
+#27	AnnotatorNotes T30	a big proportion of elderly people during the observation period can be noticed
+T31	Tense 1003 1020	will also planned
+#28	AnnotatorNotes T31	is also expected
+T32	Word_choice 1116 1130	development of
+#29	AnnotatorNotes T32	changes in
+T33	Articles 1131 1141	proportion
+#30	AnnotatorNotes T33	the proportion
+T34	Agreement_errors 1161 1163	is
+#31	AnnotatorNotes T34	are
+R1	Dependent_change Arg1:T32 Arg2:T34	
+T35	Word_choice 1188 1212	leader of the statistics
+#32	AnnotatorNotes T35	country with the highest figure
+T36	lex_item_choice 1264 1273	minimized
+#33	AnnotatorNotes T36	lowest
+T37	Punctuation 1328 1332	aged
+#34	AnnotatorNotes T37	"aged"
+T38	Word_choice 1308 1311	can
+#35	AnnotatorNotes T38	is expected to
+#23	AnnotatorNotes T28	was
+T24	Prepositions 519 523	till
+#25	AnnotatorNotes T24	up to
+T26	Voice 1003 1020	will also planned
+#36	AnnotatorNotes T26	is also expected

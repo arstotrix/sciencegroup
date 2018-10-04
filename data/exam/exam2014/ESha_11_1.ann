@@ -1,0 +1,32 @@
+T1	Articles 20 23	the
+A1	Delete T1
+T2	Articles 166 169	the
+A2	Delete T2
+T3	lex_item_choice 235 239	also
+#1	AnnotatorNotes T3	as well
+T4	Tense_form 256 259	are
+#2	AnnotatorNotes T4	is
+T5	Absence_explanation 365 368	men
+#3	AnnotatorNotes T5	had it also
+T6	Spelling 351 353	38
+A3	Cause T6 Typo
+#4	AnnotatorNotes T6	70 + 38= 108% -  impossible
+T7	Spelling 397 402	peopl
+A4	Cause T7 Typo
+#5	AnnotatorNotes T7	people
+T8	Articles 427 430	the
+A5	Delete T8
+T9	Spelling 526 535	adentical
+#6	AnnotatorNotes T9	identical
+T10	Redundant_comp 623 627	that
+A6	Cause T10 L1_interference
+A7	Delete T10
+T11	Noun_number 655 668	qualification
+#7	AnnotatorNotes T11	qualifications
+T12	Tense_form 698 701	was
+#8	AnnotatorNotes T12	were
+T13	Word_order 693 701	also was
+A8	Cause T13 L1_interference
+#9	AnnotatorNotes T13	were also
+T14	Spelling 516 521	degre
+#10	AnnotatorNotes T14	degree

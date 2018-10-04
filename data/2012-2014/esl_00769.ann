@@ -1,0 +1,761 @@
+T1	Prepositions 110 122	articles how
+#1	AnnotatorNotes T1	articles about OR on how
+T2	Articles 313 314	a
+A1	Delete T2
+T3	Countable_uncountable 321 331	importance
+T4	Articles 439 440	a
+A2	Delete T4
+T5	Countable_uncountable 449 458	influence
+T6	Agreement_errors 508 522	Scientist have
+#2	AnnotatorNotes T6	Scientists have
+T7	lex_item_choice 523 527	made
+#3	AnnotatorNotes T7	carried out
+T9	Punctuation 912 916	when
+#4	AnnotatorNotes T9	, when
+T10	Discourse 958 960	he
+A4	Delete T10
+T11	lex_item_choice 1012 1017	noted
+#5	AnnotatorNotes T11	noticed OR observed
+T12	Verb_pattern 1250 1255	drink
+#6	AnnotatorNotes T12	to drink
+T13	Possessive 1435 1441	body's
+#7	AnnotatorNotes T13	body
+T14	Formational_affixes 1329 1335	drowse
+#8	AnnotatorNotes T14	drowsiness
+T15	Articles 1548 1549	a
+A5	Delete T15
+T16	Countable_uncountable 1556 1563	therapy
+T17	Word_choice 1748 1760	In this case
+#9	AnnotatorNotes T17	Bearing it in mind
+T18	Nouns 1848 1853	a man
+#10	AnnotatorNotes T18	people
+T19	note 1900 1901	.
+#11	AnnotatorNotes T19	The grade is 9, well done.
+T8	Defining 578 585	, where
+#12	AnnotatorNotes T8	where
+T20	pos_PRP 0 10	Everything
+#13	AnnotatorNotes T20	lemma = 'everything'
+T21	pos_IN 11 13	in
+#14	AnnotatorNotes T21	lemma = 'in'
+T22	pos_PRP2 14 17	our
+#15	AnnotatorNotes T22	lemma = 'our'
+T23	pos_NN 18 22	life
+#16	AnnotatorNotes T23	lemma = 'life'
+T24	pos_VBZ 23 25	is
+#17	AnnotatorNotes T24	lemma = 'be'
+T25	pos_RB 26 33	somehow
+#18	AnnotatorNotes T25	lemma = 'somehow'
+T26	pos_VBN 34 43	connected
+#19	AnnotatorNotes T26	lemma = 'connect'
+T27	pos_IN 44 48	with
+#20	AnnotatorNotes T27	lemma = 'with'
+T28	pos_NNS 49 55	colors
+#21	AnnotatorNotes T28	lemma = 'color'
+T29	pos_Fp 55 56	.
+#22	AnnotatorNotes T29	lemma = '.'
+T30	pos_PRP 57 61	They
+#23	AnnotatorNotes T30	lemma = 'they'
+T31	pos_VBP 62 70	surround
+#24	AnnotatorNotes T31	lemma = 'surround'
+T32	pos_PRP 71 73	us
+#25	AnnotatorNotes T32	lemma = 'us'
+T33	pos_RB 74 84	everywhere
+#26	AnnotatorNotes T33	lemma = 'everywhere'
+T34	pos_Fp 84 85	.
+#27	AnnotatorNotes T34	lemma = '.'
+T35	pos_DT 86 87	A
+#28	AnnotatorNotes T35	lemma = 'a'
+T36	pos_NN 88 91	man
+#29	AnnotatorNotes T36	lemma = 'man'
+T37	pos_MD 92 95	can
+#30	AnnotatorNotes T37	lemma = 'can'
+T38	pos_VB 96 100	find
+#31	AnnotatorNotes T38	lemma = 'find'
+T39	pos_DT 101 109	a lot of
+#32	AnnotatorNotes T39	lemma = 'a_lot_of'
+T40	pos_NNS 110 118	articles
+#33	AnnotatorNotes T40	lemma = 'article'
+T41	pos_NN 119 122	how
+#34	AnnotatorNotes T41	lemma = 'how'
+T42	pos_NN 123 127	food
+#35	AnnotatorNotes T42	lemma = 'food'
+T43	pos_IN 128 130	of
+#36	AnnotatorNotes T43	lemma = 'of'
+T44	pos_JJ 131 140	different
+#37	AnnotatorNotes T44	lemma = 'different'
+T45	pos_NNS 141 147	colors
+#38	AnnotatorNotes T45	lemma = 'color'
+T46	pos_VBZ 148 158	influences
+#39	AnnotatorNotes T46	lemma = 'influence'
+T47	pos_NNS 159 165	people
+#40	AnnotatorNotes T47	lemma = 'people'
+T48	pos_Fw 165 166	’
+#41	AnnotatorNotes T48	lemma = '’'
+T49	pos_NNS 166 167	s
+#42	AnnotatorNotes T49	lemma = 's'
+T50	pos_NN 168 174	health
+#43	AnnotatorNotes T50	lemma = 'health'
+T51	pos_Fc 174 175	,
+#44	AnnotatorNotes T51	lemma = ','
+T52	pos_WRB 176 179	how
+#45	AnnotatorNotes T52	lemma = 'how'
+T53	pos_NNS 180 188	emotions
+#46	AnnotatorNotes T53	lemma = 'emotion'
+T54	pos_VBP 189 195	depend
+#47	AnnotatorNotes T54	lemma = 'depend'
+T55	pos_IN 196 198	on
+#48	AnnotatorNotes T55	lemma = 'on'
+T56	pos_DT 199 202	the
+#49	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 203 208	color
+#50	AnnotatorNotes T57	lemma = 'color'
+T58	pos_NN 209 216	palette
+#51	AnnotatorNotes T58	lemma = 'palette'
+T59	pos_IN 217 219	of
+#52	AnnotatorNotes T59	lemma = 'of'
+T60	pos_DT 220 223	the
+#53	AnnotatorNotes T60	lemma = 'the'
+T61	pos_NN 224 235	environment
+#54	AnnotatorNotes T61	lemma = 'environment'
+T62	pos_Fp 235 236	.
+#55	AnnotatorNotes T62	lemma = '.'
+T63	pos_RB 237 239	So
+#56	AnnotatorNotes T63	lemma = 'so'
+T64	pos_VBP 240 242	do
+#57	AnnotatorNotes T64	lemma = 'do'
+T65	pos_NNS 243 249	colors
+#58	AnnotatorNotes T65	lemma = 'color'
+T66	pos_VB 250 256	affect
+#59	AnnotatorNotes T66	lemma = 'affect'
+T67	pos_PRP2 257 260	our
+#60	AnnotatorNotes T67	lemma = 'our'
+T68	pos_NNS 261 266	lives
+#61	AnnotatorNotes T68	lemma = 'life'
+T69	pos_Fit 266 267	?
+#62	AnnotatorNotes T69	lemma = '?'
+T70	pos_IN 268 270	In
+#63	AnnotatorNotes T70	lemma = 'in'
+T71	pos_PRP2 271 273	my
+#64	AnnotatorNotes T71	lemma = 'my'
+T72	pos_NN 274 281	opinion
+#65	AnnotatorNotes T72	lemma = 'opinion'
+T73	pos_Fc 281 282	,
+#66	AnnotatorNotes T73	lemma = ','
+T74	pos_NN 283 288	color
+#67	AnnotatorNotes T74	lemma = 'color'
+T75	pos_WDT 289 293	that
+#68	AnnotatorNotes T75	lemma = 'that'
+T76	pos_VBZ 294 303	surrounds
+#69	AnnotatorNotes T76	lemma = 'surround'
+T77	pos_PRP 304 306	us
+#70	AnnotatorNotes T77	lemma = 'us'
+T78	pos_VBZ 307 309	is
+#71	AnnotatorNotes T78	lemma = 'be'
+T79	pos_IN 310 312	of
+#72	AnnotatorNotes T79	lemma = 'of'
+T80	pos_DT 313 314	a
+#73	AnnotatorNotes T80	lemma = 'a'
+T81	pos_JJ 315 320	great
+#74	AnnotatorNotes T81	lemma = 'great'
+T82	pos_NN 321 331	importance
+#75	AnnotatorNotes T82	lemma = 'importance'
+T83	pos_Fp 331 332	.
+#76	AnnotatorNotes T83	lemma = '.'
+T84	pos_IN 333 338	Since
+#77	AnnotatorNotes T84	lemma = 'since'
+T85	pos_JJ 339 346	ancient
+#78	AnnotatorNotes T85	lemma = 'ancient'
+T86	pos_NNS 347 352	times
+#79	AnnotatorNotes T86	lemma = 'time'
+T87	pos_Fc 352 353	,
+#80	AnnotatorNotes T87	lemma = ','
+T88	pos_NNS 354 360	people
+#81	AnnotatorNotes T88	lemma = 'people'
+T89	pos_VBP 361 365	have
+#82	AnnotatorNotes T89	lemma = 'have'
+T90	pos_VBN 366 370	paid
+#83	AnnotatorNotes T90	lemma = 'pay'
+T91	pos_NN 371 380	attention
+#84	AnnotatorNotes T91	lemma = 'attention'
+T92	pos_TO 381 383	to
+#85	AnnotatorNotes T92	lemma = 'to'
+T93	pos_DT 384 387	the
+#86	AnnotatorNotes T93	lemma = 'the'
+T94	pos_NN 388 392	fact
+#87	AnnotatorNotes T94	lemma = 'fact'
+T95	pos_IN 393 397	that
+#88	AnnotatorNotes T95	lemma = 'that'
+T96	pos_DT 398 401	the
+#89	AnnotatorNotes T96	lemma = 'the'
+T97	pos_NNS 402 408	colors
+#90	AnnotatorNotes T97	lemma = 'color'
+T98	pos_IN 409 411	of
+#91	AnnotatorNotes T98	lemma = 'of'
+T99	pos_DT 412 415	the
+#92	AnnotatorNotes T99	lemma = 'the'
+T100	pos_VBG 416 427	surrounding
+#93	AnnotatorNotes T100	lemma = 'surround'
+T101	pos_NN 428 433	world
+#94	AnnotatorNotes T101	lemma = 'world'
+T102	pos_VBP 434 438	have
+#95	AnnotatorNotes T102	lemma = 'have'
+T103	pos_DT 439 440	a
+#96	AnnotatorNotes T103	lemma = 'a'
+T104	pos_JJ 441 448	special
+#97	AnnotatorNotes T104	lemma = 'special'
+T105	pos_NN 449 458	influence
+#98	AnnotatorNotes T105	lemma = 'influence'
+T106	pos_IN 459 461	on
+#99	AnnotatorNotes T106	lemma = 'on'
+T107	pos_NNS 462 468	people
+#100	AnnotatorNotes T107	lemma = 'people'
+T108	pos_Fp 468 469	.
+#101	AnnotatorNotes T108	lemma = '.'
+T109	pos_NN 470 475	Today
+#102	AnnotatorNotes T109	lemma = 'today'
+T110	pos_PRP 476 478	it
+#103	AnnotatorNotes T110	lemma = 'it'
+T111	pos_VBZ 479 481	is
+#104	AnnotatorNotes T111	lemma = 'be'
+T112	pos_RB 482 496	scientifically
+#105	AnnotatorNotes T112	lemma = 'scientifically'
+T113	pos_VBN 497 506	confirmed
+#106	AnnotatorNotes T113	lemma = 'confirm'
+T114	pos_Fp 506 507	.
+#107	AnnotatorNotes T114	lemma = '.'
+T115	pos_NN 508 517	Scientist
+#108	AnnotatorNotes T115	lemma = 'scientist'
+T116	pos_VBP 518 522	have
+#109	AnnotatorNotes T116	lemma = 'have'
+T117	pos_VBN 523 527	made
+#110	AnnotatorNotes T117	lemma = 'make'
+T118	pos_DT 528 530	an
+#111	AnnotatorNotes T118	lemma = 'a'
+T119	pos_NN 531 541	experiment
+#112	AnnotatorNotes T119	lemma = 'experiment'
+T120	pos_CC 542 545	and
+#113	AnnotatorNotes T120	lemma = 'and'
+T121	pos_VBD 546 551	found
+#114	AnnotatorNotes T121	lemma = 'find'
+T122	pos_RP 552 555	out
+#115	AnnotatorNotes T122	lemma = 'out'
+T123	pos_IN 556 560	that
+#116	AnnotatorNotes T123	lemma = 'that'
+T124	pos_VBG 561 566	being
+#117	AnnotatorNotes T124	lemma = 'be'
+T125	pos_IN 567 569	in
+#118	AnnotatorNotes T125	lemma = 'in'
+T126	pos_DT 570 573	the
+#119	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 574 578	room
+#120	AnnotatorNotes T127	lemma = 'room'
+T128	pos_Fc 578 579	,
+#121	AnnotatorNotes T128	lemma = ','
+T129	pos_WRB 580 585	where
+#122	AnnotatorNotes T129	lemma = 'where'
+T130	pos_DT 586 589	the
+#123	AnnotatorNotes T130	lemma = 'the'
+T131	pos_NN 590 601	temperature
+#124	AnnotatorNotes T131	lemma = 'temperature'
+T132	pos_VBZ 602 604	is
+#125	AnnotatorNotes T132	lemma = 'be'
+T133	pos_IN 605 610	about
+#126	AnnotatorNotes T133	lemma = 'about'
+T134	pos_Z 611 617	+15-17
+#127	AnnotatorNotes T134	lemma = '+15-17'
+T135	pos_NP 618 619	C
+#128	AnnotatorNotes T135	lemma = 'c'
+T136	pos_Fc 619 620	,
+#129	AnnotatorNotes T136	lemma = ','
+T137	pos_DT 621 622	a
+#130	AnnotatorNotes T137	lemma = 'a'
+T138	pos_JJ 623 630	healthy
+#131	AnnotatorNotes T138	lemma = 'healthy'
+T139	pos_NN 631 634	man
+#132	AnnotatorNotes T139	lemma = 'man'
+T140	pos_IN 635 637	in
+#133	AnnotatorNotes T140	lemma = 'in'
+T141	pos_DT 638 639	a
+#134	AnnotatorNotes T141	lemma = 'a'
+T142	pos_NN 640 645	shirt
+#135	AnnotatorNotes T142	lemma = 'shirt'
+T143	pos_IN 646 650	with
+#136	AnnotatorNotes T143	lemma = 'with'
+T144	pos_JJ 651 656	short
+#137	AnnotatorNotes T144	lemma = 'short'
+T145	pos_NNS 657 664	sleeves
+#138	AnnotatorNotes T145	lemma = 'sleeve'
+T146	pos_VBZ 665 669	does
+#139	AnnotatorNotes T146	lemma = 'do'
+T147	pos_RB 670 673	not
+#140	AnnotatorNotes T147	lemma = 'not'
+T148	pos_VB 674 678	feel
+#141	AnnotatorNotes T148	lemma = 'feel'
+T149	pos_JJ 679 683	cold
+#142	AnnotatorNotes T149	lemma = 'cold'
+T150	pos_IN 684 686	if
+#143	AnnotatorNotes T150	lemma = 'if'
+T151	pos_DT 687 690	the
+#144	AnnotatorNotes T151	lemma = 'the'
+T152	pos_NN 691 696	color
+#145	AnnotatorNotes T152	lemma = 'color'
+T153	pos_IN 697 699	of
+#146	AnnotatorNotes T153	lemma = 'of'
+T154	pos_DT 700 703	the
+#147	AnnotatorNotes T154	lemma = 'the'
+T155	pos_NNS 704 709	walls
+#148	AnnotatorNotes T155	lemma = 'wall'
+T156	pos_VBZ 710 712	is
+#149	AnnotatorNotes T156	lemma = 'be'
+T157	pos_JJ 713 719	bright
+#150	AnnotatorNotes T157	lemma = 'bright'
+T158	pos_NN 720 726	yellow
+#151	AnnotatorNotes T158	lemma = 'yellow'
+T159	pos_CC 727 729	or
+#152	AnnotatorNotes T159	lemma = 'or'
+T160	pos_NN 730 736	orange
+#153	AnnotatorNotes T160	lemma = 'orange'
+T161	pos_Fc 736 737	,
+#154	AnnotatorNotes T161	lemma = ','
+T162	pos_CC 738 741	but
+#155	AnnotatorNotes T162	lemma = 'but'
+T163	pos_IN 742 744	at
+#156	AnnotatorNotes T163	lemma = 'at'
+T164	pos_DT 745 748	the
+#157	AnnotatorNotes T164	lemma = 'the'
+T165	pos_JJ 749 753	same
+#158	AnnotatorNotes T165	lemma = 'same'
+T166	pos_NN 754 765	temperature
+#159	AnnotatorNotes T166	lemma = 'temperature'
+T167	pos_DT 766 767	a
+#160	AnnotatorNotes T167	lemma = 'a'
+T168	pos_NN 768 774	person
+#161	AnnotatorNotes T168	lemma = 'person'
+T169	pos_VBZ 775 782	freezes
+#162	AnnotatorNotes T169	lemma = 'freeze'
+T170	pos_IN 783 785	in
+#163	AnnotatorNotes T170	lemma = 'in'
+T171	pos_DT 786 787	a
+#164	AnnotatorNotes T171	lemma = 'a'
+T172	pos_NN 788 792	room
+#165	AnnotatorNotes T172	lemma = 'room'
+T173	pos_IN 793 797	with
+#166	AnnotatorNotes T173	lemma = 'with'
+T174	pos_JJ 798 807	blue-gray
+#167	AnnotatorNotes T174	lemma = 'blue-gray'
+T175	pos_NNS 808 813	walls
+#168	AnnotatorNotes T175	lemma = 'wall'
+T176	pos_Fp 813 814	.
+#169	AnnotatorNotes T176	lemma = '.'
+T177	pos_RB 815 823	Moreover
+#170	AnnotatorNotes T177	lemma = 'moreover'
+T178	pos_Fc 823 824	,
+#171	AnnotatorNotes T178	lemma = ','
+T179	pos_NN 825 830	color
+#172	AnnotatorNotes T179	lemma = 'color'
+T180	pos_NN 831 842	environment
+#173	AnnotatorNotes T180	lemma = 'environment'
+T181	pos_VBZ 843 853	influences
+#174	AnnotatorNotes T181	lemma = 'influence'
+T182	pos_NN 854 862	capacity
+#175	AnnotatorNotes T182	lemma = 'capacity'
+T183	pos_IN 863 866	for
+#176	AnnotatorNotes T183	lemma = 'for'
+T184	pos_NN 867 871	work
+#177	AnnotatorNotes T184	lemma = 'work'
+T185	pos_Fp 871 872	.
+#178	AnnotatorNotes T185	lemma = '.'
+T186	pos_EX 873 878	There
+#179	AnnotatorNotes T186	lemma = 'there'
+T187	pos_VBZ 879 881	is
+#180	AnnotatorNotes T187	lemma = 'be'
+T188	pos_DT 882 883	a
+#181	AnnotatorNotes T188	lemma = 'a'
+T189	pos_NN 884 893	statement
+#182	AnnotatorNotes T189	lemma = 'statement'
+T190	pos_IN 894 898	that
+#183	AnnotatorNotes T190	lemma = 'that'
+T191	pos_JJ 899 904	great
+#184	AnnotatorNotes T191	lemma = 'great'
+T192	pos_NP 905 911	Goethe
+#185	AnnotatorNotes T192	lemma = 'goethe'
+T193	pos_WRB 912 916	when
+#186	AnnotatorNotes T193	lemma = 'when'
+T194	pos_PRP 917 919	he
+#187	AnnotatorNotes T194	lemma = 'he'
+T195	pos_VBD 920 923	was
+#188	AnnotatorNotes T195	lemma = 'be'
+T196	pos_VBG 924 932	creating
+#189	AnnotatorNotes T196	lemma = 'create'
+T197	pos_JJ 933 942	different
+#190	AnnotatorNotes T197	lemma = 'different'
+T198	pos_NNS 943 948	types
+#191	AnnotatorNotes T198	lemma = 'type'
+T199	pos_IN 949 951	of
+#192	AnnotatorNotes T199	lemma = 'of'
+T200	pos_NN 952 956	work
+#193	AnnotatorNotes T200	lemma = 'work'
+T201	pos_Fc 956 957	,
+#194	AnnotatorNotes T201	lemma = ','
+T202	pos_PRP 958 960	he
+#195	AnnotatorNotes T202	lemma = 'he'
+T203	pos_VBD 961 965	used
+#196	AnnotatorNotes T203	lemma = 'use'
+T204	pos_NNS 966 976	spectacles
+#197	AnnotatorNotes T204	lemma = 'spectacle'
+T205	pos_IN 977 981	with
+#198	AnnotatorNotes T205	lemma = 'with'
+T206	pos_JJ 982 999	different-colored
+#199	AnnotatorNotes T206	lemma = 'different-colored'
+T207	pos_NNS 1000 1007	glasses
+#200	AnnotatorNotes T207	lemma = 'glass'
+T208	pos_Fp 1007 1008	.
+#201	AnnotatorNotes T208	lemma = '.'
+T209	pos_PRP 1009 1011	He
+#202	AnnotatorNotes T209	lemma = 'he'
+T210	pos_VBD 1012 1017	noted
+#203	AnnotatorNotes T210	lemma = 'note'
+T211	pos_IN 1018 1022	that
+#204	AnnotatorNotes T211	lemma = 'that'
+T212	pos_JJ 1023 1026	red
+#205	AnnotatorNotes T212	lemma = 'red'
+T213	pos_CC 1027 1030	and
+#206	AnnotatorNotes T213	lemma = 'and'
+T214	pos_JJ 1031 1037	yellow
+#207	AnnotatorNotes T214	lemma = 'yellow'
+T215	pos_VB 1038 1042	give
+#208	AnnotatorNotes T215	lemma = 'give'
+T216	pos_NN 1043 1049	energy
+#209	AnnotatorNotes T216	lemma = 'energy'
+T217	pos_TO 1050 1052	to
+#210	AnnotatorNotes T217	lemma = 'to'
+T218	pos_NNS 1053 1059	people
+#211	AnnotatorNotes T218	lemma = 'people'
+T219	pos_Fc 1059 1060	,
+#212	AnnotatorNotes T219	lemma = ','
+T220	pos_RB 1061 1070	meanwhile
+#213	AnnotatorNotes T220	lemma = 'meanwhile'
+T221	pos_JJ 1071 1075	blue
+#214	AnnotatorNotes T221	lemma = 'blue'
+T222	pos_NNS 1076 1082	causes
+#215	AnnotatorNotes T222	lemma = 'cause'
+T223	pos_NN 1083 1093	depression
+#216	AnnotatorNotes T223	lemma = 'depression'
+T224	pos_Fc 1093 1094	,
+#217	AnnotatorNotes T224	lemma = ','
+T225	pos_NN 1095 1099	loss
+#218	AnnotatorNotes T225	lemma = 'loss'
+T226	pos_IN 1100 1102	of
+#219	AnnotatorNotes T226	lemma = 'of'
+T227	pos_DT 1103 1104	a
+#220	AnnotatorNotes T227	lemma = 'a'
+T228	pos_JJ 1105 1109	good
+#221	AnnotatorNotes T228	lemma = 'good'
+T229	pos_NN 1110 1114	mood
+#222	AnnotatorNotes T229	lemma = 'mood'
+T230	pos_Fp 1114 1115	.
+#223	AnnotatorNotes T230	lemma = '.'
+T231	pos_RB 1116 1127	In addition
+#224	AnnotatorNotes T231	lemma = 'in_addition'
+T232	pos_Fc 1127 1128	,
+#225	AnnotatorNotes T232	lemma = ','
+T233	pos_EX 1129 1134	there
+#226	AnnotatorNotes T233	lemma = 'there'
+T234	pos_VBD 1135 1138	was
+#227	AnnotatorNotes T234	lemma = 'be'
+T235	pos_DT 1139 1146	another
+#228	AnnotatorNotes T235	lemma = 'another'
+T236	pos_NN 1147 1157	experiment
+#229	AnnotatorNotes T236	lemma = 'experiment'
+T237	pos_IN 1158 1160	in
+#230	AnnotatorNotes T237	lemma = 'in'
+T238	pos_DT 1161 1164	the
+#231	AnnotatorNotes T238	lemma = 'the'
+T239	pos_NN 1165 1171	office
+#232	AnnotatorNotes T239	lemma = 'office'
+T240	pos_CC 1172 1175	and
+#233	AnnotatorNotes T240	lemma = 'and'
+T241	pos_PRP 1176 1178	it
+#234	AnnotatorNotes T241	lemma = 'it'
+T242	pos_VBD 1179 1185	turned
+#235	AnnotatorNotes T242	lemma = 'turn'
+T243	pos_RP 1186 1189	out
+#236	AnnotatorNotes T243	lemma = 'out'
+T244	pos_IN 1190 1194	that
+#237	AnnotatorNotes T244	lemma = 'that'
+T245	pos_IN 1195 1197	in
+#238	AnnotatorNotes T245	lemma = 'in'
+T246	pos_DT 1198 1200	an
+#239	AnnotatorNotes T246	lemma = 'a'
+T247	pos_NN 1201 1207	office
+#240	AnnotatorNotes T247	lemma = 'office'
+T248	pos_IN 1208 1212	with
+#241	AnnotatorNotes T248	lemma = 'with'
+T249	pos_JJ 1213 1217	blue
+#242	AnnotatorNotes T249	lemma = 'blue'
+T250	pos_NNS 1218 1223	walls
+#243	AnnotatorNotes T250	lemma = 'wall'
+T251	pos_NNS 1224 1233	employees
+#244	AnnotatorNotes T251	lemma = 'employee'
+T252	pos_VBP 1234 1237	are
+#245	AnnotatorNotes T252	lemma = 'be'
+T253	pos_RBR 1238 1242	more
+#246	AnnotatorNotes T253	lemma = 'many'
+T254	pos_JJ 1243 1249	likely
+#247	AnnotatorNotes T254	lemma = 'likely'
+T255	pos_NN 1250 1255	drink
+#248	AnnotatorNotes T255	lemma = 'drink'
+T256	pos_NN 1256 1262	coffee
+#249	AnnotatorNotes T256	lemma = 'coffee'
+T257	pos_IN 1263 1267	than
+#250	AnnotatorNotes T257	lemma = 'than'
+T258	pos_IN 1268 1270	in
+#251	AnnotatorNotes T258	lemma = 'in'
+T259	pos_DT 1271 1274	the
+#252	AnnotatorNotes T259	lemma = 'the'
+T260	pos_NNS 1275 1282	offices
+#253	AnnotatorNotes T260	lemma = 'office'
+T261	pos_IN 1283 1285	of
+#254	AnnotatorNotes T261	lemma = 'of'
+T262	pos_JJ 1286 1291	other
+#255	AnnotatorNotes T262	lemma = 'other'
+T263	pos_NNS 1292 1298	colors
+#256	AnnotatorNotes T263	lemma = 'color'
+T264	pos_IN 1299 1306	because
+#257	AnnotatorNotes T264	lemma = 'because'
+T265	pos_JJ 1307 1311	blue
+#258	AnnotatorNotes T265	lemma = 'blue'
+T266	pos_NN 1312 1317	color
+#259	AnnotatorNotes T266	lemma = 'color'
+T267	pos_VBZ 1318 1328	stimulates
+#260	AnnotatorNotes T267	lemma = 'stimulate'
+T268	pos_NN 1329 1335	drowse
+#261	AnnotatorNotes T268	lemma = 'drowse'
+T269	pos_Fp 1335 1336	.
+#262	AnnotatorNotes T269	lemma = '.'
+T270	pos_RB 1337 1348	Furthermore
+#263	AnnotatorNotes T270	lemma = 'furthermore'
+T271	pos_Fc 1348 1349	,
+#264	AnnotatorNotes T271	lemma = ','
+T272	pos_NNS 1350 1357	workers
+#265	AnnotatorNotes T272	lemma = 'worker'
+T273	pos_IN 1358 1360	in
+#266	AnnotatorNotes T273	lemma = 'in'
+T274	pos_Fw 1361 1362	“
+#267	AnnotatorNotes T274	lemma = '“'
+T275	pos_JJ 1362 1366	blue
+#268	AnnotatorNotes T275	lemma = 'blue'
+T276	pos_Fw 1366 1367	”
+#269	AnnotatorNotes T276	lemma = '”'
+T277	pos_NNS 1368 1375	offices
+#270	AnnotatorNotes T277	lemma = 'office'
+T278	pos_RBR 1376 1380	more
+#271	AnnotatorNotes T278	lemma = 'many'
+T279	pos_RB 1381 1386	often
+#272	AnnotatorNotes T279	lemma = 'often'
+T280	pos_VBN 1387 1390	put
+#273	AnnotatorNotes T280	lemma = 'put'
+T281	pos_IN 1391 1393	on
+#274	AnnotatorNotes T281	lemma = 'on'
+T282	pos_NN 1394 1400	weight
+#275	AnnotatorNotes T282	lemma = 'weight'
+T283	pos_Fc 1400 1401	,
+#276	AnnotatorNotes T283	lemma = ','
+T284	pos_IN 1402 1409	because
+#277	AnnotatorNotes T284	lemma = 'because'
+T285	pos_JJ 1410 1414	blue
+#278	AnnotatorNotes T285	lemma = 'blue'
+T286	pos_NN 1415 1419	tone
+#279	AnnotatorNotes T286	lemma = 'tone'
+T287	pos_VBZ 1420 1425	slows
+#280	AnnotatorNotes T287	lemma = 'slow'
+T288	pos_RB 1426 1430	down
+#281	AnnotatorNotes T288	lemma = 'down'
+T289	pos_DT 1431 1434	the
+#282	AnnotatorNotes T289	lemma = 'the'
+T290	pos_NN 1435 1439	body
+#283	AnnotatorNotes T290	lemma = 'body'
+T291	pos_POS 1439 1441	's
+#284	AnnotatorNotes T291	lemma = ''s'
+T292	pos_NN 1442 1452	metabolism
+#285	AnnotatorNotes T292	lemma = 'metabolism'
+T293	pos_Fp 1452 1453	.
+#286	AnnotatorNotes T293	lemma = '.'
+T294	pos_IN 1454 1461	Despite
+#287	AnnotatorNotes T294	lemma = 'despite'
+T295	pos_DT 1462 1465	the
+#288	AnnotatorNotes T295	lemma = 'the'
+T296	pos_NN 1466 1470	fact
+#289	AnnotatorNotes T296	lemma = 'fact'
+T297	pos_IN 1471 1475	that
+#290	AnnotatorNotes T297	lemma = 'that'
+T298	pos_DT 1476 1480	some
+#291	AnnotatorNotes T298	lemma = 'some'
+T299	pos_NNS 1481 1487	people
+#292	AnnotatorNotes T299	lemma = 'people'
+T300	pos_VBP 1488 1490	do
+#293	AnnotatorNotes T300	lemma = 'do'
+T301	pos_RB 1491 1494	not
+#294	AnnotatorNotes T301	lemma = 'not'
+T302	pos_VB 1495 1502	believe
+#295	AnnotatorNotes T302	lemma = 'believe'
+T303	pos_IN 1503 1505	in
+#296	AnnotatorNotes T303	lemma = 'in'
+T304	pos_DT 1506 1509	the
+#297	AnnotatorNotes T304	lemma = 'the'
+T305	pos_NN 1510 1515	power
+#298	AnnotatorNotes T305	lemma = 'power'
+T306	pos_IN 1516 1518	of
+#299	AnnotatorNotes T306	lemma = 'of'
+T307	pos_NNS 1519 1525	colors
+#300	AnnotatorNotes T307	lemma = 'color'
+T308	pos_Fc 1525 1526	,
+#301	AnnotatorNotes T308	lemma = ','
+T309	pos_DT 1527 1535	a lot of
+#302	AnnotatorNotes T309	lemma = 'a_lot_of'
+T310	pos_NNS 1536 1543	doctors
+#303	AnnotatorNotes T310	lemma = 'doctor'
+T311	pos_VBP 1544 1547	use
+#304	AnnotatorNotes T311	lemma = 'use'
+T312	pos_DT 1548 1549	a
+#305	AnnotatorNotes T312	lemma = 'a'
+T313	pos_NN 1550 1555	color
+#306	AnnotatorNotes T313	lemma = 'color'
+T314	pos_NN 1556 1563	therapy
+#307	AnnotatorNotes T314	lemma = 'therapy'
+T315	pos_IN 1564 1566	as
+#308	AnnotatorNotes T315	lemma = 'as'
+T316	pos_DT 1567 1568	a
+#309	AnnotatorNotes T316	lemma = 'a'
+T317	pos_NN 1569 1578	treatment
+#310	AnnotatorNotes T317	lemma = 'treatment'
+T318	pos_TO 1579 1581	to
+#311	AnnotatorNotes T318	lemma = 'to'
+T319	pos_VB 1582 1589	restore
+#312	AnnotatorNotes T319	lemma = 'restore'
+T320	pos_DT 1590 1593	the
+#313	AnnotatorNotes T320	lemma = 'the'
+T321	pos_NN 1594 1602	activity
+#314	AnnotatorNotes T321	lemma = 'activity'
+T322	pos_IN 1603 1605	of
+#315	AnnotatorNotes T322	lemma = 'of'
+T323	pos_DT 1606 1609	the
+#316	AnnotatorNotes T323	lemma = 'the'
+T324	pos_NN 1610 1618	organism
+#317	AnnotatorNotes T324	lemma = 'organism'
+T325	pos_IN 1619 1623	with
+#318	AnnotatorNotes T325	lemma = 'with'
+T326	pos_DT 1624 1627	the
+#319	AnnotatorNotes T326	lemma = 'the'
+T327	pos_NN 1628 1632	help
+#320	AnnotatorNotes T327	lemma = 'help'
+T328	pos_IN 1633 1635	of
+#321	AnnotatorNotes T328	lemma = 'of'
+T329	pos_NN 1636 1642	impact
+#322	AnnotatorNotes T329	lemma = 'impact'
+T330	pos_IN 1643 1645	of
+#323	AnnotatorNotes T330	lemma = 'of'
+T331	pos_NN 1646 1651	color
+#324	AnnotatorNotes T331	lemma = 'color'
+T332	pos_Fp 1651 1652	.
+#325	AnnotatorNotes T332	lemma = '.'
+T333	pos_TO 1653 1655	To
+#326	AnnotatorNotes T333	lemma = 'to'
+T334	pos_VB 1656 1664	conclude
+#327	AnnotatorNotes T334	lemma = 'conclude'
+T335	pos_Fc 1664 1665	,
+#328	AnnotatorNotes T335	lemma = ','
+T336	pos_NN 1666 1675	influence
+#329	AnnotatorNotes T336	lemma = 'influence'
+T337	pos_IN 1676 1678	of
+#330	AnnotatorNotes T337	lemma = 'of'
+T338	pos_NNS 1679 1685	colors
+#331	AnnotatorNotes T338	lemma = 'color'
+T339	pos_IN 1686 1688	on
+#332	AnnotatorNotes T339	lemma = 'on'
+T340	pos_NNS 1689 1695	people
+#333	AnnotatorNotes T340	lemma = 'people'
+T341	pos_Fw 1695 1696	’
+#334	AnnotatorNotes T341	lemma = '’'
+T342	pos_VBZ 1696 1697	s
+#335	AnnotatorNotes T342	lemma = 's'
+T343	pos_JJ 1698 1703	vital
+#336	AnnotatorNotes T343	lemma = 'vital'
+T344	pos_NNS 1704 1713	functions
+#337	AnnotatorNotes T344	lemma = 'function'
+T345	pos_VBD 1714 1718	were
+#338	AnnotatorNotes T345	lemma = 'be'
+T346	pos_VBN 1719 1724	known
+#339	AnnotatorNotes T346	lemma = 'know'
+T347	pos_RB 1725 1729	even
+#340	AnnotatorNotes T347	lemma = 'even'
+T348	pos_IN 1730 1732	in
+#341	AnnotatorNotes T348	lemma = 'in'
+T349	pos_JJ 1733 1740	ancient
+#342	AnnotatorNotes T349	lemma = 'ancient'
+T350	pos_NNS 1741 1746	times
+#343	AnnotatorNotes T350	lemma = 'time'
+T351	pos_Fp 1746 1747	.
+#344	AnnotatorNotes T351	lemma = '.'
+T352	pos_IN 1748 1750	In
+#345	AnnotatorNotes T352	lemma = 'in'
+T353	pos_DT 1751 1755	this
+#346	AnnotatorNotes T353	lemma = 'this'
+T354	pos_NN 1756 1760	case
+#347	AnnotatorNotes T354	lemma = 'case'
+T355	pos_Fc 1760 1761	,
+#348	AnnotatorNotes T355	lemma = ','
+T356	pos_NNS 1762 1771	designers
+#349	AnnotatorNotes T356	lemma = 'designer'
+T357	pos_MD 1772 1778	should
+#350	AnnotatorNotes T357	lemma = 'should'
+T358	pos_VB 1779 1784	think
+#351	AnnotatorNotes T358	lemma = 'think'
+T359	pos_IN 1785 1792	through
+#352	AnnotatorNotes T359	lemma = 'through'
+T360	pos_DT 1793 1796	all
+#353	AnnotatorNotes T360	lemma = 'all'
+T361	pos_NNS 1797 1804	details
+#354	AnnotatorNotes T361	lemma = 'detail'
+T362	pos_IN 1805 1810	while
+#355	AnnotatorNotes T362	lemma = 'while'
+T363	pos_VBG 1811 1821	decorating
+#356	AnnotatorNotes T363	lemma = 'decorate'
+T364	pos_DT 1822 1823	a
+#357	AnnotatorNotes T364	lemma = 'a'
+T365	pos_NN 1824 1828	room
+#358	AnnotatorNotes T365	lemma = 'room'
+T366	pos_IN 1829 1831	in
+#359	AnnotatorNotes T366	lemma = 'in'
+T367	pos_PDT 1832 1836	such
+#360	AnnotatorNotes T367	lemma = 'such'
+T368	pos_DT 1837 1838	a
+#361	AnnotatorNotes T368	lemma = 'a'
+T369	pos_NN 1839 1842	way
+#362	AnnotatorNotes T369	lemma = 'way'
+T370	pos_IN 1843 1847	that
+#363	AnnotatorNotes T370	lemma = 'that'
+T371	pos_DT 1848 1849	a
+#364	AnnotatorNotes T371	lemma = 'a'
+T372	pos_NN 1850 1853	man
+#365	AnnotatorNotes T372	lemma = 'man'
+T373	pos_IN 1854 1856	in
+#366	AnnotatorNotes T373	lemma = 'in'
+T374	pos_PRP 1857 1859	it
+#367	AnnotatorNotes T374	lemma = 'it'
+T375	pos_MD 1860 1865	could
+#368	AnnotatorNotes T375	lemma = 'can'
+T376	pos_VB 1866 1868	do
+#369	AnnotatorNotes T376	lemma = 'do'
+T377	pos_PRP2 1869 1874	their
+#370	AnnotatorNotes T377	lemma = 'their'
+T378	pos_JJS 1875 1879	best
+#371	AnnotatorNotes T378	lemma = 'good'
+T379	pos_CC 1880 1883	and
+#372	AnnotatorNotes T379	lemma = 'and'
+T380	pos_VBP 1884 1888	feel
+#373	AnnotatorNotes T380	lemma = 'feel'
+T381	pos_JJ 1889 1900	comfortable
+#374	AnnotatorNotes T381	lemma = 'comfortable'
+T382	pos_Fp 1900 1901	.
+#375	AnnotatorNotes T382	lemma = '.'

@@ -1,0 +1,36 @@
+T1	Articles 258 270	Unemployment
+#1	AnnotatorNotes T1	The unemployment
+T2	Absence_comp_sent 305 311	stable
+#2	AnnotatorNotes T2	is stable
+T3	lex_item_choice 330 337	Procent
+#3	AnnotatorNotes T3	Percentages
+T4	Spelling 345 357	Middle, East
+#4	AnnotatorNotes T4	Middle East
+T5	Spelling 413 419	resalt
+#5	AnnotatorNotes T5	result
+T6	Articles 402 419	a increase resalt
+#6	AnnotatorNotes T6	an increasing result
+T7	Category_confusion 404 412	increase
+#7	AnnotatorNotes T7	increasing
+T8	Absence_comp_sent 423 434	Interesting
+#8	AnnotatorNotes T8	It is interesting
+T9	Punctuation 423 440	Interesting, that
+#9	AnnotatorNotes T9	It is interesting that
+T10	Absence_explanation 515 523	a higher
+#10	AnnotatorNotes T10	a higher rate
+T11	Redundant_comp 608 610	to
+A1	Delete T11
+T12	Punctuation 601 620	we can to say, that
+#11	AnnotatorNotes T12	we can say that
+T13	Articles 621 626	chart
+#12	AnnotatorNotes T13	the chart
+T14	Redundant_comp 627 644	unemployment rate
+A2	Delete T14
+T15	Articles 649 671	a different indicators
+#13	AnnotatorNotes T15	different indicators
+T16	Agreement_errors 695 699	need
+#14	AnnotatorNotes T16	needs
+T17	Prepositions 706 718	addressed in
+#15	AnnotatorNotes T17	addressed to
+T18	Absence_comp_sent 762 777	good indicators
+#16	AnnotatorNotes T18	there are good indicators

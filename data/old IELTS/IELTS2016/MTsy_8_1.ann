@@ -1,0 +1,103 @@
+T1	Capitalisation 801 805	Rest
+#1	AnnotatorNotes T1	rest
+T2	Redundant 1030 1042	To sum it up
+#2	AnnotatorNotes T2	To sum up
+T3	Prepositions 1079 1087	children
+#3	AnnotatorNotes T3	children of
+T5	Articles 871 885	downward trend
+#4	AnnotatorNotes T5	a downward trend
+T8	Numerals 708 727	5,1 million of boys
+T9	Numerals 324 342	20 million of boys
+T10	Numerals 347 368	23,7 million of girls
+T11	Numerals 732 752	4,8 million of girls
+T12	Articles 140 145	World
+#5	AnnotatorNotes T12	the world
+T13	Capitalisation 140 145	World
+#6	AnnotatorNotes T13	the world
+T14	Capitalisation 132 136	Rest
+#7	AnnotatorNotes T14	the rest
+T15	Articles 132 136	Rest
+#8	AnnotatorNotes T15	the rest
+T17	Punctuation 187 188	,
+A9	Delete T17
+T18	Spelling 377 382	acces
+#10	AnnotatorNotes T18	access
+T19	Redundant_comp 175 188	the tendence,
+A10	Delete T19
+T20	lex_item_choice 214 224	generation
+#11	AnnotatorNotes T20	people of
+T21	Prepositions 214 224	generation
+#12	AnnotatorNotes T21	people of
+T22	Articles 86 105	a primary education
+#13	AnnotatorNotes T22	primary education
+T23	Articles 244 263	a primary education
+#14	AnnotatorNotes T23	primary education
+T24	Absence_explanation 427 431	boys
+#15	AnnotatorNotes T24	uneducated boys
+A11	Addition T24
+T25	Absence_explanation 476 481	girls
+A12	Addition T25
+#16	AnnotatorNotes T25	uneducated girls
+T26	Articles 761 780	a primary education
+#17	AnnotatorNotes T26	primary education
+T27	Articles 1114 1133	a primary education
+#18	AnnotatorNotes T27	primary education
+T28	Articles 847 866	a primary education
+#19	AnnotatorNotes T28	primary education
+T29	Capitalisation 809 814	World
+#20	AnnotatorNotes T29	the world
+T30	Articles 809 814	World
+#21	AnnotatorNotes T30	the world
+T31	Numerals 903 923	10,5 million of boys
+T32	Numerals 928 949	12,8 million of girls
+T33	Numerical 631 635	more
+#22	AnnotatorNotes T33	as high
+T34	lex_item_choice 640 649	consisted
+#23	AnnotatorNotes T34	equalled
+T35	Redundant_comp 41 54	young people:
+A15	Delete T35
+T4	Defining 69 105	, who don’t have a primary education
+#24	AnnotatorNotes T4	who don’t have primary education
+T36	suggestion 69 105	, who don’t have a primary education
+T37	suggestion 41 54	young people:
+#9	AnnotatorNotes T9	20 million boys
+#25	AnnotatorNotes T10	23.7 million girls
+T16	suggestion 324 342	20 million of boys
+T38	suggestion 347 368	23,7 million of girls
+T39	Numerals 445 449	14,5
+#26	AnnotatorNotes T39	14.5
+T40	suggestion 445 449	14,5
+T41	Numerals 495 499	18,2
+#27	AnnotatorNotes T41	18.2
+T42	Prepositions 508 510	to
+#28	AnnotatorNotes T42	in
+T43	Numerals 572 576	11,1
+#29	AnnotatorNotes T43	11.1
+T44	suggestion 631 635	more
+T45	Numerals 650 654	21,6
+#30	AnnotatorNotes T45	21.6
+T46	Prepositions 664 666	To
+#31	AnnotatorNotes T46	By
+R1	Parallel_construction Arg1:T39 Arg2:T41	
+R2	Parallel_construction Arg1:T41 Arg2:T43	
+R3	Parallel_construction Arg1:T43 Arg2:T45	
+#32	AnnotatorNotes T8	5.1 million boys
+R4	Parallel_construction Arg1:T9 Arg2:T10	
+R5	Parallel_construction Arg1:T10 Arg2:T8	
+#33	AnnotatorNotes T11	4.8 million girls
+R6	Parallel_construction Arg1:T8 Arg2:T11	
+R7	Parallel_construction Arg1:T22 Arg2:T23	
+R8	Parallel_construction Arg1:T23 Arg2:T26	
+R9	Parallel_construction Arg1:T26 Arg2:T28	
+#34	AnnotatorNotes T31	10.5 million boys
+R10	Parallel_construction Arg1:T11 Arg2:T31	
+#35	AnnotatorNotes T32	12.8 million girls
+R11	Parallel_construction Arg1:T31 Arg2:T32	
+T6	Numerals 984 1003	7,7 million of boys
+#36	AnnotatorNotes T6	7.7 million boys
+R12	Parallel_construction Arg1:T32 Arg2:T6	
+T7	Numerals 1008 1028	7,6 million of girls
+#37	AnnotatorNotes T7	7.6 million girls
+R13	Parallel_construction Arg1:T6 Arg2:T7	
+T47	suggestion 1030 1042	To sum it up
+R14	Parallel_construction Arg1:T28 Arg2:T27	

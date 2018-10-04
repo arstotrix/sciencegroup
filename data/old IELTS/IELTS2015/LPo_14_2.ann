@@ -1,0 +1,107 @@
+T1	Spelling 19 29	differents
+#1	AnnotatorNotes T1	different
+T2	Punctuation 134 135	,
+A1	Delete T2
+T3	suggestion 156 167	proportions
+#2	AnnotatorNotes T3	these proportions
+T4	Standard 282 349	to make equal numbers of boys and girls at university is impossible
+#3	AnnotatorNotes T4	it is impossible to make equal numbers of boys and girls at university
+T5	Absence_comp_sent 336 338	is
+#4	AnnotatorNotes T5	it is
+T6	lex_item_choice 451 454	are
+#5	AnnotatorNotes T6	select
+T7	Ref_device 464 468	they
+T8	Articles 556 566	proportion
+A2	Addition T8
+#6	AnnotatorNotes T8	the proportion
+T9	Spelling 592 602	stereothyp
+#7	AnnotatorNotes T9	stereotype
+T10	Spelling 617 621	math
+#8	AnnotatorNotes T10	Maths
+T11	Category_confusion 637 653	humanity science
+#9	AnnotatorNotes T11	Humanities
+T12	Capitalisation 637 645	humanity
+T13	Capitalisation 617 621	math
+T14	Noun_number 724 734	proportion
+#10	AnnotatorNotes T14	propotions
+T15	Spelling 846 849	wth
+#11	AnnotatorNotes T15	with
+T16	Punctuation 860 861	,
+A3	Delete T16
+T17	Articles 933 943	proportion
+A4	Addition T17
+#12	AnnotatorNotes T17	the proportion
+T19	Articles 592 602	stereothyp
+A6	Addition T19
+#14	AnnotatorNotes T19	a stereotype
+T20	Tense_form 1113 1118	cares
+#15	AnnotatorNotes T20	care
+T21	Prepositions 1119 1121	of
+#16	AnnotatorNotes T21	about
+T22	Absence_comp_sent 1304 1327	how many boys and girls
+#17	AnnotatorNotes T22	how many boys and girls there are at a university
+A7	Addition T22
+T24	Prepositions 52 55	and
+#19	AnnotatorNotes T24	with
+T25	Coherence 106 115	are there
+#20	AnnotatorNotes T25	in them
+T26	Absence_explanation 156 167	proportions
+#21	AnnotatorNotes T26	the numbers of men and women
+T27	Coherence 233 266	there isn’t a big necessity in it
+#22	AnnotatorNotes T27	it is not necessary
+T28	Articles 296 303	numbers
+#23	AnnotatorNotes T28	the numbers
+T29	suggestion 336 338	is
+T30	lex_item_choice 406 415	faculties
+#24	AnnotatorNotes T30	departments
+T31	Word_choice 433 443	speciality
+#25	AnnotatorNotes T31	specialisation
+T32	suggestion 433 443	speciality
+T33	suggestion 451 454	are
+T18	Articles 476 485	direction
+#13	AnnotatorNotes T18	a direction
+T34	suggestion 52 55	and
+R1	Dependent_change Arg1:T24 Arg2:T25	
+#26	AnnotatorNotes T12	Humanities
+T35	Redundant 646 653	science
+A5	Delete T35
+T36	Negation 688 697	not a big
+#27	AnnotatorNotes T36	no
+T37	lex_item_choice 698 707	necessity
+#28	AnnotatorNotes T37	need
+T38	Absence_comp_sent 797 804	will be
+#29	AnnotatorNotes T38	there will be
+T39	Absence_comp_sent 806 818	more serious
+#30	AnnotatorNotes T39	it is more serious
+T40	Punctuation 822 828	. They
+#31	AnnotatorNotes T40	they
+T41	Modals 884 890	should
+#32	AnnotatorNotes T41	must
+T42	Conjunctions 922 932	despite of
+#33	AnnotatorNotes T42	no matter what
+T43	Noun_number 1038 1043	right
+#34	AnnotatorNotes T43	rights
+T44	suggestion 1038 1043	right
+T45	suggestion 922 932	despite of
+T47	suggestion 806 818	more serious
+T48	suggestion 797 804	will be
+T49	suggestion 698 707	necessity
+T50	suggestion 724 734	proportion
+T51	suggestion 646 653	science
+T52	Defining 1107 1112	, who
+#35	AnnotatorNotes T52	who
+T53	Determiners 1047 1050	all
+#36	AnnotatorNotes T53	both
+T54	suggestion 1047 1050	all
+T55	suggestion 1107 1112	, who
+T56	Linking_device 1174 1179	maybe
+A8	Delete T56
+T57	Modals 1222 1226	will
+#37	AnnotatorNotes T57	may
+R2	Dependent_change Arg1:T56 Arg2:T57	
+T58	Absence_explanation 1304 1327	how many boys and girls
+#38	AnnotatorNotes T58	how many boys and girls there are at a university
+T59	suggestion 1373 1392	desire for studying
+#39	AnnotatorNotes T59	to study
+T60	Noun_inf 1373 1392	desire for studying
+#40	AnnotatorNotes T60	desire to study

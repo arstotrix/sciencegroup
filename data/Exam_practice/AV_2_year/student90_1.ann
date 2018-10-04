@@ -1,0 +1,87 @@
+T2	Noun_attribute 114 119	sport
+T3	Spelling 120 128	programs
+T4	Noun_attribute 441 446	sport
+T5	Spelling 447 455	programs
+T8	Noun_attribute 857 862	sport
+T9	Spelling 863 871	programs
+T10	Prepositions 918 924	due to
+T11	Spelling 1354 1362	programs
+T13	Standard 1433 1463	broadcasting sports in general
+A1	Cause T3 Other
+A2	Weight-language T3 Minor
+A3	Weight-understanding T3 Minor
+#1	AnnotatorNotes T3	programmes
+T14	note 120 128	programs
+#2	AnnotatorNotes T14	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#3	AnnotatorNotes T2	sports
+T15	note 676 697	sportsmen and - women
+#4	AnnotatorNotes T15	Maybe "athletes" would be a better option here.
+A7	Cause T4 Other
+A8	Weight-language T4 Minor
+A9	Weight-understanding T4 Minor
+#5	AnnotatorNotes T4	sports
+T16	note 447 455	programs
+#6	AnnotatorNotes T16	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A10	Cause T5 Other
+A11	Weight-language T5 Minor
+A12	Weight-understanding T5 Minor
+#7	AnnotatorNotes T5	programmes
+T7	Prepositions 805 808	for
+A16	Cause T7 L1_interference
+A17	Weight-language T7 Major
+A18	Weight-understanding T7 Minor
+#9	AnnotatorNotes T7	to
+T6	Redundant_comp 771 783	and practice
+A13	Cause T6 Other
+A14	Weight-language T6 Minor
+A15	Weight-understanding T6 Minor
+A19	Delete T6
+T17	Gerund_phrase 841 856	broadcasting of
+A20	Cause T17 L1_interference
+A21	Weight-language T17 Minor
+A22	Weight-understanding T17 Minor
+#8	AnnotatorNotes T17	broadcasting
+A23	Cause T8 Other
+A24	Weight-language T8 Minor
+A25	Weight-understanding T8 Minor
+#10	AnnotatorNotes T8	sports
+T19	note 863 871	programs
+#12	AnnotatorNotes T19	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A26	Cause T9 Other
+A27	Weight-language T9 Minor
+A28	Weight-understanding T9 Minor
+#13	AnnotatorNotes T9	programmes
+A29	Cause T11 Other
+A30	Weight-language T11 Minor
+A31	Weight-understanding T11 Minor
+#14	AnnotatorNotes T11	programmes
+T20	note 1354 1362	programs
+#15	AnnotatorNotes T20	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A32	Cause T10 Other
+A33	Weight-language T10 Minor
+A34	Weight-understanding T10 Minor
+#16	AnnotatorNotes T10	for
+T21	Suffix 1163 1168	sport
+A35	Cause T21 Other
+A36	Weight-language T21 Minor
+A37	Weight-understanding T21 Minor
+#17	AnnotatorNotes T21	sporting
+T18	Articles 884 887	the
+#11	AnnotatorNotes T18	an
+A38	Cause T18 Absence_of_Category_in_L1
+A39	Weight-language T18 Minor
+A40	Weight-understanding T18 Minor
+T12	lex_item_choice 1394 1431	be the reason for people’s diffidence
+A41	Cause T12 Other
+A42	Weight-language T12 Minor
+A43	Weight-understanding T12 Minor
+#18	AnnotatorNotes T12	make people feel insecure
+A44	Cause T13 L1_interference
+A45	Weight-language T13 Major
+A46	Weight-understanding T13 Major
+#19	AnnotatorNotes T13	in general broadcasting sports
+T22	note 1433 1463	broadcasting sports in general
+#20	AnnotatorNotes T22	with word order like this, "in general" is connected with "sports", not "broadcasting"

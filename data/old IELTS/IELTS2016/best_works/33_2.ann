@@ -1,0 +1,35 @@
+T1	Punctuation 0 9	Nowadays,
+#1	AnnotatorNotes T1	Nowadays
+T2	Agreement_errors 814 820	allows
+T4	Spelling 1634 1638	thay
+#3	AnnotatorNotes T4	they
+T5	Punctuation 1697 1710	In conclusion
+#4	AnnotatorNotes T5	In conclusion,
+T7	Articles 1529 1538	addiction
+#6	AnnotatorNotes T7	an addiction
+T8	Word_choice 455 458	for
+#7	AnnotatorNotes T8	to have
+T9	Often_confused 791 797	rising
+#8	AnnotatorNotes T9	setting up
+#9	AnnotatorNotes T2	allow
+T11	Often_confused 1189 1195	useful
+#10	AnnotatorNotes T11	appealing
+T12	Lack_par_constr 1274 1286	of listening
+#11	AnnotatorNotes T12	to listen
+T13	Lack_par_constr 1297 1304	reading
+#12	AnnotatorNotes T13	read
+R1	Parallel_construction Arg1:T12 Arg2:T13	
+T14	Lack_par_constr 1337 1345	watching
+#13	AnnotatorNotes T14	watch
+R2	Parallel_construction Arg1:T12 Arg2:T14	
+T6	Ref_device 1736 1746	as for me,
+#5	AnnotatorNotes T6	in my view
+T15	Spelling 1803 1809	choise
+#14	AnnotatorNotes T15	choice
+T16	Tense_form 2103 2107	need
+#15	AnnotatorNotes T16	needs
+T17	lex_item_choice 2108 2128	a further discussion
+#16	AnnotatorNotes T17	discussing it further
+T18	Redundant_comp 2209 2213	even
+A1	Delete T18
+T3	Infinitive_constr 1274 1286	of listening

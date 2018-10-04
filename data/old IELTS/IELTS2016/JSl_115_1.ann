@@ -1,0 +1,72 @@
+T1	Articles 32 43	investments
+#1	AnnotatorNotes T1	the investments 
+T2	Prepositions 121 123	in
+#2	AnnotatorNotes T2	during 
+T3	Punctuation 184 185	,
+A1	Delete T3
+T4	Articles 352 363	investments
+#3	AnnotatorNotes T4	the investments 
+T5	Articles 554 565	investments
+#4	AnnotatorNotes T5	the investments 
+T6	lex_item_choice 510 521	fall slowly
+#5	AnnotatorNotes T6	decrease
+T7	Punctuation 763 764	,
+A2	Delete T7
+T8	Articles 924 935	investments
+#6	AnnotatorNotes T8	the investments 
+T10	Spelling 1056 1058	in
+#8	AnnotatorNotes T10	it
+T11	lex_item_choice 1083 1090	plateau
+#9	AnnotatorNotes T11	point
+T12	Prepositions 1115 1118	for
+#10	AnnotatorNotes T12	to
+T13	suggestion 75 84	developed
+T14	Pronouns 284 286	it
+T15	Articles 342 348	number
+T20	Articles 706 722	in the next year
+T22	Linking_device 910 923	What is about
+T25	lex_item_choice 111 120	all world
+T26	Articles 1039 1048	all world
+T30	lex_item_choice 1104 1118	accounting for
+T32	Articles 244 255	investments
+T33	lex_item_choice 598 605	stabile
+T34	Articles 621 632	investments
+T35	lex_item_choice 460 465	point
+T36	lex_item_choice 816 821	point
+T31	lex_item_choice 1181 1186	point
+#11	AnnotatorNotes T25	the whole world
+R1	Dependent_change Arg1:T32 Arg2:T14	
+#12	AnnotatorNotes T14	they
+#13	AnnotatorNotes T15	the number 
+#14	AnnotatorNotes T32	the investments
+T38	Standard 394 398	$ bn
+#15	AnnotatorNotes T38	bn $
+T16	Standard 427 431	$ bn
+#16	AnnotatorNotes T16	bn $
+#17	AnnotatorNotes T35	peak
+#18	AnnotatorNotes T33	stable
+#19	AnnotatorNotes T34	the investments
+T17	Standard 665 669	$ bn
+#20	AnnotatorNotes T17	bn $
+T18	Standard 692 696	$ bn
+#21	AnnotatorNotes T18	bn $
+#22	AnnotatorNotes T20	next year
+T19	Prepositions 706 708	in
+A3	Delete T19
+#23	AnnotatorNotes T36	peak
+T21	Standard 843 847	$ bn
+#24	AnnotatorNotes T21	bn $
+T37	Standard 896 900	$ bn
+#25	AnnotatorNotes T37	bn $
+T9	Standard 1002 1006	$ bn
+#7	AnnotatorNotes T9	bn $
+#26	AnnotatorNotes T22	Talking about 
+#27	AnnotatorNotes T26	the world
+T23	Standard 1137 1141	$ bn
+#28	AnnotatorNotes T23	bn $
+#29	AnnotatorNotes T30	according 
+T24	Standard 1257 1261	$ bn
+#30	AnnotatorNotes T24	bn $
+T27	Standard 1194 1198	$ bn
+#31	AnnotatorNotes T27	bn $
+#32	AnnotatorNotes T31	peak

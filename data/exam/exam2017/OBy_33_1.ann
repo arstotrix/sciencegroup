@@ -1,0 +1,48 @@
+T1	Noun_number 8 13	chart
+#1	AnnotatorNotes T1	charts
+T2	Agreement_errors 20 31	illustrates
+#2	AnnotatorNotes T2	illustrate
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	lex_item_choice 58 64	moving
+#3	AnnotatorNotes T3	transportation
+T4	Spelling 173 182	pie-chart
+#4	AnnotatorNotes T4	pie chart
+T5	Spelling 200 207	procent
+#5	AnnotatorNotes T5	percentage
+T6	Word_order 212 241	transported goods was by rail
+#6	AnnotatorNotes T6	goods was transported by rail
+T7	Agreement_errors 273 276	was
+#7	AnnotatorNotes T7	were
+T8	Superlative_adj 247 254	biggest
+#8	AnnotatorNotes T8	most
+T9	Often_confused 324 331	percent
+#9	AnnotatorNotes T9	percentages
+T10	Noun_number 324 331	percent
+#10	AnnotatorNotes T10	percentages
+T11	Agreement_errors 359 362	was
+#11	AnnotatorNotes T11	were
+R2	Dependent_change Arg1:T11 Arg2:T10	
+T12	Punctuation 391 398	Finally
+#12	AnnotatorNotes T12	Finally,
+T13	Often_confused 412 419	percent
+#13	AnnotatorNotes T13	percentage
+T14	Word_order 423 448	transported goods by rail
+#14	AnnotatorNotes T14	goods transported by rail
+T15	lex_item_choice 449 452	was
+#15	AnnotatorNotes T15	had
+T16	Superlative_adj 517 527	most large
+#16	AnnotatorNotes T16	biggest
+T17	Often_confused 528 535	percent
+#17	AnnotatorNotes T17	percentages
+T18	Noun_number 528 535	percent
+#18	AnnotatorNotes T18	percentages
+T19	lex_item_choice 536 539	was
+#19	AnnotatorNotes T19	had
+T20	Often_confused 588 595	percent
+#20	AnnotatorNotes T20	percentage
+T21	Punctuation 751 758	Overall
+#21	AnnotatorNotes T21	Overall,
+T22	Absence_comp_sent 856 870	it transported
+#22	AnnotatorNotes T22	it was transported
+T23	lex_item_choice 883 891	compeire
+#23	AnnotatorNotes T23	had

@@ -1,0 +1,63 @@
+T3	Category_confusion 50 59	acception
+T4	Prepositions 85 87	at
+T5	Articles 213 227	such statement
+T8	Often_confused 391 394	say
+T9	lex_item_choice 411 424	opportunities
+T15	Determiners 585 596	own talants
+T16	Spelling 589 596	talants
+T17	Spelling 617 622	chose
+T18	Articles 653 661	majority
+T19	Redundant_comp 715 718	but
+T20	Tense_choice 724 729	can’t
+T21	Articles 754 768	limited number
+T22	Confusion_of_structures 836 841	exist
+T23	Punctuation 1012 1013	,
+#1	AnnotatorNotes T4	to
+#2	AnnotatorNotes T5	such a statement
+#3	AnnotatorNotes T8	talk
+#4	AnnotatorNotes T16	talents
+#5	AnnotatorNotes T17	choose
+#6	AnnotatorNotes T18	the majority
+#7	AnnotatorNotes T22	there are
+T24	Prepositional_adjective 870 885	interesting for
+#8	AnnotatorNotes T24	to
+T25	Absence_comp_sent 1031 1035	have
+A1	Delete T23
+#9	AnnotatorNotes T20	wouldn't be able to
+#10	AnnotatorNotes T25	have the right
+A2	Delete T19
+#11	AnnotatorNotes T21	a limited number
+#12	AnnotatorNotes T15	his or her own talents
+T1	Category_confusion 25 35	considered
+#14	AnnotatorNotes T1	considerable
+T2	lex_item_choice 267 270	put
+#15	AnnotatorNotes T9	aptitudes
+T11	lex_item_choice 679 689	would like
+#17	AnnotatorNotes T11	wanted
+T13	lex_item_choice 815 820	empty
+T14	Punctuation 901 914	In conclusion
+#18	AnnotatorNotes T14	In conclusion,
+#19	AnnotatorNotes T3	accepting
+T27	Articles 25 46	considered discussion
+#20	AnnotatorNotes T13	vacant
+#21	AnnotatorNotes T27	a considerable discussion
+T6	lex_item_choice 282 291	framework
+#22	AnnotatorNotes T6	restrictions
+#23	AnnotatorNotes T2	place
+T12	Prepositional_noun 532 539	tent to
+#16	AnnotatorNotes T12	preferences for
+T26	lex_item_choice 532 536	tent
+#24	AnnotatorNotes T26	preferences
+T28	Absence_comp_sent 485 492	tend to
+#25	AnnotatorNotes T28	tend to choose
+T32	Absence_explanation 60 84	male and female students
+#29	AnnotatorNotes T32	equal numbers of male and female students
+T34	Determiners 271 291	the gender framework
+#30	AnnotatorNotes T34	any gender restrictions
+T7	Attr_participial 341 351	to support
+#31	AnnotatorNotes T7	for supporting
+A3	Cause T8 L1_interference
+T36	Redundant_comp 480 484	have
+A4	Delete T36
+T10	suggestion 485 492	tend to
+T37	suggestion 480 484	have

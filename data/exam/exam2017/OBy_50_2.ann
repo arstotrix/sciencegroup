@@ -1,0 +1,56 @@
+T1	Spelling 103 110	hurmful
+#1	AnnotatorNotes T1	harmful
+T2	Spelling 222 231	solvation
+#2	AnnotatorNotes T2	solution
+T3	lex_item_choice 269 276	illness
+#3	AnnotatorNotes T3	disease
+T4	Redundant_comp 290 315	and harm on eyes and view
+A1	Delete T4
+T5	lex_item_choice 317 350	Most contemporary world populatio
+#4	AnnotatorNotes T5	Most modern people
+T6	Agreement_errors 352 356	uses
+#5	AnnotatorNotes T6	use
+R1	Dependent_change Arg1:T6 Arg2:T5	
+T7	Agreement_errors 375 385	depends on
+#6	AnnotatorNotes T7	depend on
+R2	Dependent_change Arg1:T7 Arg2:T5	
+T8	Articles 403 418	enormous amount
+#7	AnnotatorNotes T8	an enormous amount
+T9	Prepositions 446 463	spend all time on
+#8	AnnotatorNotes T9	spend all time
+T10	Prepositions 485 500	in the Internet
+#9	AnnotatorNotes T10	on the Internet
+T11	lex_item_choice 544 553	good view
+#10	AnnotatorNotes T11	eyesight
+T12	Absence_explanation 595 601	mobile
+#11	AnnotatorNotes T12	mobile phones
+T13	Noun_number 603 611	computer
+#12	AnnotatorNotes T13	computers
+T14	Noun_number 619 625	screen
+#13	AnnotatorNotes T14	screens
+T15	Agreement_errors 626 633	affects
+#14	AnnotatorNotes T15	affect
+T16	Agreement_errors 648 656	destroys
+#15	AnnotatorNotes T16	destroy
+T17	Noun_number 726 734	headache
+#16	AnnotatorNotes T17	headaches
+T18	Articles 829 842	rising amount
+#17	AnnotatorNotes T18	the rising amount
+T19	Redundant_comp 1057 1059	of
+A2	Delete T19
+T20	Infinitive_constr 1119 1123	read
+#18	AnnotatorNotes T20	to read 
+T21	Inappropriate_register 1138 1142	it’s
+#19	AnnotatorNotes T21	it is
+T22	Articles 1143 1178	more useful and developing activity
+#20	AnnotatorNotes T22	a more useful and developing activity
+T23	Articles 1341 1358	harmful influence
+#21	AnnotatorNotes T23	the harmful influence
+T24	Articles 1364 1388	computer or mobile phone
+#22	AnnotatorNotes T24	the computer or mobile phone
+T25	Infinitive_constr 1461 1471	protecting
+#23	AnnotatorNotes T25	to protect
+T26	Punctuation 1558 1565	However
+#24	AnnotatorNotes T26	However,
+T27	Redundant_comp 1586 1598	by ourselves
+A3	Delete T27

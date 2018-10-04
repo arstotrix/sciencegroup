@@ -1,0 +1,53 @@
+T1	Punctuation 104 105	,
+A1	Delete T1
+T2	Spelling 189 193	ifes
+#1	AnnotatorNotes T2	lives
+T3	Spelling 739 746	prooved
+#2	AnnotatorNotes T3	proved
+T4	Spelling 801 806	couse
+#3	AnnotatorNotes T4	cause
+T5	Spelling 871 877	cource
+#4	AnnotatorNotes T5	course
+T7	Comparative_adj 1383 1392	more safe
+#6	AnnotatorNotes T7	safer
+T8	Spelling 1417 1421	ther
+#7	AnnotatorNotes T8	there
+T9	Spelling 1476 1481	helth
+#8	AnnotatorNotes T9	health
+T10	lex_item_choice 274 281	results
+#9	AnnotatorNotes T10	achievements
+T11	Absence_comp_colloc 626 636	electronic
+#10	AnnotatorNotes T11	electronic appliances
+T12	Agreement_errors 637 645	produces
+#11	AnnotatorNotes T12	produce
+R1	Dependent_change Arg1:T11 Arg2:T12	
+T13	Noun_number 663 667	wave
+#12	AnnotatorNotes T13	waves
+T14	Redundant_comp 685 691	poorly
+A2	Delete T14
+T15	Tense_choice 736 746	is prooved
+#13	AnnotatorNotes T15	has been proved
+T16	Punctuation 765 766	,
+A3	Delete T16
+T17	Linking_device 821 829	Although
+#14	AnnotatorNotes T17	However
+T6	Spelling 981 987	limite
+#5	AnnotatorNotes T6	limit
+T18	Tense_choice 1036 1043	talking
+#15	AnnotatorNotes T18	talk
+T19	Prepositions 1044 1047	via
+#16	AnnotatorNotes T19	on
+T20	Articles 1048 1054	phones
+#17	AnnotatorNotes T20	the phones
+T21	Category_confusion 1059 1070	particulary
+#18	AnnotatorNotes T21	particular
+T22	Verb_Inf_Gerund 1093 1098	limit
+#19	AnnotatorNotes T22	limiting
+T23	Prepositions 1129 1131	by
+#20	AnnotatorNotes T23	to
+T24	Articles 1191 1205	a brain cancer
+#21	AnnotatorNotes T24	brain cancer
+T25	Agreement_errors 1206 1210	fall
+#22	AnnotatorNotes T25	falls
+T26	Redundant_comp 1362 1369	so that
+A4	Delete T26

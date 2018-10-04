@@ -1,0 +1,36 @@
+T1	Possessive 302 312	each group
+#1	AnnotatorNotes T1	each group's members
+T2	Punctuation 480 490	In average
+#2	AnnotatorNotes T2	In average,
+T3	Redundant_comp 491 499	group of
+A1	Delete T3
+T4	lex_item_choice 507 510	65+
+#3	AnnotatorNotes T4	older than 65
+T5	Possessive 627 632	group
+#4	AnnotatorNotes T5	group's members
+T6	Punctuation 749 750	,
+A2	Delete T6
+T7	lex_item_choice 708 715	percent
+#5	AnnotatorNotes T7	percentage
+T8	Defining 751 756	using
+#6	AnnotatorNotes T8	who use
+T9	Punctuation 765 766	,
+A3	Delete T9
+T10	Spelling 770 777	slighly
+#7	AnnotatorNotes T10	slightly
+T11	Spelling 785 789	then
+#8	AnnotatorNotes T11	than
+T12	Absence_explanation 862 872	who is 65+
+#9	AnnotatorNotes T12	consisting of people older than 65
+T13	Articles 837 851	Old generation
+#10	AnnotatorNotes T13	The old generation
+T14	Agreement_errors 874 885	participate
+#11	AnnotatorNotes T14	participates
+T15	Compound_word 70 86	social platforms
+#12	AnnotatorNotes T15	social networks
+T16	suggestion 0 15	Presented graph
+T17	suggestion 367 372	youth
+T18	suggestion 732 739	30 – 49
+T19	suggestion 751 765	using LinkedIn
+T20	suggestion 790 799	a percent
+T21	suggestion 821 835	using LinkedIn

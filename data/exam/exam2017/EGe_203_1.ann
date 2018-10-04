@@ -1,0 +1,72 @@
+T1	Redundant_comp 21 25	show
+A1	Delete T1
+T2	Agreement_errors 151 161	illustrate
+#1	AnnotatorNotes T2	illustrates
+T3	Agreement_errors 145 150	graph
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	Prepositions 190 194	into
+A2	Delete T4
+T5	Spelling 211 218	mobaile
+#2	AnnotatorNotes T5	mobile
+T6	Prepositions 204 206	by
+#3	AnnotatorNotes T6	via
+T7	Prepositions 234 236	by
+#4	AnnotatorNotes T7	via
+T8	Articles 237 240	the
+A3	Delete T8
+T9	Articles 207 210	the
+A4	Delete T9
+T10	Pronouns 281 286	which
+#5	AnnotatorNotes T10	who
+T11	Tense_choice 303 307	fall
+#6	AnnotatorNotes T11	fell
+T12	Spelling 308 319	graduatelly
+#7	AnnotatorNotes T12	gradually
+T13	Redundant_comp 263 274	millions of
+A5	Delete T13
+T14	Spelling 483 495	aproximately
+#8	AnnotatorNotes T14	approximately
+T15	Prepositions 480 482	at
+A6	Delete T15
+T16	Punctuation 381 403	the number of pepople,
+#9	AnnotatorNotes T16	the number of pepople
+T17	Capitalisation 440 448	facebook
+#10	AnnotatorNotes T17	Facebook
+T18	Articles 453 454	a
+#11	AnnotatorNotes T18	an
+T19	Absence_comp_sent 594 596	is
+#12	AnnotatorNotes T19	there is
+T20	Prepositions 612 614	to
+#13	AnnotatorNotes T20	of
+T21	Spelling 601 611	posability
+#14	AnnotatorNotes T21	possibility
+T22	Absence_comp_sent 707 709	is
+#15	AnnotatorNotes T22	there is
+T23	Articles 710 713	the
+#16	AnnotatorNotes T23	a
+T24	Articles 597 600	the
+#17	AnnotatorNotes T24	a
+T25	Punctuation 756 800	and the lines for men and women are the same
+#18	AnnotatorNotes T25	, and the lines for men and women are the same
+T26	Noun_number 815 823	position
+#19	AnnotatorNotes T26	positions
+T27	Prepositions 828 830	at
+A7	Delete T27
+T28	Spelling 831 843	aproximately
+#20	AnnotatorNotes T28	approximately
+T29	Spelling 844 852	simmilar
+#21	AnnotatorNotes T29	similar
+T30	Agreement_errors 896 899	are
+#22	AnnotatorNotes T30	is
+T31	Agreement_errors 858 864	reason
+R2	Dependent_change Arg1:T30 Arg2:T31	
+T32	lex_item_choice 912 921	percenage
+#23	AnnotatorNotes T32	percent
+T33	Spelling 1007 1016	followinf
+#24	AnnotatorNotes T33	follow
+T34	Agreement_errors 1035 1038	are
+#25	AnnotatorNotes T34	is
+T35	Agreement_errors 984 994	percentage
+R3	Parallel_construction Arg1:T34 Arg2:T35	
+T36	note 1088 1089	t
+#26	AnnotatorNotes T36	Zavyalov

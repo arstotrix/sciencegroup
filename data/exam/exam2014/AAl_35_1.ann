@@ -1,0 +1,109 @@
+T1	lex_item_choice 0 8	Sugested
+T2	Spelling 33 45	innformation
+T3	Spelling 97 100	ove
+T5	Superlative_adj 206 217	most little
+T7	Numerals 395 403	percents
+T8	Category_confusion 405 414	Americans
+T9	Numerals 540 548	percents
+T11	Numerals 637 645	percents
+T12	Spelling 1082 1089	aresult
+T14	Articles 126 129	USA
+#1	AnnotatorNotes T14	the USA
+T15	Spelling 352 357	biger
+#2	AnnotatorNotes T15	bigger
+T16	Spelling 390 394	fife
+#3	AnnotatorNotes T16	five
+T17	Superlative_adj 450 455	biger
+#4	AnnotatorNotes T17	the biggest
+T18	Capitalisation 575 583	american
+#5	AnnotatorNotes T18	American
+T19	Tense_choice 595 609	are increasing
+#6	AnnotatorNotes T19	increased
+T21	Tense_choice 920 934	was increasing
+#8	AnnotatorNotes T21	increased
+T22	Spelling 1112 1119	dinamic
+#9	AnnotatorNotes T22	dynamics
+T23	Articles 1134 1144	proportion
+#10	AnnotatorNotes T23	the proportion 
+T24	Agreement_errors 1183 1187	this
+#11	AnnotatorNotes T24	these
+#14	AnnotatorNotes T1	given
+T28	Articles 0 14	Sugested chart
+#15	AnnotatorNotes T28	The given chart
+T29	Dative 21 32	gives to us
+#16	AnnotatorNotes T29	gives us
+#17	AnnotatorNotes T3	over
+T4	lex_item_choice 182 188	people
+#18	AnnotatorNotes T4	category
+#19	AnnotatorNotes T5	the lowest
+T33	Spelling 297 301	fife
+T6	lex_item_choice 324 334	population
+#20	AnnotatorNotes T6	age group
+#22	AnnotatorNotes T7	percent
+#23	AnnotatorNotes T8	American
+T36	Lack_par_constr 362 372	consist of
+T37	lex_item_choice 456 472	number of people
+#24	AnnotatorNotes T37	portion
+T38	lex_item_choice 562 566	line
+#25	AnnotatorNotes T38	the percentage
+T39	Absence_comp_colloc 584 594	population
+#26	AnnotatorNotes T39	population sector
+T42	Tense_choice 623 630	consist
+T43	Redundant_comp 665 754	Whith the help of this, we can say, that borning in the the USA was feeling all the time.
+A1	Delete T43
+T44	Prepositions 889 893	from
+#28	AnnotatorNotes T44	of
+T47	lex_item_choice 997 1004	feeling
+#29	AnnotatorNotes T47	fall
+T48	Tense_choice 993 1004	was feeling
+#30	AnnotatorNotes T48	is expected to fall
+T49	Lack_par_constr 1044 1054	inereasing
+#31	AnnotatorNotes T49	to increase
+T51	Spelling 1044 1054	inereasing
+#32	AnnotatorNotes T51	to increase
+T53	Punctuation 1219 1225	, that
+#33	AnnotatorNotes T53	that
+T55	Redundant_comp 1265 1340	, and borning was decling or level of life in this countries was increasing
+A2	Delete T55
+T57	Ref_device 1039 1043	this
+#37	AnnotatorNotes T42	consisted
+#38	AnnotatorNotes T33	five
+#27	AnnotatorNotes T36	will consist of
+A3	Cause T1 L1_interference
+T13	Redundant_comp 15 20	below
+A6	Delete T13
+#13	AnnotatorNotes T2	information
+T20	Punctuation 137 140	and
+#34	AnnotatorNotes T20	, and
+T26	lex_item_choice 163 173	population
+#35	AnnotatorNotes T26	the percentage
+T27	lex_item_choice 256 269	he population
+#40	AnnotatorNotes T27	people
+T31	lex_item_choice 287 290	was
+#41	AnnotatorNotes T31	made up
+T32	Absence_explanation 291 309	about fife percent
+#42	AnnotatorNotes T32	about five percent of the Japanese population
+#43	AnnotatorNotes T9	percent
+T34	Spelling 612 613	I
+#7	AnnotatorNotes T34	In
+#44	AnnotatorNotes T11	percent
+T35	Determiners 649 652	all
+#45	AnnotatorNotes T35	the whole
+T40	Tense_choice 812 815	has
+#46	AnnotatorNotes T40	had
+T41	lex_item_choice 825 834	feelining
+#47	AnnotatorNotes T41	falls
+T45	Lack_par_constr 839 849	increasing
+#48	AnnotatorNotes T45	increases
+T46	Ref_device 915 919	this
+#49	AnnotatorNotes T46	It
+#36	AnnotatorNotes T57	that
+#50	AnnotatorNotes T12	a result
+T50	Spelling 1226 1232	qualer
+#51	AnnotatorNotes T50	a quarter
+T52	Articles 1226 1232	qualer
+#52	AnnotatorNotes T52	a quarter
+T54	Absence_explanation 1226 1264	qualer of the population is old people
+#53	AnnotatorNotes T54	in future about a quarter of the population will be old people
+T56	Tense_choice 1251 1253	is
+#54	AnnotatorNotes T56	will be

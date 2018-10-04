@@ -1,0 +1,119 @@
+T1	Articles 426 431	plane
+#1	AnnotatorNotes T1	the plane
+T3	Spelling 488 499	expluatated
+A1	Cause T3 L1_interference
+#3	AnnotatorNotes T3	 exploited
+T4	Spelling 694 695	s
+A2	Cause T4 Typo
+#4	AnnotatorNotes T4	is
+T5	Superlative_adj 700 709	safetiest
+#5	AnnotatorNotes T5	safest
+T6	Spelling 1417 1420	ill
+A3	Cause T6 Typo
+#6	AnnotatorNotes T6	will
+T8	lex_item_choice 27 34	produce
+#8	AnnotatorNotes T8	emit
+T9	Ref_device 49 65	and in this case
+#9	AnnotatorNotes T9	that
+T10	lex_item_choice 137 141	make
+#10	AnnotatorNotes T10	pass
+T11	Absence_comp_colloc 147 156	to harden
+#11	AnnotatorNotes T11	to harden rules of
+T12	Redundant_comp 202 206	uses
+T13	lex_item_choice 208 225	On the other hand
+#12	AnnotatorNotes T13	On the one hand
+T14	lex_item_choice 227 232	fuels
+#13	AnnotatorNotes T14	gases
+T15	lex_item_choice 245 252	produce
+#14	AnnotatorNotes T15	emit
+T16	lex_item_choice 276 281	react
+#15	AnnotatorNotes T16	influence
+T17	Often_confused 291 303	population’s
+#16	AnnotatorNotes T17	public
+T18	Prepositions 391 393	in
+#17	AnnotatorNotes T18	for
+T19	Articles 449 451	an
+#18	AnnotatorNotes T19	a
+T20	lex_item_choice 503 505	go
+#19	AnnotatorNotes T20	travel
+T21	lex_item_choice 506 519	to the luxury
+#20	AnnotatorNotes T21	in luxury
+T22	Coordinate 520 527	doubled
+#21	AnnotatorNotes T22	, which doubles
+T24	Prepositions 556 558	to
+#23	AnnotatorNotes T24	on
+T25	Articles 688 693	plane
+#24	AnnotatorNotes T25	the
+T26	Prepositions 576 578	In
+#25	AnnotatorNotes T26	For
+T27	lex_item_choice 626 633	reduced
+#26	AnnotatorNotes T27	limited
+T28	lex_item_choice 786 796	travelling
+#27	AnnotatorNotes T28	transport
+T30	Redundant_comp 744 752	level of
+T31	lex_item_choice 738 743	lower
+#28	AnnotatorNotes T31	fewer
+T32	Agreement_errors 753 762	accidents
+T33	Agreement_errors 735 737	is
+#29	AnnotatorNotes T33	are
+R1	Dependent_change Arg1:T32 Arg2:T33	
+T34	Determiners 884 889	every
+#30	AnnotatorNotes T34	any
+T35	Linking_device 911 919	However,
+#31	AnnotatorNotes T35	Although
+T37	Comparative_constr 930 943	so cheap like
+#33	AnnotatorNotes T37	as cheap as
+T38	Redundant_comp 1036 1043	fact of
+T39	Prepositions 1044 1053	reduction
+#34	AnnotatorNotes T39	reduction of
+T40	Spelling 1111 1118	collaps
+#35	AnnotatorNotes T40	collapse
+T41	lex_item_choice 1160 1171	unsatisfied
+#36	AnnotatorNotes T41	negative
+T42	Articles 1184 1203	government decision
+#37	AnnotatorNotes T42	the government decision
+T43	Determiners 1236 1240	that
+#38	AnnotatorNotes T43	this
+T44	Confusion_of_structures 1264 1271	without
+#39	AnnotatorNotes T44	having
+T45	Determiners 1272 1275	any
+#40	AnnotatorNotes T45	no
+T46	Category_confusion 1336 1347	travellings
+#41	AnnotatorNotes T46	travel
+T47	Determiners 1389 1393	this
+#42	AnnotatorNotes T47	a
+T48	Tense_choice 1123 1128	leads
+#43	AnnotatorNotes T48	will lead
+T49	lex_item_choice 1095 1100	go to
+#44	AnnotatorNotes T49	result in
+T50	Punctuation 1454 1455	,
+T51	Spelling 1448 1454	May be
+#45	AnnotatorNotes T51	Maybe
+T52	lex_item_choice 1532 1538	energy
+#46	AnnotatorNotes T52	fuel
+T53	Redundant_comp 357 372	are used to use
+A5	Delete T53
+A6	Delete T12
+T54	Redundant 387 390	not
+A7	Delete T54
+T55	Prefix 394 403	important
+#47	AnnotatorNotes T55	unimportant
+R2	Dependent_change Arg1:T55 Arg2:T54	
+T2	Punctuation 652 670	on the other hand,
+#2	AnnotatorNotes T2	, on the other hand,
+A4	Delete T30
+T29	lex_item_choice 876 883	achieve
+#48	AnnotatorNotes T29	get to
+A8	Delete T38
+T36	Prefix 1245 1259	unaproppriated
+#32	AnnotatorNotes T36	inappropriate
+T56	Spelling 1245 1259	unaproppriated
+#49	AnnotatorNotes T56	inappropriate
+R3	Dependent_change Arg1:T44 Arg2:T45	
+T57	Redundant_comp 1348 1357	and so on
+A9	Delete T57
+T58	Conjunctions 1325 1347	migration, travellings
+#50	AnnotatorNotes T58	migration and travel
+T7	Redundant_comp 1424 1436	delighted or
+A10	Delete T7
+A11	Delete T50

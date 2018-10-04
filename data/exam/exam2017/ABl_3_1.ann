@@ -1,0 +1,84 @@
+T1	Prepositions 54 56	in
+#1	AnnotatorNotes T1	from
+T2	lex_part_choice 78 92	at first sight
+#2	AnnotatorNotes T2	at first glance
+T3	Standard 133 217	In the table there are 5 world regions which were used for measuring of unemployment
+#3	AnnotatorNotes T3	There are 5 world regions in the table where the unemployment rate has been measured
+T6	Absence_explanation 205 217	unemployment
+#6	AnnotatorNotes T6	the unemployment rate
+T7	Category_confusion 192 204	measuring of
+#7	AnnotatorNotes T7	was measured
+T8	Conjunctions 172 177	which
+#8	AnnotatorNotes T8	where
+T9	Redundant_comp 178 191	were used for
+A1	Delete T9
+T10	lex_item_choice 273 278	marcs
+#9	AnnotatorNotes T10	data
+T11	Category_confusion 223 227	high
+#10	AnnotatorNotes T11	height
+T12	lex_item_choice 237 252	vertical stable
+#11	AnnotatorNotes T12	column
+T13	Coherence 376 380	2014
+#12	AnnotatorNotes T13	2015
+T14	Spelling 555 564	N. Africa
+#13	AnnotatorNotes T14	North Africa
+T15	Spelling 566 573	S. Asia
+#14	AnnotatorNotes T15	South Asia
+T18	lex_part_choice 298 313	In more details
+#17	AnnotatorNotes T18	In more detail
+T19	lex_item_choice 330 334	most
+#18	AnnotatorNotes T19	highest
+T5	Noun_number 335 342	degrees
+#5	AnnotatorNotes T5	degree
+T21	Tense_choice 381 384	are
+#20	AnnotatorNotes T21	was
+T22	Agreement_errors 381 384	are
+#21	AnnotatorNotes T22	was
+R1	Dependent_change Arg1:T5 Arg2:T22	
+T23	Noun_number 413 420	degrees
+#22	AnnotatorNotes T23	degree
+T24	Tense_choice 421 424	are
+#23	AnnotatorNotes T24	was
+T25	Agreement_errors 421 424	are
+#24	AnnotatorNotes T25	was
+R2	Dependent_change Arg1:T23 Arg2:T25	
+T26	Category_confusion 504 513	excepting
+#25	AnnotatorNotes T26	except
+T29	lex_item_choice 543 551	the work
+#28	AnnotatorNotes T29	unemployment
+T30	Articles 543 551	the work
+#29	AnnotatorNotes T30	unemployment
+T31	lex_item_choice 532 539	degrees
+#30	AnnotatorNotes T31	levels
+T32	lex_item_choice 578 591	Worldwid mark
+#31	AnnotatorNotes T32	all around the globe
+T17	Agreement_errors 633 637	mean
+#16	AnnotatorNotes T17	means that
+T33	that_clause 633 637	mean
+#32	AnnotatorNotes T33	means that
+T34	Articles 645 661	stable situation
+#33	AnnotatorNotes T34	a stable situation
+T35	Category_confusion 704 714	concerning
+#34	AnnotatorNotes T35	concern
+T39	Word_choice 753 794	works of different region of unemployment
+#38	AnnotatorNotes T39	levels of unemployment in different regions
+T40	lex_item_choice 795 811	are falling down
+#39	AnnotatorNotes T40	have declined
+T41	Tense_choice 795 819	are falling down or stay
+#40	AnnotatorNotes T41	have declined or stayed
+T42	Category_confusion 834 843	EU stable
+#41	AnnotatorNotes T42	stability of the EU
+T44	Articles 834 836	EU
+#43	AnnotatorNotes T44	the EU
+T45	Word_choice 844 864	gives another effect
+#44	AnnotatorNotes T45	demonstrates the opposite tendency
+T46	note 864 865	.
+#45	AnnotatorNotes T46	ABl
+T4	lex_item_choice 98 103	marks
+#4	AnnotatorNotes T4	data
+T20	lex_item_choice 473 481	the same
+#15	AnnotatorNotes T20	a constant
+T27	Tense_choice 592 596	stay
+#19	AnnotatorNotes T27	stayed
+T28	lex_item_choice 606 612	during
+#26	AnnotatorNotes T28	in both

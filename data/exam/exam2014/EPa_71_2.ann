@@ -1,0 +1,44 @@
+T1	lex_item_choice 42 50	increase
+#1	AnnotatorNotes T1	improve
+T2	lex_item_choice 68 75	sitting
+#2	AnnotatorNotes T2	setting
+T3	Absence_comp_sent 104 108	some
+#3	AnnotatorNotes T3	by some
+T4	lex_item_choice 164 166	of
+#4	AnnotatorNotes T4	to do
+T5	Voice 325 334	convinced
+#5	AnnotatorNotes T5	are convinced
+T6	Spelling 627 630	out
+#6	AnnotatorNotes T6	our
+T7	Spelling 703 709	may be
+#7	AnnotatorNotes T7	maybe
+T8	Articles 724 737	bigger number
+#8	AnnotatorNotes T8	a bigger number
+T9	Articles 791 800	the whole
+#9	AnnotatorNotes T9	whole
+T10	lex_item_choice 953 957	them
+#10	AnnotatorNotes T10	people
+T11	Comparative_adj 962 974	more healthy
+#11	AnnotatorNotes T11	healthier
+T12	Comparative_adj 979 986	natural
+#12	AnnotatorNotes T12	more natural
+T13	Punctuation 1006 1010	Also
+#13	AnnotatorNotes T13	Also ,
+T14	Redundant_comp 1029 1033	this
+A1	Delete T14
+T15	Articles 1045 1051	number
+#14	AnnotatorNotes T15	the number
+T16	Redundant_comp 1087 1090	for
+A2	Delete T16
+T17	Spelling 1145 1152	can not
+#15	AnnotatorNotes T17	cannot
+T18	Verb_Bare_Inf 1145 1158	can not doing
+#16	AnnotatorNotes T18	cannot do
+T19	Punctuation 1175 1179	Also
+#17	AnnotatorNotes T19	Also ,
+T20	Spelling 1217 1222	nater
+#18	AnnotatorNotes T20	water
+T21	Articles 1258 1274	bigger influence
+#19	AnnotatorNotes T21	a bigger influence
+T22	Punctuation 1295 1297	So
+#20	AnnotatorNotes T22	So ,

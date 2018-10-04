@@ -1,0 +1,26 @@
+T1	Agreement_errors 295 300	shows
+#1	AnnotatorNotes T1	'show'
+T2	suggestion 58 60	an
+#2	AnnotatorNotes T2	'and'
+T3	Agreement_errors 127 129	is
+#3	AnnotatorNotes T3	'are'
+T4	suggestion 170 174	been
+A1	Delete T4
+T5	Spelling 175 179	hulf
+#4	AnnotatorNotes T5	'half'
+T6	Redundant_comp 78 84	charts
+#5	AnnotatorNotes T6	'show the data about...'
+T7	suggestion 85 87	in
+A2	Delete T7
+T8	suggestion 166 174	had been
+A3	Delete T8
+T9	Absence_comp_sent 175 186	hulf people
+#6	AnnotatorNotes T9	'half of the population were'
+T10	Prepositions 187 188	0
+#7	AnnotatorNotes T10	'from 0...'
+T11	Word_choice 195 199	year
+#8	AnnotatorNotes T11	'years old'
+T12	Word_choice 257 262	years
+#9	AnnotatorNotes T12	'years old'
+T13	suggestion 405 407	to
+A4	Delete T13

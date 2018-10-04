@@ -1,0 +1,45 @@
+T1	Determiners 141 155	another people
+#1	AnnotatorNotes T1	other people
+T2	Agreement_errors 141 155	another people
+#2	AnnotatorNotes T2	other people
+T3	Articles 185 205	some interesting job
+#3	AnnotatorNotes T3	an interesting job
+T4	Determiners 209 218	the other
+#4	AnnotatorNotes T4	any other
+T5	Linking_device 635 639	Thus
+#5	AnnotatorNotes T5	In other words
+T6	Agreement_errors 863 873	money play
+#6	AnnotatorNotes T6	money plays
+A1	Cause T6 L1_interference
+T7	Noun_number 899 903	live
+#7	AnnotatorNotes T7	lives
+T8	Noun_number 951 955	meal
+A2	Cause T8 L1_interference
+#8	AnnotatorNotes T8	meals
+T9	Articles 957 962	place
+#9	AnnotatorNotes T9	a place
+T10	Category_confusion 975 983	studying
+#10	AnnotatorNotes T10	studies
+T11	Word_choice 1033 1048	have to collect
+A3	Cause T11 L1_interference
+#11	AnnotatorNotes T11	need
+T12	Articles 1049 1058	large sum
+A4	Cause T12 Absence_of_Category_in_L1
+#12	AnnotatorNotes T12	a large sum
+T13	Absence_comp_colloc 1115 1124	operation
+A5	Cause T13 L1_interference
+#13	AnnotatorNotes T13	medical operation
+T14	Coherence 1237 1259	some people could have
+#14	AnnotatorNotes T14	there are
+T15	Non_defining 1270 1275	which
+#15	AnnotatorNotes T15	who
+T16	Confusion_of_structures 1344 1355	their needs
+#16	AnnotatorNotes T16	what they need
+T17	Punctuation 1358 1371	In conclusion
+#17	AnnotatorNotes T17	In conclusion,
+T18	Articles 1487 1508	more important factor
+#18	AnnotatorNotes T18	a more important factor
+T19	lex_item_choice 1591 1595	high
+#19	AnnotatorNotes T19	large
+T20	suggestion 1606 1624	deal with problems
+#20	AnnotatorNotes T20	ensure the decent level

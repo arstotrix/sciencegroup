@@ -1,0 +1,106 @@
+T1	Category_confusion 27 42	frequently used
+#1	AnnotatorNotes T1	the frequent use
+T2	lex_item_choice 58 68	increasing
+#2	AnnotatorNotes T2	causes
+T3	Articles 69 76	variety
+#3	AnnotatorNotes T3	a variety
+T4	Punctuation 95 107	First of all
+#4	AnnotatorNotes T4	Firs of all,
+T5	Redundant_comp 121 125	what
+A1	Delete T5
+T6	Spelling 126 138	specificllly
+#5	AnnotatorNotes T6	specifically
+T7	Tense_form 156 163	talking
+#6	AnnotatorNotes T7	are talking
+T8	Tense_choice 251 258	causing
+#7	AnnotatorNotes T8	causes
+T9	Articles 263 271	headache
+#8	AnnotatorNotes T9	a headache
+T10	Voice 313 320	focused
+#9	AnnotatorNotes T10	is focused
+T11	Prepositions 354 370	with your device
+#10	AnnotatorNotes T11	in your device
+T12	Punctuation 372 376	Also
+#11	AnnotatorNotes T12	Also,
+T13	Articles 415 421	the TV
+#12	AnnotatorNotes T13	TV
+T14	Absence_comp_sent 463 472	can cause
+#13	AnnotatorNotes T14	it can cause
+T15	Category_confusion 477 487	decreasing
+#14	AnnotatorNotes T15	the decrease
+T16	Articles 477 487	decreasing
+#15	AnnotatorNotes T16	the decrease
+T17	Prepositions 477 497	decreasing your eyes
+#16	AnnotatorNotes T17	the decrease of
+T18	Punctuation 564 575	For example
+#17	AnnotatorNotes T18	For example,
+T19	Prepositions 576 587	because for
+#18	AnnotatorNotes T19	because of
+T20	Punctuation 778 780	So
+#19	AnnotatorNotes T20	So,
+T21	Articles 793 800	my time
+#20	AnnotatorNotes T21	the time
+T22	Inappropriate_register 881 884	I’m
+#21	AnnotatorNotes T22	I am
+T23	Inappropriate_register 903 908	can’t
+#22	AnnotatorNotes T23	cannot
+T24	Redundant_comp 909 915	barely
+A2	Delete T24
+T25	Tense_choice 939 946	loosing
+#23	AnnotatorNotes T25	lose
+T26	Punctuation 956 977	, that I tried to say
+#24	AnnotatorNotes T26	that I tried to say
+T27	Tense_choice 995 1002	loosing
+#25	AnnotatorNotes T27	lose
+T28	Category_confusion 1006 1017	concentrate
+#26	AnnotatorNotes T28	concentration
+T29	Punctuation 1020 1026	Second
+#27	AnnotatorNotes T29	Second,
+T30	Inappropriate_register 1085 1090	can’t
+#28	AnnotatorNotes T30	cannot
+T31	Voice 1114 1120	caused
+#29	AnnotatorNotes T31	is caused
+T32	Prepositions 1158 1166	a way of
+#30	AnnotatorNotes T32	a way to
+T33	Articles 1188 1194	damage
+#31	AnnotatorNotes T33	the damage
+T34	Spelling 1215 1218	tid
+#32	AnnotatorNotes T34	rid
+T35	Articles 1231 1237	health
+#33	AnnotatorNotes T35	the health
+T36	Punctuation 1240 1242	So
+#34	AnnotatorNotes T36	So,
+T37	Inappropriate_register 1300 1305	can’t
+#35	AnnotatorNotes T37	cannot
+T38	Prepositions 1391 1407	on the fresh air
+A3	Cause T38 L1_interference
+#36	AnnotatorNotes T38	in the fresh air
+T39	Spelling 1463 1471	calmnesy
+#37	AnnotatorNotes T39	calmness
+T40	Punctuation 1473 1481	And also
+#38	AnnotatorNotes T40	And also,
+T41	Punctuation 1513 1523	you should
+#39	AnnotatorNotes T41	, you shoud
+T42	Punctuation 1609 1618	To sum up
+#40	AnnotatorNotes T42	To sum up,
+T43	Noun_number 1635 1642	problem
+#41	AnnotatorNotes T43	problems
+T44	Agreement_errors 1655 1665	is touched
+#42	AnnotatorNotes T44	are touched
+R1	Dependent_change Arg1:T44 Arg2:T43	
+T45	Spelling 1696 1709	grand mothers
+#43	AnnotatorNotes T45	grandmothers
+T46	Redundant_comp 1710 1717	even if
+A4	Delete T46
+T47	Tense_choice 1718 1733	not using phone
+#44	AnnotatorNotes T47	did not use phones
+T48	Noun_number 1728 1733	phone
+#45	AnnotatorNotes T48	phones
+T49	Redundant_comp 1735 1740	using
+A5	Delete T49
+T50	Tense_choice 1763 1768	spent
+#46	AnnotatorNotes T50	spend
+T51	Inappropriate_register 1808 1814	that’s
+#47	AnnotatorNotes T51	that is 
+T52	Punctuation 1808 1826	that’s the problem
+#48	AnnotatorNotes T52	that is the problem,

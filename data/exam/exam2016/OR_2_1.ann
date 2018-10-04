@@ -1,0 +1,44 @@
+T1	Determiners 34 40	amount
+#1	AnnotatorNotes T1	the amount
+T2	Tense_choice 57 61	does
+#2	AnnotatorNotes T2	did
+T3	Prepositions 79 86	between
+#3	AnnotatorNotes T3	in
+T4	Agreement_errors 89 95	region
+#4	AnnotatorNotes T4	regions
+T5	Note_structure 120 133	rest of world
+#5	AnnotatorNotes T5	the rest of the world
+T6	Redundant_comp 152 157	years
+A1	Delete T6
+T7	Redundant 210 214	year
+A2	Delete T7
+T8	Punctuation 350 357	However
+#6	AnnotatorNotes T8	However,
+T9	Redundant 489 493	year
+A3	Delete T9
+T10	Punctuation 495 503	Moreover
+#7	AnnotatorNotes T10	Moreover,
+T11	Note_structure 626 639	rest of World
+#8	AnnotatorNotes T11	the rest of the world
+T12	Capitalisation 634 639	World
+#9	AnnotatorNotes T12	world
+T13	lex_item_choice 441 466	equal with the such level
+#10	AnnotatorNotes T13	the same as the level
+T14	lex_item_choice 523 531	smallest
+#11	AnnotatorNotes T14	least
+T15	lex_item_choice 648 656	smallest
+#12	AnnotatorNotes T15	lowest
+T16	lex_item_choice 201 204	and
+#13	AnnotatorNotes T16	with
+T17	Category_confusion 328 333	world
+#14	AnnotatorNotes T17	in the world
+T18	Determiners 334 348	positive trend
+#15	AnnotatorNotes T18	a positive trend
+T19	Redundant_comp 723 765	number of girls and boys without education
+A4	Delete T19
+T20	Noun_number 680 686	number
+#16	AnnotatorNotes T20	numbers
+T21	lex_item_choice 827 830	had
+#17	AnnotatorNotes T21	was
+T22	Prepositions 845 859	the same level
+#18	AnnotatorNotes T22	at the same level

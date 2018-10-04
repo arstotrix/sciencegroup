@@ -1,0 +1,114 @@
+T1	Spelling 0 7	Nowadaz
+#1	AnnotatorNotes T1	Nowadays
+T2	Often_confused 122 126	high
+#2	AnnotatorNotes T2	higher
+T3	Capitalisation 289 301	Universities
+#3	AnnotatorNotes T3	universities
+T4	Punctuation 536 537	,
+A1	Delete T4
+T5	Spelling 733 740	usefull
+#4	AnnotatorNotes T5	useful
+T6	Noun_number 911 922	equal numbe
+#5	AnnotatorNotes T6	equal numbers
+T7	Punctuation 1027 1028	,
+A2	Delete T7
+A3	Cause T7 L1_interference
+T8	Punctuation 1097 1098	,
+A4	Cause T8 Absence_of_Category_in_L1
+A5	Delete T8
+T10	Agreement_errors 1120 1123	has
+#7	AnnotatorNotes T10	have
+T11	Punctuation 1153 1154	,
+A6	Delete T11
+T12	Noun_number 1214 1221	science
+#8	AnnotatorNotes T12	sciences
+T13	Spelling 1235 1241	preder
+#9	AnnotatorNotes T13	prefer
+T14	Spelling 1255 1264	peopleand
+#10	AnnotatorNotes T14	people and
+T15	Spelling 1285 1293	subjests
+#11	AnnotatorNotes T15	subjects
+T16	Absence_comp_sent 1457 1479	The competition should
+#12	AnnotatorNotes T16	There should be a competition
+T17	Superlative_adj 1490 1499	strongest
+A7	Addition T17
+#13	AnnotatorNotes T17	the strongest
+T18	Articles 1532 1546	the university
+T19	Spelling 1561 1567	metter
+#14	AnnotatorNotes T19	matter
+T20	Tense_form 1556 1567	sn’t metter
+#15	AnnotatorNotes T20	does not
+T21	Standard 1568 1573	is it
+#16	AnnotatorNotes T21	it is
+T22	Absence_comp_sent 1555 1573	isn’t metter is it
+#17	AnnotatorNotes T22	does not matter whether it is
+T23	Standard 1629 1636	a quite
+#18	AnnotatorNotes T23	quite a
+T24	Punctuation 1616 1617	,
+A9	Cause T24 L1_interference
+A10	Delete T24
+T25	Punctuation 1659 1660	,
+A11	Cause T25 L1_interference
+A12	Delete T25
+T26	Punctuation 1673 1674	,
+A13	Cause T26 L1_interference
+A14	Delete T26
+T27	lex_item_choice 1715 1722	tryings
+#19	AnnotatorNotes T27	attempts
+T28	Often_confused 1745 1751	boards
+#20	AnnotatorNotes T28	borders
+T29	Spelling 1853 1858	sence
+#21	AnnotatorNotes T29	sense
+T30	Punctuation 120 121	,
+A15	Delete T30
+T31	Punctuation 592 597	, so,
+T32	Conjunctions 576 579	and
+#22	AnnotatorNotes T32	or
+T33	Punctuation 825 826	,
+A17	Delete T33
+T34	Noun_number 1134 1138	type
+#23	AnnotatorNotes T34	types
+T35	lex_item_choice 1368 1372	deny
+#24	AnnotatorNotes T35	reject
+T36	Articles 1583 1588	woman
+#25	AnnotatorNotes T36	a woman
+T37	lex_part_choice 1847 1852	human
+#26	AnnotatorNotes T37	common
+T38	Spelling 1836 1842	fallow
+#27	AnnotatorNotes T38	follow
+T40	Defining 706 712	, were
+T42	lex_item_choice 927 933	female
+T43	Category_confusion 1104 1108	male
+T44	Category_confusion 1113 1119	female
+#28	AnnotatorNotes T43	men
+#29	AnnotatorNotes T44	women
+#31	AnnotatorNotes T42	women
+T45	Absence_explanation 927 933	female
+#32	AnnotatorNotes T45	men and women
+#33	AnnotatorNotes T40	where
+T39	lex_part_choice 178 182	case
+#34	AnnotatorNotes T39	respect
+T46	Noun_number 223 238	an equal number
+#35	AnnotatorNotes T46	equal numbers
+T47	Determiners 254 258	each
+#36	AnnotatorNotes T47	either
+T48	Redundant_comp 262 285	, both male and female,
+A18	Delete T48
+T49	Articles 426 434	a plenty
+#37	AnnotatorNotes T49	plenty
+#38	AnnotatorNotes T31	so
+T41	lex_item_choice 1093 1097	tell
+#30	AnnotatorNotes T41	note
+T9	lex_item_choice 1142 1146	mind
+#6	AnnotatorNotes T9	thinking
+T50	Word_choice 1270 1284	not scientific
+#39	AnnotatorNotes T50	liberal arts
+T51	Ref_device 1331 1333	it
+#40	AnnotatorNotes T51	the decision to admit equal numbers
+T52	Word_choice 1441 1455	genderly equal
+#41	AnnotatorNotes T52	equal for both genders
+T53	Ref_device 1500 1504	ones
+A16	Delete T53
+#42	AnnotatorNotes T18	university
+T54	Spelling 708 712	were
+#43	AnnotatorNotes T54	where

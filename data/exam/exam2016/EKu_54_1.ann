@@ -1,0 +1,59 @@
+T1	Standard 18 35	information given
+#1	AnnotatorNotes T1	given information
+T2	Spelling 50 59	invesment
+#2	AnnotatorNotes T2	investment
+T3	Spelling 162 172	developted
+#3	AnnotatorNotes T3	developed
+T4	Inappropriate_register 187 201	a world at all
+#4	AnnotatorNotes T4	the whole world
+T5	Agreement_errors 212 215	are
+#5	AnnotatorNotes T5	is
+T6	Countable_uncountable 207 211	data
+R1	Dependent_change Arg1:T6 Arg2:T5	
+T7	Capitalisation 308 315	World's
+#6	AnnotatorNotes T7	world's
+T8	Prepositions 343 345	at
+#7	AnnotatorNotes T8	by
+T9	Tense_choice 392 400	increase
+#8	AnnotatorNotes T9	increased
+T10	lex_item_choice 506 512	rougly
+#9	AnnotatorNotes T10	rapid
+T11	Voice 554 558	were
+A1	Delete T11
+T12	Tense_choice 612 614	is
+#10	AnnotatorNotes T12	was
+T13	Pronouns 609 611	it
+#11	AnnotatorNotes T13	they
+T14	Agreement_errors 612 614	is
+#12	AnnotatorNotes T14	were
+R2	Dependent_change Arg1:T13 Arg2:T14	
+T15	Spelling 782 788	dobled
+#13	AnnotatorNotes T15	doubled
+T16	Redundant 880 882	at
+A2	Delete T16
+T17	Punctuation 904 905	/
+#14	AnnotatorNotes T17	.
+T18	Spelling 944 946	ib
+#15	AnnotatorNotes T18	in
+T19	Tense_choice 967 970	has
+#16	AnnotatorNotes T19	had
+T20	Spelling 971 980	anoughter
+#17	AnnotatorNotes T20	another
+T21	Tense_choice 994 1002	increase
+#18	AnnotatorNotes T21	increased
+T22	lex_item_choice 1195 1206	declined up
+#19	AnnotatorNotes T22	decreased up
+T23	Inappropriate_register 1350 1378	are corressponded each other
+#20	AnnotatorNotes T23	corresponded with each other
+T24	Voice 1350 1353	are
+A3	Delete T24
+T25	Spelling 1354 1367	corressponded
+#21	AnnotatorNotes T25	corresponded
+T26	Inappropriate_register 1434 1445	compared to
+#22	AnnotatorNotes T26	in comparison with
+T27	Inappropriate_register 1311 1322	total world
+#23	AnnotatorNotes T27	the world in total
+T28	Standard 1261 1274	data provided
+#24	AnnotatorNotes T28	provided data
+T29	Spelling 1427 1433	lawest
+#25	AnnotatorNotes T29	lowest

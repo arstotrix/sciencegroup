@@ -1,0 +1,100 @@
+T1	Noun_number 25 35	percentage
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	percentages
+T2	Articles 127 142	one-year period
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	a one-year period
+T3	Noun_number 78 92	qualifications
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	qualification
+T4	Articles 206 212	figure
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	the figure
+T5	Spelling 268 276	prefered
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	preferred
+T6	Absence_comp_sent 334 342	the same
+A16	Cause T6 L1_interference
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	the same thing
+T7	Redundant_comp 347 349	is
+A19	Cause T7 Other
+A20	Weight-language T7 Critical
+A21	Weight-understanding T7 Minor
+A22	Delete T7
+T8	Noun_number 408 418	percentage
+A23	Cause T8 L1_interference
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	percentages
+T9	Articles 471 488	the overall trend
+A26	Cause T9 Absence_of_Category_in_L1
+A27	Weight-language T9 Major
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	an overall trend
+T11	Noun_number 552 566	qualifications
+A32	Cause T11 Other
+A33	Weight-language T11 Minor
+A34	Weight-understanding T11 Minor
+#10	AnnotatorNotes T11	qualification
+T12	Determiners 548 566	the qualifications
+A35	Cause T12 Other
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Minor
+#11	AnnotatorNotes T12	their qualification
+T13	Tense_choice 648 655	achieve
+A38	Cause T13 Other
+A39	Weight-language T13 Major
+A40	Weight-understanding T13 Major
+#12	AnnotatorNotes T13	achieved
+T14	Noun_number 625 635	percentage
+A41	Cause T14 L1_interference
+A42	Weight-language T14 Major
+A43	Weight-understanding T14 Major
+#13	AnnotatorNotes T14	percentages
+T15	Absence_explanation 656 673	70 and 60 percent
+A44	Cause T15 Other
+A45	Weight-language T15 Major
+A46	Weight-understanding T15 Major
+#14	AnnotatorNotes T15	70 and 60 percent respectively
+T16	Punctuation 675 685	All in all
+A47	Cause T16 Other
+A48	Weight-language T16 Major
+A49	Weight-understanding T16 Minor
+#15	AnnotatorNotes T16	All in all,
+T17	Spelling 723 730	prefere
+A50	Cause T17 Typo
+A51	Weight-language T17 Major
+A52	Weight-understanding T17 Minor
+#16	AnnotatorNotes T17	prefer
+T18	Standard 853 876	not to education mostly
+A53	Cause T18 L1_interference
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Minor
+#17	AnnotatorNotes T18	mostly not to education
+T19	Redundant_comp 805 810	women
+A56	Cause T19 Other
+A57	Weight-language T19 Minor
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	them
+T20	Spelling 885 887	is
+A59	Cause T20 Typo
+A60	Weight-language T20 Critical
+A61	Weight-understanding T20 Minor
+#19	AnnotatorNotes T20	it
+T21	Punctuation 943 971	In contrast to this tendency
+A62	Cause T21 Other
+A63	Weight-language T21 Major
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	In contrast to this tendency,

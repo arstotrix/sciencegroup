@@ -1,0 +1,50 @@
+T1	lex_item_choice 7 10	any
+#1	AnnotatorNotes T1	every
+T2	Spelling 31 33	ca
+#2	AnnotatorNotes T2	can
+T3	Articles 83 90	a theme
+#3	AnnotatorNotes T3	the theme
+T4	Redundant_comp 202 206	… on
+A1	Delete T4
+T5	Redundant_comp 223 236	first regards
+A2	Delete T5
+T6	Prepositions 293 295	in
+#4	AnnotatorNotes T6	of
+T7	Prepositions 373 376	for
+#5	AnnotatorNotes T7	of
+T8	Prepositions 468 472	with
+#6	AnnotatorNotes T8	against
+T9	Articles 473 482	pollution
+#7	AnnotatorNotes T9	the pollution
+T10	Prepositions 666 668	is
+#8	AnnotatorNotes T10	in
+T11	Spelling 765 767	It
+#9	AnnotatorNotes T11	If
+T12	Tense_choice 779 786	will do
+#10	AnnotatorNotes T12	do
+T13	Absence_comp_sent 902 921	will make people to
+#11	AnnotatorNotes T13	will make people to choose
+T14	lex_item_choice 930 955	sources of transportation
+#12	AnnotatorNotes T14	means of transport
+T15	Punctuation 976 977	,
+A3	Delete T15
+T16	Agreement_errors 984 990	wastes
+#13	AnnotatorNotes T16	waste
+T17	Redundant_comp 991 1010	are also hagard for
+A4	Delete T17
+T18	lex_item_choice 1075 1081	lessen
+#14	AnnotatorNotes T18	reduce in
+T19	Tense_choice 1102 1104	is
+#15	AnnotatorNotes T19	will be
+T20	Redundant_comp 1132 1143	to consider
+A5	Delete T20
+T21	Category_confusion 1148 1159	unnecessary
+#16	AnnotatorNotes T21	necessity
+T22	Modals 1647 1651	find
+#17	AnnotatorNotes T22	should find
+T23	lex_item_choice 1689 1696	must of
+#18	AnnotatorNotes T23	for
+T24	Prepositions 1417 1419	on
+#19	AnnotatorNotes T24	of
+T25	Suffix 1295 1303	traveler
+#20	AnnotatorNotes T25	travel

@@ -1,0 +1,114 @@
+T1	Category_confusion 6 14	evidence
+#1	AnnotatorNotes T1	evident
+T2	Category_confusion 38 47	expanding
+#2	AnnotatorNotes T2	the expansion
+T5	Agreement_errors 212 223	illustrates
+#4	AnnotatorNotes T5	illustrate
+T6	Spelling 226 232	varity
+#5	AnnotatorNotes T6	variety
+T7	Articles 342 355	a weak health
+#6	AnnotatorNotes T7	weak health
+T10	Spelling 478 485	coursec
+#9	AnnotatorNotes T10	course
+T11	Prepositions 509 511	by
+#10	AnnotatorNotes T11	on 
+T16	Prepositional_adjective 648 659	addicted by
+#11	AnnotatorNotes T16	addicted to
+T17	Lack_par_constr 696 703	a drugs
+T18	Modals 708 729	can not to understand
+#12	AnnotatorNotes T18	cannot understand
+T19	Confusion_of_structures 730 749	what is real or not
+#13	AnnotatorNotes T19	if something is real or not
+T21	Spelling 906 915	problem s
+T24	Spelling 1021 1028	radiote
+T26	Spelling 1195 1202	strengh
+T27	Category_confusion 1241 1249	solve of
+T31	Spelling 1440 1450	sciencists
+T8	Redundant_comp 378 383	their
+A1	Delete T8
+T9	Redundant_comp 457 462	their
+A2	Delete T9
+T35	Articles 602 614	the people's
+#17	AnnotatorNotes T35	people's
+T36	lex_item_choice 615 632	psychology system
+#18	AnnotatorNotes T36	psyche
+#19	AnnotatorNotes T21	problems
+T15	Spelling 984 988	site
+#20	AnnotatorNotes T15	sit
+#21	AnnotatorNotes T17	to drugs
+#22	AnnotatorNotes T24	radioactive
+#23	AnnotatorNotes T26	strengthen
+#24	AnnotatorNotes T27	solution to
+#26	AnnotatorNotes T31	scientists
+T22	lex_item_choice 754 760	caused
+T34	Articles 766 776	the people
+#27	AnnotatorNotes T34	people
+T37	Articles 834 846	fantasy game
+#28	AnnotatorNotes T37	a fantasy game
+T38	Articles 994 1017	the different computers
+#29	AnnotatorNotes T38	different computers
+T39	Prepositional_noun 1241 1249	solve of
+#30	AnnotatorNotes T39	solution to
+T40	Redundant_comp 1267 1276	that only
+A4	Delete T40
+T23	Tense_choice 1495 1504	will find
+#32	AnnotatorNotes T23	find
+T29	Articles 1665 1671	nation
+#34	AnnotatorNotes T29	the nation
+T32	Noun_number 1029 1039	instrument
+#35	AnnotatorNotes T32	instruments
+T33	Redundant_comp 936 940	with
+A6	Delete T33
+T42	lex_part_choice 415 424	clean air
+#36	AnnotatorNotes T42	the open air
+T43	Spelling 579 591	technologyes
+#37	AnnotatorNotes T43	technology's
+T45	Spelling 708 715	can not
+#39	AnnotatorNotes T45	cannot
+T46	lex_item_choice 552 560	evidence
+T47	Lack_par_constr 487 493	to buy
+#40	AnnotatorNotes T47	buy
+T48	Lack_par_constr 526 533	to take
+T12	Tense_form 1351 1354	use
+#7	AnnotatorNotes T12	used
+#3	AnnotatorNotes T46	activities online
+T13	Transitive 592 601	impact on
+T28	Agreement_errors 1250 1263	this problems
+#15	AnnotatorNotes T28	these
+T49	Defining 1514 1521	, which
+#31	AnnotatorNotes T49	which 
+T50	Spelling 1527 1536	strenghen
+#41	AnnotatorNotes T50	strengthen
+T51	Punctuation 1569 1572	and
+#42	AnnotatorNotes T51	, and
+T52	Punctuation 1582 1591	abilities
+#43	AnnotatorNotes T52	abilities.
+T25	Redundant_comp 1662 1664	to
+A5	Delete T25
+T53	Punctuation 1704 1705	,
+A8	Delete T53
+T58	Absence_explanation 552 560	evidence
+#46	AnnotatorNotes T58	activities online
+#47	AnnotatorNotes T13	impact 
+#38	AnnotatorNotes T22	leads to the fact
+T14	Attr_participial 812 846	, thinking that it is fantasy game
+#8	AnnotatorNotes T14	thinking that it is a fantasy game
+T44	Category_confusion 1195 1202	strengh
+#48	AnnotatorNotes T44	strengthen
+T61	Word_choice 1355 1364	limitedly
+#49	AnnotatorNotes T61	in moderation
+T62	Absence_comp_sent 1384 1428	will help to reduce the problems with health
+#50	AnnotatorNotes T62	: this will help to reduce the problems with health
+T41	Prepositions 187 189	of
+T54	lex_item_choice 182 186	rise
+#25	AnnotatorNotes T54	increase
+T55	Absence_comp_sent 468 470	by
+#33	AnnotatorNotes T55	by taking
+T3	Transitive 169 177	cause to
+#16	AnnotatorNotes T3	cause
+T4	Prepositions 1727 1729	as
+#44	AnnotatorNotes T4	of
+T30	Absence_comp_sent 1706 1738	using different ways as teaching
+#45	AnnotatorNotes T30	by using different ways of teaching 
+#14	AnnotatorNotes T41	in
+R1	Dependent_change Arg1:T54 Arg2:T41	

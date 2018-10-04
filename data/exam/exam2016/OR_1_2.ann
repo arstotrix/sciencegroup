@@ -1,0 +1,94 @@
+T1	Spelling 48 59	contemprory
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	contemporary
+T2	Agreement_errors 878 880	is
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	are
+T3	Punctuation 192 193	,
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+A10	Delete T3
+T4	Redundant_comp 292 324	dozens of thousands of airplanes
+A11	Cause T4 Other
+A12	Weight-language T4 Major
+A13	Weight-understanding T4 Minor
+#3	AnnotatorNotes T4	thaosands of airplanes
+T5	Punctuation 265 266	,
+A14	Cause T5 Other
+A15	Weight-language T5 Major
+A16	Weight-understanding T5 Minor
+A17	Delete T5
+T6	lex_item_choice 332 339	lift up
+A18	Cause T6 L1_interference
+A19	Weight-language T6 Major
+A20	Weight-understanding T6 Major
+#4	AnnotatorNotes T6	take off
+T7	lex_item_choice 344 352	set down
+A21	Cause T7 Other
+A22	Weight-language T7 Major
+A23	Weight-understanding T7 Major
+#5	AnnotatorNotes T7	land
+T8	Comparative_adj 473 478	heavy
+A24	Cause T8 Other
+A25	Weight-language T8 Major
+A26	Weight-understanding T8 Minor
+#6	AnnotatorNotes T8	heavier
+T9	Spelling 520 524	tome
+A27	Cause T9 Typo
+A28	Weight-language T9 Minor
+A29	Weight-understanding T9 Major
+#7	AnnotatorNotes T9	time
+T10	Punctuation 600 601	,
+A30	Cause T10 Other
+A31	Weight-language T10 Major
+A32	Weight-understanding T10 Minor
+A33	Delete T10
+T11	Punctuation 800 801	,
+A34	Cause T11 Other
+A35	Weight-language T11 Minor
+A36	Weight-understanding T11 Minor
+A37	Delete T11
+T12	Punctuation 822 823	,
+A38	Cause T12 Other
+A39	Weight-language T12 Minor
+A40	Weight-understanding T12 Minor
+A41	Delete T12
+T13	Punctuation 1009 1010	,
+A42	Cause T13 Other
+A43	Weight-language T13 Minor
+A44	Weight-understanding T13 Minor
+A45	Delete T13
+T14	Absence_explanation 1115 1127	make it work
+A46	Cause T14 Other
+A47	Weight-language T14 Minor
+A48	Weight-understanding T14 Minor
+T15	Compound_word 1354 1363	air plane
+A49	Cause T15 Other
+A50	Weight-language T15 Minor
+A51	Weight-understanding T15 Minor
+#8	AnnotatorNotes T15	airplane
+T16	Articles 1350 1363	the air plane
+A52	Cause T16 Absence_of_Category_in_L1
+A53	Weight-language T16 Minor
+A54	Weight-understanding T16 Minor
+#9	AnnotatorNotes T16	an airplane
+T17	lex_item_choice 1461 1467	anyhow
+A55	Cause T17 Other
+A56	Weight-language T17 Minor
+A57	Weight-understanding T17 Minor
+#10	AnnotatorNotes T17	at all
+T18	Punctuation 1511 1512	,
+A58	Cause T18 Other
+A59	Weight-language T18 Minor
+A60	Weight-understanding T18 Minor
+A61	Delete T18
+T19	Punctuation 1649 1650	,
+A62	Cause T19 L1_interference
+A63	Weight-language T19 Minor
+A64	Weight-understanding T19 Minor
+A65	Delete T19

@@ -1,0 +1,80 @@
+T1	Inappropriate_register 4 9	can’t
+#1	AnnotatorNotes T1	cannot
+T2	Noun_number 20 30	technology
+#2	AnnotatorNotes T2	technologies
+T3	Agreement_errors 31 34	has
+#3	AnnotatorNotes T3	have
+T4	Ref_device 103 105	It
+#4	AnnotatorNotes T4	They
+T5	Agreement_errors 106 109	has
+#5	AnnotatorNotes T5	have
+T6	lex_item_choice 120 129	essential
+#6	AnnotatorNotes T6	important
+T7	Inappropriate_register 162 167	can’t
+#7	AnnotatorNotes T7	cannot
+T8	Conjunctions 177 179	of
+#8	AnnotatorNotes T8	and
+T9	Absence_explanation 245 254	downsides
+#9	AnnotatorNotes T9	some downsides
+T10	Prepositions 255 260	to us
+#10	AnnotatorNotes T10	for us
+T11	Prepositions 261 266	using
+#11	AnnotatorNotes T11	of using
+T12	lex_item_choice 267 269	so
+#12	AnnotatorNotes T12	too
+T13	Ref_device 278 280	it
+#13	AnnotatorNotes T13	them
+T14	lex_item_choice 335 344	attention
+#14	AnnotatorNotes T14	mind
+T15	Noun_number 370 380	technology
+#15	AnnotatorNotes T15	technologies
+T16	Ref_device 389 391	it
+#16	AnnotatorNotes T16	they
+T17	Ref_device 451 456	those
+#17	AnnotatorNotes T17	these
+T18	Tense_choice 466 479	is increasing
+#18	AnnotatorNotes T18	increases
+T19	lex_item_choice 521 527	nature
+#19	AnnotatorNotes T19	materials
+T20	Punctuation 598 601	and
+#20	AnnotatorNotes T20	, and
+T21	Conjunctions 607 617	because of
+#21	AnnotatorNotes T21	when
+T22	Tense_choice 625 632	staring
+#22	AnnotatorNotes T22	stare
+T23	Tense_choice 672 684	have started
+#23	AnnotatorNotes T23	start
+T25	Spelling 714 720	fasted
+#25	AnnotatorNotes T25	faster
+T26	lex_item_choice 819 826	Another
+#26	AnnotatorNotes T26	The other
+T27	Spelling 876 882	slauch
+#27	AnnotatorNotes T27	slouch
+T28	Punctuation 927 932	which
+#28	AnnotatorNotes T28	, which
+T29	lex_item_choice 940 947	posture
+#29	AnnotatorNotes T29	back
+T30	Articles 1159 1167	computer
+#30	AnnotatorNotes T30	a computer
+T31	Inappropriate_register 1394 1399	won’t
+#31	AnnotatorNotes T31	will not
+T24	Noun_number 1476 1486	technology
+#24	AnnotatorNotes T24	technologies
+T32	Agreement_errors 1487 1493	causes
+#32	AnnotatorNotes T32	cause
+R1	Dependent_change Arg1:T32 Arg2:T24	
+T33	Punctuation 1509 1517	although
+#33	AnnotatorNotes T33	although,
+T34	Noun_number 1569 1579	technology
+#34	AnnotatorNotes T34	technologies
+T35	Inappropriate_register 1632 1639	doesn’t
+#35	AnnotatorNotes T35	does not
+T36	Inappropriate_register 1653 1658	can’t
+#36	AnnotatorNotes T36	cannot 
+T37	Ref_device 1682 1684	it
+#37	AnnotatorNotes T37	they
+T38	Agreement_errors 1685 1691	causes
+#38	AnnotatorNotes T38	cause
+R2	Dependent_change Arg1:T38 Arg2:T37	
+T39	lex_item_choice 1757 1770	make the most
+#39	AnnotatorNotes T39	take the best

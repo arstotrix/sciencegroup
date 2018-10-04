@@ -1,0 +1,23 @@
+T1	Agreement_errors 47 57	investment
+#1	AnnotatorNotes T1	investments 
+T2	Punctuation 325 329	what
+#2	AnnotatorNotes T2	, what 
+T3	Absence_comp_sent 448 451	214
+#3	AnnotatorNotes T3	214 billion of dollars 
+T4	Agreement_errors 573 583	investment
+#4	AnnotatorNotes T4	investments 
+T5	Agreement_errors 584 587	was
+#5	AnnotatorNotes T5	were
+R1	Dependent_change Arg1:T4 Arg2:T5	
+T6	Agreement_errors 698 708	investment
+#6	AnnotatorNotes T6	investments
+T7	Agreement_errors 729 732	was
+#7	AnnotatorNotes T7	were
+R2	Dependent_change Arg1:T6 Arg2:T7	
+T8	Agreement_errors 836 846	investment
+#8	AnnotatorNotes T8	investments 
+T9	Agreement_errors 930 940	investment
+#9	AnnotatorNotes T9	investments 
+T10	Agreement_errors 941 944	was
+#10	AnnotatorNotes T10	were
+R3	Dependent_change Arg1:T9 Arg2:T10	

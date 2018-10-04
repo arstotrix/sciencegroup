@@ -1,0 +1,53 @@
+T1	Absence_comp_colloc 62 66	such
+#1	AnnotatorNotes T1	such as
+T3	lex_item_choice 156 168	to make true
+#3	AnnotatorNotes T3	to express
+T4	Redundant_comp 169 176	in life
+A1	Delete T4
+T5	Spelling 270 277	can not
+#5	AnnotatorNotes T5	cannot
+T6	Spelling 372 382	wonderfull
+T7	Absence_comp_colloc 494 498	such
+#6	AnnotatorNotes T7	such as
+T9	Tense_choice 517 528	has painted
+#8	AnnotatorNotes T9	 painted
+T11	Spelling 801 812	conteporary
+#10	AnnotatorNotes T11	contemporary
+T12	Tense_choice 873 879	leaves
+#11	AnnotatorNotes T12	 left
+T13	Articles 943 953	government
+#12	AnnotatorNotes T13	the government
+T14	Articles 236 246	government
+#13	AnnotatorNotes T14	the government
+T15	lex_part_choice 1050 1064	have a measure
+#14	AnnotatorNotes T15	be in good measure
+T17	Spelling 1119 1129	influensed
+#16	AnnotatorNotes T17	influenced
+T18	Voice 408 413	value
+#17	AnnotatorNotes T18	be valued
+T19	Modals 733 739	become
+#18	AnnotatorNotes T19	could become 
+T20	Modals 403 407	will
+#19	AnnotatorNotes T20	may
+T10	Agreement_errors 1040 1042	do
+#9	AnnotatorNotes T10	does
+T2	Absence_comp_sent 233 235	by
+#2	AnnotatorNotes T2	imposed by
+T21	Intransitive 408 413	value
+T22	lex_item_choice 445 449	like
+#4	AnnotatorNotes T22	just as
+T8	suggestion 586 589	him
+#7	AnnotatorNotes T8	them
+T23	suggestion 594 597	his
+#20	AnnotatorNotes T23	their
+R1	Dependent_change Arg1:T8 Arg2:T23	
+T24	Ref_device 586 589	him
+#21	AnnotatorNotes T24	them
+T25	lex_item_choice 652 657	which
+#22	AnnotatorNotes T25	who
+T26	Articles 1033 1039	artist
+#23	AnnotatorNotes T26	an artist
+T27	Absence_explanation 1050 1064	have a measure
+T16	Absence_comp_colloc 1159 1167	progress
+#15	AnnotatorNotes T16	make any progress
+#24	AnnotatorNotes T21	be valued

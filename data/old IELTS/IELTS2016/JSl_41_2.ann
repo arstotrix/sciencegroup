@@ -1,0 +1,30 @@
+T1	Agreement_errors 6 9	are
+#1	AnnotatorNotes T1	is
+T2	Articles 10 28	widespread opinion
+#2	AnnotatorNotes T2	a widespread opinion
+T3	Articles 35 48	repercussions
+#3	AnnotatorNotes T3	the reprecussions
+T4	Redundant_comp 381 384	too
+A1	Delete T4
+T5	Punctuation 396 408	First of all
+#4	AnnotatorNotes T5	First of all,
+T6	Noun_number 482 494	businessmans
+#5	AnnotatorNotes T6	businessmen
+T7	Category_confusion 532 541	technique
+#6	AnnotatorNotes T7	technology
+T8	Determiners 646 648	It
+#7	AnnotatorNotes T8	There
+T9	Category_confusion 709 715	flying
+#8	AnnotatorNotes T9	fly
+T10	Often_confused 1170 1175	raise
+#9	AnnotatorNotes T10	rise
+T11	Punctuation 1200 1230	which depends on tickets costs
+#10	AnnotatorNotes T11	,which depends on tickets costs
+T12	Redundant_comp 1319 1328	of planes
+A2	Delete T12
+T13	Redundant_comp 1361 1363	to
+A3	Delete T13
+T14	Suffix 1463 1474	environment
+#11	AnnotatorNotes T14	environmnetal
+T15	Agreement_errors 1636 1641	wants
+#12	AnnotatorNotes T15	want

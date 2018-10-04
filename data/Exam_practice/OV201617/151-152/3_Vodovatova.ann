@@ -1,0 +1,54 @@
+T1	Prepositions 135 137	on
+#1	AnnotatorNotes T1	at
+T2	lex_part_choice 203 215	comparing to
+#2	AnnotatorNotes T2	if compared with
+T3	Numerals 216 229	the 2012 year
+#3	AnnotatorNotes T3	2012 OR the year 2012
+T4	lex_item_choice 258 264	amount
+T6	Punctuation 248 298	where the amount of students passing it was equal,
+T7	Punctuation 320 321	,
+#4	AnnotatorNotes T7	:
+T8	Prepositions 437 441	from
+T9	Punctuation 446 458	“Humanities”
+#5	AnnotatorNotes T9	Humanities
+T10	Punctuation 470 473	and
+#6	AnnotatorNotes T10	:
+T11	lex_item_choice 532 538	amount
+T12	Prepositions 564 568	with
+#7	AnnotatorNotes T12	in
+T13	Tense_choice 637 639	is
+T14	suggestion 640 648	received
+A1	Delete T14
+T15	Punctuation 671 672	,
+#8	AnnotatorNotes T15	, as
+T16	Redundant_comp 793 818	the “Business” discipline
+#9	AnnotatorNotes T16	Business
+T17	Prepositions 862 866	with
+T18	Punctuation 871 878	however
+#10	AnnotatorNotes T18	however,
+T19	Tense_choice 978 987	has grown
+#11	AnnotatorNotes T6	where the amount of students passing it was equal
+T20	Spelling 303 320	“Health Sciences”
+#12	AnnotatorNotes T20	Health Sciences
+#13	AnnotatorNotes T8	in
+T21	Redundant_comp 459 469	discipline
+T22	suggestion 470 473	and
+A2	Delete T22
+#14	AnnotatorNotes T13	was
+T23	Prepositions 649 652	for
+#15	AnnotatorNotes T23	in
+T24	Tense_choice 692 694	is
+#16	AnnotatorNotes T24	was
+T25	Tense_choice 747 749	is
+#17	AnnotatorNotes T25	was
+T26	Spelling 653 671	“Computer Science”
+#18	AnnotatorNotes T26	Computer Science
+T27	Spelling 797 807	“Business”
+#19	AnnotatorNotes T27	Business
+#20	AnnotatorNotes T17	in
+T28	Absence_comp_sent 891 897	number
+#21	AnnotatorNotes T28	percentage number
+#22	AnnotatorNotes T19	had grown
+T29	Absence_explanation 926 995	This chart demonstrates that the level of education has grown rapidly
+#23	AnnotatorNotes T29	This chart demonstrates that the level of education has grown rapidly over the five years by 2012
+#24	AnnotatorNotes T4	number

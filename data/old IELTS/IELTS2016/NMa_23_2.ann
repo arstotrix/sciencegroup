@@ -1,0 +1,42 @@
+T1	Spelling 1523 1533	passaegers
+#1	AnnotatorNotes T1	passengers
+T2	Category_confusion 1283 1290	develop
+#2	AnnotatorNotes T2	developed
+T3	suggestion 1267 1282	connect between
+#3	AnnotatorNotes T3	connect
+T4	Prepositional_verb 1182 1198	pay attention on
+#4	AnnotatorNotes T4	pay attention to
+T5	Spelling 1097 1106	Althought
+#5	AnnotatorNotes T5	Although
+T6	Spelling 927 929	Ot
+#6	AnnotatorNotes T6	Of
+T7	Often_confused 841 845	that
+#7	AnnotatorNotes T7	than
+T8	Agreement_errors 739 742	let
+#8	AnnotatorNotes T8	lets
+T9	Redundant 746 751	to go
+#9	AnnotatorNotes T9	go
+T10	Category_confusion 583 593	government
+#10	AnnotatorNotes T10	governmental
+T11	Spelling 466 474	throught
+A1	Cause T11 Typo
+#11	AnnotatorNotes T11	through
+T12	Spelling 187 193	decree
+A2	Cause T12 Typo
+#12	AnnotatorNotes T12	agree
+T13	Spelling 124 137	signiticantly
+A3	Cause T13 Typo
+#13	AnnotatorNotes T13	significantly
+T14	Articles 42 59	steadily increase
+#14	AnnotatorNotes T14	a steady increase
+T15	lex_item_choice 42 50	steadily
+#15	AnnotatorNotes T15	steady
+T16	lex_item_choice 63 68	using
+#16	AnnotatorNotes T16	usage
+T17	lex_part_choice 51 62	increase of
+#17	AnnotatorNotes T17	increase in
+T18	Redundant 739 742	let
+#18	AnnotatorNotes T18	let
+R1	Dependent_change Arg1:T18 Arg2:T9	
+T19	note 1743 1747	tuar
+#19	AnnotatorNotes T19	?

@@ -1,0 +1,45 @@
+T1	Word_choice 329 341	presented by
+T3	Absence_comp_colloc 834 924	Sweden elder population rises from 13 percent to 25 in 2040 with a small pause in between.
+T2	Articles 1035 1049	a sharp growth
+#1	AnnotatorNotes T2	the sharp growth
+T4	Category_confusion 992 997	elder
+#2	AnnotatorNotes T4	elderly
+T5	Lack_par_constr 561 570	increased
+#3	AnnotatorNotes T5	increasing
+T6	Spelling 653 655	tp
+#4	AnnotatorNotes T6	to
+T7	Category_confusion 673 678	elder
+#5	AnnotatorNotes T7	elderly
+T8	Redundant_comp 108 113	taken
+A1	Delete T8
+#6	AnnotatorNotes T1	demonstrated by
+T10	Comparative_constr 296 310	most unsimilar
+#7	AnnotatorNotes T10	least similar
+T11	Standard 292 325	The most unsimilar line to others
+#8	AnnotatorNotes T11	The line least similar to the others
+T12	Ref_device 319 325	others
+#9	AnnotatorNotes T12	the others
+T13	Spelling 366 370	tall
+#10	AnnotatorNotes T13	fall
+T14	Category_confusion 485 490	elder
+#11	AnnotatorNotes T14	elderly
+T15	lex_item_choice 554 560	fastly
+#12	AnnotatorNotes T15	sharply
+T16	Category_confusion 666 672	Sweden
+#13	AnnotatorNotes T16	Swedish
+T17	Word_choice 688 691	are
+#14	AnnotatorNotes T17	reach a level
+T18	Comparative_constr 702 706	less
+#15	AnnotatorNotes T18	lower
+T19	Absence_explanation 811 823	its increase
+#16	AnnotatorNotes T19	its increase later
+T20	Word_choice 743 757	interrupted by
+#17	AnnotatorNotes T20	turning into
+T21	Coherence 1031 1034	and
+#18	AnnotatorNotes T21	contrary to
+T22	Absence_explanation 978 988	percentage
+#19	AnnotatorNotes T22	stable growth in the percentage
+T9	Redundant 254 259	years
+A2	Cause T20 L1_interference
+T23	Word_choice 642 649	growing
+#20	AnnotatorNotes T23	going 

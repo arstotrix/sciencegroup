@@ -1,0 +1,29 @@
+T1	Prepositions 21 23	on
+#1	AnnotatorNotes T1	in
+T2	Category_confusion 202 207	enter
+#2	AnnotatorNotes T2	entrance
+T3	Redundant_comp 313 320	all the
+A1	Delete T3
+T4	Word_choice 420 424	push
+#3	AnnotatorNotes T4	apply pressure on
+T5	Redundant_comp 432 439	, saved
+A2	Delete T5
+T6	lex_item_choice 519 526	leaving
+#4	AnnotatorNotes T6	escaping
+T7	Spelling 566 568	th
+#5	AnnotatorNotes T7	the
+T8	Coherence 720 729	backwards
+#6	AnnotatorNotes T8	once again
+T9	Spelling 736 740	that
+#7	AnnotatorNotes T9	way
+T10	Articles 741 748	turbine
+#8	AnnotatorNotes T10	the turbine
+T11	Standard 853 863	may be not
+#9	AnnotatorNotes T11	may not be
+T12	Superlative_adj 912 923	most simple
+#10	AnnotatorNotes T12	simplest
+T13	Superlative_adj 928 932	safe
+#11	AnnotatorNotes T13	safest
+R1	Parallel_construction Arg1:T12 Arg2:T13	
+T14	suggestion 960 961	.
+#12	AnnotatorNotes T14	8

@@ -1,0 +1,83 @@
+T1	lex_item_choice 72 85	because of it
+A1	Cause T1 L1_interference
+#1	AnnotatorNotes T1	therefore
+T2	Spelling 245 254	bahaviour
+A2	Cause T2 Typo
+#2	AnnotatorNotes T2	behaviour
+T3	lex_item_choice 314 325	bringing up
+A3	Cause T3 L1_interference
+#3	AnnotatorNotes T3	education
+T4	lex_item_choice 455 465	looking at
+A4	Cause T4 L1_interference
+#4	AnnotatorNotes T4	following
+T5	Determiners 466 470	some
+A5	Cause T5 Absence_of_Category_in_L1
+#5	AnnotatorNotes T5	any
+T6	Noun_number 351 357	family
+A6	Cause T6 Other
+#6	AnnotatorNotes T6	families
+T7	Prepositions 548 550	of
+A7	Cause T7 L1_interference
+#7	AnnotatorNotes T7	for
+T8	Articles 551 559	problems
+A8	Cause T8 Absence_of_Category_in_L1
+#8	AnnotatorNotes T8	the problems
+T9	Emphatic 682 717	for him or for her, it is difficult
+A9	Cause T9 L1_interference
+#9	AnnotatorNotes T9	it is difficult for her
+T10	Punctuation 700 701	,
+A10	Delete T10
+T11	Pronouns 682 700	for him or for her
+#10	AnnotatorNotes T11	for her
+T12	Articles 638 639	A
+A11	Cause T12 Absence_of_Category_in_L1
+#11	AnnotatorNotes T12	The
+T13	Punctuation 865 866	,
+A12	Delete T13
+T14	Inappropriate_register 834 846	the cause of
+A13	Cause T14 L1_interference
+A14	Delete T14
+T15	Inappropriate_register 867 873	can be
+A15	Cause T15 L1_interference
+#12	AnnotatorNotes T15	can be caused by 
+T16	Articles 931 932	a
+A16	Cause T16 Absence_of_Category_in_L1
+#13	AnnotatorNotes T16	the
+T17	Pronouns 976 986	his or her
+#14	AnnotatorNotes T17	her
+T18	Articles 1023 1024	a
+A17	Cause T18 Absence_of_Category_in_L1
+#15	AnnotatorNotes T18	the
+T19	Spelling 1107 1116	feeliings
+A18	Cause T19 Typo
+#16	AnnotatorNotes T19	feelings
+T20	Inappropriate_register 1242 1251	can cause
+A19	Cause T20 L1_interference
+#17	AnnotatorNotes T20	can be the cause of
+T21	lex_item_choice 1329 1336	decided
+A20	Cause T21 L1_interference
+#18	AnnotatorNotes T21	solved
+T22	lex_item_choice 1414 1424	understand
+A21	Cause T22 L1_interference
+#19	AnnotatorNotes T22	reveal 
+T23	Articles 1464 1470	person
+A22	Cause T23 Absence_of_Category_in_L1
+#20	AnnotatorNotes T23	the person
+T24	Articles 1566 1572	future
+A23	Cause T24 Absence_of_Category_in_L1
+#21	AnnotatorNotes T24	the future
+T25	Noun_number 1607 1613	causes
+A24	Cause T25 L1_interference
+#22	AnnotatorNotes T25	cause
+T26	Suffix 1624 1631	actives
+A25	Cause T26 Other
+#23	AnnotatorNotes T26	actions
+T27	Inappropriate_register 1673 1683	isn’t good
+A26	Cause T27 L1_interference
+#24	AnnotatorNotes T27	behaves badly
+T28	Category_confusion 659 662	bad
+A27	Cause T28 Other
+#25	AnnotatorNotes T28	badly
+T29	Category_confusion 666 673	illegal
+A28	Cause T29 Other
+#26	AnnotatorNotes T29	illegally

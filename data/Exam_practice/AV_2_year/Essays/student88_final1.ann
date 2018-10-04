@@ -1,0 +1,71 @@
+T1	lex_item_choice 191 201	translated
+A1	Cause T1 L1_interference
+#1	AnnotatorNotes T1	covered OR broadcast
+T2	Spelling 253 256	The
+#2	AnnotatorNotes T2	the
+T3	Absence_explanation 272 288	football matches
+#3	AnnotatorNotes T3	international football matches OR international matches
+T4	note 272 288	football matches
+#4	AnnotatorNotes T4	as opposed to "local competitions"
+T5	lex_item_choice 313 325	Translations
+A2	Cause T5 L1_interference
+#5	AnnotatorNotes T5	Coverage
+T6	Agreement_errors 313 369	Translations on TV make sport more popular and encourage
+#6	AnnotatorNotes T6	Coverage on TV makes sport more popular and encourages
+T7	Spelling 529 543	coach potatoes
+#7	AnnotatorNotes T7	couch potatoes
+T8	note 500 505	chips
+#8	AnnotatorNotes T8	crisps (in British English)
+T9	lex_item_choice 560 569	sportsmen
+#9	AnnotatorNotes T9	athletes
+T10	Category_confusion 604 613	trainings
+#10	AnnotatorNotes T10	training sessions OR workouts
+T11	lex_item_choice 619 632	too much time
+#11	AnnotatorNotes T11	too long
+T12	note 604 618	trainings take
+#12	AnnotatorNotes T12	Alternatively, you could say "training takes"
+T13	Verb_Inf 642 659	prefer just enjoy
+#13	AnnotatorNotes T13	prefer just to enjoy
+T14	Redundant_comp 729 752	more useful rather than
+#14	AnnotatorNotes T14	useful rather than harmful
+T15	lex_item_choice 800 809	sportsmen
+#15	AnnotatorNotes T15	athletes
+T16	Absence_comp_sent 878 893	train willpower
+#16	AnnotatorNotes T16	train their willpower
+T17	lex_item_choice 941 950	knowledge
+#17	AnnotatorNotes T17	awareness
+T18	lex_item_choice 912 920	leads to
+#18	AnnotatorNotes T18	results in
+T19	Tense_choice 1002 1014	are watching
+#19	AnnotatorNotes T19	watch
+T20	Ref_device 1076 1081	their
+#20	AnnotatorNotes T20	a (new) hobby
+T21	lex_item_choice 1116 1124	features
+#21	AnnotatorNotes T21	condition
+T22	lex_item_choice 1088 1100	according to
+#22	AnnotatorNotes T22	in accordance with
+T23	note 560 569	sportsmen
+#23	AnnotatorNotes T23	both men and women
+T24	Agreement_errors 1182 1184	go
+#24	AnnotatorNotes T24	goes
+T25	Agreement_errors 1205 1207	do
+#25	AnnotatorNotes T25	does
+T26	Coherence 1208 1212	some
+A3	Delete T26
+T27	note 1208 1212	some
+#26	AnnotatorNotes T27	general context
+T28	lex_item_choice 1301 1313	translations
+A4	Cause T28 L1_interference
+#27	AnnotatorNotes T28	coverage
+T29	Articles 1327 1345	double-edged sword
+#28	AnnotatorNotes T29	a double-edged sword
+T30	Ref_device 1375 1388	they motivate
+#29	AnnotatorNotes T30	it motivates
+T31	Punctuation 1432 1440	Moreover
+T32	Linking_device 1524 1528	Also
+#31	AnnotatorNotes T32	In addition,
+T33	note 1601 1602	.
+#32	AnnotatorNotes T33	I would put this last sentence among the arguments before the final conclusion ("To sum up"). If you make a conclusion, the previous sentence serves the purpose better.on
+A5	Delete T31
+T34	note 1432 1440	Moreover
+#30	AnnotatorNotes T34	You seem to make a new point rather than develop the idea of the previous sentence.

@@ -1,0 +1,83 @@
+T1	lex_part_choice 21 98	a number of people after 65 years old in percentage from number of all people
+T5	lex_item_choice 937 947	indicators
+T6	Articles 676 687	slight fall
+#1	AnnotatorNotes T6	a slight fall
+T7	Articles 697 707	sharp rise
+#2	AnnotatorNotes T7	a sharp rise
+T8	lex_item_choice 841 845	aged
+#3	AnnotatorNotes T8	elderly
+T9	Articles 173 176	USA
+#4	AnnotatorNotes T9	the USA
+T11	Tense_choice 639 653	was increasing
+#6	AnnotatorNotes T11	increased
+T12	Spelling 119 126	devided
+#7	AnnotatorNotes T12	divided
+T13	Absence_comp_sent 1019 1048	it can be seen from the graph
+#8	AnnotatorNotes T13	it can be seen from the graph that
+T14	lex_item_choice 115 129	are devided on
+#9	AnnotatorNotes T14	give
+T15	Agreement_errors 182 187	shows
+#10	AnnotatorNotes T15	show
+T16	Category_confusion 324 332	slightly
+#11	AnnotatorNotes T16	slight
+T17	Articles 324 341	slightly decrease
+#12	AnnotatorNotes T17	a slight decrease
+T4	Tense_choice 1088 1096	increase
+#14	AnnotatorNotes T4	is increasing
+T19	Articles 144 153	countries
+#15	AnnotatorNotes T19	for the three countries
+T20	Category_confusion 373 383	a constant
+#16	AnnotatorNotes T20	constant
+T10	lex_item_choice 414 420	become
+#5	AnnotatorNotes T10	began
+T18	Articles 456 461	graph
+#13	AnnotatorNotes T18	the graph
+T21	Redundant_comp 1112 1122	the number
+T22	Punctuation 443 461	According to graph
+#18	AnnotatorNotes T22	According to the graph,
+T24	Spelling 692 696	than
+#20	AnnotatorNotes T24	then
+T25	Articles 21 29	a number
+#21	AnnotatorNotes T25	the percentage
+#22	AnnotatorNotes T1	the percentage of people 65 years old and over
+T2	Coherence 130 153	3 groups with countries
+#19	AnnotatorNotes T2	for the three countries
+T23	Spelling 130 131	3
+#23	AnnotatorNotes T23	three
+T27	Punctuation 153 154	:
+#24	AnnotatorNotes T27	 - 
+T28	Prepositions 270 274	from
+#25	AnnotatorNotes T28	in
+T29	Noun_attribute 349 354	years
+#26	AnnotatorNotes T29	years'
+T30	Prepositions 384 397	next 20 years
+#27	AnnotatorNotes T30	over the next
+T31	Absence_comp_sent 506 516	will go up
+#28	AnnotatorNotes T31	the percentage will go up
+T32	lex_item_choice 559 565	number
+#29	AnnotatorNotes T32	portion
+T33	Absence_explanation 569 575	people
+#30	AnnotatorNotes T33	elderly people
+T36	Absence_comp_colloc 632 638	number
+#31	AnnotatorNotes T36	percentage number
+T38	Absence_comp_colloc 763 770	numbers
+#32	AnnotatorNotes T38	percentage number
+T39	Noun_number 763 770	numbers
+#33	AnnotatorNotes T39	percentage number
+#35	AnnotatorNotes T5	figures
+T43	Absence_comp_sent 975 984	will rise
+#36	AnnotatorNotes T43	they will rise
+T3	Tense_choice 414 420	become
+#17	AnnotatorNotes T3	began
+T26	Numerals 830 852	10 percent aged people
+#37	AnnotatorNotes T26	10 percent of elderly people
+T34	Comparative_adj 900 904	more
+#34	AnnotatorNotes T34	higher
+T35	Punctuation 1048 1049	,
+A1	Delete T35
+A2	Delete T21
+T37	Prepositions 1141 1143	to
+#38	AnnotatorNotes T37	in
+T40	Spelling 203 211	100 year
+#39	AnnotatorNotes T40	100-year 
+A3	Cause T1 L1_interference

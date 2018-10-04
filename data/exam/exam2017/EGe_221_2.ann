@@ -1,0 +1,33 @@
+T1	lex_item_choice 123 129	create
+#1	AnnotatorNotes T1	make up
+T2	Spelling 218 222	worh
+#2	AnnotatorNotes T2	worth
+T3	Capitalisation 311 319	Humanity
+#3	AnnotatorNotes T3	humanity
+T4	Spelling 438 443	crush
+#4	AnnotatorNotes T4	crash
+T5	Category_confusion 481 485	live
+#5	AnnotatorNotes T5	living
+T6	Prepositions 477 480	the
+#6	AnnotatorNotes T6	of
+T7	Agreement_errors 588 594	create
+#7	AnnotatorNotes T7	creates
+T8	Agreement_errors 585 587	it
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Agreement_errors 613 620	control
+#8	AnnotatorNotes T9	controls
+R2	Dependent_change Arg1:T9 Arg2:T8	
+T10	lex_item_choice 837 842	hired
+#9	AnnotatorNotes T10	fired
+T11	Articles 911 914	the
+A1	Delete T11
+T12	Spelling 1018 1023	creat
+#10	AnnotatorNotes T12	create
+T13	Pronouns 1151 1154	its
+#11	AnnotatorNotes T13	their
+T14	lex_item_choice 1206 1211	there
+#12	AnnotatorNotes T14	this
+T15	Capitalisation 1726 1731	World
+#13	AnnotatorNotes T15	world
+T16	note 1825 1826	)
+#14	AnnotatorNotes T16	Zavyalov

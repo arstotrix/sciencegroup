@@ -1,0 +1,35 @@
+T1	Articles 55 64	the goods
+#1	AnnotatorNotes T1	goods
+T2	Category_confusion 195 209	transportation
+#2	AnnotatorNotes T2	transported
+T3	lex_item_choice 254 258	case
+#3	AnnotatorNotes T3	chart
+T4	Punctuation 284 308	By looking at the charts
+#4	AnnotatorNotes T4	By looking at the charts,
+T5	lex_item_choice 321 325	tell
+#5	AnnotatorNotes T5	say
+T6	Noun_number 366 371	metal
+#6	AnnotatorNotes T6	metals
+T7	lex_item_choice 461 467	a mere
+#7	AnnotatorNotes T7	about
+T8	Absence_explanation 475 484	the secon
+#8	AnnotatorNotes T8	the second one
+T9	Articles 551 565	transportation
+#9	AnnotatorNotes T9	the transportation
+T10	Punctuation 577 588	on contrast
+#10	AnnotatorNotes T10	, on contrast,
+T11	lex_item_choice 590 596	almost
+#11	AnnotatorNotes T11	more
+T12	Redundant_comp 605 610	means
+A1	Delete T12
+T13	Articles 665 669	case
+#12	AnnotatorNotes T13	chart
+T14	lex_item_choice 724 738	transportation
+#13	AnnotatorNotes T14	proportions
+T15	Noun_number 724 738	transportation
+#14	AnnotatorNotes T15	proportions
+T16	Agreement_errors 762 769	remains
+#15	AnnotatorNotes T16	remain
+R1	Dependent_change Arg1:T16 Arg2:T15	
+T17	Redundant_comp 859 864	goods
+A2	Delete T17

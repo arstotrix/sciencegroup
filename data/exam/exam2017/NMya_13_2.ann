@@ -1,0 +1,47 @@
+T1	Articles 64 68	rise
+#1	AnnotatorNotes T1	the rise
+T2	lex_part_choice 224 226	of
+#2	AnnotatorNotes T2	for
+T3	Redundant 354 366	giving a way
+#3	AnnotatorNotes T3	giving way
+T4	Verb_Inf 625 632	develop
+#4	AnnotatorNotes T4	to be developed by
+T5	lex_part_choice 652 663	give a life
+#5	AnnotatorNotes T5	give birth
+T6	Tense_form 766 771	rosen
+#6	AnnotatorNotes T6	risen
+T7	Agreement_errors 1110 1114	them
+#7	AnnotatorNotes T7	him
+T8	Spelling 1149 1158	commiting
+#8	AnnotatorNotes T8	committing
+T9	Punctuation 985 986	,
+A1	Delete T9
+T10	Punctuation 1114 1115	,
+A2	Delete T10
+T11	Redundant_comp 1161 1165	hate
+A3	Delete T11
+T12	Adverbs 1357 1362	First
+#9	AnnotatorNotes T12	Firstly,
+T13	Punctuation 1357 1362	First
+#10	AnnotatorNotes T13	Firstly,
+T14	Modals 1382 1401	should be observing
+#11	AnnotatorNotes T14	should observe
+T15	Agreement_errors 1451 1455	them
+#12	AnnotatorNotes T15	him
+T16	Articles 1486 1489	the
+A4	Delete T16
+T17	Agreement_errors 1730 1732	it
+#13	AnnotatorNotes T17	them
+T18	Prepositions 1565 1567	on
+#14	AnnotatorNotes T18	in
+T19	Punctuation 1563 1564	,
+A5	Delete T19
+T20	Punctuation 1591 1592	,
+A6	Delete T20
+R1	Dependent_change Arg1:T20 Arg2:T19	
+T21	Absence_comp_sent 1328 1341	the following
+#15	AnnotatorNotes T21	the following things
+T22	suggestion 438 443	, and
+T23	suggestion 1321 1326	above
+T24	suggestion 1565 1567	on
+#16	AnnotatorNotes T24	on

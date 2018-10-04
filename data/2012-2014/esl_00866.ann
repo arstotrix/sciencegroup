@@ -1,0 +1,513 @@
+T1	Word_choice 314 322	the same
+#1	AnnotatorNotes T1	at the same level
+T2	Punctuation 434 435	,
+A1	Delete T2
+T3	Prepositions 670 672	on
+#2	AnnotatorNotes T3	at
+T4	Word_choice 775 783	in month
+#3	AnnotatorNotes T4	a month OR either of the months
+T5	Determiners 902 917	half as many as
+#4	AnnotatorNotes T5	a half more than
+T6	Derivation 1016 1028	share 30% of
+#5	AnnotatorNotes T6	have a 30% share of the
+T7	Ref_device 1053 1054	–
+#6	AnnotatorNotes T7	will have
+T8	Absence_comp_sent 1246 1251	times
+#7	AnnotatorNotes T8	times as much as in January
+A2	Cause T3 L1_interference
+T9	pos_DT 0 3	The
+#8	AnnotatorNotes T9	lemma = 'the'
+T10	pos_NN 4 9	chart
+#9	AnnotatorNotes T10	lemma = 'chart'
+T11	pos_IN 10 12	in
+#10	AnnotatorNotes T11	lemma = 'in'
+T12	pos_DT 13 16	the
+#11	AnnotatorNotes T12	lemma = 'the'
+T13	pos_NN 17 21	task
+#12	AnnotatorNotes T13	lemma = 'task'
+T14	pos_VBZ 22 27	shows
+#13	AnnotatorNotes T14	lemma = 'show'
+T15	pos_PRP 28 30	us
+#14	AnnotatorNotes T15	lemma = 'us'
+T16	pos_DT 31 34	the
+#15	AnnotatorNotes T16	lemma = 'the'
+T17	pos_VBD 35 44	predicted
+#16	AnnotatorNotes T17	lemma = 'predict'
+T18	pos_NNS 45 50	sales
+#17	AnnotatorNotes T18	lemma = 'sale'
+T19	pos_IN 51 53	of
+#18	AnnotatorNotes T19	lemma = 'of'
+T20	pos_NNS 54 59	jeans
+#19	AnnotatorNotes T20	lemma = 'jean'
+T21	pos_IN 60 62	in
+#20	AnnotatorNotes T21	lemma = 'in'
+T22	pos_NNS 63 72	thousands
+#21	AnnotatorNotes T22	lemma = 'thousand'
+T23	pos_IN 73 75	of
+#22	AnnotatorNotes T23	lemma = 'of'
+T24	pos_NNS 76 81	pairs
+#23	AnnotatorNotes T24	lemma = 'pair'
+T25	pos_IN 82 85	for
+#24	AnnotatorNotes T25	lemma = 'for'
+T26	pos_NP 86 95	Mango Co.
+#25	AnnotatorNotes T26	lemma = 'mango_co.'
+T27	pos_CC 96 99	and
+#26	AnnotatorNotes T27	lemma = 'and'
+T28	pos_NP 100 104	Jack
+#27	AnnotatorNotes T28	lemma = 'jack'
+T29	pos_CC 105 108	and
+#28	AnnotatorNotes T29	lemma = 'and'
+T30	pos_NP 109 118	Jones Co.
+#29	AnnotatorNotes T30	lemma = 'jones_co.'
+T31	pos_IN 119 122	for
+#30	AnnotatorNotes T31	lemma = 'for'
+T32	pos_DT 123 126	the
+#31	AnnotatorNotes T32	lemma = 'the'
+T33	pos_JJ 127 131	next
+#32	AnnotatorNotes T33	lemma = 'next'
+T34	pos_NN 132 136	year
+#33	AnnotatorNotes T34	lemma = 'year'
+T35	pos_IN 137 139	in
+#34	AnnotatorNotes T35	lemma = 'in'
+T36	pos_NP 140 146	Turkey
+#35	AnnotatorNotes T36	lemma = 'turkey'
+T37	pos_Fp 146 147	.
+#36	AnnotatorNotes T37	lemma = '.'
+T38	pos_PRP 149 151	It
+#37	AnnotatorNotes T38	lemma = 'it'
+T39	pos_VBZ 152 154	is
+#38	AnnotatorNotes T39	lemma = 'be'
+T40	pos_VBN 155 166	anticipated
+#39	AnnotatorNotes T40	lemma = 'anticipate'
+T41	pos_IN 167 171	that
+#40	AnnotatorNotes T41	lemma = 'that'
+T42	pos_DT 172 175	the
+#41	AnnotatorNotes T42	lemma = 'the'
+T43	pos_NNS 176 181	sales
+#42	AnnotatorNotes T43	lemma = 'sale'
+T44	pos_IN 182 185	for
+#43	AnnotatorNotes T44	lemma = 'for'
+T45	pos_NP 186 195	Mango Co.
+#44	AnnotatorNotes T45	lemma = 'mango_co.'
+T46	pos_MD 196 200	will
+#45	AnnotatorNotes T46	lemma = 'will'
+T47	pos_VB 201 206	start
+#46	AnnotatorNotes T47	lemma = 'start'
+T48	pos_IN 207 209	at
+#47	AnnotatorNotes T48	lemma = 'at'
+T49	pos_Z 210 217	150,000
+#48	AnnotatorNotes T49	lemma = '150000'
+T50	pos_NNS 218 223	pairs
+#49	AnnotatorNotes T50	lemma = 'pair'
+T51	pos_DT 224 225	a
+#50	AnnotatorNotes T51	lemma = 'a'
+T52	pos_NN 226 231	month
+#51	AnnotatorNotes T52	lemma = 'month'
+T53	pos_IN 232 234	in
+#52	AnnotatorNotes T53	lemma = 'in'
+T54	pos_W 235 242	January
+#53	AnnotatorNotes T54	lemma = '[??:??/1/??:??.??:??]'
+T55	pos_Fc 242 243	,
+#54	AnnotatorNotes T55	lemma = ','
+T56	pos_VB 244 248	rise
+#55	AnnotatorNotes T56	lemma = 'rise'
+T57	pos_RP 249 251	up
+#56	AnnotatorNotes T57	lemma = 'up'
+T58	pos_TO 252 254	to
+#57	AnnotatorNotes T58	lemma = 'to'
+T59	pos_Z 255 262	500,000
+#58	AnnotatorNotes T59	lemma = '500000'
+T60	pos_NNS 263 268	pairs
+#59	AnnotatorNotes T60	lemma = 'pair'
+T61	pos_IN 269 271	in
+#60	AnnotatorNotes T61	lemma = 'in'
+T62	pos_W 272 278	August
+#61	AnnotatorNotes T62	lemma = '[??:??/8/??:??.??:??]'
+T63	pos_CC 279 282	and
+#62	AnnotatorNotes T63	lemma = 'and'
+T64	pos_RB 283 287	then
+#63	AnnotatorNotes T64	lemma = 'then'
+T65	pos_Fc 287 288	,
+#64	AnnotatorNotes T65	lemma = ','
+T66	pos_IN 289 294	after
+#65	AnnotatorNotes T66	lemma = 'after'
+T67	pos_Z 295 296	3
+#66	AnnotatorNotes T67	lemma = '3'
+T68	pos_NNS 297 303	months
+#67	AnnotatorNotes T68	lemma = 'month'
+T69	pos_VBG 304 313	remaining
+#68	AnnotatorNotes T69	lemma = 'remain'
+T70	pos_DT 314 317	the
+#69	AnnotatorNotes T70	lemma = 'the'
+T71	pos_JJ 318 322	same
+#70	AnnotatorNotes T71	lemma = 'same'
+T72	pos_Fc 322 323	,
+#71	AnnotatorNotes T72	lemma = ','
+T73	pos_VB 324 329	reach
+#72	AnnotatorNotes T73	lemma = 'reach'
+T74	pos_Z 330 337	600,000
+#73	AnnotatorNotes T74	lemma = '600000'
+T75	pos_NNS 338 343	pairs
+#74	AnnotatorNotes T75	lemma = 'pair'
+T76	pos_IN 344 346	in
+#75	AnnotatorNotes T76	lemma = 'in'
+T77	pos_W 347 355	December
+#76	AnnotatorNotes T77	lemma = '[??:??/12/??:??.??:??]'
+T78	pos_Fp 355 356	.
+#77	AnnotatorNotes T78	lemma = '.'
+T79	pos_IN 358 360	As
+#78	AnnotatorNotes T79	lemma = 'as'
+T80	pos_IN 361 364	for
+#79	AnnotatorNotes T80	lemma = 'for'
+T81	pos_NP 365 369	Jack
+#80	AnnotatorNotes T81	lemma = 'jack'
+T82	pos_CC 370 373	and
+#81	AnnotatorNotes T82	lemma = 'and'
+T83	pos_NP 374 383	Jones Co.
+#82	AnnotatorNotes T83	lemma = 'jones_co.'
+T84	pos_Fc 383 384	,
+#83	AnnotatorNotes T84	lemma = ','
+T85	pos_DT 385 388	the
+#84	AnnotatorNotes T85	lemma = 'the'
+T86	pos_NN 389 396	company
+#85	AnnotatorNotes T86	lemma = 'company'
+T87	pos_MD 397 401	will
+#86	AnnotatorNotes T87	lemma = 'will'
+T88	pos_VB 402 406	sell
+#87	AnnotatorNotes T88	lemma = 'sell'
+T89	pos_Z 407 414	300,000
+#88	AnnotatorNotes T89	lemma = '300000'
+T90	pos_NNS 415 420	pairs
+#89	AnnotatorNotes T90	lemma = 'pair'
+T91	pos_IN 421 423	of
+#90	AnnotatorNotes T91	lemma = 'of'
+T92	pos_NNS 424 429	jeans
+#91	AnnotatorNotes T92	lemma = 'jean'
+T93	pos_RBR 430 434	more
+#92	AnnotatorNotes T93	lemma = 'many'
+T94	pos_Fc 434 435	,
+#93	AnnotatorNotes T94	lemma = ','
+T95	pos_IN 436 440	than
+#94	AnnotatorNotes T95	lemma = 'than'
+T96	pos_NP 441 450	Mango Co.
+#95	AnnotatorNotes T96	lemma = 'mango_co.'
+T97	pos_IN 451 453	in
+#96	AnnotatorNotes T97	lemma = 'in'
+T98	pos_W 454 461	January
+#97	AnnotatorNotes T98	lemma = '[??:??/1/??:??.??:??]'
+T99	pos_Fp 461 462	.
+#98	AnnotatorNotes T99	lemma = '.'
+T100	pos_RB 463 470	However
+#99	AnnotatorNotes T100	lemma = 'however'
+T101	pos_Fc 470 471	,
+#100	AnnotatorNotes T101	lemma = ','
+T102	pos_EX 472 477	there
+#101	AnnotatorNotes T102	lemma = 'there'
+T103	pos_MD 478 482	will
+#102	AnnotatorNotes T103	lemma = 'will'
+T104	pos_VB 483 485	be
+#103	AnnotatorNotes T104	lemma = 'be'
+T105	pos_DT 486 487	a
+#104	AnnotatorNotes T105	lemma = 'a'
+T106	pos_NN 488 496	decrease
+#105	AnnotatorNotes T106	lemma = 'decrease'
+T107	pos_IN 497 499	by
+#106	AnnotatorNotes T107	lemma = 'by'
+T108	pos_Z 500 507	200,000
+#107	AnnotatorNotes T108	lemma = '200000'
+T109	pos_NNS 508 513	pairs
+#108	AnnotatorNotes T109	lemma = 'pair'
+T110	pos_IN 514 516	in
+#109	AnnotatorNotes T110	lemma = 'in'
+T111	pos_W 517 525	February
+#110	AnnotatorNotes T111	lemma = '[??:??/2/??:??.??:??]'
+T112	pos_Fc 525 526	,
+#111	AnnotatorNotes T112	lemma = ','
+T113	pos_CC 527 530	but
+#112	AnnotatorNotes T113	lemma = 'but'
+T114	pos_IN 531 537	during
+#113	AnnotatorNotes T114	lemma = 'during'
+T115	pos_DT 538 541	the
+#114	AnnotatorNotes T115	lemma = 'the'
+T116	pos_JJ 542 546	next
+#115	AnnotatorNotes T116	lemma = 'next'
+T117	pos_Z 547 548	3
+#116	AnnotatorNotes T117	lemma = '3'
+T118	pos_NNS 549 555	months
+#117	AnnotatorNotes T118	lemma = 'month'
+T119	pos_DT 556 559	the
+#118	AnnotatorNotes T119	lemma = 'the'
+T120	pos_NNS 560 565	sales
+#119	AnnotatorNotes T120	lemma = 'sale'
+T121	pos_IN 566 569	for
+#120	AnnotatorNotes T121	lemma = 'for'
+T122	pos_DT 570 573	the
+#121	AnnotatorNotes T122	lemma = 'the'
+T123	pos_NN 574 579	rival
+#122	AnnotatorNotes T123	lemma = 'rival'
+T124	pos_IN 580 582	of
+#123	AnnotatorNotes T124	lemma = 'of'
+T125	pos_NP 583 592	Mango Co.
+#124	AnnotatorNotes T125	lemma = 'mango_co.'
+T126	pos_MD 593 597	will
+#125	AnnotatorNotes T126	lemma = 'will'
+T127	pos_RB 598 607	gradually
+#126	AnnotatorNotes T127	lemma = 'gradually'
+T128	pos_VB 608 616	increase
+#127	AnnotatorNotes T128	lemma = 'increase'
+T129	pos_IN 617 622	until
+#128	AnnotatorNotes T129	lemma = 'until'
+T130	pos_PRP 623 627	they
+#129	AnnotatorNotes T130	lemma = 'they'
+T131	pos_VBP 628 633	reach
+#130	AnnotatorNotes T131	lemma = 'reach'
+T132	pos_Z 634 641	400,000
+#131	AnnotatorNotes T132	lemma = '400000'
+T133	pos_NNS 642 647	pairs
+#132	AnnotatorNotes T133	lemma = 'pair'
+T134	pos_IN 648 650	in
+#133	AnnotatorNotes T134	lemma = 'in'
+T135	pos_W 651 655	June
+#134	AnnotatorNotes T135	lemma = '[??:??/6/??:??.??:??]'
+T136	pos_CC 656 659	and
+#135	AnnotatorNotes T136	lemma = 'and'
+T137	pos_RB 660 664	then
+#136	AnnotatorNotes T137	lemma = 'then'
+T138	pos_VB 665 669	stay
+#137	AnnotatorNotes T138	lemma = 'stay'
+T139	pos_IN 670 672	on
+#138	AnnotatorNotes T139	lemma = 'on'
+T140	pos_DT 673 676	the
+#139	AnnotatorNotes T140	lemma = 'the'
+T141	pos_JJ 677 681	same
+#140	AnnotatorNotes T141	lemma = 'same'
+T142	pos_NN 682 687	level
+#141	AnnotatorNotes T142	lemma = 'level'
+T143	pos_IN 688 692	till
+#142	AnnotatorNotes T143	lemma = 'till'
+T144	pos_W 693 699	August
+#143	AnnotatorNotes T144	lemma = '[??:??/8/??:??.??:??]'
+T145	pos_Fp 699 700	.
+#144	AnnotatorNotes T145	lemma = '.'
+T146	pos_IN 701 703	In
+#145	AnnotatorNotes T146	lemma = 'in'
+T147	pos_W 704 713	September
+#146	AnnotatorNotes T147	lemma = '[??:??/9/??:??.??:??]'
+T148	pos_CC 714 717	and
+#147	AnnotatorNotes T148	lemma = 'and'
+T149	pos_W 718 725	October
+#148	AnnotatorNotes T149	lemma = '[??:??/10/??:??.??:??]'
+T150	pos_NP 726 730	Jack
+#149	AnnotatorNotes T150	lemma = 'jack'
+T151	pos_CC 731 734	and
+#150	AnnotatorNotes T151	lemma = 'and'
+T152	pos_NP 735 744	Jones Co.
+#151	AnnotatorNotes T152	lemma = 'jones_co.'
+T153	pos_VBZ 745 752	expects
+#152	AnnotatorNotes T153	lemma = 'expect'
+T154	pos_TO 753 755	to
+#153	AnnotatorNotes T154	lemma = 'to'
+T155	pos_VB 756 760	sell
+#154	AnnotatorNotes T155	lemma = 'sell'
+T156	pos_Z 761 768	600,000
+#155	AnnotatorNotes T156	lemma = '600000'
+T157	pos_NNS 769 774	pairs
+#156	AnnotatorNotes T157	lemma = 'pair'
+T158	pos_IN 775 777	in
+#157	AnnotatorNotes T158	lemma = 'in'
+T159	pos_NN 778 783	month
+#158	AnnotatorNotes T159	lemma = 'month'
+T160	pos_Fx 783 784	;
+#159	AnnotatorNotes T160	lemma = ';'
+T161	pos_IN 785 791	during
+#160	AnnotatorNotes T161	lemma = 'during'
+T162	pos_DT 792 795	the
+#161	AnnotatorNotes T162	lemma = 'the'
+T163	pos_VBG 796 805	following
+#162	AnnotatorNotes T163	lemma = 'follow'
+T164	pos_Z 806 807	2
+#163	AnnotatorNotes T164	lemma = '2'
+T165	pos_NNS 808 814	months
+#164	AnnotatorNotes T165	lemma = 'month'
+T166	pos_DT 815 818	the
+#165	AnnotatorNotes T166	lemma = 'the'
+T167	pos_NNS 819 824	sales
+#166	AnnotatorNotes T167	lemma = 'sale'
+T168	pos_MD 825 829	will
+#167	AnnotatorNotes T168	lemma = 'will'
+T169	pos_RB 830 838	steadily
+#168	AnnotatorNotes T169	lemma = 'steadily'
+T170	pos_VB 839 847	increase
+#169	AnnotatorNotes T170	lemma = 'increase'
+T171	pos_CC 848 851	and
+#170	AnnotatorNotes T171	lemma = 'and'
+T172	pos_VB 852 855	hit
+#171	AnnotatorNotes T172	lemma = 'hit'
+T173	pos_DT 856 857	a
+#172	AnnotatorNotes T173	lemma = 'a'
+T174	pos_NN 858 862	peak
+#173	AnnotatorNotes T174	lemma = 'peak'
+T175	pos_IN 863 865	of
+#174	AnnotatorNotes T175	lemma = 'of'
+T176	pos_Z 866 873	900,000
+#175	AnnotatorNotes T176	lemma = '900000'
+T177	pos_NNS 874 879	pairs
+#176	AnnotatorNotes T177	lemma = 'pair'
+T178	pos_IN 880 882	of
+#177	AnnotatorNotes T178	lemma = 'of'
+T179	pos_NNS 883 888	jeans
+#178	AnnotatorNotes T179	lemma = 'jean'
+T180	pos_IN 889 891	in
+#179	AnnotatorNotes T180	lemma = 'in'
+T181	pos_W 892 900	December
+#180	AnnotatorNotes T181	lemma = '[??:??/12/??:??.??:??]'
+T182	pos_Fc 900 901	,
+#181	AnnotatorNotes T182	lemma = ','
+T183	pos_NN 902 906	half
+#182	AnnotatorNotes T183	lemma = 'half'
+T184	pos_IN 907 909	as
+#183	AnnotatorNotes T184	lemma = 'as'
+T185	pos_PRP 910 914	many
+#184	AnnotatorNotes T185	lemma = 'many'
+T186	pos_IN 915 917	as
+#185	AnnotatorNotes T186	lemma = 'as'
+T187	pos_NP 918 933	
+#186	AnnotatorNotes T187	lemma = 'mango_co._the'
+T188	pos_NN 934 937	pie
+#187	AnnotatorNotes T188	lemma = 'pie'
+T189	pos_NN 938 943	chart
+#188	AnnotatorNotes T189	lemma = 'chart'
+T190	pos_VBZ 944 949	shows
+#189	AnnotatorNotes T190	lemma = 'show'
+T191	pos_IN 950 954	that
+#190	AnnotatorNotes T191	lemma = 'that'
+T192	pos_IN 955 957	at
+#191	AnnotatorNotes T192	lemma = 'at'
+T193	pos_DT 958 961	the
+#192	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 962 965	end
+#193	AnnotatorNotes T194	lemma = 'end'
+T195	pos_IN 966 968	of
+#194	AnnotatorNotes T195	lemma = 'of'
+T196	pos_DT 969 972	the
+#195	AnnotatorNotes T196	lemma = 'the'
+T197	pos_JJ 973 977	next
+#196	AnnotatorNotes T197	lemma = 'next'
+T198	pos_NN 978 982	year
+#197	AnnotatorNotes T198	lemma = 'year'
+T199	pos_NNS 983 988	sales
+#198	AnnotatorNotes T199	lemma = 'sale'
+T200	pos_IN 989 991	of
+#199	AnnotatorNotes T200	lemma = 'of'
+T201	pos_NP 992 996	Jack
+#200	AnnotatorNotes T201	lemma = 'jack'
+T202	pos_CC 997 1000	and
+#201	AnnotatorNotes T202	lemma = 'and'
+T203	pos_NP 1001 1010	Jones Co.
+#202	AnnotatorNotes T203	lemma = 'jones_co.'
+T204	pos_MD 1011 1015	will
+#203	AnnotatorNotes T204	lemma = 'will'
+T205	pos_VB 1016 1021	share
+#204	AnnotatorNotes T205	lemma = 'share'
+T206	pos_Zp 1022 1025	30%
+#205	AnnotatorNotes T206	lemma = '30/100'
+T207	pos_IN 1026 1028	of
+#206	AnnotatorNotes T207	lemma = 'of'
+T208	pos_NN 1029 1035	market
+#207	AnnotatorNotes T208	lemma = 'market'
+T209	pos_Fc 1035 1036	,
+#208	AnnotatorNotes T209	lemma = ','
+T210	pos_IN 1037 1042	while
+#209	AnnotatorNotes T210	lemma = 'while'
+T211	pos_NP 918 927	Mango Co.
+#210	AnnotatorNotes T211	lemma = 'mango_co.'
+T212	pos_– 1053 1054	–
+#211	AnnotatorNotes T212	lemma = '–'
+T213	pos_Zp 1055 1058	20%
+#212	AnnotatorNotes T213	lemma = '20/100'
+T214	pos_Fp 1051 1052	.
+#213	AnnotatorNotes T214	lemma = '.'
+T215	pos_DT 930 933	The
+#214	AnnotatorNotes T215	lemma = 'the'
+T216	pos_NN 1064 1068	rest
+#215	AnnotatorNotes T216	lemma = 'rest'
+T217	pos_VBZ 1069 1071	is
+#216	AnnotatorNotes T217	lemma = 'be'
+T218	pos_VBN 1072 1083	anticipated
+#217	AnnotatorNotes T218	lemma = 'anticipate'
+T219	pos_TO 1084 1086	to
+#218	AnnotatorNotes T219	lemma = 'to'
+T220	pos_VB 1087 1089	be
+#219	AnnotatorNotes T220	lemma = 'be'
+T221	pos_VBN 1090 1096	shared
+#220	AnnotatorNotes T221	lemma = 'share'
+T222	pos_IN 1097 1099	by
+#221	AnnotatorNotes T222	lemma = 'by'
+T223	pos_JJ 1100 1105	other
+#222	AnnotatorNotes T223	lemma = 'other'
+T224	pos_NNS 1106 1115	companies
+#223	AnnotatorNotes T224	lemma = 'company'
+T225	pos_Fp 1058 1059	.
+#224	AnnotatorNotes T225	lemma = '.'
+T226	pos_TO 1119 1121	To
+#225	AnnotatorNotes T226	lemma = 'to'
+T227	pos_VB 1122 1125	sum
+#226	AnnotatorNotes T227	lemma = 'sum'
+T228	pos_RP 1126 1128	up
+#227	AnnotatorNotes T228	lemma = 'up'
+T229	pos_Fc 1128 1129	,
+#228	AnnotatorNotes T229	lemma = ','
+T230	pos_NP 1130 1139	Mango Co.
+#229	AnnotatorNotes T230	lemma = 'mango_co.'
+T231	pos_CC 1140 1143	and
+#230	AnnotatorNotes T231	lemma = 'and'
+T232	pos_NP 1144 1148	Jack
+#231	AnnotatorNotes T232	lemma = 'jack'
+T233	pos_CC 1149 1152	and
+#232	AnnotatorNotes T233	lemma = 'and'
+T234	pos_NP 1153 1162	Jones Co.
+#233	AnnotatorNotes T234	lemma = 'jones_co.'
+T235	pos_VBP 1163 1169	expect
+#234	AnnotatorNotes T235	lemma = 'expect'
+T236	pos_TO 1170 1172	to
+#235	AnnotatorNotes T236	lemma = 'to'
+T237	pos_VB 1173 1181	increase
+#236	AnnotatorNotes T237	lemma = 'increase'
+T238	pos_PRP2 1182 1187	their
+#237	AnnotatorNotes T238	lemma = 'their'
+T239	pos_NNS 1188 1193	sales
+#238	AnnotatorNotes T239	lemma = 'sale'
+T240	pos_IN 1194 1196	by
+#239	AnnotatorNotes T240	lemma = 'by'
+T241	pos_DT 1197 1200	the
+#240	AnnotatorNotes T241	lemma = 'the'
+T242	pos_NN 1201 1204	end
+#241	AnnotatorNotes T242	lemma = 'end'
+T243	pos_IN 1205 1207	of
+#242	AnnotatorNotes T243	lemma = 'of'
+T244	pos_DT 1208 1211	the
+#243	AnnotatorNotes T244	lemma = 'the'
+T245	pos_NN 1212 1216	year
+#244	AnnotatorNotes T245	lemma = 'year'
+T246	pos_Fc 1216 1217	,
+#245	AnnotatorNotes T246	lemma = ','
+T247	pos_IN 1218 1220	in
+#246	AnnotatorNotes T247	lemma = 'in'
+T248	pos_DT 1221 1224	the
+#247	AnnotatorNotes T248	lemma = 'the'
+T249	pos_JJ 1225 1229	cold
+#248	AnnotatorNotes T249	lemma = 'cold'
+T250	pos_NN 1230 1236	season
+#249	AnnotatorNotes T250	lemma = 'season'
+T251	pos_Fc 1236 1237	,
+#250	AnnotatorNotes T251	lemma = ','
+T252	pos_Z 1238 1239	4
+#251	AnnotatorNotes T252	lemma = '4'
+T253	pos_CC 1240 1243	and
+#252	AnnotatorNotes T253	lemma = 'and'
+T254	pos_RB 1244 1251	2 times
+#253	AnnotatorNotes T254	lemma = '2_times'
+T255	pos_RB 1252 1264	respectively
+#254	AnnotatorNotes T255	lemma = 'respectively'
+T256	pos_Fp 1115 1116	.
+#255	AnnotatorNotes T256	lemma = '.'

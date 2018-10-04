@@ -1,0 +1,25 @@
+T1	Absence_comp_sent 18 22	with
+#1	AnnotatorNotes T1	with the fact that
+T2	Noun_number 442 449	schools
+#2	AnnotatorNotes T2	school
+T3	Word_choice 627 637	charitable
+#3	AnnotatorNotes T3	charities
+T4	Prepositions 641 650	community
+#4	AnnotatorNotes T4	for the community
+T5	Redundant_comp 651 661	activities
+A1	Delete T5
+T6	Word_choice 737 746	demanding
+#5	AnnotatorNotes T6	gain
+T7	Redundant_comp 814 818	only
+A2	Delete T7
+T8	Agreement_errors 837 841	them
+#6	AnnotatorNotes T8	it
+T9	Agreement_errors 876 880	them
+#7	AnnotatorNotes T9	it
+T10	Articles 884 902	more practical way
+#8	AnnotatorNotes T10	a more practical way
+T11	Agreement_errors 925 928	are
+#9	AnnotatorNotes T11	is
+T12	Spelling 1123 1131	programm
+A3	Cause T12 L1_interference
+#10	AnnotatorNotes T12	program

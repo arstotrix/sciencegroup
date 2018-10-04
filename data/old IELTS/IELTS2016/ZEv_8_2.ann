@@ -1,0 +1,51 @@
+T1	Word_choice 17 23	airfly
+#1	AnnotatorNotes T1	air flights
+T2	Articles 66 69	the
+A1	Delete T2
+T3	lex_item_choice 74 81	changed
+#2	AnnotatorNotes T3	turned
+T4	Articles 221 224	the
+A2	Delete T4
+T5	Often_confused 255 261	causes
+#3	AnnotatorNotes T5	reasons
+T6	Prepositions 262 264	to
+#4	AnnotatorNotes T6	of
+T7	lex_item_choice 314 322	quantity
+#5	AnnotatorNotes T7	number
+T8	Word_choice 330 336	travel
+#6	AnnotatorNotes T8	flights
+T9	Category_confusion 456 465	traveling
+#7	AnnotatorNotes T9	travel
+T10	lex_item_choice 474 479	point
+#8	AnnotatorNotes T10	purpose
+T11	lex_item_choice 525 529	sort
+#9	AnnotatorNotes T11	kind
+T12	Absence_explanation 281 294	I fully agree
+T13	Articles 314 322	quantity
+#10	AnnotatorNotes T13	the number
+T14	Articles 380 391	unnecessary
+#11	AnnotatorNotes T14	an unnecessary
+T15	lex_item_choice 502 508	airfly
+#12	AnnotatorNotes T15	flight
+T16	Inappropriate_register 484 491	earning
+#13	AnnotatorNotes T16	booking
+T17	Absence_comp_colloc 606 615	traveling
+#14	AnnotatorNotes T17	type of travelling
+T18	Absence_comp_sent 585 589	when
+#15	AnnotatorNotes T18	even when
+T19	lex_item_choice 690 696	causes
+#16	AnnotatorNotes T19	reasons
+T20	Prepositions 697 699	to
+#17	AnnotatorNotes T20	of
+T21	lex_part_choice 759 763	slow
+#18	AnnotatorNotes T21	slow down
+T22	Inappropriate_register 779 796	polluting the air
+#19	AnnotatorNotes T22	air pollution
+T23	Articles 798 804	number
+#20	AnnotatorNotes T23	the number
+T24	Category_confusion 865 874	traveling
+#21	AnnotatorNotes T24	travel
+T25	lex_item_choice 1030 1038	quantity
+#22	AnnotatorNotes T25	number
+T26	lex_item_choice 1046 1055	traveling
+#23	AnnotatorNotes T26	flights

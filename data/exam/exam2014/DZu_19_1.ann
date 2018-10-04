@@ -1,0 +1,64 @@
+T1	lex_item_choice 88 98	continents
+A1	Weight-language T1 Minor
+A2	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	countries
+T3	Redundant_comp 305 307	it
+A6	Cause T3 Typo
+A7	Weight-language T3 Minor
+A8	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	 
+T5	Agreement_errors 440 443	was
+A12	Cause T5 Typo
+A13	Weight-language T5 Major
+A14	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	were
+T6	Often_confused 505 509	then
+A15	Cause T6 Typo
+A16	Weight-language T6 Major
+A17	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	than 
+T9	Prepositions 640 644	in a
+A23	Cause T9 Typo
+A24	Weight-language T9 Minor
+A25	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	per 
+T10	Ref_device 751 756	which
+A26	Cause T10 Typo
+A27	Weight-language T10 Major
+A28	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	whose 
+T11	Redundant_comp 804 813	which are
+A29	Weight-language T11 Minor
+A30	Weight-understanding T11 Minor
+T12	Often_confused 965 972	purpose
+A31	Cause T12 Typo
+A32	Weight-language T12 Minor
+A33	Weight-understanding T12 Major
+#11	AnnotatorNotes T12	terms 
+T2	Word_choice 249 261	comparing to
+#2	AnnotatorNotes T2	of
+T13	Articles 262 273	five others
+#12	AnnotatorNotes T13	the five others
+T14	Word_choice 279 293	speaking about
+#13	AnnotatorNotes T14	factors concerning
+T15	Discourse 350 429	it could be made a group from Paris, Tokyo’s and Washington’s D.C. undergrounds
+#14	AnnotatorNotes T15	the underground systems in Paris, Tokyo and Washington D.C. could be grouped
+T4	Linking_device 430 435	which
+#4	AnnotatorNotes T4	as
+T16	Ref_device 436 439	all
+#15	AnnotatorNotes T16	they all
+T17	Articles 454 463	twentieth
+#16	AnnotatorNotes T17	the twentieth
+T18	Articles 208 218	nineteenth
+#17	AnnotatorNotes T18	the nineteenth
+T19	Articles 481 487	length
+#18	AnnotatorNotes T19	the length
+T8	Transitive 564 576	comparing by
+#7	AnnotatorNotes T8	comparing 
+T20	Articles 577 584	amounts
+#19	AnnotatorNotes T20	the numbers
+T21	Absence_explanation 598 599	.
+#20	AnnotatorNotes T21	who use underground systems in the cities considered
+T22	lex_item_choice 577 584	amounts
+#21	AnnotatorNotes T22	the numbers
+A3	Delete T11

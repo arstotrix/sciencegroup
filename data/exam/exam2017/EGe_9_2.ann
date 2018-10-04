@@ -1,0 +1,81 @@
+T1	Tense_choice 23 32	have done
+#1	AnnotatorNotes T1	commit
+T8	Word_choice 553 557	face
+#8	AnnotatorNotes T8	be exposed to
+T10	Spelling 695 703	famalies
+#10	AnnotatorNotes T10	families
+T15	lex_item_choice 939 947	preserve
+#15	AnnotatorNotes T15	protect
+T16	Category_confusion 1025 1030	Final
+#16	AnnotatorNotes T16	Finally
+T17	Articles 1104 1116	an attention
+#17	AnnotatorNotes T17	attention
+T18	Articles 1284 1296	an attention
+T20	Category_confusion 1327 1331	live
+#20	AnnotatorNotes T20	life
+T21	Redundant_comp 1452 1454	it
+T27	lex_part_choice 23 44	have done more crimes
+#27	AnnotatorNotes T27	commit more crimes
+T28	Standard 50 80	people of their age did before
+#28	AnnotatorNotes T28	people did before at their age
+T2	Noun_inf 151 169	ways how to tackle
+#2	AnnotatorNotes T2	ways to tackle
+T23	lex_item_choice 188 197	prominent
+#23	AnnotatorNotes T23	aggravating
+T29	lex_item_choice 217 221	vast
+#29	AnnotatorNotes T29	huge
+T30	lex_item_choice 222 239	quantity of films
+#30	AnnotatorNotes T30	number of films
+T3	Word_choice 240 261	make propaganda about
+#3	AnnotatorNotes T3	promote the use of
+T4	Punctuation 382 385	and
+#4	AnnotatorNotes T4	, and
+T5	Absence_comp_colloc 430 436	crimes
+#5	AnnotatorNotes T5	committing crimes
+T6	Noun_inf 452 468	way how to solve
+#6	AnnotatorNotes T6	way to solve
+T7	Word_choice 494 517	age limitted by parents
+#7	AnnotatorNotes T7	forbidden by parents through age restriction
+T22	Word_choice 594 601	feature
+#22	AnnotatorNotes T22	solution
+T9	Articles 648 658	Next issue
+#9	AnnotatorNotes T9	The next issue
+T11	Articles 672 686	an alchoholism
+#11	AnnotatorNotes T11	alchoholism
+T14	Punctuation 1025 1030	Final
+#14	AnnotatorNotes T14	 ,
+T26	Word_choice 1039 1050	consists of
+#26	AnnotatorNotes T26	narrows down to
+T31	Articles 1031 1038	problem
+#31	AnnotatorNotes T31	the problem
+T32	Dative 1081 1103	give to their children
+#32	AnnotatorNotes T32	give their children
+T33	Word_choice 1170 1201	solve it and being dissatisfied
+#33	AnnotatorNotes T33	compensate for their dissatisfaction by
+T34	Gerund_phrase 1202 1213	they commit
+#34	AnnotatorNotes T34	committing
+T19	Lack_par_constr 1277 1283	to pay
+#19	AnnotatorNotes T19	pay
+T25	Standard 1420 1479	parents and teachers must solve it, but also the government
+#25	AnnotatorNotes T25	parents and teachers, but also the government, must solve
+T35	lex_item_choice 274 285	significant
+#35	AnnotatorNotes T35	serious
+T36	Standard 412 436	such easy ways as crimes
+T12	Articles 777 789	an attention
+#12	AnnotatorNotes T12	attention
+T38	Articles 1051 1060	that fact
+#37	AnnotatorNotes T38	the fact
+T24	Absence_comp_sent 1244 1248	more
+#24	AnnotatorNotes T24	more of
+T39	Word_choice 735 742	popular
+#18	AnnotatorNotes T39	widely spread
+#36	AnnotatorNotes T18	attention
+T37	Determiners 810 818	students
+#13	AnnotatorNotes T37	their students
+A1	Delete T21
+T13	note 1479 1480	.
+#21	AnnotatorNotes T13	ВФЕДОРОВА
+R1	Dependent_change Arg1:T33 Arg2:T34	
+T40	Redundant_comp 123 142	of this development
+#38	AnnotatorNotes T36	easy ways such as committing crimes
+A2	Delete T40

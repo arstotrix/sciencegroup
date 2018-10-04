@@ -1,0 +1,65 @@
+T1	Determiners 63 68	level
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	their level
+T2	Absence_explanation 98 105	in 1999
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	in 1999 in Australia
+T3	Absence_comp_sent 182 188	higher
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	was higher
+T4	lex_item_choice 201 205	data
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	one
+T5	Determiners 209 213	such
+A13	Cause T5 Other
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	these
+T6	Redundant_comp 280 287	in time
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+A19	Delete T6
+T7	Absence_comp_sent 288 294	higher
+A20	Cause T7 Other
+A21	Weight-language T7 Critical
+A22	Weight-understanding T7 Major
+#6	AnnotatorNotes T7	was higher
+T8	lex_item_choice 309 313	data
+A23	Cause T8 Other
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Major
+#7	AnnotatorNotes T8	one
+T9	Articles 300 313	female's data
+A26	Cause T9 Absence_of_Category_in_L1
+A27	Weight-language T9 Major
+A28	Weight-understanding T9 Major
+#8	AnnotatorNotes T9	the females' one
+T10	Noun_number 300 308	female's
+A29	Cause T10 Typo
+A30	Weight-language T10 Major
+A31	Weight-understanding T10 Major
+#9	AnnotatorNotes T10	females'
+T11	Articles 194 205	male's data
+A32	Cause T11 Absence_of_Category_in_L1
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Major
+#10	AnnotatorNotes T11	the males' one
+T12	Noun_number 194 200	male's
+A35	Cause T12 Typo
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Major
+#11	AnnotatorNotes T12	males'
+T13	Absence_comp_sent 315 355	The difference between females and males
+A38	Cause T13 Other
+A39	Weight-language T13 Critical
+A40	Weight-understanding T13 Critical
+#12	AnnotatorNotes T13	NOT FINISHED

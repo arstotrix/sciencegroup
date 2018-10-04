@@ -1,0 +1,26 @@
+T1	Voice 134 141	devides
+#1	AnnotatorNotes T1	is divided
+T2	lex_item_choice 290 296	number
+#2	AnnotatorNotes T2	percent
+T3	Word_choice 363 378	amount of goods
+#3	AnnotatorNotes T3	percentage
+T4	Absence_comp_sent 379 401	for manufactured goods
+#4	AnnotatorNotes T4	is for manufactured goods
+T5	Punctuation 599 616	approximatily 30%
+#5	AnnotatorNotes T5	, approximatily 30%
+T6	Agreement_errors 652 655	has
+#6	AnnotatorNotes T6	have
+T7	Agreement_errors 656 691	chemicals and non-metallic minerals
+R1	Dependent_change Arg1:T6 Arg2:T7	
+T8	Punctuation 692 701	about 15%
+#7	AnnotatorNotes T8	, about 15%
+T9	Voice 916 927	transported
+#8	AnnotatorNotes T9	are transported
+T10	Agreement_errors 950 952	is
+#9	AnnotatorNotes T10	are
+T11	Agreement_errors 904 909	goods
+R2	Dependent_change Arg1:T10 Arg2:T11	
+T12	lex_item_choice 910 915	which
+#10	AnnotatorNotes T12	that
+T13	note 991 992	s
+#11	AnnotatorNotes T13	Zavyalov

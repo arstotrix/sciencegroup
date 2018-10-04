@@ -1,0 +1,559 @@
+T1	Spelling 176 182	remans
+T2	Tense_choice 176 182	remans
+T3	Linking_device 256 298	38.3 percent of women who had two children
+T4	Articles 361 369	minority
+T5	Articles 701 707	number
+T6	Articles 796 802	number
+T9	Prepositions 943 956	8,5% to 15,9%
+T11	Noun_number 1009 1014	women
+T12	Tense_form 1066 1072	accent
+T17	Tense_form 927 932	risen
+#5	AnnotatorNotes T17	had risen
+#6	AnnotatorNotes T5	the number
+#8	AnnotatorNotes T4	the minority
+#11	AnnotatorNotes T3	when there were 38.3 percent of women who had two children
+#10	AnnotatorNotes T2	remained
+#7	AnnotatorNotes T6	the number
+#4	AnnotatorNotes T9	from 8,5%to 15,9%
+#1	AnnotatorNotes T11	woman
+#3	AnnotatorNotes T12	had been focusing
+T8	Tense_choice 1015 1028	has decreased
+#12	AnnotatorNotes T8	had decreased
+T13	Prepositions 76 81	since
+A1	Cause T13 L1_interference
+A2	Weight-language T13 Major
+A3	Weight-understanding T13 Major
+#13	AnnotatorNotes T13	in the period from
+T14	Category_confusion 171 175	tend
+A4	Cause T14 Other
+A5	Weight-language T14 Major
+A6	Weight-understanding T14 Critical
+#14	AnnotatorNotes T14	tendency
+#15	AnnotatorNotes T1	remained
+T15	Punctuation 518 521	and
+A7	Cause T15 Other
+A8	Weight-language T15 Minor
+#16	AnnotatorNotes T15	, and
+T16	Tense_choice 544 566	has relatively changed
+A9	Cause T16 Absence_of_Category_in_L1
+A10	Weight-language T16 Major
+A11	Weight-understanding T16 Major
+#17	AnnotatorNotes T16	relatively changed
+T18	lex_item_choice 630 638	quantity
+A12	Cause T18 Other
+A13	Weight-language T18 Major
+A14	Weight-understanding T18 Minor
+#18	AnnotatorNotes T18	proportion
+T19	Noun_number 657 665	children
+A15	Cause T19 Other
+A16	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	child
+T20	lex_item_choice 701 707	number
+A17	Cause T20 Other
+A18	Weight-language T20 Minor
+A19	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	the part
+T21	Tense_choice 721 725	have
+A20	Cause T21 Other
+A21	Weight-language T21 Major
+A22	Weight-understanding T21 Major
+#21	AnnotatorNotes T21	had
+T22	Tense_choice 748 774	have considerably declined
+A23	Cause T22 Other
+A24	Weight-language T22 Major
+A25	Weight-understanding T22 Major
+#22	AnnotatorNotes T22	had considerably declined
+T24	Word_choice 832 849	is a bit hesitant
+A26	Cause T24 Other
+A27	Weight-language T24 Major
+A28	Weight-understanding T24 Major
+T25	Absence_explanation 699 700	,
+A29	Addition T25
+A30	Cause T25 Other
+A31	Weight-language T25 Minor
+A32	Weight-understanding T25 Minor
+#23	AnnotatorNotes T25	, by the end of the period under investigation
+T26	Coherence 933 941	slightly
+A33	Cause T26 Other
+A34	Weight-language T26 Major
+A35	Weight-understanding T26 Major
+#24	AnnotatorNotes T26	to almost twice as high
+#25	AnnotatorNotes T24	had not changed much but 
+T7	Punctuation 849 852	(we
+A36	Cause T7 Typo
+A37	Weight-language T7 Minor
+A38	Weight-understanding T7 Minor
+#9	AnnotatorNotes T7	 we
+T10	Articles 970 984	average number
+A39	Cause T10 Absence_of_Category_in_L1
+A40	Weight-language T10 Major
+A41	Weight-understanding T10 Major
+#2	AnnotatorNotes T10	the average number
+T23	Spelling 1085 1092	carrier
+A42	Cause T23 Typo
+A43	Weight-language T23 Major
+A44	Weight-understanding T23 Critical
+#26	AnnotatorNotes T23	career
+T27	Punctuation 1092 1096	,but
+A45	Cause T27 Typo
+A46	Weight-language T27 Minor
+A47	Weight-understanding T27 Minor
+#27	AnnotatorNotes T27	 but
+T28	pos_DT 0 3	The
+#28	AnnotatorNotes T28	lemma = 'the'
+T29	pos_NN 4 9	table
+#29	AnnotatorNotes T29	lemma = 'table'
+T30	pos_VBZ 10 21	illustrates
+#30	AnnotatorNotes T30	lemma = 'illustrate'
+T31	pos_DT 22 25	the
+#31	AnnotatorNotes T31	lemma = 'the'
+T32	pos_NN 26 32	number
+#32	AnnotatorNotes T32	lemma = 'number'
+T33	pos_IN 33 35	of
+#33	AnnotatorNotes T33	lemma = 'of'
+T34	pos_NNS 36 44	children
+#34	AnnotatorNotes T34	lemma = 'child'
+T35	pos_VBN 45 49	born
+#35	AnnotatorNotes T35	lemma = 'bear'
+T36	pos_TO 50 52	to
+#36	AnnotatorNotes T36	lemma = 'to'
+T37	pos_NNS 53 58	women
+#37	AnnotatorNotes T37	lemma = 'woman'
+T38	pos_VBN 59 63	aged
+#38	AnnotatorNotes T38	lemma = 'age'
+T39	pos_Z 64 69	40-44
+#39	AnnotatorNotes T39	lemma = '40-44'
+T40	pos_NNS 70 75	years
+#40	AnnotatorNotes T40	lemma = 'year'
+T41	pos_IN 76 81	since
+#41	AnnotatorNotes T41	lemma = 'since'
+T42	pos_Z 82 86	1981
+#42	AnnotatorNotes T42	lemma = '1981'
+T43	pos_TO 87 89	to
+#43	AnnotatorNotes T43	lemma = 'to'
+T44	pos_Z 90 94	2006
+#44	AnnotatorNotes T44	lemma = '2006'
+T45	pos_Fp 94 95	.
+#45	AnnotatorNotes T45	lemma = '.'
+T46	pos_IN 96 98	As
+#46	AnnotatorNotes T46	lemma = 'as'
+T47	pos_PRP 99 101	we
+#47	AnnotatorNotes T47	lemma = 'we'
+T48	pos_MD 102 105	can
+#48	AnnotatorNotes T48	lemma = 'can'
+T49	pos_VB 106 109	see
+#49	AnnotatorNotes T49	lemma = 'see'
+T50	pos_Fc 109 110	,
+#50	AnnotatorNotes T50	lemma = ','
+T51	pos_IN 111 113	in
+#51	AnnotatorNotes T51	lemma = 'in'
+T52	pos_W 114 118	1981
+#52	AnnotatorNotes T52	lemma = '[??:??/??/1981:??.??:??]'
+T53	pos_RBS 119 123	most
+#53	AnnotatorNotes T53	lemma = 'many'
+T54	pos_NNS 124 129	women
+#54	AnnotatorNotes T54	lemma = 'woman'
+T55	pos_VBN 130 139	preferred
+#55	AnnotatorNotes T55	lemma = 'prefer'
+T56	pos_TO 140 142	to
+#56	AnnotatorNotes T56	lemma = 'to'
+T57	pos_VB 143 147	have
+#57	AnnotatorNotes T57	lemma = 'have'
+T58	pos_Z 148 151	two
+#58	AnnotatorNotes T58	lemma = '2'
+T59	pos_NNS 152 160	children
+#59	AnnotatorNotes T59	lemma = 'child'
+T60	pos_Fc 160 161	,
+#60	AnnotatorNotes T60	lemma = ','
+T61	pos_CC 162 165	and
+#61	AnnotatorNotes T61	lemma = 'and'
+T62	pos_DT 166 170	this
+#62	AnnotatorNotes T62	lemma = 'this'
+T63	pos_VBP 171 175	tend
+#63	AnnotatorNotes T63	lemma = 'tend'
+T64	pos_NNS 176 182	remans
+#64	AnnotatorNotes T64	lemma = 'remans'
+T65	pos_JJ 183 189	stable
+#65	AnnotatorNotes T65	lemma = 'stable'
+T66	pos_IN 190 194	from
+#66	AnnotatorNotes T66	lemma = 'from'
+T67	pos_NN 195 199	year
+#67	AnnotatorNotes T67	lemma = 'year'
+T68	pos_TO 200 202	to
+#68	AnnotatorNotes T68	lemma = 'to'
+T69	pos_NN 203 207	year
+#69	AnnotatorNotes T69	lemma = 'year'
+T70	pos_IN 208 212	till
+#70	AnnotatorNotes T70	lemma = 'till'
+T71	pos_Z 213 217	2006
+#71	AnnotatorNotes T71	lemma = '2006'
+T72	pos_Fp 217 218	.
+#72	AnnotatorNotes T72	lemma = '.'
+T73	pos_DT 219 223	This
+#73	AnnotatorNotes T73	lemma = 'this'
+T74	pos_NN 224 229	index
+#74	AnnotatorNotes T74	lemma = 'index'
+T75	pos_VBZ 230 237	reaches
+#75	AnnotatorNotes T75	lemma = 'reach'
+T76	pos_PRP2 238 241	its
+#76	AnnotatorNotes T76	lemma = 'its'
+T77	pos_NN 242 246	peak
+#77	AnnotatorNotes T77	lemma = 'peak'
+T78	pos_IN 247 249	in
+#78	AnnotatorNotes T78	lemma = 'in'
+T79	pos_W 250 254	2006
+#79	AnnotatorNotes T79	lemma = '[??:??/??/2006:??.??:??]'
+T80	pos_Fc 254 255	,
+#80	AnnotatorNotes T80	lemma = ','
+T81	pos_Z 256 260	38.3
+#81	AnnotatorNotes T81	lemma = '38.3'
+T82	pos_NN 261 268	percent
+#82	AnnotatorNotes T82	lemma = 'percent'
+T83	pos_IN 269 271	of
+#83	AnnotatorNotes T83	lemma = 'of'
+T84	pos_NNS 272 277	women
+#84	AnnotatorNotes T84	lemma = 'woman'
+T85	pos_WP 278 281	who
+#85	AnnotatorNotes T85	lemma = 'who'
+T86	pos_VBD 282 285	had
+#86	AnnotatorNotes T86	lemma = 'have'
+T87	pos_Z 286 289	two
+#87	AnnotatorNotes T87	lemma = '2'
+T88	pos_NNS 290 298	children
+#88	AnnotatorNotes T88	lemma = 'child'
+T89	pos_Fp 298 299	.
+#89	AnnotatorNotes T89	lemma = '.'
+T90	pos_RB 300 307	However
+#90	AnnotatorNotes T90	lemma = 'however'
+T91	pos_Fc 307 308	,
+#91	AnnotatorNotes T91	lemma = ','
+T92	pos_DT 309 312	the
+#92	AnnotatorNotes T92	lemma = 'the'
+T93	pos_JJ 313 320	minimum
+#93	AnnotatorNotes T93	lemma = 'minimum'
+T94	pos_NN 321 328	measure
+#94	AnnotatorNotes T94	lemma = 'measure'
+T95	pos_VBZ 329 332	has
+#95	AnnotatorNotes T95	lemma = 'have'
+T96	pos_RB 333 343	remarkably
+#96	AnnotatorNotes T96	lemma = 'remarkably'
+T97	pos_VBN 344 351	changed
+#97	AnnotatorNotes T97	lemma = 'change'
+T98	pos_Fp 351 352	.
+#98	AnnotatorNotes T98	lemma = '.'
+T99	pos_IN 353 355	In
+#99	AnnotatorNotes T99	lemma = 'in'
+T100	pos_W 356 360	1981
+#100	AnnotatorNotes T100	lemma = '[??:??/??/1981:??.??:??]'
+T101	pos_NN 361 369	minority
+#101	AnnotatorNotes T101	lemma = 'minority'
+T102	pos_VBN 370 379	preferred
+#102	AnnotatorNotes T102	lemma = 'prefer'
+T103	pos_TO 380 382	to
+#103	AnnotatorNotes T103	lemma = 'to'
+T104	pos_VB 383 387	have
+#104	AnnotatorNotes T104	lemma = 'have'
+T105	pos_DT 388 391	the
+#105	AnnotatorNotes T105	lemma = 'the'
+T106	pos_JJ 392 396	only
+#106	AnnotatorNotes T106	lemma = 'only'
+T107	pos_NN 397 400	one
+#107	AnnotatorNotes T107	lemma = 'one'
+T108	pos_NN 401 406	child
+#108	AnnotatorNotes T108	lemma = 'child'
+T109	pos_Fpa 406 407	(
+#109	AnnotatorNotes T109	lemma = '('
+T110	pos_Zp 407 411	7,6%
+#110	AnnotatorNotes T110	lemma = '7,6/100'
+T111	pos_Fpt 411 412	)
+#111	AnnotatorNotes T111	lemma = ')'
+T112	pos_Fc 412 413	,
+#112	AnnotatorNotes T112	lemma = ','
+T113	pos_IN 414 416	in
+#113	AnnotatorNotes T113	lemma = 'in'
+T114	pos_W 417 421	1986
+#114	AnnotatorNotes T114	lemma = '[??:??/??/1986:??.??:??]'
+T115	pos_CC 422 425	and
+#115	AnnotatorNotes T115	lemma = 'and'
+T116	pos_Z 426 430	1996
+#116	AnnotatorNotes T116	lemma = '1996'
+T117	pos_DT 431 435	this
+#117	AnnotatorNotes T117	lemma = 'this'
+T118	pos_NN 436 446	percentage
+#118	AnnotatorNotes T118	lemma = 'percentage'
+T119	pos_RB 447 453	gently
+#119	AnnotatorNotes T119	lemma = 'gently'
+T120	pos_VBD 454 463	increased
+#120	AnnotatorNotes T120	lemma = 'increase'
+T121	pos_Fpa 464 465	(
+#121	AnnotatorNotes T121	lemma = '('
+T122	pos_Zp 465 469	8,7%
+#122	AnnotatorNotes T122	lemma = '8,7/100'
+T123	pos_CC 470 473	and
+#123	AnnotatorNotes T123	lemma = 'and'
+T124	pos_Zp 474 479	11,3%
+#124	AnnotatorNotes T124	lemma = '11,3/100'
+T125	pos_Fpt 479 480	)
+#125	AnnotatorNotes T125	lemma = ')'
+T126	pos_Fc 480 481	,
+#126	AnnotatorNotes T126	lemma = ','
+T127	pos_CC 482 485	but
+#127	AnnotatorNotes T127	lemma = 'but'
+T128	pos_RB 486 491	still
+#128	AnnotatorNotes T128	lemma = 'still'
+T129	pos_VBD 492 500	remained
+#129	AnnotatorNotes T129	lemma = 'remain'
+T130	pos_DT 501 504	the
+#130	AnnotatorNotes T130	lemma = 'the'
+T131	pos_JJS 505 513	smallest
+#131	AnnotatorNotes T131	lemma = 'small'
+T132	pos_NN 514 517	one
+#132	AnnotatorNotes T132	lemma = 'one'
+T133	pos_CC 518 521	and
+#133	AnnotatorNotes T133	lemma = 'and'
+T134	pos_IN 522 524	in
+#134	AnnotatorNotes T134	lemma = 'in'
+T135	pos_W 525 529	2006
+#135	AnnotatorNotes T135	lemma = '[??:??/??/2006:??.??:??]'
+T136	pos_DT 530 533	the
+#136	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 534 543	situation
+#137	AnnotatorNotes T137	lemma = 'situation'
+T138	pos_VBZ 544 547	has
+#138	AnnotatorNotes T138	lemma = 'have'
+T139	pos_RB 548 558	relatively
+#139	AnnotatorNotes T139	lemma = 'relatively'
+T140	pos_VBN 559 566	changed
+#140	AnnotatorNotes T140	lemma = 'change'
+T141	pos_Fd 566 567	:
+#141	AnnotatorNotes T141	lemma = ':'
+T142	pos_DT 568 571	the
+#142	AnnotatorNotes T142	lemma = 'the'
+T143	pos_JJS 572 577	least
+#143	AnnotatorNotes T143	lemma = 'little'
+T144	pos_NN 578 584	number
+#144	AnnotatorNotes T144	lemma = 'number'
+T145	pos_IN 585 587	of
+#145	AnnotatorNotes T145	lemma = 'of'
+T146	pos_NNS 588 593	women
+#146	AnnotatorNotes T146	lemma = 'woman'
+T147	pos_VBD 594 597	had
+#147	AnnotatorNotes T147	lemma = 'have'
+T148	pos_Z 598 602	four
+#148	AnnotatorNotes T148	lemma = '4'
+T149	pos_CC 603 605	or
+#149	AnnotatorNotes T149	lemma = 'or'
+T150	pos_RBR 606 610	more
+#150	AnnotatorNotes T150	lemma = 'many'
+T151	pos_NNS 611 619	children
+#151	AnnotatorNotes T151	lemma = 'child'
+T152	pos_Fpa 619 620	(
+#152	AnnotatorNotes T152	lemma = '('
+T153	pos_Zp 620 623	11%
+#153	AnnotatorNotes T153	lemma = '11/100'
+T154	pos_Fpt 623 624	)
+#154	AnnotatorNotes T154	lemma = ')'
+T155	pos_Fc 624 625	,
+#155	AnnotatorNotes T155	lemma = ','
+T156	pos_CC 626 629	and
+#156	AnnotatorNotes T156	lemma = 'and'
+T157	pos_NN 630 638	quantity
+#157	AnnotatorNotes T157	lemma = 'quantity'
+T158	pos_IN 639 641	of
+#158	AnnotatorNotes T158	lemma = 'of'
+T159	pos_NNS 642 647	women
+#159	AnnotatorNotes T159	lemma = 'woman'
+T160	pos_IN 648 652	with
+#160	AnnotatorNotes T160	lemma = 'with'
+T161	pos_DT 653 656	one
+#161	AnnotatorNotes T161	lemma = 'one'
+T162	pos_NNS 657 665	children
+#162	AnnotatorNotes T162	lemma = 'child'
+T163	pos_VBD 666 672	became
+#163	AnnotatorNotes T163	lemma = 'become'
+T164	pos_RB 673 681	slightly
+#164	AnnotatorNotes T164	lemma = 'slightly'
+T165	pos_JJR 682 688	bigger
+#165	AnnotatorNotes T165	lemma = 'big'
+T166	pos_Fpa 688 689	(
+#166	AnnotatorNotes T166	lemma = '('
+T167	pos_Zp 689 694	13,2%
+#167	AnnotatorNotes T167	lemma = '13,2/100'
+T168	pos_Fpt 694 695	)
+#168	AnnotatorNotes T168	lemma = ')'
+T169	pos_Fp 695 696	.
+#169	AnnotatorNotes T169	lemma = '.'
+T170	pos_RB 697 699	So
+#170	AnnotatorNotes T170	lemma = 'so'
+T171	pos_Fc 699 700	,
+#171	AnnotatorNotes T171	lemma = ','
+T172	pos_NN 701 707	number
+#172	AnnotatorNotes T172	lemma = 'number'
+T173	pos_IN 708 710	of
+#173	AnnotatorNotes T173	lemma = 'of'
+T174	pos_NNS 711 716	women
+#174	AnnotatorNotes T174	lemma = 'woman'
+T175	pos_WP 717 720	who
+#175	AnnotatorNotes T175	lemma = 'who'
+T176	pos_VBP 721 725	have
+#176	AnnotatorNotes T176	lemma = 'have'
+T177	pos_Z 726 730	four
+#177	AnnotatorNotes T177	lemma = '4'
+T178	pos_CC 731 733	or
+#178	AnnotatorNotes T178	lemma = 'or'
+T179	pos_RBR 734 738	more
+#179	AnnotatorNotes T179	lemma = 'many'
+T180	pos_NNS 739 747	children
+#180	AnnotatorNotes T180	lemma = 'child'
+T181	pos_VBP 748 752	have
+#181	AnnotatorNotes T181	lemma = 'have'
+T182	pos_RB 753 765	considerably
+#182	AnnotatorNotes T182	lemma = 'considerably'
+T183	pos_VBD 766 774	declined
+#183	AnnotatorNotes T183	lemma = 'decline'
+T184	pos_Fpa 775 776	(
+#184	AnnotatorNotes T184	lemma = '('
+T185	pos_IN 776 780	from
+#185	AnnotatorNotes T185	lemma = 'from'
+T186	pos_Zp 781 786	27,6%
+#186	AnnotatorNotes T186	lemma = '27,6/100'
+T187	pos_TO 787 789	to
+#187	AnnotatorNotes T187	lemma = 'to'
+T188	pos_Zp 790 793	11%
+#188	AnnotatorNotes T188	lemma = '11/100'
+T189	pos_Fpt 793 794	)
+#189	AnnotatorNotes T189	lemma = ')'
+T190	pos_Fc 794 795	,
+#190	AnnotatorNotes T190	lemma = ','
+T191	pos_NN 796 802	number
+#191	AnnotatorNotes T191	lemma = 'number'
+T192	pos_IN 803 805	of
+#192	AnnotatorNotes T192	lemma = 'of'
+T193	pos_NNS 806 811	women
+#193	AnnotatorNotes T193	lemma = 'woman'
+T194	pos_IN 812 816	with
+#194	AnnotatorNotes T194	lemma = 'with'
+T195	pos_Z 817 822	three
+#195	AnnotatorNotes T195	lemma = '3'
+T196	pos_NNS 823 831	children
+#196	AnnotatorNotes T196	lemma = 'child'
+T197	pos_VBZ 832 834	is
+#197	AnnotatorNotes T197	lemma = 'be'
+T198	pos_RB 835 840	a bit
+#198	AnnotatorNotes T198	lemma = 'a_bit'
+T199	pos_JJ 841 849	hesitant
+#199	AnnotatorNotes T199	lemma = 'hesitant'
+T200	pos_Fpa 849 850	(
+#200	AnnotatorNotes T200	lemma = '('
+T201	pos_PRP 850 852	we
+#201	AnnotatorNotes T201	lemma = 'we'
+T202	pos_MD 853 856	can
+#202	AnnotatorNotes T202	lemma = 'can'
+T203	pos_VB 857 863	notice
+#203	AnnotatorNotes T203	lemma = 'notice'
+T204	pos_DT 864 865	a
+#204	AnnotatorNotes T204	lemma = 'a'
+T205	pos_NN 866 874	tendency
+#205	AnnotatorNotes T205	lemma = 'tendency'
+T206	pos_TO 875 877	to
+#206	AnnotatorNotes T206	lemma = 'to'
+T207	pos_VB 878 884	reduce
+#207	AnnotatorNotes T207	lemma = 'reduce'
+T208	pos_Fc 884 885	,
+#208	AnnotatorNotes T208	lemma = ','
+T209	pos_CC 886 889	and
+#209	AnnotatorNotes T209	lemma = 'and'
+T210	pos_DT 890 893	the
+#210	AnnotatorNotes T210	lemma = 'the'
+T211	pos_NN 894 900	number
+#211	AnnotatorNotes T211	lemma = 'number'
+T212	pos_IN 901 903	of
+#212	AnnotatorNotes T212	lemma = 'of'
+T213	pos_NNS 904 909	women
+#213	AnnotatorNotes T213	lemma = 'woman'
+T214	pos_IN 910 917	without
+#214	AnnotatorNotes T214	lemma = 'without'
+T215	pos_NNS 918 926	children
+#215	AnnotatorNotes T215	lemma = 'child'
+T216	pos_VBN 927 932	risen
+#216	AnnotatorNotes T216	lemma = 'rise'
+T217	pos_RB 933 941	slightly
+#217	AnnotatorNotes T217	lemma = 'slightly'
+T218	pos_Fpa 942 943	(
+#218	AnnotatorNotes T218	lemma = '('
+T219	pos_Zp 943 947	8,5%
+#219	AnnotatorNotes T219	lemma = '8,5/100'
+T220	pos_TO 948 950	to
+#220	AnnotatorNotes T220	lemma = 'to'
+T221	pos_Zp 951 956	15,9%
+#221	AnnotatorNotes T221	lemma = '15,9/100'
+T222	pos_Fpt 956 957	)
+#222	AnnotatorNotes T222	lemma = ')'
+T223	pos_Fp 957 958	.
+#223	AnnotatorNotes T223	lemma = '.'
+T224	pos_TO 959 961	To
+#224	AnnotatorNotes T224	lemma = 'to'
+T225	pos_VB 962 965	sum
+#225	AnnotatorNotes T225	lemma = 'sum'
+T226	pos_RP 966 968	up
+#226	AnnotatorNotes T226	lemma = 'up'
+T227	pos_Fc 968 969	,
+#227	AnnotatorNotes T227	lemma = ','
+T228	pos_JJ 970 977	average
+#228	AnnotatorNotes T228	lemma = 'average'
+T229	pos_NN 978 984	number
+#229	AnnotatorNotes T229	lemma = 'number'
+T230	pos_IN 985 987	of
+#230	AnnotatorNotes T230	lemma = 'of'
+T231	pos_NNS 988 996	children
+#231	AnnotatorNotes T231	lemma = 'child'
+T232	pos_VBN 997 1001	born
+#232	AnnotatorNotes T232	lemma = 'bear'
+T233	pos_TO 1002 1004	to
+#233	AnnotatorNotes T233	lemma = 'to'
+T234	pos_DT 1005 1008	one
+#234	AnnotatorNotes T234	lemma = 'one'
+T235	pos_NNS 1009 1014	women
+#235	AnnotatorNotes T235	lemma = 'woman'
+T236	pos_VBZ 1015 1018	has
+#236	AnnotatorNotes T236	lemma = 'have'
+T237	pos_VBN 1019 1028	decreased
+#237	AnnotatorNotes T237	lemma = 'decrease'
+T238	pos_RB 1029 1036	because
+#238	AnnotatorNotes T238	lemma = 'because'
+T239	pos_IN 1037 1041	from
+#239	AnnotatorNotes T239	lemma = 'from'
+T240	pos_NN 1042 1046	year
+#240	AnnotatorNotes T240	lemma = 'year'
+T241	pos_TO 1047 1049	to
+#241	AnnotatorNotes T241	lemma = 'to'
+T242	pos_NN 1050 1054	year
+#242	AnnotatorNotes T242	lemma = 'year'
+T243	pos_RBR 1055 1059	more
+#243	AnnotatorNotes T243	lemma = 'many'
+T244	pos_NNS 1060 1065	women
+#244	AnnotatorNotes T244	lemma = 'woman'
+T245	pos_NN 1066 1072	accent
+#245	AnnotatorNotes T245	lemma = 'accent'
+T246	pos_IN 1073 1075	on
+#246	AnnotatorNotes T246	lemma = 'on'
+T247	pos_NN 1076 1080	work
+#247	AnnotatorNotes T247	lemma = 'work'
+T248	pos_CC 1081 1084	and
+#248	AnnotatorNotes T248	lemma = 'and'
+T249	pos_NN 1085 1092	carrier
+#249	AnnotatorNotes T249	lemma = 'carrier'
+T250	pos_Fc 1092 1093	,
+#250	AnnotatorNotes T250	lemma = ','
+T251	pos_CC 1093 1096	but
+#251	AnnotatorNotes T251	lemma = 'but'
+T252	pos_RB 1097 1100	not
+#252	AnnotatorNotes T252	lemma = 'not'
+T253	pos_IN 1101 1103	on
+#253	AnnotatorNotes T253	lemma = 'on'
+T254	pos_PRP2 1104 1109	their
+#254	AnnotatorNotes T254	lemma = 'their'
+T255	pos_NN 1110 1116	family
+#255	AnnotatorNotes T255	lemma = 'family'
+T256	pos_Fp 1116 1117	.
+#256	AnnotatorNotes T256	lemma = '.'

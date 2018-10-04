@@ -1,0 +1,110 @@
+T1	lex_item_choice 30 32	is
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	concerns
+T2	Prepositions 86 100	, according to
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	by people of different
+T3	Absence_comp_sent 86 100	, according to
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	by people of different
+T4	Articles 101 111	the gender
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	gender
+T5	Prepositions 134 138	From
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	Thanks to OR Because of
+T6	Prepositional_verb 352 360	amounted
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	amounted to
+T7	Absence_explanation 372 375	13%
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	13% of its holders
+T8	Punctuation 377 384	however
+A22	Cause T8 Other
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	however,
+T9	lex_item_choice 389 394	level
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	percentage
+T10	Noun_number 609 619	proportion
+A28	Cause T10 L1_interference
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	proportions
+T11	Tense_form 628 630	is
+A31	Cause T11 Other
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	are
+T12	Ref_device 623 627	them
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	both genders
+T13	Absence_explanation 588 595	equally
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	equally frequently
+T14	Spelling 673 681	prefered
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	preferred
+T15	Absence_explanation 673 681	prefered
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Major
+#15	AnnotatorNotes T15	more often preferred
+T16	Prepositional_verb 747 754	counted
+A46	Cause T16 Other
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	counted for
+T17	Redundant_comp 765 789	comparing to men's level
+A49	Cause T17 Other
+A50	Weight-language T17 Major
+A51	Weight-understanding T17 Major
+A52	Delete T17
+T18	Prepositions 765 777	comparing to
+A53	Cause T18 Other
+A54	Weight-language T18 Critical
+A55	Weight-understanding T18 Critical
+#17	AnnotatorNotes T18	of
+T19	lex_item_choice 784 789	level
+A56	Cause T19 Other
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	percentage
+T20	Linking_device 791 798	Finally
+A59	Cause T20 Other
+A60	Weight-language T20 Major
+A61	Weight-understanding T20 Major
+#19	AnnotatorNotes T20	To end up
+T21	Prepositional_verb 892 899	counted
+A62	Cause T21 Other
+A63	Weight-language T21 Major
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	counted for
+T22	Ref_device 992 1002	males' one
+A65	Cause T22 Other
+A66	Weight-language T22 Major
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	for males it

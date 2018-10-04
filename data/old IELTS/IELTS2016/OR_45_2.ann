@@ -1,0 +1,56 @@
+T1	Spelling 350 357	decreas
+#1	AnnotatorNotes T1	decrease
+T2	lex_item_choice 350 357	decreas
+#2	AnnotatorNotes T2	reduce
+T3	Determiners 413 420	century
+#3	AnnotatorNotes T3	the century
+T4	Spelling 448 453	lifes
+#4	AnnotatorNotes T4	lives
+T5	Agreement_errors 484 490	hasn’t
+#5	AnnotatorNotes T5	have not
+T6	Prepositions 517 520	for
+#6	AnnotatorNotes T6	to
+T7	Spelling 548 552	safe
+#7	AnnotatorNotes T7	save
+T8	Prepositions 596 598	to
+A1	Delete T8
+T9	Often_confused 588 595	achieve
+A2	Cause T9 L1_interference
+#8	AnnotatorNotes T9	reach
+T10	Determiners 644 663	very important part
+#9	AnnotatorNotes T10	a very important part
+T11	Category_confusion 676 681	argue
+#10	AnnotatorNotes T11	argument
+T12	Agreement_errors 713 722	introduce
+#11	AnnotatorNotes T12	introduces
+T13	lex_item_choice 739 747	increase
+T14	Category_confusion 939 948	dangerous
+#12	AnnotatorNotes T14	danger
+T15	Voice 996 1010	will not solve
+#13	AnnotatorNotes T15	will not be solved
+T16	Tense_choice 1012 1042	even there is no planes at all
+#14	AnnotatorNotes T16	even if there is no planes at all
+T17	Agreement_errors 1023 1025	is
+#15	AnnotatorNotes T17	are
+T18	Category_confusion 1054 1059	argue
+#16	AnnotatorNotes T18	argument
+T19	Spelling 1068 1076	anouther
+#17	AnnotatorNotes T19	another
+T20	Word_choice 1077 1087	transports
+#18	AnnotatorNotes T20	kinds of transport
+T21	Category_confusion 1120 1132	enviromental
+#19	AnnotatorNotes T21	environment
+T22	Possessive 1147 1159	car’s gasses
+#20	AnnotatorNotes T22	gasses from cars
+T23	Punctuation 1187 1197	especially
+#21	AnnotatorNotes T23	, especially
+T24	Punctuation 1298 1301	but
+#22	AnnotatorNotes T24	, but
+T25	Punctuation 1318 1319	,
+A3	Delete T25
+T26	Punctuation 1396 1397	,
+A4	Delete T26
+T27	Determiners 1467 1471	part
+#23	AnnotatorNotes T27	the part
+T28	Absence_comp_colloc 1467 1471	part
+#24	AnnotatorNotes T28	the essential part

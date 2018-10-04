@@ -1,0 +1,58 @@
+T1	lex_item_choice 11 21	illustrate
+#1	AnnotatorNotes T1	provide
+T2	Articles 22 33	information
+#2	AnnotatorNotes T2	the information
+T3	Punctuation 198 206	, on 10%
+#3	AnnotatorNotes T3	(in 10%)
+T4	Prepositions 200 202	on
+A1	Cause T4 L1_interference
+#4	AnnotatorNotes T4	in 
+T5	Absence_comp_sent 240 284	metals goods transported by road, but on 24%
+#5	AnnotatorNotes T5	metals transported by road had 24%
+T6	Redundant 247 252	goods
+A2	Delete T6
+T7	Absence_comp_sent 312 318	charts
+#6	AnnotatorNotes T7	rail chart
+T8	Noun_number 312 318	charts
+#7	AnnotatorNotes T8	rail chart
+T9	Prepositions 305 318	on the charts
+#8	AnnotatorNotes T9	in the rail chart
+T10	Prepositions 394 399	on 3%
+#9	AnnotatorNotes T10	by 3%
+T11	Redundant 415 418	pay
+A3	Delete T11
+T12	Comparative_constr 424 430	a main
+#10	AnnotatorNotes T12	the biggest
+T13	lex_item_choice 431 435	rose
+#11	AnnotatorNotes T13	increase 
+T14	Prepositions 436 442	on 19%
+#12	AnnotatorNotes T14	by 19%
+T15	Negation 488 501	significantly
+#13	AnnotatorNotes T15	not significantly
+T16	lex_item_choice 507 510	pay
+#14	AnnotatorNotes T16	part
+T17	Redundant 524 529	goods
+A4	Delete T17
+T18	Spelling 550 555	rised
+#15	AnnotatorNotes T18	rose
+T19	Prepositions 561 563	5%
+#16	AnnotatorNotes T19	by 5%
+T20	Redundant 587 590	pay
+A5	Delete T20
+T21	Absence_explanation 625 630	goods
+#17	AnnotatorNotes T21	such goods
+T22	Comparative_constr 682 690	are more
+#18	AnnotatorNotes T22	has more percentages
+T23	Absence_explanation 732 737	goods
+#19	AnnotatorNotes T23	such goods
+T24	Absence_comp_sent 709 728	more transportation
+#20	AnnotatorNotes T24	there were more transportation
+T25	Redundant 824 834	pay charts
+A6	Delete T25
+#21	AnnotatorNotes T25	charts
+T26	Redundant 840 851	predict and
+A7	Delete T26
+T27	lex_item_choice 881 931	metals, machinery transorted by rail more possible
+#22	AnnotatorNotes T27	metals, machinery is more comfortable to transport by rail
+T28	Standard 881 931	metals, machinery transorted by rail more possible
+#23	AnnotatorNotes T28	metals, machinery is more comfortable to transport by rail

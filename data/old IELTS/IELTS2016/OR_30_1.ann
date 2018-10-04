@@ -1,0 +1,36 @@
+T1	Word_choice 88 98	part chart
+#1	AnnotatorNotes T1	bar chart
+T2	Agreement_errors 99 103	give
+#2	AnnotatorNotes T2	gives
+T3	Determiners 126 132	number
+#3	AnnotatorNotes T3	the number
+T4	Tense_choice 178 183	don’t
+#4	AnnotatorNotes T4	did not
+T5	lex_item_choice 234 238	peak
+#5	AnnotatorNotes T5	number
+T6	Absence_comp_sent 282 322	23.7 millions girls and 20 millions boys
+#6	AnnotatorNotes T6	there were 23.7 millions girls and 20 millions boys
+T7	Redundant 347 353	number
+A1	Delete T7
+T8	Tense_choice 372 377	don’t
+#7	AnnotatorNotes T8	didn't
+T9	Note_structure 400 417	the Rest of World
+#8	AnnotatorNotes T9	the rest of the world
+T10	Determiners 439 453	positive trend
+#9	AnnotatorNotes T10	a positive trend
+T11	Redundant 517 536	a dramatic decrease
+A2	Delete T11
+T12	Determiners 498 504	number
+#10	AnnotatorNotes T12	the number
+T13	Tense_choice 576 583	go down
+#11	AnnotatorNotes T13	went down
+T14	Agreement_errors 631 635	give
+#12	AnnotatorNotes T14	gives
+T15	Non_defining 650 651	,
+A3	Delete T15
+T16	Determiners 657 663	number
+#13	AnnotatorNotes T16	the number
+T17	Tense_choice 677 682	don’t
+#14	AnnotatorNotes T17	did not
+T18	Tense_choice 725 733	increase
+#15	AnnotatorNotes T18	increased

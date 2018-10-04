@@ -1,0 +1,22 @@
+T1	Redundant_comp 50 54	then
+A1	Delete T1
+T2	Redundant 129 134	years
+A2	Delete T2
+T3	Redundant 263 273	of profits
+A3	Delete T3
+T4	Spelling 439 446	percent
+#1	AnnotatorNotes T4	per cent
+T5	Punctuation 447 494	while the Apple rate is over 40 percent in 2010
+#2	AnnotatorNotes T5	, while the Apple rate is over 40 per cent in 2010
+T6	Prepositions 579 581	in
+#3	AnnotatorNotes T6	at
+T7	Tense_choice 771 779	continue
+#4	AnnotatorNotes T7	continued
+T8	Category_confusion 783 789	growth
+#5	AnnotatorNotes T8	grow
+T9	lex_item_choice 804 812	tendency
+#6	AnnotatorNotes T9	pace
+T10	Punctuation 737 812	after 2013 share profits of Apple continue to growth with the same tendency
+#7	AnnotatorNotes T10	after 2013 share profits of Apple continue to growth with the same tendency,
+T11	Redundant 825 835	of profits
+A4	Delete T11

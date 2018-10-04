@@ -1,0 +1,32 @@
+T1	Tense_choice 21 28	decides
+#1	AnnotatorNotes T1	has decided
+T2	Prepositions 210 212	to
+#2	AnnotatorNotes T2	with
+T3	Punctuation 259 266	Altough
+#3	AnnotatorNotes T3	Altough,
+T4	Redundant_comp 278 281	ago
+A1	Delete T4
+T5	Agreement_errors 313 316	was
+#4	AnnotatorNotes T5	were
+T6	Agreement_errors 307 312	money
+R1	Dependent_change Arg1:T5 Arg2:T6	
+T7	lex_item_choice 436 440	That
+#5	AnnotatorNotes T7	It
+T8	Punctuation 473 478	Earth
+#6	AnnotatorNotes T8	, Earth,
+T9	Noun_number 499 505	wastes
+#7	AnnotatorNotes T9	waste
+T10	Noun_number 507 517	pollutions
+#8	AnnotatorNotes T10	pollution
+T11	Punctuation 896 922	if the new planet is found
+#9	AnnotatorNotes T11	, if the new planet is found,
+T12	lex_item_choice 1080 1083	big
+#10	AnnotatorNotes T12	serious
+T13	Gerund_phrase 1323 1327	give
+#11	AnnotatorNotes T13	giving
+T14	Pronouns 1405 1407	it
+#12	AnnotatorNotes T14	them
+T15	Redundant_comp 1422 1424	it
+A2	Delete T15
+T16	note 1423 1424	t
+#13	AnnotatorNotes T16	Zavyalov

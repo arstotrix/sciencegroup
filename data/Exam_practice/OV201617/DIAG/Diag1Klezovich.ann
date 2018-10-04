@@ -1,0 +1,57 @@
+T1	Discourse 398 403	lower
+#1	AnnotatorNotes T1	lower in the USA
+T2	Suffix 404 413	comparing
+#2	AnnotatorNotes T2	compared
+T3	Ref_device 417 423	the UK
+#3	AnnotatorNotes T3	that in the UK
+T4	Absence_comp_sent 664 669	grows
+#4	AnnotatorNotes T4	grows with the increase in their income
+T5	lex_item_choice 867 878	percentages
+#5	AnnotatorNotes T5	countries
+T6	Discourse 1033 1110	whether it is convenient to use the Internet to search for information or not
+#6	AnnotatorNotes T6	whether or not it is convenient to use the Internet to search for information
+T7	suggestion 1197 1213	At the same time
+T8	Coherence 1315 1319	wise
+#7	AnnotatorNotes T8	wiser
+T9	lex_item_choice 1425 1435	consisting
+#8	AnnotatorNotes T9	presenting
+T10	suggestion 1580 1591	convenience
+T11	Spelling 1627 1630	fat
+T12	Superlative_adj 1646 1658	most easiest
+#9	AnnotatorNotes T12	easiest
+T13	suggestion 1916 1976	although the Internet seems very convenient, fast and useful
+T14	Spelling 2097 2104	can not
+#10	AnnotatorNotes T14	cannot
+T15	Coherence 2126 2138	of searching
+#11	AnnotatorNotes T15	we search
+T16	Punctuation 2216 2219	and
+#12	AnnotatorNotes T16	, and
+T17	Discourse 2463 2509	a suitable for your aims source of information
+#13	AnnotatorNotes T17	a source of information suitable for your needs
+T18	Vocabulary 2483 2487	aims
+T19	Redundant_comp 2580 2589	to buy it
+A1	Delete T19
+T20	lex_item_choice 2652 2658	notion
+#14	AnnotatorNotes T20	description
+T21	suggestion 2662 2666	type
+T22	Articles 2726 2734	the both
+#15	AnnotatorNotes T22	both
+T23	Gerund_phrase 2964 2969	trust
+#16	AnnotatorNotes T23	trusting
+T24	Discourse 3107 3122	the Internet is
+#17	AnnotatorNotes T24	the Internet being
+T25	Articles 3123 3140	perfect invention
+#18	AnnotatorNotes T25	a perfect invention
+T26	lex_item_choice 3178 3188	collecting
+#19	AnnotatorNotes T26	providing
+A2	Addition T11
+A3	Delete T11
+#20	AnnotatorNotes T11	fast
+A4	Addition T17
+A5	Delete T17
+A6	Cause T3 L1_interference
+A7	Cause T6 L1_interference
+A8	Cause T9 L1_interference
+A9	Cause T15 L1_interference
+A10	Cause T12 L1_interference
+A11	Cause T17 L1_interference

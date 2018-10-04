@@ -1,0 +1,44 @@
+T1	Determiners 1173 1177	less
+#1	AnnotatorNotes T1	fewer
+T2	Determiners 1193 1197	less
+#2	AnnotatorNotes T2	fewer
+T3	Absence_comp_sent 1207 1224	some other things
+#3	AnnotatorNotes T3	do some other things
+T4	lex_item_choice 50 71	a great air pollution
+#4	AnnotatorNotes T4	a great deal of great air pollution
+T5	Articles 76 92	a global warming
+#5	AnnotatorNotes T5	global warming
+R1	Parallel_construction Arg1:T5 Arg2:T4	
+T6	Ref_device 156 158	it
+#6	AnnotatorNotes T6	air travel
+T7	Capitalisation 185 190	there
+#7	AnnotatorNotes T7	There 
+T8	Possessive 274 287	modern people
+#8	AnnotatorNotes T8	modern people's
+T9	Ref_device 338 342	this
+#9	AnnotatorNotes T9	it
+T10	Spelling 516 527	settelments
+#10	AnnotatorNotes T10	settlements 
+T11	Capitalisation 397 411	Global warming
+#11	AnnotatorNotes T11	global warming
+T12	Punctuation 424 445	for example in Alaska
+#12	AnnotatorNotes T12	, for example in Alaska,
+T13	lex_item_choice 488 499	ice erosion
+#13	AnnotatorNotes T13	the thawing of the ice
+T14	Countable_uncountable 728 734	amount
+#14	AnnotatorNotes T14	numbers
+T15	Spelling 890 900	definetely
+#15	AnnotatorNotes T15	definitely
+T16	Emphatic 890 923	definetely, air travelling causes
+#16	AnnotatorNotes T16	air travel definetely causes
+T17	Articles 936 947	environment
+#17	AnnotatorNotes T17	the environment
+T18	Articles 917 932	causes a damage
+#18	AnnotatorNotes T18	causes damage
+T19	lex_item_choice 990 1003	look wider at
+A1	Cause T19 L1_interference
+#19	AnnotatorNotes T19	take a wider perspective on
+T20	Category_confusion 1129 1136	solving
+#20	AnnotatorNotes T20	solution
+T21	Articles 1230 1240	government
+#21	AnnotatorNotes T21	the government

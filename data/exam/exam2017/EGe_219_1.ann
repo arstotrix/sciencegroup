@@ -1,0 +1,12 @@
+T1	Redundant_comp 343 348	There
+A1	Delete T1
+T2	Standard 349 485	is presented in the first pie-chart the proportion between machinery, metails, manufactured goods and other products transported by rail
+#1	AnnotatorNotes T2	in the first pie-chart the proportion between machinery, metails, manufactured goods and other products transported by rail is presentated
+T3	Agreement_errors 597 604	occupes
+#2	AnnotatorNotes T3	occupe
+T4	Agreement_errors 622 627	goods
+R1	Dependent_change Arg1:T3 Arg2:T4	
+T5	Suffix 918 929	compatarion
+#3	AnnotatorNotes T5	comparison
+T6	note 1051 1052	)
+#4	AnnotatorNotes T6	Zavyalov

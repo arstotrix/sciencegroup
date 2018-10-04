@@ -1,0 +1,530 @@
+T1	lex_part_choice 120 122	In
+#1	AnnotatorNotes T1	To
+T2	Redundant_comp 518 523	it is
+A1	Delete T2
+T3	Articles 530 533	the
+A2	Delete T3
+T4	Punctuation 540 541	:
+#2	AnnotatorNotes T4	,
+T5	Absence_comp_sent 542 545	the
+#3	AnnotatorNotes T5	for a man
+T6	Articles 542 545	the
+#4	AnnotatorNotes T6	a
+T7	Absence_comp_sent 550 552	is
+#5	AnnotatorNotes T7	it is
+T8	Prepositions 705 709	From
+#6	AnnotatorNotes T8	Since
+T9	Articles 1012 1015	the
+A3	Delete T9
+T10	Spelling 1228 1235	can not
+#7	AnnotatorNotes T10	cannot
+T11	note 1241 1242	.
+#8	AnnotatorNotes T11	The essay sounds incomplete. You need the concluding part giving a clear answer to the question. The grade is 5.
+T12	pos_NNS 0 3	Men
+#9	AnnotatorNotes T12	lemma = 'man'
+T13	pos_VBP 4 7	are
+#10	AnnotatorNotes T13	lemma = 'be'
+T14	pos_RBR 8 12	more
+#11	AnnotatorNotes T14	lemma = 'many'
+T15	pos_VBN 13 23	interested
+#12	AnnotatorNotes T15	lemma = 'interest'
+T16	pos_IN 24 26	in
+#13	AnnotatorNotes T16	lemma = 'in'
+T17	pos_NN 27 32	sport
+#14	AnnotatorNotes T17	lemma = 'sport'
+T18	pos_IN 33 37	than
+#15	AnnotatorNotes T18	lemma = 'than'
+T19	pos_NNS 38 43	women
+#16	AnnotatorNotes T19	lemma = 'woman'
+T20	pos_Fp 43 44	.
+#17	AnnotatorNotes T20	lemma = '.'
+T21	pos_DT 45 53	A lot of
+#18	AnnotatorNotes T21	lemma = 'a_lot_of'
+T22	pos_NNS 54 60	people
+#19	AnnotatorNotes T22	lemma = 'people'
+T23	pos_VBP 61 68	believe
+#20	AnnotatorNotes T23	lemma = 'believe'
+T24	pos_WDT 69 73	that
+#21	AnnotatorNotes T24	lemma = 'that'
+T25	pos_NNS 74 77	men
+#22	AnnotatorNotes T25	lemma = 'man'
+T26	pos_VBP 78 81	are
+#23	AnnotatorNotes T26	lemma = 'be'
+T27	pos_VBN 82 92	interested
+#24	AnnotatorNotes T27	lemma = 'interest'
+T28	pos_IN 93 95	in
+#25	AnnotatorNotes T28	lemma = 'in'
+T29	pos_NNS 96 102	sports
+#26	AnnotatorNotes T29	lemma = 'sport'
+T30	pos_RBR 103 107	more
+#27	AnnotatorNotes T30	lemma = 'many'
+T31	pos_IN 108 112	than
+#28	AnnotatorNotes T31	lemma = 'than'
+T32	pos_NNS 113 118	women
+#29	AnnotatorNotes T32	lemma = 'woman'
+T33	pos_Fp 118 119	.
+#30	AnnotatorNotes T33	lemma = '.'
+T34	pos_IN 120 122	In
+#31	AnnotatorNotes T34	lemma = 'in'
+T35	pos_PRP2 123 125	my
+#32	AnnotatorNotes T35	lemma = 'my'
+T36	pos_NN 126 130	mind
+#33	AnnotatorNotes T36	lemma = 'mind'
+T37	pos_Fc 130 131	,
+#34	AnnotatorNotes T37	lemma = ','
+T38	pos_PRP 132 134	it
+#35	AnnotatorNotes T38	lemma = 'it'
+T39	pos_VBZ 135 137	is
+#36	AnnotatorNotes T39	lemma = 'be'
+T40	pos_JJ 138 142	true
+#37	AnnotatorNotes T40	lemma = 'true'
+T41	pos_RB 143 150	because
+#38	AnnotatorNotes T41	lemma = 'because'
+T42	pos_IN 151 153	if
+#39	AnnotatorNotes T42	lemma = 'if'
+T43	pos_PRP 154 157	you
+#40	AnnotatorNotes T43	lemma = 'you'
+T44	pos_VBP 158 162	look
+#41	AnnotatorNotes T44	lemma = 'look'
+T45	pos_IN 163 165	at
+#42	AnnotatorNotes T45	lemma = 'at'
+T46	pos_DT 166 169	the
+#43	AnnotatorNotes T46	lemma = 'the'
+T47	pos_NNS 170 174	fans
+#44	AnnotatorNotes T47	lemma = 'fan'
+T48	pos_IN 175 177	of
+#45	AnnotatorNotes T48	lemma = 'of'
+T49	pos_DT 178 181	any
+#46	AnnotatorNotes T49	lemma = 'any'
+T50	pos_NN 182 187	sport
+#47	AnnotatorNotes T50	lemma = 'sport'
+T51	pos_PRP 188 191	you
+#48	AnnotatorNotes T51	lemma = 'you'
+T52	pos_MD 192 195	can
+#49	AnnotatorNotes T52	lemma = 'can'
+T53	pos_VB 196 199	see
+#50	AnnotatorNotes T53	lemma = 'see'
+T54	pos_IN 200 204	that
+#51	AnnotatorNotes T54	lemma = 'that'
+T55	pos_EX 205 210	there
+#52	AnnotatorNotes T55	lemma = 'there'
+T56	pos_VBP 211 214	are
+#53	AnnotatorNotes T56	lemma = 'be'
+T57	pos_RBR 215 219	more
+#54	AnnotatorNotes T57	lemma = 'many'
+T58	pos_NNS 220 223	men
+#55	AnnotatorNotes T58	lemma = 'man'
+T59	pos_IN 224 228	than
+#56	AnnotatorNotes T59	lemma = 'than'
+T60	pos_NNS 229 234	women
+#57	AnnotatorNotes T60	lemma = 'woman'
+T61	pos_Fp 234 235	.
+#58	AnnotatorNotes T61	lemma = '.'
+T62	pos_JJ 236 241	First
+#59	AnnotatorNotes T62	lemma = '1'
+T63	pos_IN 242 244	of
+#60	AnnotatorNotes T63	lemma = 'of'
+T64	pos_DT 245 248	all
+#61	AnnotatorNotes T64	lemma = 'all'
+T65	pos_Fc 248 249	,
+#62	AnnotatorNotes T65	lemma = ','
+T66	pos_DT 250 253	the
+#63	AnnotatorNotes T66	lemma = 'the'
+T67	pos_NN 254 261	passion
+#64	AnnotatorNotes T67	lemma = 'passion'
+T68	pos_TO 262 264	to
+#65	AnnotatorNotes T68	lemma = 'to'
+T69	pos_VB 265 272	compete
+#66	AnnotatorNotes T69	lemma = 'compete'
+T70	pos_VBZ 273 276	has
+#67	AnnotatorNotes T70	lemma = 'have'
+T71	pos_VBN 277 281	been
+#68	AnnotatorNotes T71	lemma = 'be'
+T72	pos_VBN 282 286	laid
+#69	AnnotatorNotes T72	lemma = 'lay'
+T73	pos_IN 287 289	in
+#70	AnnotatorNotes T73	lemma = 'in'
+T74	pos_DT 290 293	the
+#71	AnnotatorNotes T74	lemma = 'the'
+T75	pos_NN 294 300	person
+#72	AnnotatorNotes T75	lemma = 'person'
+T76	pos_IN 301 303	of
+#73	AnnotatorNotes T76	lemma = 'of'
+T77	pos_DT 304 307	the
+#74	AnnotatorNotes T77	lemma = 'the'
+T78	pos_JJ 308 312	male
+#75	AnnotatorNotes T78	lemma = 'male'
+T79	pos_NN 313 316	sex
+#76	AnnotatorNotes T79	lemma = 'sex'
+T80	pos_IN 317 321	from
+#77	AnnotatorNotes T80	lemma = 'from'
+T81	pos_NN 322 326	time
+#78	AnnotatorNotes T81	lemma = 'time'
+T82	pos_JJ 327 337	immemorial
+#79	AnnotatorNotes T82	lemma = 'immemorial'
+T83	pos_Fp 337 338	.
+#80	AnnotatorNotes T83	lemma = '.'
+T84	pos_PRP 339 341	It
+#81	AnnotatorNotes T84	lemma = 'it'
+T85	pos_RB 342 344	so
+#82	AnnotatorNotes T85	lemma = 'so'
+T86	pos_VBD 345 353	happened
+#83	AnnotatorNotes T86	lemma = 'happen'
+T87	pos_IN 354 358	that
+#84	AnnotatorNotes T87	lemma = 'that'
+T88	pos_IN 359 361	in
+#85	AnnotatorNotes T88	lemma = 'in'
+T89	pos_DT 362 365	the
+#86	AnnotatorNotes T89	lemma = 'the'
+T90	pos_JJ 366 372	animal
+#87	AnnotatorNotes T90	lemma = 'animal'
+T91	pos_NN 373 378	world
+#88	AnnotatorNotes T91	lemma = 'world'
+T92	pos_DT 379 382	the
+#89	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 383 387	male
+#90	AnnotatorNotes T93	lemma = 'male'
+T94	pos_VBZ 388 390	is
+#91	AnnotatorNotes T94	lemma = 'be'
+T95	pos_RB 391 401	constantly
+#92	AnnotatorNotes T95	lemma = 'constantly'
+T96	pos_VBG 402 410	fighting
+#93	AnnotatorNotes T96	lemma = 'fight'
+T97	pos_IN 411 415	with
+#94	AnnotatorNotes T97	lemma = 'with'
+T98	pos_PRP2 416 419	his
+#95	AnnotatorNotes T98	lemma = 'his'
+T99	pos_NNS 420 426	rivals
+#96	AnnotatorNotes T99	lemma = 'rival'
+T100	pos_Fd 426 427	:
+#97	AnnotatorNotes T100	lemma = ':'
+T101	pos_DT 428 431	the
+#98	AnnotatorNotes T101	lemma = 'the'
+T102	pos_NN 432 440	struggle
+#99	AnnotatorNotes T102	lemma = 'struggle'
+T103	pos_IN 441 444	for
+#100	AnnotatorNotes T103	lemma = 'for'
+T104	pos_DT 445 448	the
+#101	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NN 449 455	female
+#102	AnnotatorNotes T105	lemma = 'female'
+T106	pos_Fc 455 456	,
+#103	AnnotatorNotes T106	lemma = ','
+T107	pos_IN 457 460	for
+#104	AnnotatorNotes T107	lemma = 'for'
+T108	pos_NN 461 470	territory
+#105	AnnotatorNotes T108	lemma = 'territory'
+T109	pos_Fc 470 471	,
+#106	AnnotatorNotes T109	lemma = ','
+T110	pos_IN 472 475	for
+#107	AnnotatorNotes T110	lemma = 'for'
+T111	pos_DT 476 479	the
+#108	AnnotatorNotes T111	lemma = 'the'
+T112	pos_NN 480 486	status
+#109	AnnotatorNotes T112	lemma = 'status'
+T113	pos_IN 487 489	of
+#110	AnnotatorNotes T113	lemma = 'of'
+T114	pos_DT 490 493	the
+#111	AnnotatorNotes T114	lemma = 'the'
+T115	pos_NN 494 500	leader
+#112	AnnotatorNotes T115	lemma = 'leader'
+T116	pos_Fc 500 501	,
+#113	AnnotatorNotes T116	lemma = ','
+T117	pos_NN 502 505	etc
+#114	AnnotatorNotes T117	lemma = 'etc'
+T118	pos_Fp 505 506	.
+#115	AnnotatorNotes T118	lemma = '.'
+T119	pos_RB 507 516	Similarly
+#116	AnnotatorNotes T119	lemma = 'similarly'
+T120	pos_Fc 516 517	,
+#117	AnnotatorNotes T120	lemma = ','
+T121	pos_PRP 518 520	it
+#118	AnnotatorNotes T121	lemma = 'it'
+T122	pos_VBZ 521 523	is
+#119	AnnotatorNotes T122	lemma = 'be'
+T123	pos_IN 524 529	among
+#120	AnnotatorNotes T123	lemma = 'among'
+T124	pos_DT 530 533	the
+#121	AnnotatorNotes T124	lemma = 'the'
+T125	pos_NNS 534 540	people
+#122	AnnotatorNotes T125	lemma = 'people'
+T126	pos_Fd 540 541	:
+#123	AnnotatorNotes T126	lemma = ':'
+T127	pos_DT 542 545	the
+#124	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NN 546 549	man
+#125	AnnotatorNotes T128	lemma = 'man'
+T129	pos_VBZ 550 552	is
+#126	AnnotatorNotes T129	lemma = 'be'
+T130	pos_DT 553 554	a
+#127	AnnotatorNotes T130	lemma = 'a'
+T131	pos_JJ 555 560	great
+#128	AnnotatorNotes T131	lemma = 'great'
+T132	pos_NN 561 569	pleasure
+#129	AnnotatorNotes T132	lemma = 'pleasure'
+T133	pos_TO 570 572	to
+#130	AnnotatorNotes T133	lemma = 'to'
+T134	pos_VB 573 576	see
+#131	AnnotatorNotes T134	lemma = 'see'
+T135	pos_WRB 577 580	how
+#132	AnnotatorNotes T135	lemma = 'how'
+T136	pos_NN 581 588	someone
+#133	AnnotatorNotes T136	lemma = 'someone'
+T137	pos_NNS 589 595	fights
+#134	AnnotatorNotes T137	lemma = 'fight'
+T138	pos_IN 596 600	with
+#135	AnnotatorNotes T138	lemma = 'with'
+T139	pos_NNS 601 612	competitors
+#136	AnnotatorNotes T139	lemma = 'competitor'
+T140	pos_IN 613 616	for
+#137	AnnotatorNotes T140	lemma = 'for'
+T141	pos_DT 617 620	the
+#138	AnnotatorNotes T141	lemma = 'the'
+T142	pos_NN 621 626	award
+#139	AnnotatorNotes T142	lemma = 'award'
+T143	pos_Fp 626 627	.
+#140	AnnotatorNotes T143	lemma = '.'
+T144	pos_RB 628 636	Secondly
+#141	AnnotatorNotes T144	lemma = 'secondly'
+T145	pos_Fc 636 637	,
+#142	AnnotatorNotes T145	lemma = ','
+T146	pos_NN 638 643	sport
+#143	AnnotatorNotes T146	lemma = 'sport'
+T147	pos_VBZ 644 650	allows
+#144	AnnotatorNotes T147	lemma = 'allow'
+T148	pos_DT 651 652	a
+#145	AnnotatorNotes T148	lemma = 'a'
+T149	pos_NN 653 656	man
+#146	AnnotatorNotes T149	lemma = 'man'
+T150	pos_TO 657 659	to
+#147	AnnotatorNotes T150	lemma = 'to'
+T151	pos_VB 661 668	express
+#148	AnnotatorNotes T151	lemma = 'express'
+T152	pos_PRP2 669 674	their
+#149	AnnotatorNotes T152	lemma = 'their'
+T153	pos_NNS 675 683	feelings
+#150	AnnotatorNotes T153	lemma = 'feeling'
+T154	pos_CC 684 687	and
+#151	AnnotatorNotes T154	lemma = 'and'
+T155	pos_NNS 688 696	emotions
+#152	AnnotatorNotes T155	lemma = 'emotion'
+T156	pos_RB 697 703	openly
+#153	AnnotatorNotes T156	lemma = 'openly'
+T157	pos_Fp 703 704	.
+#154	AnnotatorNotes T157	lemma = '.'
+T158	pos_IN 705 709	From
+#155	AnnotatorNotes T158	lemma = 'from'
+T159	pos_NN 710 719	childhood
+#156	AnnotatorNotes T159	lemma = 'childhood'
+T160	pos_NNS 720 724	boys
+#157	AnnotatorNotes T160	lemma = 'boy'
+T161	pos_VBP 725 728	are
+#158	AnnotatorNotes T161	lemma = 'be'
+T162	pos_VBN 729 735	taught
+#159	AnnotatorNotes T162	lemma = 'teach'
+T163	pos_IN 736 740	that
+#160	AnnotatorNotes T163	lemma = 'that'
+T164	pos_JJ 741 745	real
+#161	AnnotatorNotes T164	lemma = 'real'
+T165	pos_NNS 746 749	men
+#162	AnnotatorNotes T165	lemma = 'man'
+T166	pos_MD 750 754	must
+#163	AnnotatorNotes T166	lemma = 'must'
+T167	pos_VB 755 757	be
+#164	AnnotatorNotes T167	lemma = 'be'
+T168	pos_VBN 758 768	restrained
+#165	AnnotatorNotes T168	lemma = 'restrain'
+T169	pos_IN 769 771	in
+#166	AnnotatorNotes T169	lemma = 'in'
+T170	pos_NN 772 782	expression
+#167	AnnotatorNotes T170	lemma = 'expression'
+T171	pos_IN 783 785	of
+#168	AnnotatorNotes T171	lemma = 'of'
+T172	pos_NNS 786 794	feelings
+#169	AnnotatorNotes T172	lemma = 'feeling'
+T173	pos_Fp 794 795	.
+#170	AnnotatorNotes T173	lemma = '.'
+T174	pos_NN 796 801	Sport
+#171	AnnotatorNotes T174	lemma = 'sport'
+T175	pos_VBZ 802 807	gives
+#172	AnnotatorNotes T175	lemma = 'give'
+T176	pos_NNS 808 811	men
+#173	AnnotatorNotes T176	lemma = 'man'
+T177	pos_DT 812 815	the
+#174	AnnotatorNotes T177	lemma = 'the'
+T178	pos_NN 816 827	opportunity
+#175	AnnotatorNotes T178	lemma = 'opportunity'
+T179	pos_TO 828 830	to
+#176	AnnotatorNotes T179	lemma = 'to'
+T180	pos_VB 831 838	express
+#177	AnnotatorNotes T180	lemma = 'express'
+T181	pos_PRP2 839 844	their
+#178	AnnotatorNotes T181	lemma = 'their'
+T182	pos_NNS 845 853	emotions
+#179	AnnotatorNotes T182	lemma = 'emotion'
+T183	pos_IN 854 861	without
+#180	AnnotatorNotes T183	lemma = 'without'
+T184	pos_NN 862 866	fear
+#181	AnnotatorNotes T184	lemma = 'fear'
+T185	pos_IN 867 869	of
+#182	AnnotatorNotes T185	lemma = 'of'
+T186	pos_JJ 870 876	public
+#183	AnnotatorNotes T186	lemma = 'public'
+T187	pos_NN 877 884	censure
+#184	AnnotatorNotes T187	lemma = 'censure'
+T188	pos_CC 885 887	or
+#185	AnnotatorNotes T188	lemma = 'or'
+T189	pos_NN 888 900	condemnation
+#186	AnnotatorNotes T189	lemma = 'condemnation'
+T190	pos_Fp 900 901	.
+#187	AnnotatorNotes T190	lemma = '.'
+T191	pos_WRB 902 906	When
+#188	AnnotatorNotes T191	lemma = 'when'
+T192	pos_JJ 907 911	male
+#189	AnnotatorNotes T192	lemma = 'male'
+T193	pos_NNS 912 916	fans
+#190	AnnotatorNotes T193	lemma = 'fan'
+T194	pos_CC 917 919	or
+#191	AnnotatorNotes T194	lemma = 'or'
+T195	pos_NNS 920 927	players
+#192	AnnotatorNotes T195	lemma = 'player'
+T196	pos_IN 928 930	on
+#193	AnnotatorNotes T196	lemma = 'on'
+T197	pos_DT 931 934	the
+#194	AnnotatorNotes T197	lemma = 'the'
+T198	pos_NN 935 940	field
+#195	AnnotatorNotes T198	lemma = 'field'
+T199	pos_NN 941 944	hug
+#196	AnnotatorNotes T199	lemma = 'hug'
+T200	pos_CC 945 948	and
+#197	AnnotatorNotes T200	lemma = 'and'
+T201	pos_NN 949 953	kiss
+#198	AnnotatorNotes T201	lemma = 'kiss'
+T202	pos_IN 954 958	from
+#199	AnnotatorNotes T202	lemma = 'from'
+T203	pos_DT 959 962	the
+#200	AnnotatorNotes T203	lemma = 'the'
+T204	pos_NN 963 966	joy
+#201	AnnotatorNotes T204	lemma = 'joy'
+T205	pos_IN 967 969	of
+#202	AnnotatorNotes T205	lemma = 'of'
+T206	pos_NN 970 977	victory
+#203	AnnotatorNotes T206	lemma = 'victory'
+T207	pos_PRP 978 980	it
+#204	AnnotatorNotes T207	lemma = 'it'
+T208	pos_VBZ 981 983	is
+#205	AnnotatorNotes T208	lemma = 'be'
+T209	pos_JJ 984 990	normal
+#206	AnnotatorNotes T209	lemma = 'normal'
+T210	pos_Fp 990 991	.
+#207	AnnotatorNotes T210	lemma = '.'
+T211	pos_CC 992 995	But
+#208	AnnotatorNotes T211	lemma = 'but'
+T212	pos_IN 996 998	if
+#209	AnnotatorNotes T212	lemma = 'if'
+T213	pos_PRP 999 1002	you
+#210	AnnotatorNotes T213	lemma = 'you'
+T214	pos_VBP 1003 1006	see
+#211	AnnotatorNotes T214	lemma = 'see'
+T215	pos_IN 1007 1011	that
+#212	AnnotatorNotes T215	lemma = 'that'
+T216	pos_DT 1012 1015	the
+#213	AnnotatorNotes T216	lemma = 'the'
+T217	pos_Z 1016 1019	two
+#214	AnnotatorNotes T217	lemma = '2'
+T218	pos_NNS 1020 1023	men
+#215	AnnotatorNotes T218	lemma = 'man'
+T219	pos_VBP 1024 1027	are
+#216	AnnotatorNotes T219	lemma = 'be'
+T220	pos_VBG 1028 1035	hugging
+#217	AnnotatorNotes T220	lemma = 'hug'
+T221	pos_CC 1036 1039	and
+#218	AnnotatorNotes T221	lemma = 'and'
+T222	pos_VBG 1040 1047	kissing
+#219	AnnotatorNotes T222	lemma = 'kiss'
+T223	pos_IN 1048 1050	on
+#220	AnnotatorNotes T223	lemma = 'on'
+T224	pos_DT 1051 1054	the
+#221	AnnotatorNotes T224	lemma = 'the'
+T225	pos_NN 1055 1061	street
+#222	AnnotatorNotes T225	lemma = 'street'
+T226	pos_Fc 1062 1063	,
+#223	AnnotatorNotes T226	lemma = ','
+T227	pos_RB 1064 1072	for sure
+#224	AnnotatorNotes T227	lemma = 'for_sure'
+T228	pos_PRP 1073 1076	you
+#225	AnnotatorNotes T228	lemma = 'you'
+T229	pos_MD 1077 1081	will
+#226	AnnotatorNotes T229	lemma = 'will'
+T230	pos_VB 1082 1087	think
+#227	AnnotatorNotes T230	lemma = 'think'
+T231	pos_IN 1088 1092	that
+#228	AnnotatorNotes T231	lemma = 'that'
+T232	pos_PRP 1093 1097	they
+#229	AnnotatorNotes T232	lemma = 'they'
+T233	pos_VBP 1098 1101	are
+#230	AnnotatorNotes T233	lemma = 'be'
+T234	pos_JJ 1102 1105	gay
+#231	AnnotatorNotes T234	lemma = 'gay'
+T235	pos_NNS 1106 1110	guys
+#232	AnnotatorNotes T235	lemma = 'guy'
+T236	pos_Fp 1110 1111	.
+#233	AnnotatorNotes T236	lemma = '.'
+T237	pos_RB 1113 1115	So
+#234	AnnotatorNotes T237	lemma = 'so'
+T238	pos_NN 1116 1121	sport
+#235	AnnotatorNotes T238	lemma = 'sport'
+T239	pos_VBZ 1122 1124	is
+#236	AnnotatorNotes T239	lemma = 'be'
+T240	pos_NN 1125 1128	one
+#237	AnnotatorNotes T240	lemma = 'one'
+T241	pos_IN 1129 1131	of
+#238	AnnotatorNotes T241	lemma = 'of'
+T242	pos_DT 1132 1135	the
+#239	AnnotatorNotes T242	lemma = 'the'
+T243	pos_DT 1136 1139	few
+#240	AnnotatorNotes T243	lemma = 'few'
+T244	pos_NNS 1140 1145	areas
+#241	AnnotatorNotes T244	lemma = 'area'
+T245	pos_WRB 1146 1151	where
+#242	AnnotatorNotes T245	lemma = 'where'
+T246	pos_NNS 1152 1155	men
+#243	AnnotatorNotes T246	lemma = 'man'
+T247	pos_VBP 1156 1159	are
+#244	AnnotatorNotes T247	lemma = 'be'
+T248	pos_VBN 1160 1167	allowed
+#245	AnnotatorNotes T248	lemma = 'allow'
+T249	pos_TO 1168 1170	to
+#246	AnnotatorNotes T249	lemma = 'to'
+T250	pos_VB 1171 1178	express
+#247	AnnotatorNotes T250	lemma = 'express'
+T251	pos_PRP2 1179 1184	their
+#248	AnnotatorNotes T251	lemma = 'their'
+T252	pos_NNS 1185 1193	emotions
+#249	AnnotatorNotes T252	lemma = 'emotion'
+T253	pos_Fp 1193 1194	.
+#250	AnnotatorNotes T253	lemma = '.'
+T254	pos_RB 1195 1201	Indeed
+#251	AnnotatorNotes T254	lemma = 'indeed'
+T255	pos_Fc 1201 1202	,
+#252	AnnotatorNotes T255	lemma = ','
+T256	pos_IN 1203 1205	in
+#253	AnnotatorNotes T256	lemma = 'in'
+T257	pos_JJ 1206 1211	daily
+#254	AnnotatorNotes T257	lemma = 'daily'
+T258	pos_NN 1212 1216	life
+#255	AnnotatorNotes T258	lemma = 'life'
+T259	pos_PRP 1217 1221	they
+#256	AnnotatorNotes T259	lemma = 'they'
+T260	pos_RB 1222 1227	often
+#257	AnnotatorNotes T260	lemma = 'often'
+T261	pos_MD 1228 1231	can
+#258	AnnotatorNotes T261	lemma = 'can'
+T262	pos_RB 1232 1235	not
+#259	AnnotatorNotes T262	lemma = 'not'
+T263	pos_VB 1236 1238	do
+#260	AnnotatorNotes T263	lemma = 'do'
+T264	pos_PRP 1239 1241	it
+#261	AnnotatorNotes T264	lemma = 'it'
+T265	pos_Fp 1241 1242	.
+#262	AnnotatorNotes T265	lemma = '.'

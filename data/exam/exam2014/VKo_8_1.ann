@@ -1,0 +1,44 @@
+T1	Spelling 343 354	precentages
+T2	Spelling 654 664	precentage
+T3	Spelling 534 545	precentages
+T4	Spelling 156 166	precentage
+T6	Participial_constr 102 106	held
+#1	AnnotatorNotes T6	holding
+T7	Ref_device 227 242	the women's one
+#2	AnnotatorNotes T7	that of women
+T8	Tense_choice 277 281	have
+#3	AnnotatorNotes T8	had
+T9	Tense_choice 212 214	is
+#4	AnnotatorNotes T9	was
+T10	Tense_choice 307 309	is
+#5	AnnotatorNotes T10	was
+T11	Absence_comp_sent 395 398	(?)
+#6	AnnotatorNotes T11	were
+#7	AnnotatorNotes T1	percentage numbers
+T12	Absence_comp_colloc 343 354	precentages
+#8	AnnotatorNotes T12	percentage numbers
+T13	Tense_choice 452 454	is
+#9	AnnotatorNotes T13	was
+T14	Numerical 455 472	twice bigger than
+#10	AnnotatorNotes T14	twice as high as
+T15	lex_item_choice 412 418	number
+#11	AnnotatorNotes T15	level
+T16	lex_item_choice 461 467	bigger
+#12	AnnotatorNotes T16	high
+R1	Dependent_change Arg1:T15 Arg2:T16	
+T17	Ref_device 477 483	number
+#13	AnnotatorNotes T17	that
+#14	AnnotatorNotes T3	the percentage
+T18	Articles 534 545	precentages
+#15	AnnotatorNotes T18	the percentage
+#16	AnnotatorNotes T2	percentage numbers
+T19	Ref_device 761 777	women precentage
+#17	AnnotatorNotes T19	that of women
+T5	lex_item_choice 501 505	find
+#18	AnnotatorNotes T5	see
+T20	Agreement_errors 746 748	is
+#19	AnnotatorNotes T20	were
+T21	Absence_comp_colloc 654 664	precentage
+#20	AnnotatorNotes T21	percentage numbers
+T22	Tense_choice 746 748	is
+#21	AnnotatorNotes T22	were

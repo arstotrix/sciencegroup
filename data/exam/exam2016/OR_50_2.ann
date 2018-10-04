@@ -1,0 +1,40 @@
+T1	Agreement_errors 12 16	says
+#1	AnnotatorNotes T1	say
+T2	Punctuation 16 17	,
+A1	Delete T2
+T3	Spelling 32 40	distruct
+#2	AnnotatorNotes T3	destruct
+T4	Agreement_errors 32 40	distruct
+#3	AnnotatorNotes T4	destructs
+T5	Absence_explanation 56 69	air pollution
+#4	AnnotatorNotes T5	leads to air pollution
+T6	Punctuation 106 107	,
+A2	Delete T6
+T7	Determiners 126 132	number
+#5	AnnotatorNotes T7	the number
+T8	Non_defining 145 146	,
+A3	Delete T8
+T9	Prepositions 154 156	on
+#6	AnnotatorNotes T9	by
+T10	lex_item_choice 166 175	for relax
+#7	AnnotatorNotes T10	to have a rest
+T11	Category_confusion 208 219	it opposite
+#8	AnnotatorNotes T11	the opposite
+T12	Voice 265 272	connect
+#9	AnnotatorNotes T12	is connected
+T13	Often_confused 334 339	apart
+#10	AnnotatorNotes T13	part
+T14	Prepositions 397 407	in planets
+#11	AnnotatorNotes T14	on the planet
+T15	Spelling 413 415	of
+#12	AnnotatorNotes T15	off
+T16	Prepositions 426 434	one hour
+#13	AnnotatorNotes T16	for one hour
+T17	Noun_attribute 474 490	the price ticket
+#14	AnnotatorNotes T17	price of tickets
+T18	Noun_number 521 524	tax
+#15	AnnotatorNotes T18	taxes
+T19	Voice 544 552	be scare
+#16	AnnotatorNotes T19	scare
+T20	Prepositions 581 583	on
+#17	AnnotatorNotes T20	by

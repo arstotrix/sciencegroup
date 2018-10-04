@@ -1,0 +1,44 @@
+T1	Transitive 20 25	about
+A1	Delete T1
+T2	Spelling 86 95	programme
+A2	Cause T2 L1_interference
+#1	AnnotatorNotes T2	program
+T3	Verb_object_bare 261 263	to
+A3	Delete T3
+T4	Noun_attribute 278 291	communicating
+#2	AnnotatorNotes T4	communication
+T5	Derivation 385 396	necessarity
+#3	AnnotatorNotes T5	necessity
+T6	Word_choice 437 447	generation
+#4	AnnotatorNotes T6	people
+T7	Redundant_comp 528 536	learning
+A4	Delete T7
+T8	Word_choice 578 583	doing
+#5	AnnotatorNotes T8	work
+T9	Noun_number 694 698	life
+#6	AnnotatorNotes T9	lives
+T10	Word_choice 790 794	lost
+#7	AnnotatorNotes T10	hopeless
+T11	Absence_comp_sent 795 798	and
+#8	AnnotatorNotes T11	and is
+T12	Word_choice 799 815	able to give use
+#9	AnnotatorNotes T12	useful
+T13	Prepositions 882 884	to
+#10	AnnotatorNotes T13	in
+T14	Spelling 897 906	programme
+A5	Cause T14 L1_interference
+#11	AnnotatorNotes T14	program
+T15	Articles 936 945	right way
+#12	AnnotatorNotes T15	the right way
+T16	Adjectives 974 978	it’s
+#13	AnnotatorNotes T16	its
+T17	Prepositions 986 988	to
+#14	AnnotatorNotes T17	into
+T18	Word_choice 1010 1025	sociably-useful
+#15	AnnotatorNotes T18	social
+T19	Word_choice 1063 1069	needed
+#16	AnnotatorNotes T19	required
+T20	Spelling 1154 1163	excepting
+#17	AnnotatorNotes T20	accepting
+T21	Verb_object_bare 1234 1236	to
+A6	Delete T21

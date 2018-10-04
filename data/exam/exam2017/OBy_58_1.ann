@@ -1,0 +1,21 @@
+T1	Articles 25 36	information
+#1	AnnotatorNotes T1	the information
+T2	Often_confused 128 135	percent
+#2	AnnotatorNotes T2	percentages
+T3	Noun_number 128 135	percent
+#3	AnnotatorNotes T3	percentages
+T4	Agreement_errors 187 190	was
+#4	AnnotatorNotes T4	were
+R1	Dependent_change Arg1:T4 Arg2:T2	
+T5	Spelling 461 465	qual
+#5	AnnotatorNotes T5	equal
+T6	Articles 461 476	qual percentage
+#6	AnnotatorNotes T6	an equal percentage
+T7	Noun_number 576 586	percentage
+#7	AnnotatorNotes T7	percentages
+T8	Articles 597 611	transportation
+#8	AnnotatorNotes T8	the transportation
+T9	Articles 671 685	transportation
+#9	AnnotatorNotes T9	the transportation
+T10	Noun_number 743 753	percentage
+#10	AnnotatorNotes T10	percentages

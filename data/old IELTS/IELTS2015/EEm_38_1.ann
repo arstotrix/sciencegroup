@@ -1,0 +1,108 @@
+T1	Spelling 4 9	grath
+#1	AnnotatorNotes T1	graph
+T2	lex_item_choice 58 61	low
+#2	AnnotatorNotes T2	under
+T3	Word_choice 71 78	65-aged
+#3	AnnotatorNotes T3	the age of 65
+T4	Numerals 103 107	1940
+#4	AnnotatorNotes T4	the 1940s
+T5	Numerals 115 119	2040
+#5	AnnotatorNotes T5	the 2040s
+T6	Prepositions 97 102	since
+#6	AnnotatorNotes T6	from
+T7	Prepositions 110 114	till
+#7	AnnotatorNotes T7	to
+T8	Spelling 143 148	grath
+#8	AnnotatorNotes T8	graph
+T9	Articles 202 205	USA
+#9	AnnotatorNotes T9	the USA
+T10	Agreement_errors 268 270	is
+#10	AnnotatorNotes T10	are
+T11	Spelling 289 297	visiable
+#11	AnnotatorNotes T11	visible
+T12	Determiners 349 357	every of
+#12	AnnotatorNotes T12	all
+T13	Prepositions 345 348	for
+#13	AnnotatorNotes T13	in
+T14	Redundant_comp 389 396	grath’s
+#14	AnnotatorNotes T14	graph's
+T15	Prepositions 409 412	for
+#15	AnnotatorNotes T15	in
+T16	Articles 424 427	USA
+#16	AnnotatorNotes T16	the USA
+T17	Articles 476 481	USA’s
+#17	AnnotatorNotes T17	the USA
+T18	Redundant_comp 482 487	trand
+T19	Articles 554 564	rapid rise
+T20	Articles 574 585	slight fall
+T21	Prepositions 586 588	in
+#19	AnnotatorNotes T21	of
+T22	Tense_form 600 604	agen
+#20	AnnotatorNotes T22	aged
+T23	Redundant_comp 647 665	in latest persents
+T24	Prepositions 666 668	at
+#21	AnnotatorNotes T24	in
+T25	Numerals 669 674	2040s
+#22	AnnotatorNotes T25	the 2040s
+T26	Numerals 521 536	2000-s - 2020-s
+#23	AnnotatorNotes T26	the 2000s - 2020s
+T28	Articles 708 711	USA
+#25	AnnotatorNotes T28	the USA
+T29	Absence_comp_sent 695 702	65 aged
+#26	AnnotatorNotes T29	of 65 aged
+T30	Spelling 806 810	sent
+#27	AnnotatorNotes T30	cent
+T31	Prepositions 841 845	till
+#28	AnnotatorNotes T31	to
+T32	Spelling 854 858	sent
+#29	AnnotatorNotes T32	cent
+T33	lex_item_choice 872 881	stability
+#30	AnnotatorNotes T33	plateau
+T34	Articles 872 881	stability
+#31	AnnotatorNotes T34	the plateau
+T35	Spelling 906 910	sent
+#32	AnnotatorNotes T35	cent
+T36	Numerals 914 929	1960-s - 1980-s
+#33	AnnotatorNotes T36	the 1960s - 1980s
+T37	Prepositions 958 962	till
+#34	AnnotatorNotes T37	to
+T38	Prepositions 1021 1025	till
+#35	AnnotatorNotes T38	to
+T39	Spelling 1042 1046	sent
+#36	AnnotatorNotes T39	cent
+T40	Standard 1026 1046	25 and more per sent
+#37	AnnotatorNotes T40	26 per cent and more
+T27	lex_item_choice 1062 1066	then
+#24	AnnotatorNotes T27	than
+T41	Articles 1080 1085	USA’s
+#38	AnnotatorNotes T41	the USA's
+T42	Articles 1130 1151	increasing proportion
+T43	lex_item_choice 1186 1191	a few
+#39	AnnotatorNotes T43	several
+T44	Tense_choice 624 635	have caused
+#40	AnnotatorNotes T44	will cause
+T45	Absence_comp_sent 58 78	low and over 65-aged
+#41	AnnotatorNotes T45	people under and over the age of 65
+T46	Redundant_comp 155 166	examples of
+A1	Delete T46
+T47	Articles 247 253	number
+#42	AnnotatorNotes T47	the number
+T48	lex_item_choice 283 286	has
+#43	AnnotatorNotes T48	demonstrates
+A2	Delete T14
+A3	Delete T18
+T49	Category_confusion 476 481	USA’s
+#44	AnnotatorNotes T49	the USA
+R1	Dependent_change Arg1:T18 Arg2:T49	
+T50	Punctuation 537 542	while
+#45	AnnotatorNotes T50	, while
+#46	AnnotatorNotes T19	a steep rise
+T51	lex_item_choice 554 559	rapid
+#47	AnnotatorNotes T51	steep
+#48	AnnotatorNotes T20	a slight fall
+T52	Articles 589 599	population
+#49	AnnotatorNotes T52	the population
+T53	Spelling 482 487	trand
+#50	AnnotatorNotes T53	trend
+T54	Tense_choice 488 497	is having
+#18	AnnotatorNotes T54	has

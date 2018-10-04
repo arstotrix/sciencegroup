@@ -1,0 +1,59 @@
+T1	Tense_choice 52 55	has
+#1	AnnotatorNotes T1	had
+T2	Redundant_comp 127 135	selected
+A1	Delete T2
+T3	Tense_choice 238 252	had been fixed
+#2	AnnotatorNotes T3	was observed
+T4	lex_item_choice 238 252	had been fixed
+#3	AnnotatorNotes T4	was observed
+T5	Numerals 275 283	the 2012
+#4	AnnotatorNotes T5	2012
+T6	Tense_choice 296 309	has decreased
+#5	AnnotatorNotes T6	had decreased
+T7	Tense_choice 327 340	is continuing
+#6	AnnotatorNotes T7	continued
+T8	Numerals 375 379	32,7
+#7	AnnotatorNotes T8	32.7
+T9	Numerals 675 679	32,7
+#8	AnnotatorNotes T9	32.7
+T10	Numerals 191 195	43,7
+#9	AnnotatorNotes T10	43.7
+T11	Numerals 711 714	9,9
+#10	AnnotatorNotes T11	9.9
+T12	lex_part_choice 596 608	That is more
+#11	AnnotatorNotes T12	What is more
+T13	Tense_choice 621 624	has
+#12	AnnotatorNotes T13	had
+T14	Capitalisation 741 754	Rest of World
+#13	AnnotatorNotes T14	the rest of the world
+T15	Absence_comp_colloc 741 754	Rest of World
+#14	AnnotatorNotes T15	the rest of the world
+T16	Tense_choice 755 758	has
+#15	AnnotatorNotes T16	had
+T17	Numerical 766 782	twice times less
+#16	AnnotatorNotes T17	half the number of
+T18	Defining 825 829	than
+#17	AnnotatorNotes T18	that
+R1	Dependent_change Arg1:T17 Arg2:T18	
+T19	Tense_choice 837 840	has
+#18	AnnotatorNotes T19	had
+T20	Tense_choice 883 886	has
+#19	AnnotatorNotes T20	had
+T21	Tense_choice 968 974	cannot
+#20	AnnotatorNotes T21	could not
+T22	lex_item_choice 975 980	visit
+#21	AnnotatorNotes T22	attend
+R2	Parallel_construction Arg1:T9 Arg2:T8	
+T23	Participial_constr 397 408	cannot have
+#22	AnnotatorNotes T23	not having
+T24	Articles 432 435	the
+A2	Delete T24
+T25	Articles 555 558	the
+A3	Delete T25
+T26	Articles 1025 1031	number
+#23	AnnotatorNotes T26	the number
+R3	Parallel_construction Arg1:T9 Arg2:T11	
+T27	lex_item_choice 876 882	amount
+#24	AnnotatorNotes T27	level
+T28	Often_confused 289 295	amount
+#25	AnnotatorNotes T28	number

@@ -1,0 +1,69 @@
+T1	Articles 91 92	a
+#1	AnnotatorNotes T1	an
+T2	Tense_choice 41 45	have
+#2	AnnotatorNotes T2	have had
+T3	Articles 233 236	the
+A1	Delete T3
+T4	Absence_comp_sent 248 267	ought to leave them
+#3	AnnotatorNotes T4	ought to leave them alone
+T5	Prepositions 501 503	on
+A2	Cause T5 L1_interference
+#4	AnnotatorNotes T5	in
+T6	Spelling 533 542	tallented
+#5	AnnotatorNotes T6	talented
+T7	Noun_number 682 692	official's
+#6	AnnotatorNotes T7	the officials'
+T8	Often_confused 768 774	weapon
+A3	Cause T8 L1_interference
+#7	AnnotatorNotes T8	armed
+T9	Spelling 846 858	polliticians
+#8	AnnotatorNotes T9	politicians
+T10	Prepositions 842 845	for
+#9	AnnotatorNotes T10	to
+T11	Discourse 837 841	show
+#10	AnnotatorNotes T11	show the public opinion
+T12	suggestion 859 877	the public opinion
+A4	Delete T12
+T13	Articles 1054 1057	the
+A5	Delete T13
+T14	Articles 1136 1137	a
+T15	Punctuation 1182 1183	,
+A6	Cause T15 L1_interference
+A7	Delete T15
+T16	Noun_number 1243 1250	feeling
+#11	AnnotatorNotes T16	feelings
+T17	Spelling 1261 1266	there
+#12	AnnotatorNotes T17	their
+T18	Spelling 1267 1272	lifes
+#13	AnnotatorNotes T18	lives
+T19	Grammar 1296 1299	I'm
+#14	AnnotatorNotes T19	I
+T20	Agreement_errors 1338 1343	shows
+#15	AnnotatorNotes T20	show
+T21	Spelling 1362 1372	clulptures
+#16	AnnotatorNotes T21	sculptures
+T22	Articles 1376 1377	a
+A8	Delete T22
+T23	Absence_comp_sent 1393 1395	as
+#17	AnnotatorNotes T23	, such as
+T24	Spelling 1481 1489	desicion
+#18	AnnotatorNotes T24	decision
+T25	Articles 1504 1509	place
+#19	AnnotatorNotes T25	a place
+T26	Redundant_comp 1522 1530	desicion
+T27	Articles 1536 1539	the
+A9	Delete T27
+T28	Word_choice 1599 1601	to
+#20	AnnotatorNotes T28	in
+T29	suggestion 1680 1703	government restrictions
+#21	AnnotatorNotes T29	restrictions from government
+T30	Redundant_comp 1592 1594	it
+A10	Delete T30
+T31	Articles 638 641	the
+A11	Delete T31
+T32	Punctuation 1418 1422	Thus
+#22	AnnotatorNotes T32	Thus,
+T33	Word_choice 1138 1145	censors
+#23	AnnotatorNotes T33	censorship
+T34	Noun_number 1153 1159	states
+#24	AnnotatorNotes T34	state

@@ -1,0 +1,40 @@
+T1	Agreement_errors 11 22	illustrates
+#1	AnnotatorNotes T1	illustrate
+T2	lex_item_choice 27 36	propotion
+#2	AnnotatorNotes T2	number
+T3	Agreement_errors 118 121	are
+#3	AnnotatorNotes T3	is
+T4	Countable_uncountable 113 117	data
+R1	Dependent_change Arg1:T4 Arg2:T3	
+T5	Noun_number 222 229	percent
+#4	AnnotatorNotes T5	percents
+T6	Verb_Gerund 322 329	to sign
+#5	AnnotatorNotes T6	signing
+T7	Numerals 466 474	millions
+#6	AnnotatorNotes T7	million
+T8	Numerals 644 652	millions
+#7	AnnotatorNotes T8	million
+T9	Verb_pattern 593 598	using
+#8	AnnotatorNotes T9	who used
+T10	Verb_Gerund 743 751	to share
+#9	AnnotatorNotes T10	sharing
+T11	Tense_choice 736 742	prefer
+#10	AnnotatorNotes T11	preferred
+T12	Verb_Gerund 793 796	see
+#11	AnnotatorNotes T12	seeing
+T13	Tense_choice 880 883	use
+#12	AnnotatorNotes T13	used
+T14	Spelling 931 936	womem
+#13	AnnotatorNotes T14	women
+T15	Tense_choice 954 959	learn
+#14	AnnotatorNotes T15	learned
+T16	Tense_choice 1019 1022	pay
+#15	AnnotatorNotes T16	payed
+T17	Prepositions 1033 1035	on
+#16	AnnotatorNotes T17	to
+T18	Spelling 987 995	menwhile
+#17	AnnotatorNotes T18	meanwhile
+T19	Inappropriate_register 926 953	more womem about 35 percent
+#18	AnnotatorNotes T19	women more than men (about 35 percent)
+T20	Tense_choice 1146 1149	use
+#19	AnnotatorNotes T20	used

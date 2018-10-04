@@ -1,0 +1,88 @@
+T2	Category_confusion 503 513	the Sweden
+T3	Absence_explanation 865 874	1st place
+T4	Tense_form 1058 1063	risen
+#1	AnnotatorNotes T4	is to rise
+T5	Articles 106 109	USA
+T6	Redundant_comp 21 43	a population of people
+T7	Category_confusion 146 153	percent
+#2	AnnotatorNotes T7	percentage
+T8	Tense_choice 205 210	risen
+#3	AnnotatorNotes T8	is to rise
+T10	Articles 330 333	USA
+T11	Punctuation 357 362	while
+#4	AnnotatorNotes T11	, while
+T12	lex_item_choice 425 439	was continning
+#5	AnnotatorNotes T12	remained as such
+T13	Category_confusion 518 521	USA
+#6	AnnotatorNotes T13	American
+T14	Spelling 496 502	betwen
+#7	AnnotatorNotes T14	between
+T16	Articles 595 598	USA
+#9	AnnotatorNotes T16	the USA
+T18	Spelling 720 727	felling
+#10	AnnotatorNotes T18	falling
+T19	Confusion_of_structures 744 749	There
+#11	AnnotatorNotes T19	It
+T20	Tense_choice 784 787	was
+#12	AnnotatorNotes T20	is expected to be
+T21	Tense_choice 860 864	took
+#13	AnnotatorNotes T21	will take
+T22	Articles 865 868	1st
+#14	AnnotatorNotes T22	the 1st
+T23	Articles 925 928	USA
+#15	AnnotatorNotes T23	the USA
+T24	Tense_choice 970 972	is
+#16	AnnotatorNotes T24	is expected to be
+T27	lex_item_choice 997 1007	proportion
+#19	AnnotatorNotes T27	percentage
+T28	Category_confusion 1105 1112	percent
+#20	AnnotatorNotes T28	percentage
+T1	Absence_explanation 425 439	was continning
+#21	AnnotatorNotes T1	remained as such
+T9	Tense_choice 425 439	was continning
+#22	AnnotatorNotes T9	remained as such
+#23	AnnotatorNotes T2	Swedish
+T30	suggestion 503 513	the Sweden
+T15	Noun_number 522 528	line's
+#8	AnnotatorNotes T15	lines
+T31	Redundant_comp 529 537	behavior
+A1	Delete T31
+R1	Dependent_change Arg1:T31 Arg2:T15	
+T32	Linking_device 503 528	the Sweden and USA line's
+#24	AnnotatorNotes T32	Sweden and the USA lines, on the one hand,
+T17	Redundant_comp 559 570	's behavior
+A2	Delete T17
+T33	Linking_device 546 559	Japanese line
+#25	AnnotatorNotes T33	Japanese line, on the other, 
+T34	lex_item_choice 702 709	similar
+#26	AnnotatorNotes T34	the same
+T36	suggestion 529 537	behavior
+T37	suggestion 559 570	's behavior
+T38	Non_defining 841 845	when
+#27	AnnotatorNotes T38	, when
+T39	suggestion 841 845	when
+T40	Redundant_comp 846 859	Japanese line
+#28	AnnotatorNotes T40	line of Japan
+T41	suggestion 846 859	Japanese line
+#29	AnnotatorNotes T3	the 1st place concerning the percentage of the elderly
+T26	Punctuation 953 958	while
+#18	AnnotatorNotes T26	, while
+T25	suggestion 1058 1063	risen
+T42	Standard 1126 1144	and over years old
+#17	AnnotatorNotes T42	years old and over
+T43	Modals 1145 1166	has rapidly increased
+#30	AnnotatorNotes T43	is to increase rapidly
+#31	AnnotatorNotes T25	rises
+#32	AnnotatorNotes T30	Sweden
+A3	Cause T12 L1_interference
+A4	Cause T40 L1_interference
+A5	Cause T42 L1_interference
+#33	AnnotatorNotes T6	a population
+T35	suggestion 66 71	since
+#34	AnnotatorNotes T35	from
+#35	AnnotatorNotes T5	the USA
+R2	Parallel_construction Arg1:T32 Arg2:T33	
+T29	Standard 584 604	Sweden and USA lines
+#36	AnnotatorNotes T29	the lines for Sweden and the USA
+T44	Articles 599 604	lines
+#37	AnnotatorNotes T44	the lines

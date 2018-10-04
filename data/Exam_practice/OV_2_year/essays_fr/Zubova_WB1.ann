@@ -1,0 +1,46 @@
+T1	Word_choice 69 95	place where students lived
+T2	Standard 230 255	shared house or flat with
+#1	AnnotatorNotes T2	house or flat shared with
+T3	lex_item_choice 313 320	numbers
+T4	Often_confused 482 488	amount
+#2	AnnotatorNotes T4	portion
+T5	lex_item_choice 478 481	big
+#3	AnnotatorNotes T5	large
+T6	Word_choice 720 730	By the way
+T7	lex_item_choice 815 818	big
+#4	AnnotatorNotes T7	high
+T8	Comparative_constr 927 936	more than
+#5	AnnotatorNotes T8	as many as
+T9	Punctuation 815 824	big. From
+#6	AnnotatorNotes T9	high, namely, from
+T10	lex_item_choice 396 402	number
+#7	AnnotatorNotes T10	rate
+#8	AnnotatorNotes T3	the proportion
+T11	Prepositions 676 678	on
+#9	AnnotatorNotes T11	at
+T12	Absence_explanation 854 856	to
+#10	AnnotatorNotes T12	from 30 to
+A1	Weight-language T2 Minor
+A2	Weight-understanding T2 Minor
+A3	Weight-language T3 Major
+A4	Weight-understanding T3 Minor
+A5	Weight-language T10 Major
+A6	Weight-understanding T10 Minor
+A7	Weight-language T5 Minor
+A8	Weight-understanding T5 Minor
+A9	Weight-language T4 Minor
+A10	Weight-understanding T4 Minor
+A11	Weight-language T11 Major
+A12	Weight-understanding T11 Minor
+A13	Weight-language T9 Major
+A14	Weight-understanding T9 Minor
+A15	Weight-language T7 Minor
+A16	Weight-understanding T7 Minor
+A17	Weight-language T12 Minor
+A18	Weight-understanding T12 Major
+A19	Weight-language T8 Major
+A20	Weight-understanding T8 Major
+#11	AnnotatorNotes T6	All in all, 
+#12	AnnotatorNotes T1	place where students preferred to stay 
+T13	Often_confused 736 742	number
+#13	AnnotatorNotes T13	proportion

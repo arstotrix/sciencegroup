@@ -1,0 +1,158 @@
+T1	Agreement_errors 0 4	This
+#1	AnnotatorNotes T1	these
+T2	lex_item_choice 36 40	ages
+#2	AnnotatorNotes T2	layers of the population
+T3	Absence_comp_sent 36 40	ages
+#3	AnnotatorNotes T3	layers of the population according to the age
+T4	Redundant_comp 60 78	in different years
+A1	Delete T4
+T5	Redundant_comp 91 109	the futures (2050)
+#4	AnnotatorNotes T5	2050
+T6	Adverbs 144 148	much
+#5	AnnotatorNotes T6	many
+T7	Redundant_comp 156 165	different
+#6	AnnotatorNotes T7	of different
+T8	Tense_choice 171 176	lives
+#7	AnnotatorNotes T8	lived
+T9	Articles 195 196	A
+A2	Delete T9
+T10	Prepositional_noun 197 201	half
+#8	AnnotatorNotes T10	half of 
+T11	Articles 202 208	people
+#9	AnnotatorNotes T11	the people
+T12	Redundant_comp 213 215	is
+A3	Delete T12
+T13	Spelling 232 236	aget
+#10	AnnotatorNotes T13	age
+T14	Absence_explanation 225 249	of the aget between 0-14
+#11	AnnotatorNotes T14	from 0 to 14 years old
+T15	Articles 279 285	people
+#12	AnnotatorNotes T15	the people
+T16	Tense_choice 290 294	live
+#13	AnnotatorNotes T16	lived
+T17	Absence_comp_sent 251 255	That
+#14	AnnotatorNotes T17	This number
+T18	lex_item_choice 256 263	consist
+#15	AnnotatorNotes T18	composed
+T19	Prepositions 270 274	from
+#16	AnnotatorNotes T19	of
+T20	Absence_comp_sent 328 336	have age
+#17	AnnotatorNotes T20	that are older than
+T21	Redundant_comp 339 340	+
+A4	Delete T21
+T22	Absence_comp_colloc 341 346	years
+#18	AnnotatorNotes T22	years old
+T23	Superlative_adj 358 368	most small
+#19	AnnotatorNotes T23	smallest
+T24	Absence_comp_sent 393 395	is
+#20	AnnotatorNotes T24	is consisted of
+T25	Prepositions 403 405	in
+A5	Delete T25
+T26	Absence_comp_colloc 412 430	years age category
+#21	AnnotatorNotes T26	years old
+T27	Spelling 439 446	feature
+#22	AnnotatorNotes T27	future
+T28	Punctuation 432 446	In the feature
+#23	AnnotatorNotes T28	In the future ,
+T29	Articles 455 465	proportion
+#24	AnnotatorNotes T29	the proportion
+T30	Articles 469 479	population
+#25	AnnotatorNotes T30	the population
+T31	Absence_comp_sent 469 526	population in 2050 increasing people who have 15-59 years
+#26	AnnotatorNotes T31	population of people from 15 to 59 years old
+T32	Tense_choice 447 454	changed
+#27	AnnotatorNotes T32	would change
+T33	Standard 447 526	changed proportion in population in 2050 increasing people who have 15-59 years
+#28	AnnotatorNotes T33	the proportion in the population of people from 15 to 59 years old in 2050 would change
+T34	lex_item_choice 528 532	That
+#29	AnnotatorNotes T34	The number of these people
+T35	lex_item_choice 533 540	consist
+#30	AnnotatorNotes T35	would compose
+T36	Absence_comp_sent 541 546	57,3%
+#31	AnnotatorNotes T36	57,3% of all the population
+T37	Absence_comp_sent 548 570	That compare with 2000
+#32	AnnotatorNotes T37	Comparing this number to 2000 
+T38	Punctuation 548 570	That compare with 2000
+#33	AnnotatorNotes T38	Comparing this to 2000 ,
+T39	Absence_comp_sent 571 579	increase
+#34	AnnotatorNotes T39	we can notice an increase
+T40	Articles 571 579	increase
+#35	AnnotatorNotes T40	an increase
+T41	Punctuation 587 591	Also
+#36	AnnotatorNotes T41	Also ,
+T42	Articles 601 611	population
+#37	AnnotatorNotes T42	the population
+T43	lex_item_choice 612 620	who have
+#38	AnnotatorNotes T43	of people that are older than
+T44	Redundant_comp 623 624	+
+A6	Delete T44
+T45	Absence_comp_colloc 625 630	years
+#39	AnnotatorNotes T45	years old
+T46	Absence_comp_sent 592 630	increase population who have 60+ years
+#40	AnnotatorNotes T46	the number of the population of people that are older than 60 years old will increase
+T47	Absence_comp_sent 645 649	0-14
+#41	AnnotatorNotes T47	of 0-14
+T48	Absence_comp_colloc 650 655	years
+#42	AnnotatorNotes T48	years old
+T49	Absence_comp_sent 636 644	children
+#43	AnnotatorNotes T49	the number of children
+T50	Tense_choice 656 660	fall
+#44	AnnotatorNotes T50	will fall
+T51	Category_confusion 670 680	on compare
+#45	AnnotatorNotes T51	comparing
+T52	Prepositions 681 685	with
+#46	AnnotatorNotes T52	to
+T53	Noun_number 707 712	chart
+#47	AnnotatorNotes T53	charts
+T54	Tense_form 713 725	demonstrated
+#48	AnnotatorNotes T54	demonstrate
+T55	Articles 726 735	situation
+#49	AnnotatorNotes T55	the situation
+T56	Punctuation 746 753	In 2000
+#50	AnnotatorNotes T56	In 2000 ,
+T57	Articles 754 757	the
+A7	Delete T57
+T58	lex_item_choice 770 774	have
+#51	AnnotatorNotes T58	are 
+T59	Absence_comp_colloc 781 786	years
+#52	AnnotatorNotes T59	years old
+T60	Absence_comp_sent 807 815	decrease
+#53	AnnotatorNotes T60	this number will decrease
+T61	Prepositions 816 818	on
+#54	AnnotatorNotes T61	to
+T62	Punctuation 826 830	Also
+#55	AnnotatorNotes T62	Also ,
+T63	Standard 831 873	decrease in 2050 people who 0-14 years age
+#56	AnnotatorNotes T63	the amount of people from 0 to 14 years old will decrease in 2050
+T64	Punctuation 875 882	In 2050
+#57	AnnotatorNotes T64	In 2050 ,
+T65	Absence_comp_sent 883 921	increase old people who have 60+ years
+#58	AnnotatorNotes T65	the number of people older than 60 years will increase
+T66	Agreement_errors 943 947	This
+#59	AnnotatorNotes T66	These
+T67	Standard 958 977	very different have
+#60	AnnotatorNotes T67	have very different
+T68	Noun_number 978 987	situation
+#61	AnnotatorNotes T68	situations
+T69	Word_order 993 1003	of the age
+#62	AnnotatorNotes T69	the age of
+T70	Articles 1004 1014	population
+#63	AnnotatorNotes T70	the populations
+T71	Noun_number 1004 1014	population
+#64	AnnotatorNotes T71	the populations
+T72	Absence_comp_sent 1016 1072	Yemen have people who have in 2000 0-14 and in 2050 also
+#65	AnnotatorNotes T72	In Yemen, the category of people from 0 to 14 years old is large both in 2000 and in 2050
+T73	Absence_comp_sent 1079 1096	category very big
+#66	AnnotatorNotes T73	category is very big
+T74	Linking_device 1098 1103	While
+#67	AnnotatorNotes T74	At the same time ,
+T75	lex_item_choice 1118 1122	most
+#68	AnnotatorNotes T75	biggest
+T76	lex_item_choice 1132 1135	are
+#69	AnnotatorNotes T76	is formed by 
+T77	Absence_comp_sent 1143 1154	15-59 years
+#70	AnnotatorNotes T77	from 15 to 59 years old
+T78	Absence_comp_sent 1155 1157	in
+#71	AnnotatorNotes T78	both in 
+T79	Conjunctions 1163 1167	also
+#72	AnnotatorNotes T79	and

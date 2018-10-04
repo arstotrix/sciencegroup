@@ -1,0 +1,590 @@
+T1	Tense_choice 195 203	had been
+T4	Prepositions 732 734	in
+T5	Spelling 778 785	declain
+T6	Tense_choice 786 788	is
+T7	suggestion 824 826	an
+T8	suggestion 827 833	amount
+T9	suggestion 870 876	growth
+T10	suggestion 868 869	a
+T11	Redundant_comp 1043 1046	one
+T12	Tense_choice 1259 1265	remain
+T13	Absence_explanation 1331 1368	because of the economical development
+T14	Absence_explanation 1390 1414	process of globalization
+A1	Weight-language T1 Critical
+A2	Weight-understanding T1 Critical
+#1	AnnotatorNotes T1	was
+T15	lex_item_choice 246 254	fourfold
+A3	Weight-language T15 Major
+A4	Weight-understanding T15 Minor
+#2	AnnotatorNotes T15	four times
+T2	Determiners 619 638	three times as less
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Major
+#3	AnnotatorNotes T2	to a third of what it was
+A7	Weight-language T4 Major
+A8	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	at
+A9	Weight-language T5 Major
+A10	Weight-understanding T5 Critical
+#5	AnnotatorNotes T5	decline
+#6	AnnotatorNotes T6	was
+T3	lex_item_choice 1282 1293	mean amount
+A11	Weight-language T3 Major
+A12	Weight-understanding T3 Minor
+#7	AnnotatorNotes T3	average number
+A13	Weight-language T12 Critical
+A14	Weight-understanding T12 Critical
+#8	AnnotatorNotes T12	remained
+A15	Weight-language T6 Critical
+A16	Weight-understanding T6 Critical
+T16	suggestion 1222 1224	is
+T17	suggestion 1306 1319	levelled down
+A17	Delete T11
+T18	Tense_choice 1105 1125	had been maintaining
+#9	AnnotatorNotes T18	had maintained
+T19	pos_DT 0 4	This
+#10	AnnotatorNotes T19	lemma = 'this'
+T20	pos_JJ 5 16	demographic
+#11	AnnotatorNotes T20	lemma = 'demographic'
+T21	pos_NN 17 22	table
+#12	AnnotatorNotes T21	lemma = 'table'
+T22	pos_IN 23 25	by
+#13	AnnotatorNotes T22	lemma = 'by'
+T23	pos_NP 26 57	Australian Bureau of Statistics
+#14	AnnotatorNotes T23	lemma = 'australian_bureau_of_statistics'
+T24	pos_VBZ 58 63	shows
+#15	AnnotatorNotes T24	lemma = 'show'
+T25	pos_PRP 64 66	us
+#16	AnnotatorNotes T25	lemma = 'us'
+T26	pos_DT 67 70	the
+#17	AnnotatorNotes T26	lemma = 'the'
+T27	pos_NN 71 81	percentage
+#18	AnnotatorNotes T27	lemma = 'percentage'
+T28	pos_IN 82 84	of
+#19	AnnotatorNotes T28	lemma = 'of'
+T29	pos_NP 85 95	Australian
+#20	AnnotatorNotes T29	lemma = 'australian'
+T30	pos_NNS 96 101	women
+#21	AnnotatorNotes T30	lemma = 'woman'
+T31	pos_WP 102 105	who
+#22	AnnotatorNotes T31	lemma = 'who'
+T32	pos_VBD 106 110	gave
+#23	AnnotatorNotes T32	lemma = 'give'
+T33	pos_NN 111 116	birth
+#24	AnnotatorNotes T33	lemma = 'birth'
+T34	pos_TO 117 119	to
+#25	AnnotatorNotes T34	lemma = 'to'
+T35	pos_DT 120 121	a
+#26	AnnotatorNotes T35	lemma = 'a'
+T36	pos_JJ 122 132	particular
+#27	AnnotatorNotes T36	lemma = 'particular'
+T37	pos_NN 133 139	number
+#28	AnnotatorNotes T37	lemma = 'number'
+T38	pos_IN 140 142	of
+#29	AnnotatorNotes T38	lemma = 'of'
+T39	pos_NNS 143 151	children
+#30	AnnotatorNotes T39	lemma = 'child'
+T40	pos_— 152 153	—
+#31	AnnotatorNotes T40	lemma = '—'
+T41	pos_IN 154 158	from
+#32	AnnotatorNotes T41	lemma = 'from'
+T42	pos_NN 159 163	zero
+#33	AnnotatorNotes T42	lemma = 'zero'
+T43	pos_TO 164 166	to
+#34	AnnotatorNotes T43	lemma = 'to'
+T44	pos_Z 167 171	four
+#35	AnnotatorNotes T44	lemma = '4'
+T45	pos_CC 172 174	or
+#36	AnnotatorNotes T45	lemma = 'or'
+T46	pos_RBR 175 179	more
+#37	AnnotatorNotes T46	lemma = 'many'
+T47	pos_Fp 179 180	.
+#38	AnnotatorNotes T47	lemma = '.'
+T48	pos_DT 182 185	The
+#39	AnnotatorNotes T48	lemma = 'the'
+T49	pos_NN 186 194	research
+#40	AnnotatorNotes T49	lemma = 'research'
+T50	pos_VBD 195 198	had
+#41	AnnotatorNotes T50	lemma = 'have'
+T51	pos_VBN 199 203	been
+#42	AnnotatorNotes T51	lemma = 'be'
+T52	pos_VBN 204 208	held
+#43	AnnotatorNotes T52	lemma = 'hold'
+T53	pos_IN 209 212	for
+#44	AnnotatorNotes T53	lemma = 'for'
+T54	pos_Z 213 215	25
+#45	AnnotatorNotes T54	lemma = '25'
+T55	pos_NNS 216 221	years
+#46	AnnotatorNotes T55	lemma = 'year'
+T56	pos_CC 222 225	and
+#47	AnnotatorNotes T56	lemma = 'and'
+T57	pos_NNS 226 230	data
+#48	AnnotatorNotes T57	lemma = 'data'
+T58	pos_VBD 231 235	were
+#49	AnnotatorNotes T58	lemma = 'be'
+T59	pos_VBN 236 245	collected
+#50	AnnotatorNotes T59	lemma = 'collect'
+T60	pos_RB 246 254	fourfold
+#51	AnnotatorNotes T60	lemma = 'fourfold'
+T61	pos_Fd 254 255	:
+#52	AnnotatorNotes T61	lemma = ':'
+T62	pos_IN 256 258	in
+#53	AnnotatorNotes T62	lemma = 'in'
+T63	pos_W 259 263	1981
+#54	AnnotatorNotes T63	lemma = '[??:??/??/1981:??.??:??]'
+T64	pos_Fc 263 264	,
+#55	AnnotatorNotes T64	lemma = ','
+T65	pos_JJ 265 270	later
+#56	AnnotatorNotes T65	lemma = 'later'
+T66	pos_IN 271 273	in
+#57	AnnotatorNotes T66	lemma = 'in'
+T67	pos_W 274 278	1986
+#58	AnnotatorNotes T67	lemma = '[??:??/??/1986:??.??:??]'
+T68	pos_CC 279 282	and
+#59	AnnotatorNotes T68	lemma = 'and'
+T69	pos_RB 283 287	then
+#60	AnnotatorNotes T69	lemma = 'then'
+T70	pos_DT 288 293	every
+#61	AnnotatorNotes T70	lemma = 'every'
+T71	pos_VBG 294 303	following
+#62	AnnotatorNotes T71	lemma = 'follow'
+T72	pos_NN 304 310	decade
+#63	AnnotatorNotes T72	lemma = 'decade'
+T73	pos_— 311 312	—
+#64	AnnotatorNotes T73	lemma = '—'
+T74	pos_IN 313 315	in
+#65	AnnotatorNotes T74	lemma = 'in'
+T75	pos_W 316 320	1996
+#66	AnnotatorNotes T75	lemma = '[??:??/??/1996:??.??:??]'
+T76	pos_CC 321 324	and
+#67	AnnotatorNotes T76	lemma = 'and'
+T77	pos_IN 325 327	in
+#68	AnnotatorNotes T77	lemma = 'in'
+T78	pos_W 328 332	2006
+#69	AnnotatorNotes T78	lemma = '[??:??/??/2006:??.??:??]'
+T79	pos_Fp 332 333	.
+#70	AnnotatorNotes T79	lemma = '.'
+T80	pos_DT 334 338	Each
+#71	AnnotatorNotes T80	lemma = 'each'
+T81	pos_NN 339 343	time
+#72	AnnotatorNotes T81	lemma = 'time'
+T82	pos_JJ 344 348	only
+#73	AnnotatorNotes T82	lemma = 'only'
+T83	pos_NNS 349 354	women
+#74	AnnotatorNotes T83	lemma = 'woman'
+T84	pos_VBN 355 359	aged
+#75	AnnotatorNotes T84	lemma = 'age'
+T85	pos_Z 360 365	40-44
+#76	AnnotatorNotes T85	lemma = '40-44'
+T86	pos_VBD 366 370	were
+#77	AnnotatorNotes T86	lemma = 'be'
+T87	pos_VBN 371 378	studied
+#78	AnnotatorNotes T87	lemma = 'study'
+T88	pos_Fpa 379 380	(
+#79	AnnotatorNotes T88	lemma = '('
+T89	pos_RBS 380 384	most
+#80	AnnotatorNotes T89	lemma = 'many'
+T90	pos_JJ 385 391	likely
+#81	AnnotatorNotes T90	lemma = 'likely'
+T91	pos_Fc 391 392	,
+#82	AnnotatorNotes T91	lemma = ','
+T92	pos_IN 393 400	because
+#83	AnnotatorNotes T92	lemma = 'because'
+T93	pos_PRP 401 403	it
+#84	AnnotatorNotes T93	lemma = 'it'
+T94	pos_VBZ 404 406	is
+#85	AnnotatorNotes T94	lemma = 'be'
+T95	pos_DT 407 409	an
+#86	AnnotatorNotes T95	lemma = 'a'
+T96	pos_NN 410 413	age
+#87	AnnotatorNotes T96	lemma = 'age'
+T97	pos_NN 414 420	period
+#88	AnnotatorNotes T97	lemma = 'period'
+T98	pos_WRB 421 425	when
+#89	AnnotatorNotes T98	lemma = 'when'
+T99	pos_NNS 426 431	women
+#90	AnnotatorNotes T99	lemma = 'woman'
+T100	pos_Fw 431 432	’
+#91	AnnotatorNotes T100	lemma = '’'
+T101	pos_NNS 432 433	s
+#92	AnnotatorNotes T101	lemma = 's'
+T102	pos_NN 434 443	fertility
+#93	AnnotatorNotes T102	lemma = 'fertility'
+T103	pos_VBZ 444 450	starts
+#94	AnnotatorNotes T103	lemma = 'start'
+T104	pos_TO 451 453	to
+#95	AnnotatorNotes T104	lemma = 'to'
+T105	pos_VB 454 460	reduce
+#96	AnnotatorNotes T105	lemma = 'reduce'
+T106	pos_Fpt 460 461	)
+#97	AnnotatorNotes T106	lemma = ')'
+T107	pos_Fp 461 462	.
+#98	AnnotatorNotes T107	lemma = '.'
+T108	pos_DT 463 466	The
+#99	AnnotatorNotes T108	lemma = 'the'
+T109	pos_JJ 467 475	greatest
+#100	AnnotatorNotes T109	lemma = 'great'
+T110	pos_NNS 476 483	changes
+#101	AnnotatorNotes T110	lemma = 'change'
+T111	pos_MD 484 487	can
+#102	AnnotatorNotes T111	lemma = 'can'
+T112	pos_VB 488 490	be
+#103	AnnotatorNotes T112	lemma = 'be'
+T113	pos_VBN 491 495	seen
+#104	AnnotatorNotes T113	lemma = 'see'
+T114	pos_IN 496 498	in
+#105	AnnotatorNotes T114	lemma = 'in'
+T115	pos_DT 499 502	the
+#106	AnnotatorNotes T115	lemma = 'the'
+T116	pos_NN 503 510	portion
+#107	AnnotatorNotes T116	lemma = 'portion'
+T117	pos_IN 511 513	of
+#108	AnnotatorNotes T117	lemma = 'of'
+T118	pos_NNS 514 521	mothers
+#109	AnnotatorNotes T118	lemma = 'mother'
+T119	pos_IN 522 526	with
+#110	AnnotatorNotes T119	lemma = 'with'
+T120	pos_Z 527 531	four
+#111	AnnotatorNotes T120	lemma = '4'
+T121	pos_CC 532 534	or
+#112	AnnotatorNotes T121	lemma = 'or'
+T122	pos_RBR 535 539	more
+#113	AnnotatorNotes T122	lemma = 'many'
+T123	pos_NNS 540 548	children
+#114	AnnotatorNotes T123	lemma = 'child'
+T124	pos_Fd 548 549	:
+#115	AnnotatorNotes T124	lemma = ':'
+T125	pos_PRP 550 552	it
+#116	AnnotatorNotes T125	lemma = 'it'
+T126	pos_RB 553 565	considerably
+#117	AnnotatorNotes T126	lemma = 'considerably'
+T127	pos_VBD 566 575	decreased
+#118	AnnotatorNotes T127	lemma = 'decrease'
+T128	pos_IN 576 580	from
+#119	AnnotatorNotes T128	lemma = 'from'
+T129	pos_Zp 581 586	27.6%
+#120	AnnotatorNotes T129	lemma = '27.6/100'
+T130	pos_IN 587 589	in
+#121	AnnotatorNotes T130	lemma = 'in'
+T131	pos_W 590 594	1981
+#122	AnnotatorNotes T131	lemma = '[??:??/??/1981:??.??:??]'
+T132	pos_TO 595 597	to
+#123	AnnotatorNotes T132	lemma = 'to'
+T133	pos_Zp 598 601	11%
+#124	AnnotatorNotes T133	lemma = '11/100'
+T134	pos_IN 602 604	in
+#125	AnnotatorNotes T134	lemma = 'in'
+T135	pos_W 605 609	2006
+#126	AnnotatorNotes T135	lemma = '[??:??/??/2006:??.??:??]'
+T136	pos_— 610 611	—
+#127	AnnotatorNotes T136	lemma = '—'
+T137	pos_RB 612 618	almost
+#128	AnnotatorNotes T137	lemma = 'almost'
+T138	pos_RB 619 630	three times
+#129	AnnotatorNotes T138	lemma = '3_times'
+T139	pos_IN 631 633	as
+#130	AnnotatorNotes T139	lemma = 'as'
+T140	pos_IN 634 638	less
+#131	AnnotatorNotes T140	lemma = 'less'
+T141	pos_Fp 638 639	.
+#132	AnnotatorNotes T141	lemma = '.'
+T142	pos_DT 640 643	The
+#133	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NN 644 654	percentage
+#134	AnnotatorNotes T143	lemma = 'percentage'
+T144	pos_IN 655 657	of
+#135	AnnotatorNotes T144	lemma = 'of'
+T145	pos_NNS 658 663	women
+#136	AnnotatorNotes T145	lemma = 'woman'
+T146	pos_IN 664 668	with
+#137	AnnotatorNotes T146	lemma = 'with'
+T147	pos_Z 669 674	three
+#138	AnnotatorNotes T147	lemma = '3'
+T148	pos_NNS 675 683	children
+#139	AnnotatorNotes T148	lemma = 'child'
+T149	pos_RB 684 688	also
+#140	AnnotatorNotes T149	lemma = 'also'
+T150	pos_VBD 689 693	went
+#141	AnnotatorNotes T150	lemma = 'go'
+T151	pos_RP 694 698	down
+#142	AnnotatorNotes T151	lemma = 'down'
+T152	pos_IN 699 703	from
+#143	AnnotatorNotes T152	lemma = 'from'
+T153	pos_RB 704 709	about
+#144	AnnotatorNotes T153	lemma = 'about'
+T154	pos_Zp 710 713	27%
+#145	AnnotatorNotes T154	lemma = '27/100'
+T155	pos_IN 714 716	in
+#146	AnnotatorNotes T155	lemma = 'in'
+T156	pos_Z 717 722	1980s
+#147	AnnotatorNotes T156	lemma = '1980s'
+T157	pos_TO 723 725	to
+#148	AnnotatorNotes T157	lemma = 'to'
+T158	pos_Zp 726 731	21.5%
+#149	AnnotatorNotes T158	lemma = '21.5/100'
+T159	pos_IN 732 734	in
+#150	AnnotatorNotes T159	lemma = 'in'
+T160	pos_DT 735 738	the
+#151	AnnotatorNotes T160	lemma = 'the'
+T161	pos_NN 739 748	beginning
+#152	AnnotatorNotes T161	lemma = 'beginning'
+T162	pos_IN 749 751	of
+#153	AnnotatorNotes T162	lemma = 'of'
+T163	pos_DT 752 755	the
+#154	AnnotatorNotes T163	lemma = 'the'
+T164	pos_JJ 756 760	21st
+#155	AnnotatorNotes T164	lemma = '21'
+T165	pos_NN 761 768	century
+#156	AnnotatorNotes T165	lemma = 'century'
+T166	pos_Fc 768 769	,
+#157	AnnotatorNotes T166	lemma = ','
+T167	pos_CC 770 773	but
+#158	AnnotatorNotes T167	lemma = 'but'
+T168	pos_DT 774 777	the
+#159	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NN 778 785	declain
+#160	AnnotatorNotes T169	lemma = 'declain'
+T170	pos_VBZ 786 788	is
+#161	AnnotatorNotes T170	lemma = 'be'
+T171	pos_RB 789 792	not
+#162	AnnotatorNotes T171	lemma = 'not'
+T172	pos_RB 793 795	so
+#163	AnnotatorNotes T172	lemma = 'so'
+T173	pos_JJ 796 804	dramatic
+#164	AnnotatorNotes T173	lemma = 'dramatic'
+T174	pos_Fp 804 805	.
+#165	AnnotatorNotes T174	lemma = '.'
+T175	pos_JJ 806 811	Other
+#166	AnnotatorNotes T175	lemma = 'other'
+T176	pos_NNS 812 820	segments
+#167	AnnotatorNotes T176	lemma = 'segment'
+T177	pos_IN 821 823	of
+#168	AnnotatorNotes T177	lemma = 'of'
+T178	pos_DT 824 826	an
+#169	AnnotatorNotes T178	lemma = 'a'
+T179	pos_NN 827 833	amount
+#170	AnnotatorNotes T179	lemma = 'amount'
+T180	pos_IN 834 836	of
+#171	AnnotatorNotes T180	lemma = 'of'
+T181	pos_DT 837 840	the
+#172	AnnotatorNotes T181	lemma = 'the'
+T182	pos_JJ 841 847	female
+#173	AnnotatorNotes T182	lemma = 'female'
+T183	pos_NP 848 859	Australians
+#174	AnnotatorNotes T183	lemma = 'australians'
+T184	pos_VBD 860 866	showed
+#175	AnnotatorNotes T184	lemma = 'show'
+T185	pos_DT 868 869	a
+#176	AnnotatorNotes T185	lemma = 'a'
+T186	pos_NN 870 876	growth
+#177	AnnotatorNotes T186	lemma = 'growth'
+T187	pos_Fd 876 877	:
+#178	AnnotatorNotes T187	lemma = ':'
+T188	pos_JJ 878 887	childless
+#179	AnnotatorNotes T188	lemma = 'childless'
+T189	pos_CC 888 891	and
+#180	AnnotatorNotes T189	lemma = 'and'
+T190	pos_NN 892 901	one-child
+#181	AnnotatorNotes T190	lemma = 'one-child'
+T191	pos_NNS 902 909	mothers
+#182	AnnotatorNotes T191	lemma = 'mother'
+T192	pos_Fw 909 910	’
+#183	AnnotatorNotes T192	lemma = '’'
+T193	pos_NN 911 915	rate
+#184	AnnotatorNotes T193	lemma = 'rate'
+T194	pos_VBD 916 920	went
+#185	AnnotatorNotes T194	lemma = 'go'
+T195	pos_RP 922 924	up
+#186	AnnotatorNotes T195	lemma = 'up'
+T196	pos_TO 925 927	to
+#187	AnnotatorNotes T196	lemma = 'to'
+T197	pos_VB 928 933	total
+#188	AnnotatorNotes T197	lemma = 'total'
+T198	pos_Zp 934 939	29.1%
+#189	AnnotatorNotes T198	lemma = '29.1/100'
+T199	pos_IN 940 942	in
+#190	AnnotatorNotes T199	lemma = 'in'
+T200	pos_W 943 947	2006
+#191	AnnotatorNotes T200	lemma = '[??:??/??/2006:??.??:??]'
+T201	pos_IN 948 952	from
+#192	AnnotatorNotes T201	lemma = 'from'
+T202	pos_JJ 953 960	initial
+#193	AnnotatorNotes T202	lemma = 'initial'
+T203	pos_Zp 961 966	16.1%
+#194	AnnotatorNotes T203	lemma = '16.1/100'
+T204	pos_Fp 966 967	.
+#195	AnnotatorNotes T204	lemma = '.'
+T205	pos_DT 968 971	The
+#196	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NN 972 982	percentage
+#197	AnnotatorNotes T206	lemma = 'percentage'
+T207	pos_IN 983 985	of
+#198	AnnotatorNotes T207	lemma = 'of'
+T208	pos_NNS 986 991	women
+#199	AnnotatorNotes T208	lemma = 'woman'
+T209	pos_VBG 992 1001	parenting
+#200	AnnotatorNotes T209	lemma = 'parenting'
+T210	pos_Z 1002 1005	two
+#201	AnnotatorNotes T210	lemma = '2'
+T211	pos_NNS 1006 1014	children
+#202	AnnotatorNotes T211	lemma = 'child'
+T212	pos_VBZ 1015 1020	seems
+#203	AnnotatorNotes T212	lemma = 'seem'
+T213	pos_TO 1021 1023	to
+#204	AnnotatorNotes T213	lemma = 'to'
+T214	pos_VB 1024 1026	be
+#205	AnnotatorNotes T214	lemma = 'be'
+T215	pos_DT 1027 1030	the
+#206	AnnotatorNotes T215	lemma = 'the'
+T216	pos_RBS 1031 1035	most
+#207	AnnotatorNotes T216	lemma = 'many'
+T217	pos_JJ 1036 1042	steady
+#208	AnnotatorNotes T217	lemma = 'steady'
+T218	pos_NN 1043 1046	one
+#209	AnnotatorNotes T218	lemma = 'one'
+T219	pos_Fd 1046 1047	:
+#210	AnnotatorNotes T219	lemma = ':'
+T220	pos_PRP 1048 1050	it
+#211	AnnotatorNotes T220	lemma = 'it'
+T221	pos_VBD 1051 1054	had
+#212	AnnotatorNotes T221	lemma = 'have'
+T222	pos_VBN 1055 1060	risen
+#213	AnnotatorNotes T222	lemma = 'rise'
+T223	pos_IN 1061 1063	by
+#214	AnnotatorNotes T223	lemma = 'by'
+T224	pos_Zp 1064 1068	6,6%
+#215	AnnotatorNotes T224	lemma = '6,6/100'
+T225	pos_IN 1069 1071	in
+#216	AnnotatorNotes T225	lemma = 'in'
+T226	pos_DT 1072 1075	the
+#217	AnnotatorNotes T226	lemma = 'the'
+T227	pos_JJ 1076 1081	first
+#218	AnnotatorNotes T227	lemma = '1'
+T228	pos_NN 1082 1086	half
+#219	AnnotatorNotes T228	lemma = 'half'
+T229	pos_IN 1087 1089	of
+#220	AnnotatorNotes T229	lemma = 'of'
+T230	pos_Z 1090 1095	1980s
+#221	AnnotatorNotes T230	lemma = '1980s'
+T231	pos_CC 1096 1099	and
+#222	AnnotatorNotes T231	lemma = 'and'
+T232	pos_RB 1100 1104	then
+#223	AnnotatorNotes T232	lemma = 'then'
+T233	pos_VBD 1105 1108	had
+#224	AnnotatorNotes T233	lemma = 'have'
+T234	pos_VBN 1109 1113	been
+#225	AnnotatorNotes T234	lemma = 'be'
+T235	pos_VBG 1114 1125	maintaining
+#226	AnnotatorNotes T235	lemma = 'maintain'
+T236	pos_DT 1127 1130	the
+#227	AnnotatorNotes T236	lemma = 'the'
+T237	pos_JJ 1131 1135	same
+#228	AnnotatorNotes T237	lemma = 'same'
+T238	pos_NN 1136 1141	level
+#229	AnnotatorNotes T238	lemma = 'level'
+T239	pos_IN 1142 1144	at
+#230	AnnotatorNotes T239	lemma = 'at'
+T240	pos_Zp 1145 1151	35-38%
+#231	AnnotatorNotes T240	lemma = '35-38/100'
+T241	pos_Fp 1151 1152	.
+#232	AnnotatorNotes T241	lemma = '.'
+T242	pos_TO 1153 1155	To
+#233	AnnotatorNotes T242	lemma = 'to'
+T243	pos_VB 1156 1159	sum
+#234	AnnotatorNotes T243	lemma = 'sum'
+T244	pos_RP 1160 1162	up
+#235	AnnotatorNotes T244	lemma = 'up'
+T245	pos_Fc 1162 1163	,
+#236	AnnotatorNotes T245	lemma = ','
+T246	pos_PRP 1164 1166	we
+#237	AnnotatorNotes T246	lemma = 'we'
+T247	pos_MD 1167 1170	can
+#238	AnnotatorNotes T247	lemma = 'can'
+T248	pos_VB 1171 1174	see
+#239	AnnotatorNotes T248	lemma = 'see'
+T249	pos_JJ 1175 1182	obvious
+#240	AnnotatorNotes T249	lemma = 'obvious'
+T250	pos_NNS 1183 1193	tendencies
+#241	AnnotatorNotes T250	lemma = 'tendency'
+T251	pos_IN 1194 1196	in
+#242	AnnotatorNotes T251	lemma = 'in'
+T252	pos_DT 1197 1202	these
+#243	AnnotatorNotes T252	lemma = 'these'
+T253	pos_NN 1203 1207	data
+#244	AnnotatorNotes T253	lemma = 'data'
+T254	pos_Fd 1207 1208	:
+#245	AnnotatorNotes T254	lemma = ':'
+T255	pos_Z 1209 1212	two
+#246	AnnotatorNotes T255	lemma = '2'
+T256	pos_NNS 1213 1221	children
+#247	AnnotatorNotes T256	lemma = 'child'
+T257	pos_VBZ 1222 1224	is
+#248	AnnotatorNotes T257	lemma = 'be'
+T258	pos_DT 1225 1227	an
+#249	AnnotatorNotes T258	lemma = 'a'
+T259	pos_NN 1228 1234	option
+#250	AnnotatorNotes T259	lemma = 'option'
+T260	pos_IN 1235 1238	for
+#251	AnnotatorNotes T260	lemma = 'for'
+T261	pos_DT 1239 1242	all
+#252	AnnotatorNotes T261	lemma = 'all'
+T262	pos_NNS 1243 1248	times
+#253	AnnotatorNotes T262	lemma = 'time'
+T263	pos_Fc 1248 1249	,
+#254	AnnotatorNotes T263	lemma = ','
+T264	pos_PRP2 1250 1253	its
+#255	AnnotatorNotes T264	lemma = 'its'
+T265	pos_NN 1254 1258	rate
+#256	AnnotatorNotes T265	lemma = 'rate'
+T266	pos_VBP 1259 1265	remain
+#257	AnnotatorNotes T266	lemma = 'remain'
+T267	pos_JJ 1266 1272	stable
+#258	AnnotatorNotes T267	lemma = 'stable'
+T268	pos_Fc 1272 1273	,
+#259	AnnotatorNotes T268	lemma = ','
+T269	pos_CC 1274 1277	but
+#260	AnnotatorNotes T269	lemma = 'but'
+T270	pos_DT 1278 1281	the
+#261	AnnotatorNotes T270	lemma = 'the'
+T271	pos_JJ 1282 1286	mean
+#262	AnnotatorNotes T271	lemma = 'mean'
+T272	pos_NN 1287 1293	amount
+#263	AnnotatorNotes T272	lemma = 'amount'
+T273	pos_IN 1294 1296	of
+#264	AnnotatorNotes T273	lemma = 'of'
+T274	pos_NNS 1297 1305	children
+#265	AnnotatorNotes T274	lemma = 'child'
+T275	pos_VBD 1306 1314	levelled
+#266	AnnotatorNotes T275	lemma = 'level'
+T276	pos_RB 1315 1319	down
+#267	AnnotatorNotes T276	lemma = 'down'
+T277	pos_Fc 1319 1320	,
+#268	AnnotatorNotes T277	lemma = ','
+T278	pos_RB 1321 1329	probably
+#269	AnnotatorNotes T278	lemma = 'probably'
+T279	pos_Fc 1329 1330	,
+#270	AnnotatorNotes T279	lemma = ','
+T280	pos_IN 1331 1341	because of
+#271	AnnotatorNotes T280	lemma = 'because_of'
+T281	pos_DT 1342 1345	the
+#272	AnnotatorNotes T281	lemma = 'the'
+T282	pos_JJ 1346 1356	economical
+#273	AnnotatorNotes T282	lemma = 'economical'
+T283	pos_NN 1357 1368	development
+#274	AnnotatorNotes T283	lemma = 'development'
+T284	pos_IN 1369 1371	of
+#275	AnnotatorNotes T284	lemma = 'of'
+T285	pos_NP 1372 1381	Australia
+#276	AnnotatorNotes T285	lemma = 'australia'
+T286	pos_CC 1382 1385	and
+#277	AnnotatorNotes T286	lemma = 'and'
+T287	pos_DT 1386 1389	the
+#278	AnnotatorNotes T287	lemma = 'the'
+T288	pos_NN 1390 1397	process
+#279	AnnotatorNotes T288	lemma = 'process'
+T289	pos_IN 1398 1400	of
+#280	AnnotatorNotes T289	lemma = 'of'
+T290	pos_NN 1401 1414	globalization
+#281	AnnotatorNotes T290	lemma = 'globalization'
+T291	pos_Fp 1414 1415	.
+#282	AnnotatorNotes T291	lemma = '.'

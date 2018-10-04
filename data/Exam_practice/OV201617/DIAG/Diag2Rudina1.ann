@@ -1,0 +1,140 @@
+T1	Prepositions 104 109	since
+T3	Non_defining 159 164	which
+T4	lex_item_choice 203 209	became
+T5	Prepositions 213 222	arrive to
+#1	AnnotatorNotes T5	arrive in
+T6	Articles 223 238	given countries
+#2	AnnotatorNotes T6	the given countries
+T7	note 314 315	.
+#3	AnnotatorNotes T7	GIVE THE NUMBER
+T8	Tense_choice 295 297	is
+T9	Agreement_errors 475 479	were
+T10	Prepositions 600 602	by
+T11	Tense_choice 775 779	make
+T12	Prepositions 805 807	of
+#4	AnnotatorNotes T12	in
+T13	Agreement_errors 850 862	demonstrates
+T14	Word_choice 868 881	special jumps
+T15	lex_item_choice 1112 1118	became
+T16	Ref_device 1131 1151	As it was mentioned,
+A1	Delete T16
+T17	Agreement_errors 1292 1296	were
+T18	Prepositions 1368 1370	by
+T19	Articles 133 140	figures
+T20	Punctuation 629 630	.
+#5	AnnotatorNotes T20	:
+A2	Cause T8 Other
+A3	Weight-language T8 Major
+A4	Weight-understanding T8 Minor
+#6	AnnotatorNotes T8	was
+A5	Cause T5 Other
+A6	Weight-language T5 Major
+A7	Weight-understanding T5 Minor
+A8	Cause T6 Absence_of_Category_in_L1
+A9	Weight-language T6 Major
+A10	Weight-understanding T6 Minor
+A11	Cause T1 Absence_of_Category_in_L1
+A12	Weight-language T1 Minor
+A13	Weight-understanding T1 Minor
+#7	AnnotatorNotes T1	from
+A14	Cause T17 Typo
+A15	Weight-language T17 Major
+A16	Weight-understanding T17 Minor
+#8	AnnotatorNotes T17	was
+A17	Cause T20 Other
+A18	Weight-language T20 Minor
+A19	Weight-understanding T20 Minor
+A20	Cause T11 Other
+A21	Weight-language T11 Major
+A22	Weight-understanding T11 Minor
+#9	AnnotatorNotes T11	had made
+A23	Cause T12 Other
+A24	Weight-language T12 Minor
+A25	Weight-understanding T12 Minor
+A26	Cause T10 Other
+A27	Weight-language T10 Minor
+A28	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	in
+A29	Cause T13 Other
+A30	Weight-language T13 Major
+A31	Weight-understanding T13 Minor
+#11	AnnotatorNotes T13	demonstrate
+A32	Cause T9 Other
+A33	Weight-language T9 Major
+A34	Weight-understanding T9 Minor
+#12	AnnotatorNotes T9	was
+A35	Cause T16 Other
+A36	Weight-language T16 Minor
+A37	Weight-understanding T16 Minor
+A38	Cause T18 Other
+A39	Weight-language T18 Minor
+A40	Weight-understanding T18 Minor
+#13	AnnotatorNotes T18	in
+A41	Cause T19 Absence_of_Category_in_L1
+A42	Weight-language T19 Major
+A43	Weight-understanding T19 Minor
+#14	AnnotatorNotes T19	the figures
+A44	Cause T14 Other
+A45	Weight-language T14 Minor
+A46	Weight-understanding T14 Minor
+#15	AnnotatorNotes T14	sharp changes
+A47	Cause T4 Other
+A48	Weight-language T4 Minor
+A49	Weight-understanding T4 Minor
+#16	AnnotatorNotes T4	began
+A50	Cause T15 Other
+A51	Weight-language T15 Minor
+A52	Weight-understanding T15 Minor
+#17	AnnotatorNotes T15	started
+T2	Redundant_comp 36 66	in centres of tourist business
+A53	Delete T2
+#18	AnnotatorNotes T3	, which
+T21	Ref_device 159 164	which
+T22	Tense_choice 203 209	became
+T23	lex_item_choice 133 140	figures
+T24	lex_item_choice 223 238	given countries
+T25	Prepositions 298 300	at
+#19	AnnotatorNotes T25	in
+T26	Determiners 863 867	some
+A54	Delete T26
+T27	Tense_choice 948 952	goes
+#20	AnnotatorNotes T27	went
+T28	lex_item_choice 956 970	quite slightly
+#21	AnnotatorNotes T28	gradually
+T29	lex_item_choice 1004 1010	amount
+#22	AnnotatorNotes T29	number
+T30	lex_part_choice 1023 1033	arrived to
+#23	AnnotatorNotes T30	arrived in
+T31	Tense_choice 1187 1189	do
+#24	AnnotatorNotes T31	did
+A55	Cause T30 Other
+A56	Weight-language T30 Minor
+A57	Weight-understanding T30 Minor
+A58	Cause T31 Other
+A59	Weight-language T31 Minor
+A60	Weight-understanding T31 Minor
+A61	Cause T29 Absence_of_Category_in_L1
+A62	Weight-language T29 Minor
+A63	Weight-understanding T29 Minor
+A64	Cause T27 Other
+A65	Weight-language T27 Minor
+A66	Weight-understanding T27 Minor
+A67	Cause T2 Other
+A68	Weight-language T2 Minor
+A69	Weight-understanding T2 Minor
+A70	Cause T23 Other
+A71	Weight-language T23 Minor
+A72	Weight-understanding T23 Minor
+#25	AnnotatorNotes T23	graphs?
+A73	Cause T21 Other
+A74	Weight-language T21 Minor
+A75	Weight-understanding T21 Minor
+#26	AnnotatorNotes T21	that?
+A76	Cause T22 Absence_of_Category_in_L1
+A77	Weight-language T22 Minor
+A78	Weight-understanding T22 Minor
+#27	AnnotatorNotes T22	have become
+A79	Cause T24 Other
+A80	Weight-language T24 Minor
+A81	Weight-understanding T24 Minor
+#28	AnnotatorNotes T24	these parts of the world

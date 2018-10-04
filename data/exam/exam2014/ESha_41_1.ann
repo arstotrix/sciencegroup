@@ -1,0 +1,39 @@
+T1	Verb_pattern 132 136	will
+#1	AnnotatorNotes T1	will be
+T2	Absence_comp_sent 165 169	view
+#2	AnnotatorNotes T2	the view
+T3	Absence_comp_sent 173 183	scientists
+#3	AnnotatorNotes T3	the scientists
+T4	lex_item_choice 211 214	the
+#4	AnnotatorNotes T4	two
+T5	Agreement_errors 215 219	ages
+#5	AnnotatorNotes T5	age
+T6	Agreement_errors 220 225	group
+#6	AnnotatorNotes T6	groups
+T7	Redundant_comp 241 248	against
+A1	Delete T7
+T8	lex_item_choice 306 308	to
+#7	AnnotatorNotes T8	are two
+T9	Agreement_errors 329 336	country
+#8	AnnotatorNotes T9	countries
+T10	lex_item_choice 521 525	What
+#9	AnnotatorNotes T10	That's
+T11	Prepositions 856 858	at
+#10	AnnotatorNotes T11	of
+T12	lex_item_choice 967 973	mirrow
+#11	AnnotatorNotes T12	reverse
+T13	Agreement_errors 1049 1056	country
+#12	AnnotatorNotes T13	countries
+T14	Derivation 1057 1073	uncomparisanable
+#13	AnnotatorNotes T14	incomparable
+T15	Absence_explanation 1057 1073	uncomparisanable
+A2	Addition T15
+#14	AnnotatorNotes T15	are incomparable
+T16	Agreement_errors 1101 1104	way
+#15	AnnotatorNotes T16	ways
+T17	lex_item_choice 1140 1148	maintain
+#16	AnnotatorNotes T17	mention
+T18	Spelling 1173 1177	whis
+#17	AnnotatorNotes T18	this
+T19	Redundant_comp 1178 1180	is
+A3	Delete T19

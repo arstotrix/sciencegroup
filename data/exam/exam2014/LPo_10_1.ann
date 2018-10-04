@@ -1,0 +1,91 @@
+T1	Articles 94 97	USA
+#1	AnnotatorNotes T1	the USA
+T2	Suffix 113 120	percent
+#2	AnnotatorNotes T2	percentage
+T3	Coherence 189 195	became
+#3	AnnotatorNotes T3	will become
+T4	Articles 234 237	USA
+#4	AnnotatorNotes T4	the USA
+T5	suggestion 238 257	gradually increased
+#5	AnnotatorNotes T5	had increased
+T6	Coherence 319 322	was
+T7	Coherence 361 367	became
+#6	AnnotatorNotes T7	will be
+T9	Suffix 386 393	percent
+#7	AnnotatorNotes T9	percentage
+T10	Coherence 449 456	reached
+#8	AnnotatorNotes T10	will have reached
+T11	Coherence 421 425	rose
+#9	AnnotatorNotes T11	is expected to rise
+T12	Articles 587 590	USA
+#10	AnnotatorNotes T12	the USA
+T13	Coherence 554 564	was rising
+#11	AnnotatorNotes T13	keeps rising
+T14	Coherence 597 600	was
+#12	AnnotatorNotes T14	is
+T15	Spelling 646 651	amout
+#13	AnnotatorNotes T15	amount
+T16	Tense_choice 701 710	decreased
+#14	AnnotatorNotes T16	had been decreasing
+T17	Linking_device 735 740	then,
+#15	AnnotatorNotes T17	and then
+T18	Coherence 773 780	reached
+#16	AnnotatorNotes T18	will reach
+T19	Category_confusion 827 834	growing
+#17	AnnotatorNotes T19	growth
+T20	Articles 847 853	number
+#18	AnnotatorNotes T20	the proportion
+T21	Coherence 872 875	was
+#19	AnnotatorNotes T21	will be
+T22	Coherence 812 815	was
+#20	AnnotatorNotes T22	will be
+T23	Articles 816 834	very sharp growing
+#21	AnnotatorNotes T23	a very sharp growth 
+T24	lex_item_choice 27 33	amount
+#22	AnnotatorNotes T24	proportion
+T25	suggestion 27 33	amount
+T26	Redundant_comp 61 72	in percents
+A1	Delete T26
+R1	Dependent_change Arg1:T24 Arg2:T26	
+T27	Spelling 108 112	ther
+#23	AnnotatorNotes T27	the
+T28	suggestion 108 112	ther
+T29	Coherence 143 150	grew up
+#24	AnnotatorNotes T29	is growing
+T30	suggestion 189 195	became
+T31	suggestion 143 150	grew up
+T32	Tense_choice 238 257	gradually increased
+#25	AnnotatorNotes T32	had gradually increased
+#26	AnnotatorNotes T6	has been
+T33	Absence_explanation 337 342	until
+#27	AnnotatorNotes T33	, which is expected until
+T34	suggestion 337 342	until
+T35	suggestion 319 322	was
+T36	lex_item_choice 361 367	became
+#28	AnnotatorNotes T36	will be
+T8	suggestion 361 367	became
+T37	suggestion 421 425	rose
+T38	suggestion 449 456	reached
+T39	lex_item_choice 467 473	number
+#29	AnnotatorNotes T39	proportion
+T40	suggestion 467 473	number
+T41	lex_item_choice 477 484	old-age
+#30	AnnotatorNotes T41	elderly
+T42	suggestion 554 564	was rising
+T43	suggestion 577 583	, when
+#31	AnnotatorNotes T43	when OR , while
+T44	lex_item_choice 646 651	amout
+#32	AnnotatorNotes T44	level
+T45	lex_item_choice 619 626	another
+#33	AnnotatorNotes T45	a different
+T46	Absence_comp_sent 722 732	3% in 1990
+#34	AnnotatorNotes T46	to 3% in 1990
+T47	suggestion 722 732	3% in 1990
+T48	Punctuation 735 740	then,
+#35	AnnotatorNotes T48	and then
+T49	suggestion 735 740	then,
+T50	suggestion 773 780	reached
+T51	suggestion 827 834	growing
+T52	lex_item_choice 847 853	number
+#36	AnnotatorNotes T52	the proportion
+T53	suggestion 847 853	number

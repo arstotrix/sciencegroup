@@ -1,0 +1,49 @@
+T1	lex_item_choice 53 57	made
+T2	suggestion 246 250	Next
+T3	suggestion 268 313	which is nearly half lower than the first one
+#1	AnnotatorNotes T3	, which is nearly half as low as the first one
+T4	Numerical 289 299	lower than
+T5	suggestion 402 426	which are 12% of reasons
+#2	AnnotatorNotes T5	, which are 12% of all reasons
+T6	Absence_comp_sent 419 426	reasons
+T7	Numerical 466 473	smaller
+#3	AnnotatorNotes T7	as little
+T8	suggestion 554 560	number
+T9	suggestion 605 615	in numbers
+A1	Delete T9
+T10	lex_part_choice 616 637	as well as in percent
+#4	AnnotatorNotes T10	in percentage also
+T11	Absence_comp_sent 690 691	.
+#5	AnnotatorNotes T11	in their numbers.
+T12	lex_item_choice 723 729	groups
+#6	AnnotatorNotes T12	families
+T13	Word_choice 705 722	are combined into
+#7	AnnotatorNotes T13	come under
+T14	Word_choice 824 831	damaged
+#8	AnnotatorNotes T14	affected
+T15	suggestion 925 931	Fishes
+#9	AnnotatorNotes T15	Freshwater fish
+T16	Word_choice 941 951	endangered
+#10	AnnotatorNotes T16	affected
+T17	Standard 1064 1076	less than by
+#11	AnnotatorNotes T17	by less than
+T18	Linking_device 1236 1241	which
+#12	AnnotatorNotes T18	whose
+T19	Noun_number 1242 1252	population
+#13	AnnotatorNotes T19	populations have
+#14	AnnotatorNotes T6	all reasons
+#15	AnnotatorNotes T4	as low as
+#16	AnnotatorNotes T1	collected OR observed
+#17	AnnotatorNotes T2	The next
+T20	suggestion 246 250	Next
+#18	AnnotatorNotes T20	The second most harmful
+T21	suggestion 251 254	one
+#19	AnnotatorNotes T21	factor
+#20	AnnotatorNotes T8	the number
+T22	suggestion 729 730	:
+#21	AnnotatorNotes T22	of 
+T23	suggestion 1226 1227	3
+#22	AnnotatorNotes T23	three
+T24	suggestion 1253 1256	has
+#23	AnnotatorNotes T24	have
+R1	Dependent_change Arg1:T19 Arg2:T24	

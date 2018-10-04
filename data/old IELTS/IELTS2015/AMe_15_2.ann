@@ -1,0 +1,153 @@
+T2	Articles 10 28	the important part
+#2	AnnotatorNotes T2	an important part
+T1	Noun_number 61 70	goverment
+#1	AnnotatorNotes T1	goverments
+T3	Transitive 78 96	control of artists
+#3	AnnotatorNotes T3	control artists
+T4	Interrogative 101 106	it is
+#4	AnnotatorNotes T4	is it
+T5	Spelling 137 144	eximene
+#5	AnnotatorNotes T5	examine
+T6	Redundant_comp 155 164	points of
+A1	Delete T6
+T7	Noun_number 165 169	view
+#6	AnnotatorNotes T7	views
+R1	Dependent_change Arg1:T6 Arg2:T7	
+T8	Derivation 177 185	free art
+#7	AnnotatorNotes T8	freedom of art
+T9	Agreement_errors 208 213	these
+#8	AnnotatorNotes T9	this 
+T10	lex_item_choice 214 219	theme
+#9	AnnotatorNotes T10	topic
+T11	Articles 245 259	the morden art
+#10	AnnotatorNotes T11	modern art
+T12	Agreement_errors 260 264	need
+#11	AnnotatorNotes T12	needs
+T13	Category_confusion 268 277	a control
+#12	AnnotatorNotes T13	be controlled
+T14	Articles 371 380	a society
+#13	AnnotatorNotes T14	the society
+T15	Absence_explanation 350 367	the bad influence
+#14	AnnotatorNotes T15	the bad influence they may have
+T16	Spelling 403 414	perforanses
+#15	AnnotatorNotes T16	performances
+T17	Standard 446 501	cut themselves, harm their health and body is destroyed
+#16	AnnotatorNotes T17	harm their health - cut themselves or destroy their body in some other way
+T18	Voice 484 501	body is destroyed
+#17	AnnotatorNotes T18	destroy their body
+T19	Absence_explanation 484 501	body is destroyed
+#18	AnnotatorNotes T19	destroy their body in some other way
+T20	Redundant 513 515	of
+A2	Delete T20
+T21	Spelling 520 522	20
+#19	AnnotatorNotes T21	20th
+T22	Articles 534 538	USSR
+#20	AnnotatorNotes T22	the USSR
+T23	Determiners 543 550	the art
+#21	AnnotatorNotes T23	all arts
+T24	Noun_number 543 550	the art
+#22	AnnotatorNotes T24	all arts
+T25	Agreement_errors 551 554	was
+#23	AnnotatorNotes T25	were
+R2	Dependent_change Arg1:T24 Arg2:T25	
+T26	Category_confusion 555 566	restriction
+#24	AnnotatorNotes T26	restricted
+T27	Confusion_of_structures 588 594	it was
+#25	AnnotatorNotes T27	there was
+T28	Defining 612 618	, that
+#26	AnnotatorNotes T28	that
+T29	Spelling 623 629	learnd
+#27	AnnotatorNotes T29	learned
+T30	Absence_comp_colloc 630 635	to be
+#28	AnnotatorNotes T30	in order to be
+T31	Defining 648 653	, who
+#29	AnnotatorNotes T31	who
+T32	Conjunctions 664 667	and
+#30	AnnotatorNotes T32	or
+T33	Articles 704 723	the free profession
+#31	AnnotatorNotes T33	a free profession
+T34	Punctuation 724 727	and
+#32	AnnotatorNotes T34	, and
+T35	Spelling 814 818	sush
+#33	AnnotatorNotes T35	, such
+T36	Noun_number 822 829	drawing
+#34	AnnotatorNotes T36	drawings
+T37	Spelling 847 856	Renessans
+#35	AnnotatorNotes T37	Renaissance
+T38	Punctuation 814 818	sush
+#36	AnnotatorNotes T38	, such
+T39	Articles 871 882	the fredoom
+#37	AnnotatorNotes T39	freedom
+T40	Spelling 875 882	fredoom
+#38	AnnotatorNotes T40	freedom
+T41	Coherence 928 959	that they really feel and think
+#39	AnnotatorNotes T41	what they really feel and that they think
+T42	Spelling 971 979	qustions
+#40	AnnotatorNotes T42	questions
+T43	Spelling 1028 1035	Mosckow
+#41	AnnotatorNotes T43	Moscow
+T44	Tense_choice 1042 1045	are
+#42	AnnotatorNotes T44	were
+T45	Articles 1063 1070	streets
+#43	AnnotatorNotes T45	the streets
+T46	Word_choice 994 999	under
+#44	AnnotatorNotes T46	at the time of
+T47	Tense_choice 1077 1080	try
+#45	AnnotatorNotes T47	tried
+T48	Spelling 1092 1101	attantion
+#46	AnnotatorNotes T48	attention
+T49	Category_confusion 1110 1117	society
+#47	AnnotatorNotes T49	social
+T50	lex_item_choice 1179 1183	keep
+#48	AnnotatorNotes T50	donates
+T51	Agreement_errors 1179 1183	keep
+#49	AnnotatorNotes T51	donates
+T52	Prepositions 1190 1192	on
+#50	AnnotatorNotes T52	for
+T53	Category_confusion 1197 1201	safe
+#51	AnnotatorNotes T53	safety
+T54	Determiners 1205 1212	the our
+#52	AnnotatorNotes T54	our
+T55	suggestion 1225 1229	take
+#53	AnnotatorNotes T55	shoots
+T56	Spelling 1236 1248	perfomcences
+R3	Parallel_construction Arg1:T51 Arg2:T55	
+T57	lex_item_choice 1225 1229	take
+#54	AnnotatorNotes T57	shoots
+T58	suggestion 1258 1262	sell
+#55	AnnotatorNotes T58	sells
+R4	Parallel_construction Arg1:T55 Arg2:T58	
+#56	AnnotatorNotes T56	performances
+T59	Ref_device 1263 1265	it
+#57	AnnotatorNotes T59	them
+T60	Articles 1280 1287	the art
+#58	AnnotatorNotes T60	art
+T61	Transitive 1288 1301	influenses on
+#59	AnnotatorNotes T61	influences 
+T62	Spelling 1288 1298	influenses
+#60	AnnotatorNotes T62	influences 
+T63	Absence_explanation 1419 1423	want
+#61	AnnotatorNotes T63	want them to do
+T64	Modals 1395 1403	must not
+#62	AnnotatorNotes T64	don't have to
+T65	Agreement_errors 1327 1332	don’t
+#63	AnnotatorNotes T65	doesn't
+T66	Determiners 1338 1349	the control
+#64	AnnotatorNotes T66	any control
+T67	Redundant_comp 204 207	the
+T68	Spelling 523 530	centiry
+#65	AnnotatorNotes T68	century
+T69	Spelling 110 119	nessesary
+#66	AnnotatorNotes T69	necessary
+T70	Spelling 61 70	goverment
+#67	AnnotatorNotes T70	government
+T71	Spelling 574 583	goverment
+#68	AnnotatorNotes T71	government
+T72	Spelling 769 778	goverment
+#69	AnnotatorNotes T72	government
+T73	Spelling 504 512	Throuout
+#70	AnnotatorNotes T73	Throughout
+T74	Spelling 249 255	morden
+#71	AnnotatorNotes T74	modern
+T75	Spelling 798 806	beatiful
+#72	AnnotatorNotes T75	beautiful

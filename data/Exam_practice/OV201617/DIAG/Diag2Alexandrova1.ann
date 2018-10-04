@@ -1,0 +1,73 @@
+T2	Redundant_comp 587 595	per year
+T3	lex_item_choice 37 43	amount
+T5	Word_choice 142 152	Despite of
+T7	Spelling 202 206	tend
+T8	Word_choice 225 237	quite always
+T9	Absence_comp_sent 208 224	The less popular
+T10	Articles 385 391	number
+T11	Redundant_comp 467 473	people
+T12	lex_item_choice 496 501	taken
+T13	Often_confused 639 644	raise
+T14	Standard 627 675	The biggest raise had Central and Eastern Europe
+T15	Spelling 849 853	it's
+T16	Prepositions 859 874	in the point of
+#1	AnnotatorNotes T16	at 
+T17	Absence_comp_sent 887 906	The most attractive
+T18	Spelling 1054 1057	200
+T19	Redundant 1071 1082	the process
+A1	Delete T19
+T20	Spelling 1140 1143	200
+T21	Redundant_comp 1153 1156	the
+A2	Delete T21
+T22	Agreement_errors 1163 1169	wasn't
+T23	Category_confusion 1170 1182	dramatically
+#2	AnnotatorNotes T23	dramatic
+T24	lex_item_choice 1212 1220	plateaus
+T25	Determiners 1259 1267	the each
+T26	Modals 1274 1288	could increase
+#3	AnnotatorNotes T26	managed to increase
+#4	AnnotatorNotes T3	number
+T27	Articles 37 43	amount
+#5	AnnotatorNotes T27	the number
+T28	Absence_comp_sent 56 63	arrived
+#6	AnnotatorNotes T28	who arrived
+T4	Prepositional_verb 56 66	arrived on
+#7	AnnotatorNotes T4	who arrived in
+#8	AnnotatorNotes T5	Except for
+T6	lex_item_choice 179 184	place
+#9	AnnotatorNotes T6	area
+T29	lex_item_choice 173 178	taken
+A3	Cause T29 L1_interference
+#10	AnnotatorNotes T29	given
+#11	AnnotatorNotes T7	trend
+#12	AnnotatorNotes T9	The least popular destination
+T30	Superlative_adj 212 216	less
+#13	AnnotatorNotes T30	least
+#14	AnnotatorNotes T8	overwhelmingly
+#15	AnnotatorNotes T10	the number
+T31	Absence_explanation 483 487	more
+#16	AnnotatorNotes T31	more than before
+#17	AnnotatorNotes T12	observation
+T32	Redundant_comp 543 551	slightly
+A4	Delete T32
+A5	Delete T11
+A6	Delete T2
+#18	AnnotatorNotes T13	rise
+T1	Spelling 639 644	raise
+#19	AnnotatorNotes T1	rise
+#20	AnnotatorNotes T14	Central and Eastern Europe hadt he biggest rise
+#21	AnnotatorNotes T15	its
+#22	AnnotatorNotes T17	The most attractive destination
+#23	AnnotatorNotes T18	2000
+#24	AnnotatorNotes T20	2000
+#25	AnnotatorNotes T22	weren't
+T33	Determiners 1170 1190	dramatically changes
+#26	AnnotatorNotes T33	any dramatic changes
+#27	AnnotatorNotes T24	levels
+T34	lex_item_choice 1268 1273	place
+#28	AnnotatorNotes T34	region
+#29	AnnotatorNotes T25	each
+T35	Redundant_comp 1221 1248	and stays at the same point
+A7	Delete T35
+T36	Absence_explanation 1289 1313	the interest of tourists
+#30	AnnotatorNotes T36	the interest it presents for tourists

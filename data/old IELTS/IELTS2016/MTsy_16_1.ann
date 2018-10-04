@@ -1,0 +1,87 @@
+T2	Tense_form 48 51	not
+#2	AnnotatorNotes T2	were not
+T3	Spelling 52 59	aducate
+#3	AnnotatorNotes T3	educated
+T4	Tense_form 52 59	aducate
+#4	AnnotatorNotes T4	educated
+T6	Voice 167 184	didn not aducated
+#6	AnnotatorNotes T6	weren't
+T7	Spelling 176 184	aducated
+#7	AnnotatorNotes T7	educated
+T9	Numerals 210 218	millions
+#9	AnnotatorNotes T9	million
+T10	Punctuation 219 222	but
+#10	AnnotatorNotes T10	, but
+T11	Tense_choice 245 250	can’t
+#11	AnnotatorNotes T11	were unable to
+T12	Numerals 281 289	millions
+A1	Cause T12 L1_interference
+#12	AnnotatorNotes T12	million
+A2	Cause T9 L1_interference
+T13	Linking_device 295 305	what about
+T1	Spelling 16 20	whow
+#1	AnnotatorNotes T1	how
+T5	suggestion 167 184	didn not aducated
+T8	Modals 245 250	can’t
+#5	AnnotatorNotes T8	were unable to
+T14	suggestion 245 250	can’t
+T15	Determiners 231 235	less
+#8	AnnotatorNotes T15	fewer
+T16	Coherence 236 244	children
+#13	AnnotatorNotes T16	boys
+#14	AnnotatorNotes T13	as for
+T17	Punctuation 295 311	what about girls
+#15	AnnotatorNotes T17	as for girls,
+T18	suggestion 295 305	what about
+T19	Numerals 320 333	23,7 millions
+#16	AnnotatorNotes T19	23.7 million
+T20	Redundant_comp 334 345	of children
+A3	Delete T20
+T21	suggestion 334 345	of children
+T22	suggestion 320 333	23,7 millions
+T23	Absence_comp_sent 320 345	23,7 millions of children
+#17	AnnotatorNotes T23	23.7 million were
+T24	Punctuation 382 385	and
+#18	AnnotatorNotes T24	, and
+T25	suggestion 382 385	and
+T26	Spelling 417 424	degrees
+#19	AnnotatorNotes T26	decreased
+T27	Tense_form 417 424	degrees
+#20	AnnotatorNotes T27	decreased
+T28	Prepositions 425 427	in
+#21	AnnotatorNotes T28	to OR by
+T29	suggestion 425 427	in
+T30	suggestion 417 424	degrees
+T31	Tense_choice 487 489	go
+#22	AnnotatorNotes T31	went
+T32	suggestion 487 489	go
+T33	suggestion 571 575	Rest
+#23	AnnotatorNotes T33	rest
+T34	Capitalisation 571 575	Rest
+#24	AnnotatorNotes T34	rest
+T35	Articles 571 575	Rest
+#25	AnnotatorNotes T35	the rest
+T36	suggestion 579 584	World
+T37	Capitalisation 579 584	World
+#26	AnnotatorNotes T37	the world
+T38	Articles 579 584	World
+#27	AnnotatorNotes T38	the world
+T39	suggestion 593 606	12,8 millions
+#28	AnnotatorNotes T39	12.8 million
+T40	suggestion 617 630	10,5 millions
+T41	suggestion 636 641	can’t
+T42	Punctuation 667 670	but
+#29	AnnotatorNotes T42	, but
+T43	suggestion 691 701	is digrees
+#30	AnnotatorNotes T43	decreased
+T44	suggestion 705 708	7,6
+T45	suggestion 719 722	7,7
+T46	suggestion 733 737	most
+#31	AnnotatorNotes T46	highest
+T47	suggestion 757 759	go
+#32	AnnotatorNotes T47	going
+T48	suggestion 729 777	The most number of children go to primary school
+#33	AnnotatorNotes T48	The highest number of children go to primary school was
+T49	suggestion 801 814	16,8 millions
+T50	suggestion 825 835	6 millions
+#34	AnnotatorNotes T41	cannot get

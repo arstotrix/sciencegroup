@@ -1,0 +1,70 @@
+T1	Absence_explanation 24 33	velaiting
+T2	Spelling 73 83	hovirontal
+T3	Redundant_comp 462 466	near
+T4	lex_item_choice 520 528	diagramm
+T5	Spelling 588 593	shord
+T6	Agreement_errors 745 752	consist
+T7	Punctuation 878 887	To sum up
+#1	AnnotatorNotes T2	horizontal
+T9	Spelling 431 438	inJapan
+#2	AnnotatorNotes T9	in Japan
+T10	Redundant_comp 786 791	years
+T12	Articles 129 139	percentage
+#5	AnnotatorNotes T12	the percentage
+T13	Defining 277 298	, which are presented
+T14	Defining 322 328	, when
+#6	AnnotatorNotes T14	when 
+T15	Articles 329 339	percentage
+#7	AnnotatorNotes T15	the percentage
+T16	lex_item_choice 745 752	consist
+#8	AnnotatorNotes T16	reaches
+#9	AnnotatorNotes T6	reaches
+T17	Tense_form 901 913	understended
+#10	AnnotatorNotes T17	understood
+T18	Articles 934 944	percentage
+#11	AnnotatorNotes T18	the percentage
+T22	Prepositional_noun 1053 1065	decreases of
+#15	AnnotatorNotes T22	decreases in
+T25	Absence_explanation 1066 1080	the population
+#17	AnnotatorNotes T25	this population sector
+#18	AnnotatorNotes T1	on the percentage of 
+T8	Absence_comp_colloc 37 47	population
+#19	AnnotatorNotes T8	population sector
+T26	Redundant_comp 63 67	aged
+A1	Delete T26
+T27	Absence_explanation 95 100	years
+#20	AnnotatorNotes T27	years of the observation period
+T28	Redundant 255 260	years
+A2	Delete T28
+#21	AnnotatorNotes T13	which are presented
+T29	Redundant_comp 381 383	in
+A3	Delete T29
+T30	Redundant 394 399	years
+A4	Cause T30 L1_interference
+A5	Delete T30
+T31	Redundant_comp 412 414	in
+A6	Delete T31
+R3	Parallel_construction Arg1:T29 Arg2:T31	
+T32	Punctuation 439 442	and
+#22	AnnotatorNotes T32	, and
+T33	Redundant 425 430	years
+A7	Delete T33
+R4	Parallel_construction Arg1:T30 Arg2:T33	
+A8	Delete T3
+#4	AnnotatorNotes T4	the graph
+T11	Articles 520 528	diagramm
+#23	AnnotatorNotes T11	the graph
+T34	Prepositional_noun 541 552	increase of
+#24	AnnotatorNotes T34	increase in
+T35	Articles 535 549	great increase
+#25	AnnotatorNotes T35	a great increase
+#26	AnnotatorNotes T5	short
+T36	Articles 588 600	shord period
+#27	AnnotatorNotes T36	the short period
+T37	lex_item_choice 688 693	equal
+#28	AnnotatorNotes T37	the same
+T38	Absence_explanation 753 776	9 percent and 7 percent
+#29	AnnotatorNotes T38	9 percent and 7 percent correspondingly
+A9	Delete T10
+T19	Redundant_comp 986 1012	and there are no pics here
+A10	Delete T19

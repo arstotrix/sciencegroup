@@ -1,0 +1,49 @@
+T1	Spelling 5 15	bar-charts
+#1	AnnotatorNotes T1	bar charts
+T2	Articles 82 97	two-year period
+#2	AnnotatorNotes T2	a two-year period
+T3	Spelling 230 238	prefered
+#3	AnnotatorNotes T3	preferred
+T4	Redundant 246 263	desktop computers
+#4	AnnotatorNotes T4	desktops
+T5	Spelling 523 528	exept
+#5	AnnotatorNotes T5	except
+T7	note 757 758	n
+#7	AnnotatorNotes T7	DBatov
+T8	lex_item_choice 47 53	amount
+#8	AnnotatorNotes T8	percentage
+T9	lex_part_choice 107 122	purposes to use
+#9	AnnotatorNotes T9	reasons for using
+T10	lex_item_choice 143 150	between
+#10	AnnotatorNotes T10	separately for
+T11	Articles 212 220	majority
+#11	AnnotatorNotes T11	the majority
+T12	lex_item_choice 314 326	Specifically
+#12	AnnotatorNotes T12	However,
+T13	Absence_comp_colloc 427 456	can be seen in the next chart
+#13	AnnotatorNotes T13	that can be seen in the next chart
+T14	Tense_choice 471 477	choose
+#14	AnnotatorNotes T14	chose
+T15	Absence_comp_colloc 465 470	women
+#15	AnnotatorNotes T15	more women
+T16	Redundant 486 495	following
+A1	Delete T16
+T18	Standard 465 608	women choose all the following reasons for using Facebook exept receiving updates, where the percentages are the same (39%) more often than men
+#17	AnnotatorNotes T18	more women than men chose all the reasons for using Facebook except receiving updates, where the percentage was the same (39%)
+T19	Agreement_errors 570 573	are
+#18	AnnotatorNotes T19	was
+T20	Noun_number 558 569	percentages
+#19	AnnotatorNotes T20	percentage
+R1	Dependent_change Arg1:T20 Arg2:T19	
+T6	Tense_choice 621 624	use
+T21	Redundant_comp 625 632	to surf
+A3	Delete T21
+#6	AnnotatorNotes T6	used
+T22	Articles 633 645	the Facebook
+#20	AnnotatorNotes T22	Facebook
+T23	Redundant_comp 646 653	in case
+A4	Delete T23
+T24	Tense_choice 716 725	interests
+#21	AnnotatorNotes T24	interested
+T17	Tense_choice 570 573	are
+#16	AnnotatorNotes T17	was

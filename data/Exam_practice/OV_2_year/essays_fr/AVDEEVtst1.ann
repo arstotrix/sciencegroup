@@ -1,0 +1,38 @@
+T1	Coherence 496 500	3800
+#1	AnnotatorNotes T1	38,000
+T10	Coherence 874 877	1:2
+#6	AnnotatorNotes T10	equal OR 2:1
+T11	note 874 877	1:2
+#7	AnnotatorNotes T11	IT DEPENDS WHAT YOU CONSIDER THE BEGINNING. FIRST, THERE WERE NO LIVE ACTION 3D AT ALL, THEN THEIR NUMBERS WERE EQUAL, THEN THERE WERE TWICE AS MANY ANIMATION 3DS AS LIVE ACTION 3DS
+T13	Absence_explanation 1018 1028	digital 3D
+#9	AnnotatorNotes T13	digital 3D screens around the world
+T15	Tense_choice 249 258	that were
+T16	Redundant 291 302	just almost
+T17	Absence_comp_colloc 323 327	went
+T18	Redundant_comp 362 364	is
+T19	Numerals 394 410	the year of 2008
+T20	Coherence 488 492	3000
+T23	lex_part_choice 582 584	by
+T24	Redundant_comp 751 753	is
+T25	Coherence 925 929	3:1.
+#10	AnnotatorNotes T19	year 2008
+#11	AnnotatorNotes T16	almost OR just
+#2	AnnotatorNotes T15	that were being
+#12	AnnotatorNotes T17	went up
+A1	Delete T18
+#13	AnnotatorNotes T23	into
+A2	Delete T24
+T3	Standard 754 762	also can
+#5	AnnotatorNotes T3	can also
+T4	Redundant_comp 365 369	also
+A3	Delete T4
+T5	Word_choice 456 482	a sharp increase (going up
+#14	AnnotatorNotes T5	an increase 
+T6	Punctuation 500 501	)
+A4	Delete T6
+R1	Dependent_change Arg1:T5 Arg2:T6	
+#8	AnnotatorNotes T25	1:3
+T2	Spelling 352 357	38000
+#3	AnnotatorNotes T2	38,000
+T7	Spelling 488 492	3000
+#4	AnnotatorNotes T7	3,000

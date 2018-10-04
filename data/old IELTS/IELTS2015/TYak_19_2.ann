@@ -1,0 +1,45 @@
+T1	Absence_comp_sent 10 22	who studying
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	who are studying
+T2	Defining 35 40	which
+A2	Cause T2 L1_interference
+A3	Delete T2
+T3	Tense_form 69 83	doesn’t trying
+A4	Cause T3 Other
+#2	AnnotatorNotes T3	don't try
+T4	note 268 269	?
+T5	Two_in_a_row 295 305	does cause
+A5	Cause T5 Other
+#3	AnnotatorNotes T5	causes / stimulates
+T6	Inappropriate_register 1482 1492	I finished
+#4	AnnotatorNotes T6	??? 
+T7	Articles 552 553	a
+A6	Cause T7 Absence_of_Category_in_L1
+#5	AnnotatorNotes T7	the 
+T8	Prepositions 599 601	to
+A7	Delete T8
+T9	Redundant_comp 1036 1040	must
+A8	Cause T9 L1_interference
+T10	Articles 1067 1074	teacher
+A10	Cause T10 Absence_of_Category_in_L1
+#6	AnnotatorNotes T10	the teacher
+T11	Articles 1088 1095	teacher
+A11	Cause T11 Absence_of_Category_in_L1
+#7	AnnotatorNotes T11	the teacher
+T12	Pronouns 1173 1177	they
+A12	Cause T12 Other
+#8	AnnotatorNotes T12	them 
+T13	Verb_Inf 1218 1221	may
+#9	AnnotatorNotes T13	to
+T14	Noun_number 1250 1260	knowledges
+A13	Cause T14 Other
+#10	AnnotatorNotes T14	knowledge
+T15	Absence_explanation 1261 1282	and to home education
+A14	Cause T15 Other
+#11	AnnotatorNotes T15	??? 
+T16	Articles 1431 1438	Teacher
+A15	Cause T16 Absence_of_Category_in_L1
+#12	AnnotatorNotes T16	The teacher
+T17	Linking_device 1458 1459	,
+A16	Cause T17 L1_interference
+#13	AnnotatorNotes T17	and

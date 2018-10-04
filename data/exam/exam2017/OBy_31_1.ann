@@ -1,0 +1,32 @@
+T1	Noun_number 40 48	the good
+#1	AnnotatorNotes T1	goods
+T2	Articles 40 48	the good
+#2	AnnotatorNotes T2	goods
+T3	Redundant_comp 203 215	respectively
+A1	Delete T3
+T4	Articles 188 202	transportation
+#3	AnnotatorNotes T4	the transportation
+T5	Redundant_comp 224 235	and by road
+A2	Delete T5
+T6	Noun_number 275 289	transportation
+#4	AnnotatorNotes T6	transportations
+T7	Articles 319 330	closer look
+#5	AnnotatorNotes T7	a closer look
+T8	Punctuation 459 464	while
+#6	AnnotatorNotes T8	, while
+T9	Articles 468 482	transportation
+#7	AnnotatorNotes T9	the transportation
+T10	lex_item_choice 496 500	have
+#8	AnnotatorNotes T10	take
+T11	Articles 511 521	fifth part
+#9	AnnotatorNotes T11	a fifth part
+T12	Punctuation 550 567	On the other hand
+#10	AnnotatorNotes T12	On the other hand,
+T13	Spelling 706 714	smalless
+#11	AnnotatorNotes T13	smallest
+T14	Noun_number 715 719	part
+#12	AnnotatorNotes T14	parts
+T15	Redundant_comp 720 733	of percentage
+A3	Delete T15
+T16	Noun_number 828 832	good
+#13	AnnotatorNotes T16	goods

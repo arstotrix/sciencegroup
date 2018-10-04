@@ -1,0 +1,82 @@
+T4	Voice 450 460	is changed
+#3	AnnotatorNotes T4	changes
+T5	lex_item_choice 461 474	corresponding
+#4	AnnotatorNotes T5	in accordance
+T8	Noun_number 616 620	user
+#6	AnnotatorNotes T8	users
+T9	Absence_comp_colloc 638 641	age
+#7	AnnotatorNotes T9	age group
+T12	Spelling 729 735	twicer
+#9	AnnotatorNotes T12	twice
+T13	lex_item_choice 714 720	amount
+T14	lex_item_choice 806 812	amount
+T15	Absence_explanation 844 856	more than 65
+#10	AnnotatorNotes T15	people older than 65
+T16	lex_item_choice 844 848	more
+#11	AnnotatorNotes T16	older
+T17	Absence_comp_sent 859 876	As it be observed
+#12	AnnotatorNotes T17	As it can be observed
+T18	Absence_comp_sent 901 918	share of Linkedln
+T19	Noun_number 941 946	group
+#13	AnnotatorNotes T19	groups
+T25	Redundant_comp 184 186	by
+A2	Delete T25
+T26	Punctuation 212 217	while
+#15	AnnotatorNotes T26	, while
+T3	Absence_explanation 284 296	more than 65
+#2	AnnotatorNotes T3	older than 65 years old
+T2	Conjunctions 1333 1338	while
+#17	AnnotatorNotes T2	, while
+T29	Noun_number 1151 1159	networks
+#18	AnnotatorNotes T29	network
+T30	Punctuation 1203 1208	while
+#20	AnnotatorNotes T30	, while
+#21	AnnotatorNotes T18	share of LinkedIn users
+T31	Spelling 910 918	Linkedln
+#22	AnnotatorNotes T31	LinkedIn
+T32	Spelling 1246 1254	Linkedln
+#23	AnnotatorNotes T32	LinkedIn
+T33	Spelling 1318 1326	Linkedln
+#24	AnnotatorNotes T33	LinkedIn
+T27	Articles 967 983	The equal amount
+#26	AnnotatorNotes T27	An equal percentage
+T21	lex_item_choice 1031 1035	more
+#28	AnnotatorNotes T21	older
+T22	Noun_number 1012 1017	group
+T34	Absence_explanation 1021 1026	18-29
+#27	AnnotatorNotes T34	18-29 years olds
+T36	Linking_device 1044 1067	the percentage of which
+#30	AnnotatorNotes T36	, and their percentage
+#32	AnnotatorNotes T13	level
+#33	AnnotatorNotes T14	percentage
+T1	Conjunctions 193 198	which
+#1	AnnotatorNotes T1	who 
+T28	lex_item_choice 284 288	more
+#16	AnnotatorNotes T28	older
+T6	Absence_comp_colloc 502 507	group
+#5	AnnotatorNotes T6	the group
+T7	Comparative_adj 516 523	highest
+#35	AnnotatorNotes T7	higher
+T40	lex_item_choice 596 602	amount
+#36	AnnotatorNotes T40	level
+T10	lex_item_choice 624 630	formed
+#25	AnnotatorNotes T10	reached
+T11	Comparative_constr 729 745	twicer less than
+#8	AnnotatorNotes T11	twice as low as
+T41	Word_choice 787 805	most insignificant
+#37	AnnotatorNotes T41	lowest
+T20	Redundant_comp 947 949	of
+A1	Delete T20
+T42	lex_item_choice 977 983	amount
+#14	AnnotatorNotes T42	percentage
+#38	AnnotatorNotes T22	groups
+T24	Word_choice 1303 1317	is observed in
+#19	AnnotatorNotes T24	used
+T35	Redundant_comp 1327 1332	usage
+A3	Delete T35
+T37	Word_choice 1343 1358	most irrelevant
+#29	AnnotatorNotes T37	least popular
+T23	Redundant_comp 365 374	formed by
+T39	Tense_form 362 364	is
+#31	AnnotatorNotes T39	are
+R1	Dependent_change Arg1:T39 Arg2:T23	

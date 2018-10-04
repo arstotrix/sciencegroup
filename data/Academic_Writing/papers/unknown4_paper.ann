@@ -1,0 +1,156 @@
+T1	Punctuation 664 665	,
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+T2	Punctuation 705 706	,
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+T4	lex_part_choice 1084 1092	by hands
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+#2	AnnotatorNotes T4	by hand
+T6	Articles 2636 2639	few
+A16	Cause T6 Absence_of_Category_in_L1
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Minor
+#3	AnnotatorNotes T6	a few
+T10	Inappropriate_register 6359 6362	you
+#6	AnnotatorNotes T10	one
+T12	Comparative_adj 8677 8686	more easy
+A31	Cause T12 Other
+A32	Weight-language T12 Critical
+A33	Weight-understanding T12 Critical
+#8	AnnotatorNotes T12	easier
+T15	Inappropriate_register 11107 11111	Also
+A40	Cause T15 Other
+A41	Weight-language T15 Critical
+A42	Weight-understanding T15 Minor
+#9	AnnotatorNotes T15	As well
+T16	Tense_choice 11195 11203	resulted
+A43	Cause T16 L1_interference
+A44	Weight-language T16 Major
+A45	Weight-understanding T16 Critical
+#10	AnnotatorNotes T16	result
+T19	Punctuation 15451 15452	,
+A52	Cause T19 L1_interference
+A53	Weight-language T19 Minor
+A54	Weight-understanding T19 Minor
+T20	Punctuation 16770 16771	,
+A55	Cause T20 L1_interference
+A56	Weight-language T20 Minor
+A57	Weight-understanding T20 Minor
+T23	Tense_choice 17493 17505	would become
+A64	Cause T23 Other
+A65	Weight-language T23 Major
+A66	Weight-understanding T23 Critical
+#12	AnnotatorNotes T23	becomes
+T28	Noun_number 25168 25179	constituent
+A79	Cause T28 Other
+A80	Weight-language T28 Critical
+A81	Weight-understanding T28 Critical
+#14	AnnotatorNotes T28	constituents
+T29	Tense_choice 26235 26240	found
+A82	Cause T29 L1_interference
+A83	Weight-language T29 Critical
+A84	Weight-understanding T29 Critical
+#15	AnnotatorNotes T29	have found
+T30	Tense_choice 26426 26434	designed
+A85	Cause T30 L1_interference
+A86	Weight-language T30 Critical
+A87	Weight-understanding T30 Critical
+#16	AnnotatorNotes T30	have designed
+T31	Tense_choice 26485 26490	wrote
+A88	Cause T31 L1_interference
+A89	Weight-language T31 Critical
+A90	Weight-understanding T31 Critical
+#17	AnnotatorNotes T31	have written
+T32	Punctuation 26665 26666	,
+A91	Cause T32 L1_interference
+A92	Weight-language T32 Minor
+A93	Weight-understanding T32 Minor
+T33	Punctuation 27556 27557	,
+A94	Cause T33 L1_interference
+A95	Weight-language T33 Minor
+A96	Weight-understanding T33 Minor
+T5	Non_defining 2556 2556	
+#4	AnnotatorNotes T5	,
+A13	Cause T5 Other
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Minor
+T7	Defining 13217 13218	,
+A19	Cause T7 Other
+A20	Weight-language T7 Minor
+A21	Weight-understanding T7 Minor
+T8	Defining 13314 13315	,
+A22	Cause T8 Other
+A23	Weight-language T8 Minor
+A24	Weight-understanding T8 Minor
+T9	Non_defining 23868 23868	
+A25	Cause T9 Other
+A26	Weight-language T9 Minor
+A27	Weight-understanding T9 Minor
+#5	AnnotatorNotes T9	,
+T13	Non_defining 23907 23907	
+A34	Cause T13 Other
+A35	Weight-language T13 Minor
+A36	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	,
+T11	lex_part_choice 20417 20425	by hands
+A28	Cause T11 Other
+A29	Weight-language T11 Critical
+A30	Weight-understanding T11 Critical
+#7	AnnotatorNotes T11	by hand
+T14	lex_part_choice 20806 20814	by hands
+A37	Cause T14 Other
+A38	Weight-language T14 Critical
+A39	Weight-understanding T14 Critical
+#11	AnnotatorNotes T14	by hand
+T17	lex_part_choice 21042 21050	by hands
+A46	Cause T17 Other
+A47	Weight-language T17 Critical
+A48	Weight-understanding T17 Critical
+#18	AnnotatorNotes T17	by hand
+T26	lex_part_choice 23290 23298	by hands
+A73	Cause T26 Other
+A74	Weight-language T26 Critical
+A75	Weight-understanding T26 Critical
+#19	AnnotatorNotes T26	by hand
+T3	Noun_number 6288 6296	analysis
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Critical
+#1	AnnotatorNotes T3	analyses
+T34	Inappropriate_register 19209 19218	and so on
+A97	Cause T34 Other
+A98	Weight-language T34 Critical
+A99	Weight-understanding T34 Minor
+T35	lex_item_choice 19275 19280	whose
+A100	Cause T35 Other
+A101	Weight-language T35 Critical
+A102	Weight-understanding T35 Critical
+T36	Standard 19275 19297	whose second component
+A103	Cause T36 Other
+A104	Weight-language T36 Major
+A105	Weight-understanding T36 Critical
+#20	AnnotatorNotes T36	the second component of which
+T37	Inappropriate_register 20880 20888	we wrote
+A106	Cause T37 Other
+A107	Weight-language T37 Critical
+A108	Weight-understanding T37 Minor
+#21	AnnotatorNotes T37	it was written
+T38	lex_item_choice 24821 24827	needed
+A109	Cause T38 Other
+A110	Weight-language T38 Critical
+A111	Weight-understanding T38 Critical
+#22	AnnotatorNotes T38	necessary
+A112	Delete T1
+A113	Delete T2
+A76	Delete T7
+A77	Delete T8
+A49	Delete T19
+A50	Delete T20
+A51	Delete T34
+A58	Delete T32
+A59	Delete T33

@@ -1,0 +1,507 @@
+T1	Spelling 25 50	to say nothing of the dog
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	To Say Nothing of the Dog
+T2	Ref_device 53 55	it
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Major
+A7	Delete T2
+T3	Punctuation 51 52	,
+A8	Cause T3 Other
+A9	Weight-language T3 Minor
+A10	Weight-understanding T3 Minor
+A11	Delete T3
+T4	Tense_choice 56 64	has been
+A12	Cause T4 Other
+A13	Weight-language T4 Major
+A14	Weight-understanding T4 Major
+#2	AnnotatorNotes T4	is
+T5	Articles 72 77	texts
+A15	Addition T5
+A16	Cause T5 Absence_of_Category_in_L1
+A17	Weight-language T5 Major
+A18	Weight-understanding T5 Major
+#3	AnnotatorNotes T5	the texts
+T6	Defining 77 78	,
+A19	Cause T6 L1_interference
+A20	Weight-language T6 Minor
+A21	Weight-understanding T6 Minor
+A22	Delete T6
+T8	Punctuation 91 92	.
+A24	Addition T8
+A25	Cause T8 Typo
+A26	Weight-language T8 Minor
+A27	Weight-understanding T8 Minor
+#4	AnnotatorNotes T8	.
+T9	Punctuation 99 100	,
+A28	Cause T9 L1_interference
+A29	Weight-language T9 Minor
+A30	Weight-understanding T9 Minor
+A31	Delete T9
+T10	that_clause 94 99	think
+A32	Addition T10
+A33	Cause T10 L1_interference
+A34	Weight-language T10 Critical
+A35	Weight-understanding T10 Major
+#5	AnnotatorNotes T10	think that
+T11	Absence_comp_sent 118 141	compact and interesting
+A36	Addition T11
+A37	Cause T11 L1_interference
+A38	Weight-language T11 Critical
+A39	Weight-understanding T11 Major
+#6	AnnotatorNotes T11	is compact and interesting
+T12	Punctuation 153 154	.
+A40	Addition T12
+A41	Cause T12 Typo
+A42	Weight-language T12 Minor
+A43	Weight-understanding T12 Minor
+#7	AnnotatorNotes T12	.
+T13	Articles 176 180	plot
+A44	Addition T13
+A45	Cause T13 Absence_of_Category_in_L1
+A46	Weight-language T13 Major
+A47	Weight-understanding T13 Minor
+#8	AnnotatorNotes T13	the plot
+T14	Absence_explanation 4 51	Three Men in a Boat (to say nothing of the dog)
+A48	Addition T14
+A49	Cause T14 Other
+A50	Weight-language T14 Minor
+A51	Weight-understanding T14 Critical
+#9	AnnotatorNotes T14	The review on Three Man in a Boat (To Say Nothing of the Dog)
+T15	Articles 207 223	main charachters
+A52	Addition T15
+A53	Cause T15 Absence_of_Category_in_L1
+A54	Weight-language T15 Major
+A55	Weight-understanding T15 Major
+#10	AnnotatorNotes T15	the main characters
+T16	Spelling 212 223	charachters
+A56	Cause T16 Other
+A57	Weight-language T16 Minor
+A58	Weight-understanding T16 Minor
+#11	AnnotatorNotes T16	characters
+T17	suggestion 207 246	main charachters with their comic sides
+A59	Cause T17 Other
+A60	Weight-language T17 Minor
+A61	Weight-understanding T17 Minor
+#12	AnnotatorNotes T17	the comic sides of the main characters
+T18	lex_item_choice 260 268	find out
+A62	Cause T18 Other
+A63	Weight-language T18 Minor
+A64	Weight-understanding T18 Major
+#13	AnnotatorNotes T18	read in the review about
+T20	Determiners 363 366	all
+A68	Cause T20 Absence_of_Category_in_L1
+A69	Weight-language T20 Minor
+A70	Weight-understanding T20 Major
+#15	AnnotatorNotes T20	all the
+T22	Articles 390 399	landscape
+A71	Addition T22
+A72	Cause T22 Absence_of_Category_in_L1
+A73	Weight-language T22 Minor
+A74	Weight-understanding T22 Minor
+#17	AnnotatorNotes T22	the landscape
+T23	Voice 427 437	interested
+A75	Addition T23
+A76	Cause T23 L1_interference
+A77	Weight-language T23 Critical
+A78	Weight-understanding T23 Major
+#18	AnnotatorNotes T23	are interested
+T24	Punctuation 507 510	and
+A79	Addition T24
+A80	Cause T24 Other
+A81	Weight-language T24 Minor
+A82	Weight-understanding T24 Minor
+#19	AnnotatorNotes T24	, and
+T25	Prepositions 556 558	in
+A83	Cause T25 Other
+A84	Weight-language T25 Minor
+A85	Weight-understanding T25 Critical
+#20	AnnotatorNotes T25	of
+T26	Articles 599 605	review
+A86	Addition T26
+A87	Cause T26 Absence_of_Category_in_L1
+A88	Weight-language T26 Major
+A89	Weight-understanding T26 Major
+#21	AnnotatorNotes T26	a review
+T27	Punctuation 635 636	.
+A90	Addition T27
+A91	Cause T27 Typo
+A92	Weight-language T27 Minor
+A93	Weight-understanding T27 Minor
+#22	AnnotatorNotes T27	.
+T28	Punctuation 641 642	,
+A94	Weight-language T28 Minor
+A95	Weight-understanding T28 Minor
+A96	Delete T28
+T29	Noun_number 675 681	review
+A97	Cause T29 Other
+A98	Weight-language T29 Minor
+A99	Weight-understanding T29 Major
+#23	AnnotatorNotes T29	reviews
+T30	Punctuation 681 682	.
+A100	Addition T30
+A101	Cause T30 Typo
+A102	Weight-language T30 Minor
+A103	Weight-understanding T30 Minor
+#24	AnnotatorNotes T30	. 
+T31	Redundant_comp 706 710	main
+A104	Cause T31 Other
+A105	Weight-language T31 Minor
+A106	Weight-understanding T31 Minor
+A107	Delete T31
+T32	Articles 711 715	plot
+A108	Addition T32
+A109	Cause T32 Absence_of_Category_in_L1
+A110	Weight-language T32 Major
+A111	Weight-understanding T32 Major
+#25	AnnotatorNotes T32	the plot
+T33	Articles 719 723	book
+A112	Addition T33
+A113	Cause T33 Absence_of_Category_in_L1
+A114	Weight-language T33 Major
+A115	Weight-understanding T33 Major
+#26	AnnotatorNotes T33	the book
+T34	lex_item_choice 695 705	understand
+A116	Cause T34 Other
+A117	Weight-language T34 Minor
+A118	Weight-understanding T34 Major
+#27	AnnotatorNotes T34	get to know OR learn OR learn about
+T35	lex_item_choice 728 739	estimate it
+#28	AnnotatorNotes T35	understand whether they would like it
+T7	Absence_explanation 260 264	find
+A23	Addition T7
+A119	Cause T7 Other
+A120	Weight-language T7 Minor
+A121	Weight-understanding T7 Major
+#29	AnnotatorNotes T7	read in the review about
+T36	Defining 306 307	,
+A122	Cause T36 L1_interference
+A123	Weight-language T36 Minor
+A124	Weight-understanding T36 Major
+A125	Delete T36
+T19	lex_item_choice 390 411	landscape of locality
+A65	Cause T19 Other
+A66	Weight-language T19 Minor
+A67	Weight-understanding T19 Major
+#14	AnnotatorNotes T19	the description of the scenery
+T21	Redundant_comp 556 567	in the plot
+A126	Cause T21 Other
+A127	Weight-language T21 Minor
+A128	Weight-understanding T21 Major
+A129	Delete T21
+A130	Addition T35
+A131	Cause T35 Other
+T37	pos_Z 4 9	Three
+#30	AnnotatorNotes T37	lemma = '3'
+T38	pos_NP 10 13	Men
+#31	AnnotatorNotes T38	lemma = 'men'
+T39	pos_IN 14 16	in
+#32	AnnotatorNotes T39	lemma = 'in'
+T40	pos_DT 17 18	a
+#33	AnnotatorNotes T40	lemma = 'a'
+T41	pos_NP 19 23	Boat
+#34	AnnotatorNotes T41	lemma = 'boat'
+T42	pos_Fpa 24 25	(
+#35	AnnotatorNotes T42	lemma = '('
+T43	pos_TO 25 27	to
+#36	AnnotatorNotes T43	lemma = 'to'
+T44	pos_VB 28 31	say
+#37	AnnotatorNotes T44	lemma = 'say'
+T45	pos_NN 32 39	nothing
+#38	AnnotatorNotes T45	lemma = 'nothing'
+T46	pos_IN 40 42	of
+#39	AnnotatorNotes T46	lemma = 'of'
+T47	pos_DT 43 46	the
+#40	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 47 50	dog
+#41	AnnotatorNotes T48	lemma = 'dog'
+T49	pos_Fpt 50 51	)
+#42	AnnotatorNotes T49	lemma = ')'
+T50	pos_Fc 51 52	,
+#43	AnnotatorNotes T50	lemma = ','
+T51	pos_PRP 53 55	it
+#44	AnnotatorNotes T51	lemma = 'it'
+T52	pos_VBZ 56 59	has
+#45	AnnotatorNotes T52	lemma = 'have'
+T53	pos_VBN 60 64	been
+#46	AnnotatorNotes T53	lemma = 'be'
+T54	pos_NN 65 68	one
+#47	AnnotatorNotes T54	lemma = 'one'
+T55	pos_IN 69 71	of
+#48	AnnotatorNotes T55	lemma = 'of'
+T56	pos_NNS 72 77	texts
+#49	AnnotatorNotes T56	lemma = 'text'
+T57	pos_Fc 77 78	,
+#50	AnnotatorNotes T57	lemma = ','
+T58	pos_WDT 79 84	which
+#51	AnnotatorNotes T58	lemma = 'which'
+T59	pos_PRP 85 86	I
+#52	AnnotatorNotes T59	lemma = 'i'
+T60	pos_VBP 87 91	like
+#53	AnnotatorNotes T60	lemma = 'like'
+T61	pos_Fp 91 92	.
+#54	AnnotatorNotes T61	lemma = '.'
+T62	pos_PRP 92 93	I
+#55	AnnotatorNotes T62	lemma = 'i'
+T63	pos_VBP 94 99	think
+#56	AnnotatorNotes T63	lemma = 'think'
+T64	pos_Fc 99 100	,
+#57	AnnotatorNotes T64	lemma = ','
+T65	pos_DT 101 105	this
+#58	AnnotatorNotes T65	lemma = 'this'
+T66	pos_NN 106 110	book
+#59	AnnotatorNotes T66	lemma = 'book'
+T67	pos_NN 111 117	review
+#60	AnnotatorNotes T67	lemma = 'review'
+T68	pos_NN 118 125	compact
+#61	AnnotatorNotes T68	lemma = 'compact'
+T69	pos_CC 126 129	and
+#62	AnnotatorNotes T69	lemma = 'and'
+T70	pos_VBG 130 141	interesting
+#63	AnnotatorNotes T70	lemma = 'interest'
+T71	pos_IN 142 145	for
+#64	AnnotatorNotes T71	lemma = 'for'
+T72	pos_NNS 146 153	readers
+#65	AnnotatorNotes T72	lemma = 'reader'
+T73	pos_Fp 153 154	.
+#66	AnnotatorNotes T73	lemma = '.'
+T74	pos_DT 154 158	This
+#67	AnnotatorNotes T74	lemma = 'this'
+T75	pos_NN 159 163	text
+#68	AnnotatorNotes T75	lemma = 'text'
+T76	pos_VBZ 164 172	explains
+#69	AnnotatorNotes T76	lemma = 'explain'
+T77	pos_PRP 173 175	us
+#70	AnnotatorNotes T77	lemma = 'us'
+T78	pos_NN 176 180	plot
+#71	AnnotatorNotes T78	lemma = 'plot'
+T79	pos_IN 181 183	of
+#72	AnnotatorNotes T79	lemma = 'of'
+T80	pos_DT 184 188	this
+#73	AnnotatorNotes T80	lemma = 'this'
+T81	pos_NN 189 193	book
+#74	AnnotatorNotes T81	lemma = 'book'
+T82	pos_CC 194 197	and
+#75	AnnotatorNotes T82	lemma = 'and'
+T83	pos_VBZ 198 203	shows
+#76	AnnotatorNotes T83	lemma = 'show'
+T84	pos_PRP 204 206	us
+#77	AnnotatorNotes T84	lemma = 'us'
+T85	pos_JJ 207 211	main
+#78	AnnotatorNotes T85	lemma = 'main'
+T86	pos_NNS 212 223	charachters
+#79	AnnotatorNotes T86	lemma = 'charachters'
+T87	pos_IN 224 228	with
+#80	AnnotatorNotes T87	lemma = 'with'
+T88	pos_PRP2 229 234	their
+#81	AnnotatorNotes T88	lemma = 'their'
+T89	pos_JJ 235 240	comic
+#82	AnnotatorNotes T89	lemma = 'comic'
+T90	pos_NNS 241 246	sides
+#83	AnnotatorNotes T90	lemma = 'side'
+T91	pos_Fp 246 247	.
+#84	AnnotatorNotes T91	lemma = '.'
+T92	pos_RB 248 252	Also
+#85	AnnotatorNotes T92	lemma = 'also'
+T93	pos_PRP 253 255	we
+#86	AnnotatorNotes T93	lemma = 'we'
+T94	pos_MD 256 259	can
+#87	AnnotatorNotes T94	lemma = 'can'
+T95	pos_VB 260 264	find
+#88	AnnotatorNotes T95	lemma = 'find'
+T96	pos_RP 265 268	out
+#89	AnnotatorNotes T96	lemma = 'out'
+T97	pos_DT 269 273	some
+#90	AnnotatorNotes T97	lemma = 'some'
+T98	pos_VBG 274 285	interesting
+#91	AnnotatorNotes T98	lemma = 'interest'
+T99	pos_CC 286 289	and
+#92	AnnotatorNotes T99	lemma = 'and'
+T100	pos_JJ 290 295	comic
+#93	AnnotatorNotes T100	lemma = 'comic'
+T101	pos_NNS 296 306	situations
+#94	AnnotatorNotes T101	lemma = 'situation'
+T102	pos_Fc 306 307	,
+#95	AnnotatorNotes T102	lemma = ','
+T103	pos_WDT 308 313	which
+#96	AnnotatorNotes T103	lemma = 'which'
+T104	pos_VBP 314 318	make
+#97	AnnotatorNotes T104	lemma = 'make'
+T105	pos_PRP 319 321	us
+#98	AnnotatorNotes T105	lemma = 'us'
+T106	pos_VBP 322 327	think
+#99	AnnotatorNotes T106	lemma = 'think'
+T107	pos_IN 328 333	about
+#100	AnnotatorNotes T107	lemma = 'about'
+T108	pos_DT 334 338	this
+#101	AnnotatorNotes T108	lemma = 'this'
+T109	pos_NN 339 343	book
+#102	AnnotatorNotes T109	lemma = 'book'
+T110	pos_CC 344 347	but
+#103	AnnotatorNotes T110	lemma = 'but'
+T111	pos_VBP 348 350	do
+#104	AnnotatorNotes T111	lemma = 'do'
+T112	pos_RB 351 354	not
+#105	AnnotatorNotes T112	lemma = 'not'
+T113	pos_VB 355 359	tell
+#106	AnnotatorNotes T113	lemma = 'tell'
+T114	pos_PRP 360 362	us
+#107	AnnotatorNotes T114	lemma = 'us'
+T115	pos_DT 363 366	all
+#108	AnnotatorNotes T115	lemma = 'all'
+T116	pos_NN 367 372	story
+#109	AnnotatorNotes T116	lemma = 'story'
+T117	pos_Fp 372 373	.
+#110	AnnotatorNotes T117	lemma = '.'
+T118	pos_PRP 379 381	We
+#111	AnnotatorNotes T118	lemma = 'we'
+T119	pos_MD 382 385	can
+#112	AnnotatorNotes T119	lemma = 'can'
+T120	pos_VB 386 389	see
+#113	AnnotatorNotes T120	lemma = 'see'
+T121	pos_NN 390 399	landscape
+#114	AnnotatorNotes T121	lemma = 'landscape'
+T122	pos_IN 400 402	of
+#115	AnnotatorNotes T122	lemma = 'of'
+T123	pos_NN 403 411	locality
+#116	AnnotatorNotes T123	lemma = 'locality'
+T124	pos_Fp 411 412	.
+#117	AnnotatorNotes T124	lemma = '.'
+T125	pos_DT 412 416	That
+#118	AnnotatorNotes T125	lemma = 'that'
+T126	pos_VBZ 417 419	is
+#119	AnnotatorNotes T126	lemma = 'be'
+T127	pos_WRB 420 423	why
+#120	AnnotatorNotes T127	lemma = 'why'
+T128	pos_PRP 424 426	we
+#121	AnnotatorNotes T128	lemma = 'we'
+T129	pos_VBN 427 437	interested
+#122	AnnotatorNotes T129	lemma = 'interest'
+T130	pos_IN 438 440	in
+#123	AnnotatorNotes T130	lemma = 'in'
+T131	pos_DT 441 445	this
+#124	AnnotatorNotes T131	lemma = 'this'
+T132	pos_NN 446 450	book
+#125	AnnotatorNotes T132	lemma = 'book'
+T133	pos_Fp 450 451	.
+#126	AnnotatorNotes T133	lemma = '.'
+T134	pos_IN 452 454	In
+#127	AnnotatorNotes T134	lemma = 'in'
+T135	pos_JJ 455 462	general
+#128	AnnotatorNotes T135	lemma = 'general'
+T136	pos_Fc 462 463	,
+#129	AnnotatorNotes T136	lemma = ','
+T137	pos_PRP 464 465	I
+#130	AnnotatorNotes T137	lemma = 'i'
+T138	pos_VBP 466 470	like
+#131	AnnotatorNotes T138	lemma = 'like'
+T139	pos_TO 471 473	to
+#132	AnnotatorNotes T139	lemma = 'to'
+T140	pos_VB 474 478	read
+#133	AnnotatorNotes T140	lemma = 'read'
+T141	pos_NNS 479 486	stories
+#134	AnnotatorNotes T141	lemma = 'story'
+T142	pos_WDT 487 492	which
+#135	AnnotatorNotes T142	lemma = 'which'
+T143	pos_VBP 493 497	make
+#136	AnnotatorNotes T143	lemma = 'make'
+T144	pos_PRP 498 500	me
+#137	AnnotatorNotes T144	lemma = 'me'
+T145	pos_NN 501 506	laugh
+#138	AnnotatorNotes T145	lemma = 'laugh'
+T146	pos_CC 507 510	and
+#139	AnnotatorNotes T146	lemma = 'and'
+T147	pos_IN 511 513	in
+#140	AnnotatorNotes T147	lemma = 'in'
+T148	pos_DT 514 518	this
+#141	AnnotatorNotes T148	lemma = 'this'
+T149	pos_NN 519 523	text
+#142	AnnotatorNotes T149	lemma = 'text'
+T150	pos_PRP 524 525	I
+#143	AnnotatorNotes T150	lemma = 'i'
+T151	pos_VBD 526 531	found
+#144	AnnotatorNotes T151	lemma = 'find'
+T152	pos_DT 532 536	some
+#145	AnnotatorNotes T152	lemma = 'some'
+T153	pos_JJ 537 542	funny
+#146	AnnotatorNotes T153	lemma = 'funny'
+T154	pos_NNS 543 555	descriptions
+#147	AnnotatorNotes T154	lemma = 'description'
+T155	pos_IN 556 558	in
+#148	AnnotatorNotes T155	lemma = 'in'
+T156	pos_DT 559 562	the
+#149	AnnotatorNotes T156	lemma = 'the'
+T157	pos_NN 563 567	plot
+#150	AnnotatorNotes T157	lemma = 'plot'
+T158	pos_Fp 567 568	.
+#151	AnnotatorNotes T158	lemma = '.'
+T159	pos_IN 584 586	In
+#152	AnnotatorNotes T159	lemma = 'in'
+T160	pos_PRP2 587 589	my
+#153	AnnotatorNotes T160	lemma = 'my'
+T161	pos_NN 590 597	opinion
+#154	AnnotatorNotes T161	lemma = 'opinion'
+T162	pos_Fc 597 598	,
+#155	AnnotatorNotes T162	lemma = ','
+T163	pos_NN 599 605	review
+#156	AnnotatorNotes T163	lemma = 'review'
+T164	pos_MD 606 610	must
+#157	AnnotatorNotes T164	lemma = 'must'
+T165	pos_VB 611 613	be
+#158	AnnotatorNotes T165	lemma = 'be'
+T166	pos_JJ 614 619	short
+#159	AnnotatorNotes T166	lemma = 'short'
+T167	pos_CC 620 623	and
+#160	AnnotatorNotes T167	lemma = 'and'
+T168	pos_VBG 624 635	interesting
+#161	AnnotatorNotes T168	lemma = 'interest'
+T169	pos_Fp 635 636	.
+#162	AnnotatorNotes T169	lemma = '.'
+T170	pos_RB 636 641	Often
+#163	AnnotatorNotes T170	lemma = 'often'
+T171	pos_Fc 641 642	,
+#164	AnnotatorNotes T171	lemma = ','
+T172	pos_NNS 643 649	people
+#165	AnnotatorNotes T172	lemma = 'people'
+T173	pos_VBP 650 652	do
+#166	AnnotatorNotes T173	lemma = 'do'
+T174	pos_RB 653 656	not
+#167	AnnotatorNotes T174	lemma = 'not'
+T175	pos_VB 657 661	want
+#168	AnnotatorNotes T175	lemma = 'want'
+T176	pos_TO 662 664	to
+#169	AnnotatorNotes T176	lemma = 'to'
+T177	pos_VB 665 669	read
+#170	AnnotatorNotes T177	lemma = 'read'
+T178	pos_JJ 670 674	long
+#171	AnnotatorNotes T178	lemma = 'long'
+T179	pos_NN 675 681	review
+#172	AnnotatorNotes T179	lemma = 'review'
+T180	pos_Fp 681 682	.
+#173	AnnotatorNotes T180	lemma = '.'
+T181	pos_PRP 682 686	They
+#174	AnnotatorNotes T181	lemma = 'they'
+T182	pos_VBP 687 691	want
+#175	AnnotatorNotes T182	lemma = 'want'
+T183	pos_TO 692 694	to
+#176	AnnotatorNotes T183	lemma = 'to'
+T184	pos_VB 695 705	understand
+#177	AnnotatorNotes T184	lemma = 'understand'
+T185	pos_JJ 706 710	main
+#178	AnnotatorNotes T185	lemma = 'main'
+T186	pos_NN 711 715	plot
+#179	AnnotatorNotes T186	lemma = 'plot'
+T187	pos_IN 716 718	of
+#180	AnnotatorNotes T187	lemma = 'of'
+T188	pos_NN 719 723	book
+#181	AnnotatorNotes T188	lemma = 'book'
+T189	pos_CC 724 727	and
+#182	AnnotatorNotes T189	lemma = 'and'
+T190	pos_VB 728 736	estimate
+#183	AnnotatorNotes T190	lemma = 'estimate'
+T191	pos_PRP 737 739	it
+#184	AnnotatorNotes T191	lemma = 'it'
+T192	pos_Fp 739 740	.
+#185	AnnotatorNotes T192	lemma = '.'

@@ -1,0 +1,88 @@
+T1	Agreement_errors 11 22	illustrates
+#1	AnnotatorNotes T1	illustrate
+T3	Voice 53 65	transporting
+#3	AnnotatorNotes T3	transported
+T4	Punctuation 129 159	As can be seen from the charts
+#4	AnnotatorNotes T4	As can be seen from the charts,
+T5	Spelling 186 190	good
+#5	AnnotatorNotes T5	goods
+T7	Articles 323 344	First that can notice
+#7	AnnotatorNotes T7	The firtst thing that we can notice is
+T8	Ref_device 323 344	First that can notice
+#8	AnnotatorNotes T8	The firtst thing that we can notice is
+T9	Absence_comp_sent 323 344	First that can notice
+T10	Punctuation 398 427	which was transported by rail
+#9	AnnotatorNotes T10	, which were transported by rail,
+T11	Agreement_errors 404 407	was
+#10	AnnotatorNotes T11	were
+T12	Articles 501 507	Amount
+#11	AnnotatorNotes T12	the percentage
+T13	Absence_comp_sent 541 549	slightly
+#12	AnnotatorNotes T13	is slightly
+T14	Spelling 590 600	marchinery
+#13	AnnotatorNotes T14	machinery
+T15	Punctuation 640 664	wich transported by rail
+#14	AnnotatorNotes T15	, which were transported by rail,
+T16	Spelling 640 644	wich
+#15	AnnotatorNotes T16	which
+T17	Voice 645 656	transported
+#16	AnnotatorNotes T17	were transported
+T18	Spelling 728 732	rech
+#17	AnnotatorNotes T18	reach
+T19	Articles 764 770	Number
+#18	AnnotatorNotes T19	The level
+T20	Tense_form 793 796	was
+#19	AnnotatorNotes T20	were
+T21	Spelling 788 792	wich
+#20	AnnotatorNotes T21	which
+T22	Spelling 830 835	which
+#21	AnnotatorNotes T22	,which
+T23	Numerical 847 869	more almost in 3 times
+#22	AnnotatorNotes T23	almost three times as high the pecentage
+T24	Articles 937 943	amount
+#23	AnnotatorNotes T24	the percentage
+T25	Spelling 953 964	transporten
+#24	AnnotatorNotes T25	transported
+T26	Voice 1029 1043	was flactuated
+#25	AnnotatorNotes T26	fluctuated
+T27	Spelling 1033 1043	flactuated
+#26	AnnotatorNotes T27	fluctuated
+T28	Articles 23 52	amount of goods in percentage
+#27	AnnotatorNotes T28	the percentage of goods
+T29	Redundant 23 52	amount of goods in percentage
+#28	AnnotatorNotes T29	the percentage of goods
+T30	lex_item_choice 177 182	parts
+#29	AnnotatorNotes T30	categories
+T31	lex_item_choice 191 200	including
+#30	AnnotatorNotes T31	, namely,
+T32	Punctuation 191 200	including
+#31	AnnotatorNotes T32	, namely,
+T33	Standard 186 321	good including machinery, metals, manufactured goods, chemicals, food products and non-metallic minerals, which was transported in 2008
+#32	AnnotatorNotes T33	goods transported in 2008, namely,...
+T6	lex_item_choice 357 363	amount
+#6	AnnotatorNotes T6	percentage
+T35	lex_item_choice 459 479	amount of percentage
+#33	AnnotatorNotes T35	percentage number
+T2	lex_item_choice 501 507	Amount
+#2	AnnotatorNotes T2	The percentage
+T36	lex_item_choice 682 688	amount
+#34	AnnotatorNotes T36	level
+T37	lex_item_choice 764 770	Number
+#35	AnnotatorNotes T37	The level
+T38	lex_item_choice 937 943	amount
+#36	AnnotatorNotes T38	the percentage
+T34	Redundant_comp 290 301	, which was
+A1	Delete T34
+#37	AnnotatorNotes T9	The firtst thing that we can notice is
+T39	Redundant_comp 374 397	reaching a level of 35%
+A2	Delete T39
+T41	Spelling 665 674	in sprite
+#38	AnnotatorNotes T41	in spite
+T40	Redundant_comp 728 762	rech their peak at just 2 per cent
+A3	Delete T40
+T42	Standard 607 664	hiting their peak at 12 per cent wich transported by rail
+#39	AnnotatorNotes T42	, which were transported by rail, hit their peak at 12 per cent
+T43	Redundant_comp 349 356	highest
+A4	Delete T43
+T44	Numerical 428 454	was more than half as many
+#40	AnnotatorNotes T44	was more than half more as

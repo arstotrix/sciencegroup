@@ -1,0 +1,63 @@
+T1	Noun_number 253 261	contents
+#1	AnnotatorNotes T1	content
+T2	Articles 242 261	the online contents
+#2	AnnotatorNotes T2	online content
+T3	Ref_device 274 279	their
+#3	AnnotatorNotes T3	it's
+R1	Dependent_change Arg1:T3 Arg2:T1	
+T4	Articles 350 355	crime
+#4	AnnotatorNotes T4	a crime
+T5	lex_item_choice 457 469	lowered base
+#5	AnnotatorNotes T5	based
+T6	Noun_number 477 482	types
+#6	AnnotatorNotes T6	type
+T7	Redundant_comp 562 591	as well as human brain draing
+A1	Delete T7
+T8	Articles 633 644	heavy crime
+#7	AnnotatorNotes T8	 a grave crime
+T9	lex_item_choice 633 638	heavy
+#8	AnnotatorNotes T9	grave
+T10	Spelling 668 675	djusted
+#9	AnnotatorNotes T10	adjusted
+T11	Capitalisation 767 775	internet
+#10	AnnotatorNotes T11	Internet
+T12	Spelling 777 783	Beside
+#11	AnnotatorNotes T12	Besides
+T13	Punctuation 777 805	Beside new-released contents
+#12	AnnotatorNotes T13	Besides new-released contents,
+T14	Spelling 816 820	alse
+#13	AnnotatorNotes T14	also
+T15	Spelling 867 870	age
+#14	AnnotatorNotes T15	ago
+T16	Agreement_errors 845 848	are
+#15	AnnotatorNotes T16	were
+T17	Possessive 821 839	countries contents
+#16	AnnotatorNotes T17	countries' contents
+T18	Category_confusion 872 880	Personal
+#17	AnnotatorNotes T18	Personally
+T19	Category_confusion 931 937	wothly
+#18	AnnotatorNotes T19	worth
+T20	lex_item_choice 994 999	newly
+#19	AnnotatorNotes T20	recently
+T21	lex_item_choice 1022 1032	Internat’s
+#20	AnnotatorNotes T21	online
+T22	Articles 1018 1041	the Internat’s contents
+#21	AnnotatorNotes T22	online contents
+T23	Punctuation 1100 1113	and for that,
+#22	AnnotatorNotes T23	, and for that
+T24	Punctuation 1154 1169	how, the piracy
+#23	AnnotatorNotes T24	how the piracy
+T25	Spelling 1191 1193	of
+#24	AnnotatorNotes T25	or
+T26	Inappropriate_register 1286 1291	don’t
+#25	AnnotatorNotes T26	do not
+T27	Spelling 1316 1321	damge
+#26	AnnotatorNotes T27	damage
+T28	lex_item_choice 1333 1335	of
+#27	AnnotatorNotes T28	when
+T29	Redundant_comp 1360 1387	, so raising the awnereness
+A2	Delete T29
+T30	Articles 1433 1441	Internet
+#28	AnnotatorNotes T30	the Internet
+T31	Category_confusion 1421 1429	picating
+#29	AnnotatorNotes T31	the piracy

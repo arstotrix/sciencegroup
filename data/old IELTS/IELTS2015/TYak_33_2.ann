@@ -1,0 +1,68 @@
+T1	Agreement_errors 6 8	is
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	are
+T2	Spelling 87 94	peasons
+#2	AnnotatorNotes T2	reasons
+T3	Possessive 162 167	child
+#3	AnnotatorNotes T3	childs'
+T4	Inappropriate_register 195 230	there is several number of problems
+A2	Cause T4 Other
+#4	AnnotatorNotes T4	there are several problems
+T5	Agreement_errors 195 230	there is several number of problems
+A3	Cause T5 Other
+#5	AnnotatorNotes T5	there are several problems
+T6	Agreement_errors 431 437	starts
+A4	Cause T6 Other
+#6	AnnotatorNotes T6	start
+T7	Agreement_errors 450 455	tryes
+A5	Cause T7 Other
+#7	AnnotatorNotes T7	try
+T9	Voice 506 510	hide
+A6	Cause T9 Other
+#9	AnnotatorNotes T9	hidden
+T10	Spelling 514 523	psycology
+A7	Cause T10 Typo
+#10	AnnotatorNotes T10	psychology
+T11	Spelling 688 690	ae
+A8	Cause T11 Typo
+#11	AnnotatorNotes T11	age
+T12	Redundant_comp 824 833	at you 15
+A9	Cause T12 L1_interference
+#12	AnnotatorNotes T12	15
+T13	Spelling 865 871	agains
+A10	Cause T13 Typo
+#13	AnnotatorNotes T13	against
+T14	Agreement_errors 877 884	teacher
+A11	Cause T14 Other
+#14	AnnotatorNotes T14	teachers
+T15	Spelling 923 931	werytime
+A12	Cause T15 Typo
+#15	AnnotatorNotes T15	everytime
+T16	Inappropriate_register 987 1015	don’t have love of your life
+A13	Cause T16 L1_interference
+#16	AnnotatorNotes T16	don't like your life
+T17	Spelling 1021 1023	tu
+A14	Cause T17 Typo
+#17	AnnotatorNotes T17	to
+T18	Articles 1154 1166	whole world,
+A15	Cause T18 Absence_of_Category_in_L1
+#18	AnnotatorNotes T18	the whole world
+T19	Articles 1213 1218	rules
+A16	Cause T19 Absence_of_Category_in_L1
+#19	AnnotatorNotes T19	the rules
+T20	Prepositions 1231 1233	to
+A17	Cause T20 Other
+A18	Delete T20
+T21	lex_item_choice 1270 1274	cash
+A19	Delete T21
+#20	AnnotatorNotes T21	??? 
+T22	Spelling 1332 1336	play
+#21	AnnotatorNotes T22	pay 
+T23	Noun_number 1371 1376	lifes
+A20	Cause T23 Typo
+#22	AnnotatorNotes T23	lives
+T24	Spelling 1400 1410	home works
+#23	AnnotatorNotes T24	homeworks
+T25	Agreement_errors 1557 1560	his
+A21	Cause T25 Other
+#24	AnnotatorNotes T25	their

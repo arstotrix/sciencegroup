@@ -1,0 +1,103 @@
+T1	Noun_number 8 15	diagram
+#1	AnnotatorNotes T1	diagrams
+T2	Agreement_errors 16 27	illustrates
+#2	AnnotatorNotes T2	illustrate
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Articles 28 39	information
+#3	AnnotatorNotes T3	the information on
+T4	Prepositions 28 39	information
+#4	AnnotatorNotes T4	the information on
+T5	Standard 40 70	how can transported some goods
+#5	AnnotatorNotes T5	how can some goods be transported
+T6	Tense_choice 106 109	are
+#6	AnnotatorNotes T6	were
+T7	Articles 161 171	second way
+#7	AnnotatorNotes T7	the second way
+T8	Spelling 191 200	friquntly
+#8	AnnotatorNotes T8	frequently
+T9	Absence_comp_sent 191 212	friquntly transported
+#9	AnnotatorNotes T9	are more frequently transported
+T10	lex_item_choice 221 225	then
+#10	AnnotatorNotes T10	than
+T11	Redundant_comp 235 237	In
+A1	Delete T11
+T12	Absence_comp_sent 252 258	is 35%
+#11	AnnotatorNotes T12	it is 35%
+T13	Articles 260 270	second way
+#12	AnnotatorNotes T13	the second way
+T14	Absence_comp_sent 271 277	is 11%
+#13	AnnotatorNotes T14	it is 11%
+T15	Articles 285 295	the metals
+#14	AnnotatorNotes T15	metals
+T16	Articles 299 317	most popular goods
+#15	AnnotatorNotes T16	the most popular goods
+T17	Agreement_errors 296 298	is
+#16	AnnotatorNotes T17	are
+T18	Absence_explanation 312 325	goods by rail
+#17	AnnotatorNotes T18	goods transported by rail
+T19	Standard 331 366	the goods which mast poplar by road
+#18	AnnotatorNotes T19	the most popular goods transported by road
+T20	Articles 331 340	the goods
+#19	AnnotatorNotes T20	goods
+T21	Redundant_comp 341 346	which
+A2	Delete T21
+T22	Spelling 347 351	mast
+#20	AnnotatorNotes T22	most
+T23	Spelling 352 358	poplar
+#21	AnnotatorNotes T23	popular
+T24	Articles 347 358	mast poplar
+#22	AnnotatorNotes T24	the most popular
+T25	Absence_comp_sent 359 366	by road
+#23	AnnotatorNotes T25	transported by road
+T26	Agreement_errors 367 369	is
+#24	AnnotatorNotes T26	are
+T27	Absence_comp_sent 415 426	transported
+#25	AnnotatorNotes T27	were transported
+T28	Standard 410 429	both transported by
+#26	AnnotatorNotes T28	were transported both by
+T29	Absence_explanation 470 479	machinery
+#27	AnnotatorNotes T29	the proportion of machinery
+T30	Absence_comp_sent 500 506	really
+#28	AnnotatorNotes T30	is really
+T31	lex_item_choice 507 511	more
+#29	AnnotatorNotes T31	bigger
+T32	Often_confused 512 516	then
+#30	AnnotatorNotes T32	than
+T33	Absence_comp_sent 534 536	is
+#31	AnnotatorNotes T33	it is
+T34	Inappropriate_register 550 552	is
+#32	AnnotatorNotes T34	it is
+T35	Spelling 564 570	cleary
+#33	AnnotatorNotes T35	clearly
+T36	Punctuation 575 581	, that
+#34	AnnotatorNotes T36	that
+T37	Agreement_errors 629 632	has
+#35	AnnotatorNotes T37	have
+T38	lex_item_choice 633 639	middle
+#36	AnnotatorNotes T38	average
+T39	Articles 633 650	middle percentage
+#37	AnnotatorNotes T39	an average percentage
+T40	Absence_explanation 654 661	popular
+#38	AnnotatorNotes T40	popular goods
+T41	Agreement_errors 719 727	consists
+#39	AnnotatorNotes T41	consist
+T42	Agreement_errors 783 786	has
+#40	AnnotatorNotes T42	have
+T43	Agreement_errors 850 853	has
+#41	AnnotatorNotes T43	have
+T44	Punctuation 880 889	, because
+#42	AnnotatorNotes T44	because
+T45	Often_confused 890 897	another
+#43	AnnotatorNotes T45	other
+T46	Noun_number 922 932	percentage
+#44	AnnotatorNotes T46	percentages
+T47	Prepositions 933 937	from
+#45	AnnotatorNotes T47	in
+T48	Articles 938 950	pie diagrams
+#46	AnnotatorNotes T48	the pie diagrams
+T49	Agreement_errors 986 989	has
+#47	AnnotatorNotes T49	have
+T50	Redundant_comp 999 1001	in
+A3	Delete T50
+T51	Redundant_comp 1011 1017	and it
+A4	Delete T51

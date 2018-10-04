@@ -1,0 +1,36 @@
+T1	Redundant 24 29	there
+A1	Delete T1
+T2	lex_item_choice 65 71	amount
+#1	AnnotatorNotes T2	number
+T3	Numerals 350 358	millions
+#2	AnnotatorNotes T3	million
+T4	Tense_choice 410 418	has been
+A2	Delete T4
+T5	Numerals 445 453	millions
+#3	AnnotatorNotes T5	million
+T6	Numerals 573 581	millions
+#4	AnnotatorNotes T6	million
+T7	lex_item_choice 749 758	an amount
+#5	AnnotatorNotes T7	a number
+T8	lex_part_choice 808 812	in a
+A3	Delete T8
+T9	lex_item_choice 797 807	particular
+#6	AnnotatorNotes T9	in a particular
+T10	lex_item_choice 831 840	an amount
+#7	AnnotatorNotes T10	a number
+T11	Numerals 887 895	millions
+#8	AnnotatorNotes T11	million
+T12	Tense_choice 912 918	cannot
+#9	AnnotatorNotes T12	could not
+T13	Numerals 968 976	millions
+#10	AnnotatorNotes T13	million
+T14	Punctuation 993 1002	To sum up
+#11	AnnotatorNotes T14	To sum up,
+T15	Word_choice 1031 1040	evalution
+#12	AnnotatorNotes T15	progress
+T16	Tense_choice 1028 1030	is
+#13	AnnotatorNotes T16	was
+T17	Tense_choice 1081 1084	try
+#14	AnnotatorNotes T17	tried and still tries tries 
+T18	Redundant 1093 1098	there
+A4	Delete T18

@@ -1,0 +1,53 @@
+T1	lex_item_choice 41 53	skill levels
+#1	AnnotatorNotes T1	qualifications
+T2	Tense_form 265 279	not interested
+#2	AnnotatorNotes T2	were not interested
+T3	Prepositional_verb 269 284	interested that
+#3	AnnotatorNotes T3	interested in that
+T4	Punctuation 284 285	.
+A1	Delete T4
+T5	Agreement_errors 363 366	was
+#4	AnnotatorNotes T5	were held by
+T6	Absence_comp_sent 363 366	was
+#5	AnnotatorNotes T6	were held by
+T7	Absence_comp_sent 512 515	was
+#6	AnnotatorNotes T7	were received by
+T8	Agreement_errors 512 515	was
+#7	AnnotatorNotes T8	were received by
+T9	Punctuation 535 546	Furthermore
+#8	AnnotatorNotes T9	Furthermore,
+T10	Prepositions 586 589	for
+#9	AnnotatorNotes T10	among
+T11	Prepositions 621 624	for
+#10	AnnotatorNotes T11	among
+R1	Parallel_construction Arg1:T11 Arg2:T10	
+T12	Absence_comp_sent 629 644	was almost half
+#11	AnnotatorNotes T12	the percentage for men was almost a half of that for women
+T13	Punctuation 547 628	the Bachelor’s degree was more popular for women (about 55 per cent) than for men
+#12	AnnotatorNotes T13	the Bachelor’s degree was more popular for women (about 55 per cent) than for men:
+T14	Noun_number 650 661	percentages
+#13	AnnotatorNotes T14	percentage
+T15	Category_confusion 685 691	female
+#14	AnnotatorNotes T15	women
+T16	Punctuation 716 719	and
+#15	AnnotatorNotes T16	, and
+T17	Category_confusion 738 743	males
+#16	AnnotatorNotes T17	men
+T18	Absence_comp_sent 744 752	to reach
+#17	AnnotatorNotes T18	managed to reach
+T19	Articles 640 644	half
+#18	AnnotatorNotes T19	a half
+T20	lex_item_choice 828 832	took
+#19	AnnotatorNotes T20	were held
+T21	Voice 828 832	took
+#20	AnnotatorNotes T21	were held
+T22	Noun_number 780 793	qualification
+#21	AnnotatorNotes T22	qualifications
+T23	Word_choice 833 846	a big part by
+#22	AnnotatorNotes T23	by more 
+T24	Category_confusion 847 852	males
+#23	AnnotatorNotes T24	men
+T25	Category_confusion 859 866	females
+#24	AnnotatorNotes T25	women
+T26	Punctuation 852 853	,
+A2	Delete T26

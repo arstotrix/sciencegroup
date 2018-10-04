@@ -1,0 +1,76 @@
+T3	Spelling 445 455	guaducelly
+T4	Tense_choice 442 466	is guaducelly increasing
+#1	AnnotatorNotes T4	gradually increases
+T5	Tense_choice 565 584	had been decreasing
+#2	AnnotatorNotes T5	decreased in number
+T6	Spelling 676 685	drammatic
+#3	AnnotatorNotes T6	dramatic
+T7	Tense_choice 667 675	would be
+#4	AnnotatorNotes T7	will be
+T8	Prepositions 112 114	of
+#5	AnnotatorNotes T8	in
+T9	Tense_choice 280 294	would increase
+#6	AnnotatorNotes T9	is expected to increase
+T10	Redundant_comp 527 535	group of
+T11	Articles 170 173	USA
+T13	lex_item_choice 239 247	quantity
+#11	AnnotatorNotes T13	percentage
+T14	Category_confusion 215 234	compacative country
+T16	Articles 407 417	population
+#12	AnnotatorNotes T16	the population
+T17	Articles 438 441	USA
+#13	AnnotatorNotes T3	gradually
+T18	Agreement_errors 474 478	this
+#14	AnnotatorNotes T18	these
+T20	Comparative_constr 489 493	like
+#15	AnnotatorNotes T20	, just as it does
+A1	Delete T10
+T22	Category_confusion 519 526	Japan's
+#7	AnnotatorNotes T22	Japanese
+T25	Redundant_comp 48 56	group of
+T26	Absence_explanation 565 584	had been decreasing
+#16	AnnotatorNotes T26	decreased in number
+T28	Non_defining 616 648	, then it began to rise slightly
+#17	AnnotatorNotes T28	, when it began to rise slightly,
+T31	Articles 676 694	drammatic increase
+#18	AnnotatorNotes T31	a dramatic increase
+T32	Articles 715 718	USA
+T33	Punctuation 760 763	too
+#19	AnnotatorNotes T33	, too
+T35	Articles 830 834	next
+#20	AnnotatorNotes T35	the next
+T36	Prepositions 854 856	of
+#21	AnnotatorNotes T36	in
+T37	Articles 857 867	population
+#22	AnnotatorNotes T37	the population
+T38	Articles 900 903	USA
+T39	Articles 928 934	change
+#23	AnnotatorNotes T39	the change
+T40	Punctuation 913 934	As a result of change
+#24	AnnotatorNotes T40	As a result of the change,
+T41	Articles 993 996	USA
+T42	lex_part_choice 1039 1046	in risk
+#25	AnnotatorNotes T42	at risk
+T44	Category_confusion 1050 1060	demography
+#26	AnnotatorNotes T44	demographic
+A3	Delete T25
+#27	AnnotatorNotes T25	of people
+#28	AnnotatorNotes T11	the USA
+#8	AnnotatorNotes T14	country in this comparison
+#29	AnnotatorNotes T17	the USA
+#9	AnnotatorNotes T32	the USA
+#30	AnnotatorNotes T38	the USA
+#31	AnnotatorNotes T41	the USA
+T15	Standard 318 335	25% approximately
+#32	AnnotatorNotes T15	approximately 25% 
+T21	Word_choice 358 362	ways
+#33	AnnotatorNotes T21	time and pace
+T23	Prepositions 603 616	approximately
+#34	AnnotatorNotes T23	around
+T24	Standard 598 616	1983 approximately
+#35	AnnotatorNotes T24	around 1983
+A2	Cause T21 L1_interference
+A4	Cause T10 L1_interference
+A5	Cause T22 L1_interference
+A6	Cause T33 L1_interference
+A7	Cause T42 L1_interference

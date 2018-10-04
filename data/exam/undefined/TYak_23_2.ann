@@ -1,0 +1,35 @@
+T1	Punctuation 14 15	–
+A1	Delete T1
+T2	Spelling 332 336	thei
+A2	Cause T2 Typo
+#1	AnnotatorNotes T2	they
+T3	Articles 252 254	an
+A3	Cause T3 Absence_of_Category_in_L1
+A4	Delete T3
+T4	note 1012 1015	???
+#2	AnnotatorNotes T4	hard to understand
+T5	Suffix 1076 1083	violent
+A5	Cause T5 Other
+#3	AnnotatorNotes T5	violently
+T6	lex_item_choice 1131 1136	teach
+A6	Cause T6 L1_interference
+#4	AnnotatorNotes T6	impose
+T7	Prepositions 1207 1209	on
+A7	Cause T7 Other
+#5	AnnotatorNotes T7	from
+T8	Articles 1265 1274	therapist
+A8	Cause T8 Absence_of_Category_in_L1
+#6	AnnotatorNotes T8	the therapist
+T9	Articles 1306 1307	a
+A9	Cause T9 Absence_of_Category_in_L1
+#7	AnnotatorNotes T9	the
+T10	Articles 1321 1322	a
+A10	Cause T10 Absence_of_Category_in_L1
+#8	AnnotatorNotes T10	the
+T11	Articles 1470 1471	a
+T12	Lack_par_constr 1677 1683	do not
+A11	Cause T12 L1_interference
+#9	AnnotatorNotes T12	not to
+T13	Spelling 1726 1729	nee
+A12	Cause T13 Typo
+#10	AnnotatorNotes T13	need

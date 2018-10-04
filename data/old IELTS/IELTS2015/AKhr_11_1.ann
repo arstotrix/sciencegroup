@@ -1,0 +1,115 @@
+T2	Linking_device 111 119	At first
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	Firstly
+T3	Ref_device 228 231	one
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	qualification
+T4	Determiners 284 293	education
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	their education
+T5	Prepositions 334 336	in
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	in the choice of 
+T8	lex_item_choice 378 384	amount
+A22	Cause T8 Other
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	ratio
+T9	Ref_device 388 393	those
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	men and women
+T10	Articles 361 364	the
+A28	Cause T10 Absence_of_Category_in_L1
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Minor
+A31	Delete T10
+T11	Spelling 470 484	post graduates
+A32	Cause T11 Typo
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Minor
+#10	AnnotatorNotes T11	postgraduate
+T12	Absence_comp_sent 467 504	in post graduates and Master's degree
+A35	Cause T12 Other
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Minor
+#11	AnnotatorNotes T12	in getting postgraduate qualification and Master's degree
+T13	Absence_comp_sent 470 484	post graduates
+A38	Cause T13 Other
+A39	Weight-language T13 Major
+A40	Weight-understanding T13 Minor
+#12	AnnotatorNotes T13	postgraduate qualification
+T15	Redundant_comp 582 589	as well
+A44	Cause T15 Other
+A45	Weight-language T15 Major
+A46	Weight-understanding T15 Major
+A47	Delete T15
+T16	lex_item_choice 853 863	disruption
+A48	Cause T16 Other
+A49	Weight-language T16 Major
+A50	Weight-understanding T16 Major
+#14	AnnotatorNotes T16	difference
+T17	Articles 889 907	educational sphere
+A51	Cause T17 Absence_of_Category_in_L1
+A52	Weight-language T17 Minor
+A53	Weight-understanding T17 Minor
+#15	AnnotatorNotes T17	the educational sphere
+T18	Suffix 935 946	prevalation
+A54	Cause T18 Other
+A55	Weight-language T18 Critical
+A56	Weight-understanding T18 Major
+#16	AnnotatorNotes T18	prevalence
+T20	Redundant_comp 1003 1007	have
+A60	Cause T20 Other
+A61	Weight-language T20 Critical
+A62	Weight-understanding T20 Minor
+A63	Delete T20
+T21	Category_confusion 1015 1028	qualification
+A64	Cause T21 Other
+A65	Weight-language T21 Major
+A66	Weight-understanding T21 Minor
+#18	AnnotatorNotes T21	qualified
+T22	Standard 37 88	between men and women in post-school qualifications
+A67	Cause T22 Other
+A68	Weight-language T22 Minor
+A69	Weight-understanding T22 Minor
+#19	AnnotatorNotes T22	among post-school qualifications chosen by men and women
+T1	Tense_choice 398 402	have
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	had
+T6	Tense_choice 553 557	have
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	had
+T7	Tense_choice 439 441	is
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	was
+T14	Tense_choice 624 628	have
+A41	Cause T14 Other
+A42	Weight-language T14 Major
+A43	Weight-understanding T14 Major
+#13	AnnotatorNotes T14	had
+T23	Coherence 809 816	as well
+A70	Cause T23 Other
+A71	Weight-language T23 Minor
+A72	Weight-understanding T23 Major
+#20	AnnotatorNotes T23	as a result
+T19	Coordinate 968 1039	which means that they are probably have better qualification than women
+A57	Cause T19 Other
+A58	Weight-language T19 Major
+A59	Weight-understanding T19 Minor
+#17	AnnotatorNotes T19	, which means that they are probably better qualified than women

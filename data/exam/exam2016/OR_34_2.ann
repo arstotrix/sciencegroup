@@ -1,0 +1,80 @@
+T1	Punctuation 43 44	,
+A1	Delete T1
+T2	Punctuation 67 68	,
+A2	Delete T2
+T3	Spelling 88 93	spent
+#1	AnnotatorNotes T3	spend
+T4	Determiners 139 144	child
+#2	AnnotatorNotes T4	a child
+T5	Punctuation 193 194	.
+#3	AnnotatorNotes T5	,
+T6	Capitalisation 195 199	They
+#4	AnnotatorNotes T6	they
+T7	Word_choice 224 231	pampers
+A3	Cause T7 L1_interference
+#5	AnnotatorNotes T7	diapers
+T8	Noun_attribute 236 247	child’s bed
+#6	AnnotatorNotes T8	baby bed
+T9	Spelling 279 288	shouldnot
+#7	AnnotatorNotes T9	should not
+T10	Determiners 319 328	the woman
+#8	AnnotatorNotes T10	a woman
+T11	Agreement_errors 329 332	are
+#9	AnnotatorNotes T11	is
+T12	Spelling 347 353	spents
+#10	AnnotatorNotes T12	spends
+T13	Prepositions 365 368	for
+#11	AnnotatorNotes T13	on
+T14	Prepositions 483 485	on
+#12	AnnotatorNotes T14	in
+T15	Capitalisation 490 494	West
+#13	AnnotatorNotes T15	west
+T16	Often_confused 502 507	every
+#14	AnnotatorNotes T16	all
+T17	Punctuation 566 567	,
+A4	Delete T17
+T18	Absence_comp_sent 600 622	Cause of these reasons
+#15	AnnotatorNotes T18	Cause of this problem is that
+T19	Redundant_comp 600 622	Cause of these reasons
+#16	AnnotatorNotes T19	Cause of this problem
+T20	Determiners 647 658	possibility
+#17	AnnotatorNotes T20	a possibility
+T21	Determiners 782 787	child
+#18	AnnotatorNotes T21	a child
+T22	Negation 814 817	are
+#19	AnnotatorNotes T22	are not
+T23	Often_confused 864 870	stayed
+#20	AnnotatorNotes T23	leave
+T24	Tense_form 899 916	would be chanding
+#21	AnnotatorNotes T24	will be changed
+T25	Spelling 908 916	chanding
+#22	AnnotatorNotes T25	changing
+T26	Often_confused 998 1002	stay
+#23	AnnotatorNotes T26	leave
+T27	Determiners 1003 1008	child
+#24	AnnotatorNotes T27	a child
+T28	Determiners 1043 1048	nanny
+#25	AnnotatorNotes T28	a nanny
+T29	Spelling 1094 1097	ith
+A5	Cause T29 Typo
+#26	AnnotatorNotes T29	with
+T30	Absence_comp_colloc 1108 1112	even
+#27	AnnotatorNotes T30	even if
+T31	Modals 1144 1158	should to find
+#28	AnnotatorNotes T31	should find
+T32	Determiners 1159 1171	an other way
+#29	AnnotatorNotes T32	the other way
+T33	Determiners 1194 1211	In the conclusion
+#30	AnnotatorNotes T33	In conclusion,
+T34	Punctuation 1227 1228	,
+A6	Delete T34
+T35	Absence_comp_sent 1316 1328	The best way
+#31	AnnotatorNotes T35	The best way is
+T36	Determiners 1353 1364	opportunity
+#32	AnnotatorNotes T36	an opportunity
+T37	Prepositions 1365 1367	to
+A7	Delete T37
+T38	Confusion_of_structures 1344 1347	you
+#33	AnnotatorNotes T38	both parents
+T39	Redundant 1380 1392	both parents
+A8	Delete T39

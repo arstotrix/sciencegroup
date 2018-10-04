@@ -1,0 +1,32 @@
+T1	Spelling 13 26	acknowlegment
+#1	AnnotatorNotes T1	acknowledgement
+T2	Spelling 186 196	goverments
+#2	AnnotatorNotes T2	governments
+T3	Punctuation 272 281	Of course
+#3	AnnotatorNotes T3	Of course,
+T4	Punctuation 696 705	of course
+#4	AnnotatorNotes T4	, of course,
+T5	Spelling 887 896	charakter
+#5	AnnotatorNotes T5	character
+T6	Spelling 916 924	develope
+#6	AnnotatorNotes T6	development
+T7	Category_confusion 899 903	move
+#7	AnnotatorNotes T7	moving
+T8	Category_confusion 916 924	develope
+#8	AnnotatorNotes T8	development
+T9	Articles 1025 1028	the
+A1	Delete T9
+T10	Spelling 1192 1200	adiition
+#9	AnnotatorNotes T10	addition
+T11	Spelling 1225 1232	realise
+#10	AnnotatorNotes T11	realize
+T12	Agreement_errors 1256 1265	stimulate
+#11	AnnotatorNotes T12	stimulates
+T13	Agreement_errors 1244 1255	exploration
+R1	Dependent_change Arg1:T12 Arg2:T13	
+T14	Suffix 1300 1310	developing
+#12	AnnotatorNotes T14	development
+T15	Spelling 1536 1546	goverments
+#13	AnnotatorNotes T15	governments
+T16	note 1772 1773	y
+#14	AnnotatorNotes T16	Zavyalov

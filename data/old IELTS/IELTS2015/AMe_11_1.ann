@@ -1,0 +1,43 @@
+T1	Tense_choice 10 19	represent
+#1	AnnotatorNotes T1	represents
+T2	Articles 39 49	percentage
+#2	AnnotatorNotes T2	the percentage
+T3	Agreement_errors 104 110	levels
+#3	AnnotatorNotes T3	level
+T4	Agreement_errors 114 128	qualifications
+#4	AnnotatorNotes T4	qualification
+R1	Dependent_change Arg1:T3 Arg2:T4	
+T5	Category_confusion 135 145	absolytely
+#5	AnnotatorNotes T5	absolute
+T6	Verbs 248 251	the
+#6	AnnotatorNotes T6	is
+T7	Category_confusion 258 268	popularity
+#7	AnnotatorNotes T7	popular
+T8	lex_item_choice 269 273	from
+#8	AnnotatorNotes T8	with
+T11	Prepositions 345 349	from
+#11	AnnotatorNotes T11	for
+T12	Prepositions 473 477	from
+#12	AnnotatorNotes T12	for
+T9	Tense_choice 589 599	constitute
+#9	AnnotatorNotes T9	constitutes
+T10	Spelling 679 688	Bachler’s
+#10	AnnotatorNotes T10	Bachelor's
+T13	Agreement_errors 435 454	this qualifications
+#13	AnnotatorNotes T13	these qualifications
+T14	Absence_comp_sent 748 756	possible
+#14	AnnotatorNotes T14	it is
+T15	Coherence 786 840	post-school from men a well more in compare with women
+T16	Redundant_comp 851 855	that
+T17	Tense_choice 870 873	had
+#15	AnnotatorNotes T17	have
+T18	lex_item_choice 906 909	one
+T19	Absence_comp_sent 903 905	no
+#16	AnnotatorNotes T19	there is
+#17	AnnotatorNotes T18	such
+T20	Category_confusion 926 933	percent
+#18	AnnotatorNotes T20	percentage
+T21	Agreement_errors 934 938	were
+#19	AnnotatorNotes T21	was
+#20	AnnotatorNotes T15	post-school qualification among men has a bigger number in comparison with women
+T22	Absence_explanation 786 840	post-school from men a well more in compare with women

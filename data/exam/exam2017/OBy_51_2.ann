@@ -1,0 +1,73 @@
+T1	Noun_number 7 17	technology
+#1	AnnotatorNotes T1	technologies
+T2	Redundant_comp 23 27	have
+A1	Delete T2
+T3	Spelling 62 67	lifes
+#2	AnnotatorNotes T3	lives
+T4	Inappropriate_register 143 147	It’s
+#3	AnnotatorNotes T4	Is it
+T5	Word_order 143 147	It’s
+#4	AnnotatorNotes T5	Is it
+T6	lex_item_choice 203 208	light
+#5	AnnotatorNotes T6	bright
+T7	Category_confusion 213 219	simply
+#6	AnnotatorNotes T7	simple
+T8	Articles 230 238	a reason
+#7	AnnotatorNotes T8	the reason
+T9	Possessive 266 278	human health
+#8	AnnotatorNotes T9	human's health
+T10	Category_confusion 281 289	Compares
+#9	AnnotatorNotes T10	Comparing
+T11	Articles 338 357	Internet Connection
+#10	AnnotatorNotes T11	the Internet connection
+T12	Capitalisation 347 357	Connection
+#11	AnnotatorNotes T12	connection
+T13	Superlative_adj 385 396	the happier
+#12	AnnotatorNotes T13	the happiest
+T14	Inappropriate_register 443 448	can’t
+#13	AnnotatorNotes T14	cannot
+T15	lex_item_choice 502 507	deals
+#14	AnnotatorNotes T15	things to do
+T16	Articles 511 519	Internet
+#15	AnnotatorNotes T16	the Internet
+T17	Prepositions 508 519	in Internet
+A2	Cause T17 L1_interference
+#16	AnnotatorNotes T17	on the Internet
+T18	Absence_comp_sent 520 522	or
+#17	AnnotatorNotes T18	or because
+T20	Agreement_errors 637 643	appear
+#19	AnnotatorNotes T20	appears to be
+T21	Absence_comp_colloc 637 643	appear
+#20	AnnotatorNotes T21	appears to be
+T19	Redundant_comp 634 636	’s
+A3	Delete T19
+T22	Spelling 664 665	a
+#18	AnnotatorNotes T22	and
+T23	Articles 707 724	a medical glasses
+#21	AnnotatorNotes T23	medical glasses
+T24	Inappropriate_register 743 748	can’t
+#22	AnnotatorNotes T24	cannot
+T25	Absence_comp_sent 743 752	can’t see
+#23	AnnotatorNotes T25	they cannot see
+T26	Punctuation 760 764	Also
+#24	AnnotatorNotes T26	Also,
+T27	lex_item_choice 843 853	conclusion
+#25	AnnotatorNotes T27	consequence
+T28	lex_item_choice 960 964	take
+#26	AnnotatorNotes T28	get
+T29	lex_item_choice 1031 1044	determination
+#27	AnnotatorNotes T29	damaging
+T30	lex_item_choice 1026 1030	make
+#28	AnnotatorNotes T30	have
+T31	Possessive 1058 1070	human health
+#29	AnnotatorNotes T31	human's health
+T32	Articles 1056 1070	a human health
+#30	AnnotatorNotes T32	human's health
+T33	Prepositions 1045 1055	affect for
+#31	AnnotatorNotes T33	affect on
+T34	Ref_device 857 861	this
+#32	AnnotatorNotes T34	it
+T35	Punctuation 838 861	As a conclusion of this
+#33	AnnotatorNotes T35	As a consequence of it
+T36	lex_item_choice 884 910	be air and water pollution
+#34	AnnotatorNotes T36	polute the air and water

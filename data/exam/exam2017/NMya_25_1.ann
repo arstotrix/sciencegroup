@@ -1,0 +1,27 @@
+T1	Superlative_adj 932 941	most flat
+#1	AnnotatorNotes T1	flattest
+T2	Redundant_comp 797 799	it
+A1	Delete T2
+T3	Agreement_errors 701 708	reveals
+#2	AnnotatorNotes T3	reveal
+T4	Absence_comp_sent 283 303	older people from 65
+#3	AnnotatorNotes T4	people older than 65
+T5	lex_item_choice 280 282	is
+#4	AnnotatorNotes T5	consists of
+T6	Absence_explanation 318 336	the youngest group
+#5	AnnotatorNotes T6	the youngest group's members
+T7	Superlative_adj 378 384	oldest
+#6	AnnotatorNotes T7	the oldest
+T8	Ref_device 378 384	oldest
+#7	AnnotatorNotes T8	the oldest group
+R1	Parallel_construction Arg1:T8 Arg2:T6	
+T9	Tense_choice 385 394	are using
+#8	AnnotatorNotes T9	use it
+T10	Articles 531 541	comparison
+#9	AnnotatorNotes T10	the comparison
+T11	Category_confusion 38 41	USA
+#10	AnnotatorNotes T11	American
+T12	Articles 18 34	age distribution
+#11	AnnotatorNotes T12	the age distribution
+T13	Articles 965 986	three social networks
+#12	AnnotatorNotes T13	the three social networks

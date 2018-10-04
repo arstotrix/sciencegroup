@@ -1,0 +1,51 @@
+T1	Spelling 125 132	devided
+#1	AnnotatorNotes T1	divided
+T2	Word_choice 188 226	Amount of money people spend on petrol
+#2	AnnotatorNotes T2	Petrol expenses
+T3	Agreement_errors 227 229	is
+#3	AnnotatorNotes T3	are
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	lex_part_choice 230 242	exspessed by
+#4	AnnotatorNotes T4	exspessed as
+T5	Redundant_comp 336 347	gategory of
+A1	Delete T5
+T6	Punctuation 461 462	:
+#5	AnnotatorNotes T6	, 
+T7	Linking_device 463 539	the category of people in the United Kingdom spend only 0,5% of their salary
+#6	AnnotatorNotes T7	while this category of people in the United Kingdom spend only 0,5% of their salary
+T8	Determiners 463 466	the
+#7	AnnotatorNotes T8	this
+T9	Absence_comp_sent 636 644	spending
+#8	AnnotatorNotes T9	the part of income spent
+T10	Articles 541 560	Different situation
+#9	AnnotatorNotes T10	A different situation
+T11	Absence_comp_sent 561 563	is
+#10	AnnotatorNotes T11	is observed
+T12	Punctuation 582 595	middle-income
+#11	AnnotatorNotes T12	middle income
+T13	Articles 800 808	the both
+#12	AnnotatorNotes T13	both
+T14	Spelling 841 849	reachest
+#13	AnnotatorNotes T14	richest
+T15	Articles 841 856	reachest people
+#14	AnnotatorNotes T15	the richest people
+T16	Articles 820 834	Basic tendency
+#15	AnnotatorNotes T16	The basic tendency
+T17	lex_item_choice 910 917	solvent
+#16	AnnotatorNotes T17	affluent
+T18	Absence_comp_sent 970 1016	the decline of expenses in the USA  more sharp
+#17	AnnotatorNotes T18	that the decline of expenses in the USA is sharper
+T19	Linking_device 947 969	A slight difference is
+#18	AnnotatorNotes T19	A slight difference is that
+T20	Spelling 1077 1087	persantage
+#19	AnnotatorNotes T20	percentage
+T21	Standard 1140 1164	is the reserve situation
+#20	AnnotatorNotes T21	the situation is reverse 
+T22	Spelling 1147 1154	reserve
+#21	AnnotatorNotes T22	reverse
+T23	Comparative_adj 1006 1016	more sharp
+#22	AnnotatorNotes T23	sharper
+T24	note 1164 1165	.
+#23	AnnotatorNotes T24	THE GRADE IS 6
+T25	note 712 713	.
+#24	AnnotatorNotes T25	YOU HAVE TO GIVE THE FIGURES FOR THIS GROUP

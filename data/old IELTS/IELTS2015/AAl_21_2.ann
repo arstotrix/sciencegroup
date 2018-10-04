@@ -1,0 +1,91 @@
+T2	Modals 887 901	cannot to work
+T5	Spelling 1479 1484	iqual
+T6	Noun_number 325 332	spheres
+#1	AnnotatorNotes T6	sphere
+T7	Articles 191 203	large amount
+#2	AnnotatorNotes T7	a large number
+T8	lex_item_choice 197 203	amount
+#3	AnnotatorNotes T8	number
+T9	Spelling 801 812	engeneering
+#4	AnnotatorNotes T9	engineering
+T10	lex_item_choice 1447 1453	amount
+#5	AnnotatorNotes T10	numbers
+T11	Category_confusion 402 409	benifit
+#6	AnnotatorNotes T11	beneficial
+T12	Noun_number 386 393	subject
+T13	Agreement_errors 394 396	is
+R1	Dependent_change Arg1:T12 Arg2:T13	
+#7	AnnotatorNotes T12	subjects
+#8	AnnotatorNotes T13	are
+T15	lex_item_choice 279 284	study
+#10	AnnotatorNotes T15	teach
+T17	Spelling 948 955	studing
+#12	AnnotatorNotes T17	studying
+T18	Spelling 72 79	studing
+#13	AnnotatorNotes T18	study 
+T19	Agreement_errors 864 877	this subjects
+#14	AnnotatorNotes T19	these subjects
+T16	Agreement_errors 1325 1334	person do
+#11	AnnotatorNotes T16	person does
+T20	Articles 13 23	difference
+#15	AnnotatorNotes T20	the difference
+T1	Absence_comp_sent 32 47	male and female
+#16	AnnotatorNotes T1	the numbers of male and female students
+T21	Absence_explanation 32 47	male and female
+#17	AnnotatorNotes T21	the numbers of male and female students
+T22	Noun_number 133 141	question
+#18	AnnotatorNotes T22	questions
+T23	Category_confusion 414 418	male
+#19	AnnotatorNotes T23	men
+T24	Absence_comp_sent 439 445	female
+#20	AnnotatorNotes T24	female students
+T25	Redundant_comp 448 453	It is
+A1	Delete T25
+T26	Redundant_comp 462 468	, that
+A2	Delete T26
+R2	Dependent_change Arg1:T25 Arg2:T26	
+T27	lex_item_choice 550 560	individual
+#21	AnnotatorNotes T27	special
+T28	Noun_number 633 642	direction
+#22	AnnotatorNotes T28	directions
+T29	Prepositions 670 677	between
+#23	AnnotatorNotes T29	among
+T30	Negation 643 650	have no
+#24	AnnotatorNotes T30	don't have
+T14	Voice 722 734	is needed in
+#9	AnnotatorNotes T14	need
+T31	Redundant_comp 750 754	such
+A3	Delete T31
+T32	Punctuation 755 757	as
+#25	AnnotatorNotes T32	, as
+T33	Redundant_comp 770 800	some technique specialization,
+A4	Delete T33
+T34	Absence_comp_sent 758 812	building or some technique specialization, engeneering
+#26	AnnotatorNotes T34	building or engineering may do
+T35	lex_item_choice 843 847	take
+#27	AnnotatorNotes T35	get
+T36	Prepositions 858 863	about
+#28	AnnotatorNotes T36	in
+#29	AnnotatorNotes T2	cannot work
+T37	Dative 1019 1023	tell
+#30	AnnotatorNotes T37	tell us
+T38	Punctuation 1019 1028	tell "You
+#31	AnnotatorNotes T38	tell us, "You
+T39	Articles 1100 1106	chance
+#32	AnnotatorNotes T39	a chance
+T40	Articles 1133 1150	a right direction
+#33	AnnotatorNotes T40	the right direction
+T4	Redundant_comp 1247 1265	they can choose so
+A5	Delete T4
+T41	Noun_number 1219 1228	direction
+#34	AnnotatorNotes T41	directions
+T42	Redundant_comp 1293 1300	develop
+A6	Delete T42
+T43	Prepositions 1358 1360	by
+#35	AnnotatorNotes T43	with
+T3	Redundant_comp 1476 1478	is
+A7	Delete T3
+A8	Cause T27 L1_interference
+T44	Articles 101 107	modern
+#36	AnnotatorNotes T44	the modern 
+#37	AnnotatorNotes T5	equal

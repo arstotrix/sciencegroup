@@ -1,0 +1,56 @@
+T1	lex_part_choice 610 620	At general
+#1	AnnotatorNotes T1	In general
+T2	Agreement_errors 115 119	does
+#2	AnnotatorNotes T2	do
+T3	Prepositions 188 190	on
+#3	AnnotatorNotes T3	in
+T4	Punctuation 275 291	, 18 - 29 years,
+#4	AnnotatorNotes T4	- aged 18-29 -
+T5	Absence_comp_sent 277 290	18 - 29 years
+#5	AnnotatorNotes T5	aged 18-29
+T6	Adj_as_collective 270 275	young
+#6	AnnotatorNotes T6	the young
+T7	Standard 250 269	dominated by mostly
+#7	AnnotatorNotes T7	dominated mostly by
+T8	Spelling 300 303	the
+#8	AnnotatorNotes T8	there 
+T9	Articles 340 350	percentage
+#9	AnnotatorNotes T9	the percentage
+T10	Articles 449 465	the young people
+#10	AnnotatorNotes T10	young people
+T11	Prepositions 596 598	on
+#11	AnnotatorNotes T11	at
+T12	lex_item_choice 749 759	relatively
+#12	AnnotatorNotes T12	compared
+T13	Absence_comp_sent 1032 1041	the above
+#13	AnnotatorNotes T13	what was said above
+T14	Standard 1065 1085	orientated on mostly
+#14	AnnotatorNotes T14	orientated mostly towards
+T15	Prepositions 1076 1078	on
+#15	AnnotatorNotes T15	towards
+T16	Prepositions 1112 1114	on
+#16	AnnotatorNotes T16	towards
+R1	Parallel_construction Arg1:T16 Arg2:T15	
+T17	Standard 1112 1121	on mostly
+#17	AnnotatorNotes T17	mostly towards
+T18	Superlative_adj 1188 1200	more popular
+#18	AnnotatorNotes T18	the most popular
+T19	Spelling 1065 1075	orientated
+#19	AnnotatorNotes T19	oriented
+T20	Articles 477 486	the elder
+#20	AnnotatorNotes T20	older
+T21	lex_item_choice 481 486	elder
+#21	AnnotatorNotes T21	older
+T22	Comparative_adj 481 486	elder
+#22	AnnotatorNotes T22	older
+T23	Comparative_adj 549 552	old
+#23	AnnotatorNotes T23	older
+T24	Comparative_adj 557 562	young
+#24	AnnotatorNotes T24	younger
+T25	lex_item_choice 1122 1127	elder
+#25	AnnotatorNotes T25	older
+T26	Comparative_adj 1122 1127	elder
+T27	Comparative_adj 1086 1091	young
+#26	AnnotatorNotes T27	younger
+T28	Comparative_adj 1010 1015	young
+#27	AnnotatorNotes T28	younger 

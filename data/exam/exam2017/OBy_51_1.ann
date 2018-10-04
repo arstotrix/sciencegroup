@@ -1,0 +1,86 @@
+T1	Redundant_comp 4 11	graphic
+A1	Delete T1
+T2	Absence_explanation 12 15	pie
+#1	AnnotatorNotes T2	pie charts
+T3	Agreement_errors 16 21	shows
+#2	AnnotatorNotes T3	show
+R1	Dependent_change Arg1:T3 Arg2:T2	
+T4	Articles 22 28	amount
+#3	AnnotatorNotes T4	the amount
+T5	Noun_number 37 41	good
+#4	AnnotatorNotes T5	goods
+T6	Articles 139 145	amount
+#5	AnnotatorNotes T6	the proportion
+T7	lex_item_choice 139 145	amount
+#6	AnnotatorNotes T7	the proportion
+T8	Noun_number 149 154	metal
+#7	AnnotatorNotes T8	metals
+T9	Superlative_adj 160 170	the bigger
+#8	AnnotatorNotes T9	the biggest
+T10	Articles 179 186	a chart
+#9	AnnotatorNotes T10	the chart
+T11	Prepositions 171 178	part at
+#10	AnnotatorNotes T11	part of
+T12	lex_item_choice 202 209	percent
+#11	AnnotatorNotes T12	percentage
+T13	lex_item_choice 219 224	metal
+#12	AnnotatorNotes T13	metals
+T14	Agreement_errors 225 228	are
+#13	AnnotatorNotes T14	is
+T15	Articles 245 254	rail kind
+#14	AnnotatorNotes T15	the rail kind
+T16	lex_item_choice 213 218	moved
+#15	AnnotatorNotes T16	transported
+T17	Noun_number 307 312	metal
+#16	AnnotatorNotes T17	metals
+T18	Agreement_errors 313 315	is
+#17	AnnotatorNotes T18	are
+R2	Dependent_change Arg1:T18 Arg2:T17	
+T19	Punctuation 328 334	, than
+#18	AnnotatorNotes T19	than
+T20	Articles 352 364	second chart
+#19	AnnotatorNotes T20	the second chart
+T21	Agreement_errors 365 375	illustrate
+#20	AnnotatorNotes T21	illustrates
+T22	Prepositions 494 506	by all goods
+#21	AnnotatorNotes T22	of all goods
+T23	Often_confused 538 545	percent
+#22	AnnotatorNotes T23	the percentage
+T24	Articles 538 545	percent
+#23	AnnotatorNotes T24	the percentage
+T25	Articles 602 609	percent
+#24	AnnotatorNotes T25	the percentage
+T26	Often_confused 602 609	percent
+#25	AnnotatorNotes T26	the percentage
+T27	Ref_device 653 657	This
+#26	AnnotatorNotes T27	These
+T28	Noun_number 671 675	good
+#27	AnnotatorNotes T28	goods
+T29	lex_item_choice 676 683	compare
+#28	AnnotatorNotes T29	differ
+T30	Noun_number 696 705	per cents
+#29	AnnotatorNotes T30	per cent
+T31	Prepositions 676 691	compare only in
+#30	AnnotatorNotes T31	differ only by
+T32	Punctuation 708 712	Also
+#31	AnnotatorNotes T32	Also,
+T33	Often_confused 759 766	percent
+#32	AnnotatorNotes T33	the percentage
+T34	Articles 759 766	percent
+#33	AnnotatorNotes T34	the percentage
+T35	Articles 811 819	percents
+#34	AnnotatorNotes T35	the percentage
+T36	Often_confused 811 819	percents
+#35	AnnotatorNotes T36	the percentage
+T37	Defining 929 960	, which are transported by rail
+#36	AnnotatorNotes T37	which are transported by rail
+T38	Agreement_errors 961 963	is
+#37	AnnotatorNotes T38	are
+T39	Noun_number 992 997	metal
+#38	AnnotatorNotes T39	metals
+T40	Agreement_errors 1009 1013	make
+#39	AnnotatorNotes T40	makes
+T41	Articles 1014 1028	transportation
+#40	AnnotatorNotes T41	the transportation
+T42	lex_item_choice 1051 1056	often
+#41	AnnotatorNotes T42	faster

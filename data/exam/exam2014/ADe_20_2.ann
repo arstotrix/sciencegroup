@@ -1,0 +1,195 @@
+T1	Absence_comp_sent 35 41	better
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	it is better
+T2	Prepositions 42 44	to
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	for
+T3	Infinitive_constr 54 62	learning
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	to learn
+T4	Spelling 63 71	foregein
+A10	Cause T4 Other
+A11	Weight-language T4 Critical
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	foreign
+T5	Articles 63 80	foregein language
+A13	Cause T5 Absence_of_Category_in_L1
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	a foreign language
+T6	Absence_comp_sent 111 127	secondary school
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	at secondary school
+T7	Word_order 0 21	Some experts nowadays
+A19	Cause T7 L1_interference
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	Nowadays some experts
+T8	Prepositions 129 131	On
+A22	Cause T8 Other
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	In
+T9	Absence_explanation 173 182	languages
+A25	Cause T9 L1_interference
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	foreign languages
+T10	Absence_explanation 257 263	skills
+A28	Cause T10 Other
+A29	Weight-language T10 Minor
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	skills in future
+T11	Spelling 248 256	foregein
+A31	Cause T11 Other
+A32	Weight-language T11 Critical
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	foreign
+T12	Absence_comp_sent 248 256	foregein
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	foreign language
+T13	Absence_comp_sent 326 332	school
+A37	Cause T13 L1_interference
+A38	Weight-language T13 Minor
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	school do
+T14	Spelling 295 303	foregein
+A40	Cause T14 Other
+A41	Weight-language T14 Critical
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	foreign
+T15	Articles 295 312	foregein language
+A43	Cause T15 Absence_of_Category_in_L1
+A44	Weight-language T15 Minor
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	a foreign language
+T16	Spelling 385 394	home-work
+A46	Cause T16 Typo
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	homework
+T17	Comparative_adj 376 384	a lot of
+A49	Cause T17 Other
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Major
+#17	AnnotatorNotes T17	more
+T18	Punctuation 394 395	,
+A52	Cause T18 L1_interference
+A53	Weight-language T18 Major
+A54	Weight-understanding T18 Minor
+A55	Delete T18
+T19	Absence_comp_sent 404 411	primary
+A56	Cause T19 L1_interference
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	primary school
+T20	Spelling 451 459	foregein
+A59	Cause T20 Other
+A60	Weight-language T20 Critical
+A61	Weight-understanding T20 Minor
+#19	AnnotatorNotes T20	foreign
+T21	Noun_number 451 468	foregein language
+A62	Cause T21 Other
+A63	Weight-language T21 Minor
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	foreign languages
+T22	Prepositions 474 478	from
+A65	Cause T22 L1_interference
+A66	Weight-language T22 Major
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	on
+T23	Punctuation 470 473	But
+A68	Cause T23 Other
+A69	Weight-language T23 Minor
+A70	Weight-understanding T23 Minor
+#22	AnnotatorNotes T23	But,
+T24	Spelling 510 518	foregein
+A71	Cause T24 Other
+A72	Weight-language T24 Critical
+A73	Weight-understanding T24 Minor
+#23	AnnotatorNotes T24	foreign
+T25	Prepositions 528 532	from
+A74	Cause T25 Other
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Major
+#24	AnnotatorNotes T25	since
+T26	Tense_choice 504 509	learn
+A77	Cause T26 Absence_of_Category_in_L1
+A78	Weight-language T26 Major
+A79	Weight-understanding T26 Minor
+#25	AnnotatorNotes T26	have been learning / have learned
+T27	Word_choice 562 575	positive fact
+A80	Cause T27 Other
+A81	Weight-language T27 Minor
+A82	Weight-understanding T27 Major
+#26	AnnotatorNotes T27	benefits / advantages
+T28	Noun_number 562 575	positive fact
+A83	Cause T28 Other
+A84	Weight-language T28 Major
+A85	Weight-understanding T28 Minor
+#27	AnnotatorNotes T28	benefits / advantages
+T29	Spelling 638 646	foregein
+A86	Cause T29 Other
+A87	Weight-language T29 Critical
+A88	Weight-understanding T29 Minor
+#28	AnnotatorNotes T29	foreign
+T30	Spelling 673 681	foregein
+A89	Cause T30 Other
+A90	Weight-language T30 Critical
+A91	Weight-understanding T30 Minor
+#29	AnnotatorNotes T30	foreign
+T31	Prepositions 689 693	From
+A92	Cause T31 L1_interference
+A93	Weight-language T31 Major
+A94	Weight-understanding T31 Minor
+#30	AnnotatorNotes T31	On
+T32	Spelling 710 718	foregein
+A95	Cause T32 Other
+A96	Weight-language T32 Critical
+A97	Weight-understanding T32 Minor
+#31	AnnotatorNotes T32	foreign
+T33	Articles 710 727	foregein language
+A98	Cause T33 Absence_of_Category_in_L1
+A99	Weight-language T33 Minor
+A100	Weight-understanding T33 Minor
+#32	AnnotatorNotes T33	a foreign language
+T34	Transitive 732 740	annoy to
+A101	Cause T34 Other
+A102	Weight-language T34 Major
+A103	Weight-understanding T34 Minor
+#33	AnnotatorNotes T34	annoy
+T35	Punctuation 782 788	school
+A104	Cause T35 Typo
+A105	Weight-language T35 Critical
+A106	Weight-understanding T35 Minor
+#34	AnnotatorNotes T35	school.
+T36	Tense_choice 758 765	learned
+A107	Cause T36 Other
+A108	Weight-language T36 Major
+A109	Weight-understanding T36 Major
+#35	AnnotatorNotes T36	have been learning
+T37	Absence_explanation 732 740	annoy to
+A110	Cause T37 Other
+A111	Weight-language T37 Major
+A112	Weight-understanding T37 Major
+#36	AnnotatorNotes T37	start annoying
+T38	Linking_device 748 752	when
+A113	Cause T38 Other
+A114	Weight-language T38 Major
+A115	Weight-understanding T38 Minor
+#37	AnnotatorNotes T38	if
+T39	Prepositions 769 773	from
+A116	Cause T39 Other
+A117	Weight-language T39 Major
+A118	Weight-understanding T39 Major
+#38	AnnotatorNotes T39	since

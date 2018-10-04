@@ -1,0 +1,194 @@
+T1	lex_item_choice 28 32	date
+#1	AnnotatorNotes T1	data
+T2	Articles 185 189	ages
+#2	AnnotatorNotes T2	the age
+T3	Noun_number 185 189	ages
+#3	AnnotatorNotes T3	age
+T4	lex_part_choice 203 208	years
+#4	AnnotatorNotes T4	years old
+T5	lex_item_choice 209 218	consisted
+#5	AnnotatorNotes T5	comprised
+T6	Articles 226 230	half
+#6	AnnotatorNotes T6	a half
+T7	Articles 234 244	population
+#7	AnnotatorNotes T7	the population
+T8	Redundant_comp 248 258	the period
+A1	Delete T8
+T9	Redundant_comp 110 120	the period
+A2	Delete T9
+T10	Redundant_comp 135 140	years
+A3	Delete T10
+T11	Absence_explanation 272 287	having the ages
+#8	AnnotatorNotes T11	in the age of
+T12	Absence_comp_colloc 294 299	years
+#9	AnnotatorNotes T12	years old
+T13	Articles 333 337	ages
+#10	AnnotatorNotes T13	the age
+T14	Absence_comp_sent 333 337	ages
+#11	AnnotatorNotes T14	the age of
+T15	Absence_comp_colloc 350 355	years
+#12	AnnotatorNotes T15	years old
+T16	Voice 300 307	located
+#13	AnnotatorNotes T16	are located
+T17	Numerals 308 311	two
+#14	AnnotatorNotes T17	the second
+T18	Prepositional_verb 300 317	located two place
+#15	AnnotatorNotes T18	located on the second place
+T19	Absence_comp_sent 372 378	number
+#16	AnnotatorNotes T19	in number
+T20	Tense_choice 442 449	changed
+#17	AnnotatorNotes T20	changes
+T21	Standard 428 449	in 2050 years changed
+#18	AnnotatorNotes T21	changes by 2050
+T22	Prepositions 428 430	in
+#19	AnnotatorNotes T22	by
+T23	Articles 465 468	the
+A4	Delete T23
+T24	Articles 481 485	ages
+#20	AnnotatorNotes T24	the age
+T25	Noun_number 481 485	ages
+#21	AnnotatorNotes T25	the age
+T26	Absence_comp_sent 481 490	ages 0-14
+#22	AnnotatorNotes T26	the age of 0-14
+T27	Absence_comp_colloc 491 496	years
+#23	AnnotatorNotes T27	years old
+T28	Absence_comp_sent 451 506	The number of the children in ages 0-14 years decreased
+#24	AnnotatorNotes T28	The number of children in the age of 0-14 years old is decreased
+T29	Noun_number 547 551	ages
+#25	AnnotatorNotes T29	age
+T30	Articles 547 551	ages
+#26	AnnotatorNotes T30	the age
+T31	Absence_comp_colloc 566 571	years
+#27	AnnotatorNotes T31	years old
+T32	lex_item_choice 599 606	consist
+#28	AnnotatorNotes T32	comprise
+T33	Absence_comp_sent 628 645	The number people
+#29	AnnotatorNotes T33	The number of people
+T34	Noun_number 649 653	ages
+#30	AnnotatorNotes T34	age
+T35	Articles 649 653	ages
+#31	AnnotatorNotes T35	the age
+T36	Absence_comp_sent 649 656	ages 60
+#32	AnnotatorNotes T36	the age of 60
+T37	Absence_comp_colloc 666 671	years
+#33	AnnotatorNotes T37	years old
+T38	Standard 672 681	also will
+#34	AnnotatorNotes T38	will also
+T39	Category_confusion 748 759	differently
+#35	AnnotatorNotes T39	different
+T40	Absence_comp_sent 765 770	Italy
+#36	AnnotatorNotes T40	the one about Italy
+T41	Prepositions 33 35	on
+#37	AnnotatorNotes T41	about
+T42	Prepositions 705 707	on
+#38	AnnotatorNotes T42	about
+T43	Punctuation 772 779	In 2000
+#39	AnnotatorNotes T43	In 2000 ,
+T44	Redundant_comp 780 785	years
+A5	Delete T44
+T45	Absence_explanation 802 817	having the ages
+#40	AnnotatorNotes T45	in the age 
+T46	Absence_comp_colloc 832 837	years
+#41	AnnotatorNotes T46	years old
+T47	lex_item_choice 838 851	are consisted
+#42	AnnotatorNotes T47	comprise
+T48	Articles 852 863	bigger half
+#43	AnnotatorNotes T48	a bigger half
+T49	lex_item_choice 928 932	date
+#44	AnnotatorNotes T49	data
+T50	Absence_comp_sent 904 920	the second place
+#45	AnnotatorNotes T50	on the second place
+T51	Prepositions 921 923	on
+#46	AnnotatorNotes T51	of
+T52	Agreement_errors 933 936	was
+#47	AnnotatorNotes T52	were
+T53	Noun_number 955 959	ages
+#48	AnnotatorNotes T53	age
+T54	Articles 955 959	ages
+#49	AnnotatorNotes T54	the age
+T55	Absence_comp_sent 952 962	in ages 60
+#50	AnnotatorNotes T55	in the age of 60
+T56	Absence_comp_colloc 972 977	years
+#51	AnnotatorNotes T56	years old
+T57	Redundant_comp 1005 1015	the period
+A6	Delete T57
+T58	lex_item_choice 1021 1031	considered
+#52	AnnotatorNotes T58	comprised
+T59	Tense_choice 1057 1064	changed
+#53	AnnotatorNotes T59	will change
+T60	lex_item_choice 1074 1083	important
+#54	AnnotatorNotes T60	significantly
+T61	Punctuation 1085 1089	Also
+#55	AnnotatorNotes T61	Also ,
+T62	Articles 1090 1096	people
+#56	AnnotatorNotes T62	the people
+T63	Noun_number 1100 1104	ages
+#57	AnnotatorNotes T63	age
+T64	Articles 1100 1104	ages
+#58	AnnotatorNotes T64	the age
+T65	Absence_comp_sent 1097 1110	in ages 15-59
+#59	AnnotatorNotes T65	in the age of 15-59
+T66	Absence_comp_colloc 1111 1116	years
+#60	AnnotatorNotes T66	years old
+T67	lex_item_choice 1117 1121	have
+#61	AnnotatorNotes T67	make up
+T68	Absence_comp_sent 1122 1150	the maximum per cent (46,2%)
+#62	AnnotatorNotes T68	the maximum per cent (46,2%) from the whole chart
+T69	Punctuation 1152 1166	In this period
+#63	AnnotatorNotes T69	In this period ,
+T70	Voice 1192 1208	increase doubled
+#64	AnnotatorNotes T70	is doubled
+T71	Punctuation 1209 1212	and
+#65	AnnotatorNotes T71	, and
+T72	Prepositional_verb 1224 1229	equal
+#66	AnnotatorNotes T72	equal to
+T73	Absence_comp_sent 1273 1277	will
+#67	AnnotatorNotes T73	will be
+T74	Articles 1301 1312	information
+#68	AnnotatorNotes T74	the information
+T75	Prepositions 1313 1315	on
+#69	AnnotatorNotes T75	about
+T76	Agreement_errors 1344 1348	this
+#70	AnnotatorNotes T76	these
+T77	Absence_comp_sent 1344 1348	this
+#71	AnnotatorNotes T77	in these
+T78	lex_item_choice 1389 1393	date
+#72	AnnotatorNotes T78	data
+T79	Absence_comp_sent 1394 1414	to compare difficult
+#73	AnnotatorNotes T79	is difficult to compare
+T80	Punctuation 1416 1424	In Yemen
+#74	AnnotatorNotes T80	In Yemen ,
+T81	lex_item_choice 1452 1461	maximized
+#75	AnnotatorNotes T81	at its peak
+T82	Standard 1465 1479	the 2000 years
+#76	AnnotatorNotes T82	the year 2000
+T83	Redundant_comp 1493 1498	years
+A7	Delete T83
+T84	Spelling 1499 1511	statistiques
+#77	AnnotatorNotes T84	statisticans
+T85	Absence_comp_sent 1547 1551	ages
+#78	AnnotatorNotes T85	the age of 
+T86	lex_item_choice 1563 1572	consisted
+#79	AnnotatorNotes T86	comprise
+T87	Noun_number 1596 1607	populations
+#80	AnnotatorNotes T87	population
+T88	Punctuation 1618 1626	In Italy
+#81	AnnotatorNotes T88	In Italy ,
+T89	Articles 1627 1632	trend
+#82	AnnotatorNotes T89	the trend
+T90	Tense_choice 1633 1648	was not changed
+#83	AnnotatorNotes T90	does not change
+T91	Articles 1653 1656	the
+A8	Delete T91
+T92	Noun_number 1662 1668	period
+#84	AnnotatorNotes T92	periods
+T93	Absence_comp_sent 1690 1701	having ages
+#85	AnnotatorNotes T93	in the age of
+T94	Articles 1712 1726	maximum number
+#86	AnnotatorNotes T94	a maximum number
+T95	Spelling 682 687	drown
+#87	AnnotatorNotes T95	grown
+T96	Noun_number 712 716	ages
+#88	AnnotatorNotes T96	age
+T97	Noun_number 724 735	populations
+#89	AnnotatorNotes T97	population

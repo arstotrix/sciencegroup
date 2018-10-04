@@ -1,0 +1,599 @@
+T1	Countable_uncountable 83 91	percents
+#1	AnnotatorNotes T1	percent
+T2	Articles 186 199	two countries
+#2	AnnotatorNotes T2	the two countries
+T3	Standard 230 253	the US citizens overall
+#3	AnnotatorNotes T3	overall the US citizens
+T4	Articles 288 298	the people
+#4	AnnotatorNotes T4	people
+T5	Prepositions 299 301	of
+#5	AnnotatorNotes T5	in
+T6	Derivation 454 462	Britains
+#6	AnnotatorNotes T6	Brits
+T7	Spelling 799 807	reachest
+#7	AnnotatorNotes T7	richest
+A1	Cause T5 L1_interference
+A2	Weight-language T5 Major
+A3	Weight-understanding T5 Minor
+T8	pos_DT 0 3	The
+#8	AnnotatorNotes T8	lemma = 'the'
+T9	pos_NN 4 9	graph
+#9	AnnotatorNotes T9	lemma = 'graph'
+T10	pos_VBZ 10 15	shows
+#10	AnnotatorNotes T10	lemma = 'show'
+T11	pos_PRP 16 24	how much
+#11	AnnotatorNotes T11	lemma = 'how_much'
+T12	pos_NNS 25 32	drivers
+#12	AnnotatorNotes T12	lemma = 'driver'
+T13	pos_IN 33 35	in
+#13	AnnotatorNotes T13	lemma = 'in'
+T14	pos_DT 36 39	the
+#14	AnnotatorNotes T14	lemma = 'the'
+T15	pos_NP 40 42	US
+#15	AnnotatorNotes T15	lemma = 'us'
+T16	pos_CC 43 46	and
+#16	AnnotatorNotes T16	lemma = 'and'
+T17	pos_DT 47 50	the
+#17	AnnotatorNotes T17	lemma = 'the'
+T18	pos_NP 51 53	UK
+#18	AnnotatorNotes T18	lemma = 'uk'
+T19	pos_VB 54 59	spend
+#19	AnnotatorNotes T19	lemma = 'spend'
+T20	pos_IN 60 62	on
+#20	AnnotatorNotes T20	lemma = 'on'
+T21	pos_NN 63 69	petrol
+#21	AnnotatorNotes T21	lemma = 'petrol'
+T22	pos_Fc 69 70	,
+#22	AnnotatorNotes T22	lemma = ','
+T23	pos_VBN 71 79	measured
+#23	AnnotatorNotes T23	lemma = 'measure'
+T24	pos_IN 80 82	in
+#24	AnnotatorNotes T24	lemma = 'in'
+T25	pos_NNS 83 91	percents
+#25	AnnotatorNotes T25	lemma = 'percent'
+T26	pos_IN 92 94	of
+#26	AnnotatorNotes T26	lemma = 'of'
+T27	pos_PRP2 95 100	their
+#27	AnnotatorNotes T27	lemma = 'their'
+T28	pos_NN 101 107	income
+#28	AnnotatorNotes T28	lemma = 'income'
+T29	pos_Fp 107 108	.
+#29	AnnotatorNotes T29	lemma = '.'
+T30	pos_VBG 109 116	Looking
+#30	AnnotatorNotes T30	lemma = 'look'
+T31	pos_IN 117 119	at
+#31	AnnotatorNotes T31	lemma = 'at'
+T32	pos_DT 120 123	the
+#32	AnnotatorNotes T32	lemma = 'the'
+T33	pos_VBN 124 129	given
+#33	AnnotatorNotes T33	lemma = 'give'
+T34	pos_NN 130 141	information
+#34	AnnotatorNotes T34	lemma = 'information'
+T35	pos_PRP 142 144	we
+#35	AnnotatorNotes T35	lemma = 'we'
+T36	pos_MD 145 148	can
+#36	AnnotatorNotes T36	lemma = 'can'
+T37	pos_VB 149 152	see
+#37	AnnotatorNotes T37	lemma = 'see'
+T38	pos_DT 153 157	some
+#38	AnnotatorNotes T38	lemma = 'some'
+T39	pos_JJ 158 165	evident
+#39	AnnotatorNotes T39	lemma = 'evident'
+T40	pos_NNS 166 177	differences
+#40	AnnotatorNotes T40	lemma = 'difference'
+T41	pos_IN 178 185	between
+#41	AnnotatorNotes T41	lemma = 'between'
+T42	pos_Z 186 189	two
+#42	AnnotatorNotes T42	lemma = '2'
+T43	pos_NNS 190 199	countries
+#43	AnnotatorNotes T43	lemma = 'country'
+T44	pos_Fp 199 200	.
+#44	AnnotatorNotes T44	lemma = '.'
+T45	pos_RB 201 212	For example
+#45	AnnotatorNotes T45	lemma = 'for_example'
+T46	pos_Fc 212 213	,
+#46	AnnotatorNotes T46	lemma = ','
+T47	pos_PRP 214 216	we
+#47	AnnotatorNotes T47	lemma = 'we'
+T48	pos_MD 217 220	can
+#48	AnnotatorNotes T48	lemma = 'can'
+T49	pos_VB 221 224	say
+#49	AnnotatorNotes T49	lemma = 'say'
+T50	pos_IN 225 229	that
+#50	AnnotatorNotes T50	lemma = 'that'
+T51	pos_DT 230 233	the
+#51	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NP 234 236	US
+#52	AnnotatorNotes T52	lemma = 'us'
+T53	pos_NNS 237 245	citizens
+#53	AnnotatorNotes T53	lemma = 'citizen'
+T54	pos_RB 246 253	overall
+#54	AnnotatorNotes T54	lemma = 'overall'
+T55	pos_VBP 254 258	tend
+#55	AnnotatorNotes T55	lemma = 'tend'
+T56	pos_TO 259 261	to
+#56	AnnotatorNotes T56	lemma = 'to'
+T57	pos_VB 262 267	spend
+#57	AnnotatorNotes T57	lemma = 'spend'
+T58	pos_RBR 268 272	more
+#58	AnnotatorNotes T58	lemma = 'many'
+T59	pos_IN 273 275	on
+#59	AnnotatorNotes T59	lemma = 'on'
+T60	pos_NN 276 282	petrol
+#60	AnnotatorNotes T60	lemma = 'petrol'
+T61	pos_IN 283 287	than
+#61	AnnotatorNotes T61	lemma = 'than'
+T62	pos_DT 288 291	the
+#62	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NNS 292 298	people
+#63	AnnotatorNotes T63	lemma = 'people'
+T64	pos_IN 299 301	of
+#64	AnnotatorNotes T64	lemma = 'of'
+T65	pos_DT 302 305	the
+#65	AnnotatorNotes T65	lemma = 'the'
+T66	pos_NP 306 308	UK
+#66	AnnotatorNotes T66	lemma = 'uk'
+T67	pos_Fp 308 309	.
+#67	AnnotatorNotes T67	lemma = '.'
+T68	pos_RB 310 315	Maybe
+#68	AnnotatorNotes T68	lemma = 'maybe'
+T69	pos_Fc 315 316	,
+#69	AnnotatorNotes T69	lemma = ','
+T70	pos_DT 317 320	the
+#70	AnnotatorNotes T70	lemma = 'the'
+T71	pos_NN 321 327	reason
+#71	AnnotatorNotes T71	lemma = 'reason'
+T72	pos_IN 328 331	for
+#72	AnnotatorNotes T72	lemma = 'for'
+T73	pos_DT 332 336	this
+#73	AnnotatorNotes T73	lemma = 'this'
+T74	pos_VBZ 337 339	is
+#74	AnnotatorNotes T74	lemma = 'be'
+T75	pos_IN 340 344	that
+#75	AnnotatorNotes T75	lemma = 'that'
+T76	pos_DT 345 348	the
+#76	AnnotatorNotes T76	lemma = 'the'
+T77	pos_NN 349 353	cost
+#77	AnnotatorNotes T77	lemma = 'cost'
+T78	pos_IN 354 356	of
+#78	AnnotatorNotes T78	lemma = 'of'
+T79	pos_NN 357 363	petrol
+#79	AnnotatorNotes T79	lemma = 'petrol'
+T80	pos_VBZ 364 366	is
+#80	AnnotatorNotes T80	lemma = 'be'
+T81	pos_JJR 367 373	higher
+#81	AnnotatorNotes T81	lemma = 'high'
+T82	pos_IN 374 376	in
+#82	AnnotatorNotes T82	lemma = 'in'
+T83	pos_DT 377 380	the
+#83	AnnotatorNotes T83	lemma = 'the'
+T84	pos_NP 381 384	USA
+#84	AnnotatorNotes T84	lemma = 'usa'
+T85	pos_CC 385 387	or
+#85	AnnotatorNotes T85	lemma = 'or'
+T86	pos_DT 388 392	that
+#86	AnnotatorNotes T86	lemma = 'that'
+T87	pos_NNS 393 401	bicycles
+#87	AnnotatorNotes T87	lemma = 'bicycle'
+T88	pos_VBP 402 405	are
+#88	AnnotatorNotes T88	lemma = 'be'
+T89	pos_RB 406 410	much
+#89	AnnotatorNotes T89	lemma = 'much'
+T90	pos_RBR 411 415	more
+#90	AnnotatorNotes T90	lemma = 'many'
+T91	pos_JJ 416 423	popular
+#91	AnnotatorNotes T91	lemma = 'popular'
+T92	pos_IN 424 426	in
+#92	AnnotatorNotes T92	lemma = 'in'
+T93	pos_DT 427 430	the
+#93	AnnotatorNotes T93	lemma = 'the'
+T94	pos_NP 431 445	United Kingdom
+#94	AnnotatorNotes T94	lemma = 'united_kingdom'
+T95	pos_Fc 445 446	,
+#95	AnnotatorNotes T95	lemma = ','
+T96	pos_IN 447 449	so
+#96	AnnotatorNotes T96	lemma = 'so'
+T97	pos_DT 450 453	the
+#97	AnnotatorNotes T97	lemma = 'the'
+T98	pos_NP 454 462	Britains
+#98	AnnotatorNotes T98	lemma = 'britains'
+T99	pos_VBP 463 465	do
+#99	AnnotatorNotes T99	lemma = 'do'
+T100	pos_RB 466 469	not
+#100	AnnotatorNotes T100	lemma = 'not'
+T101	pos_VB 470 473	use
+#101	AnnotatorNotes T101	lemma = 'use'
+T102	pos_NNS 474 478	cars
+#102	AnnotatorNotes T102	lemma = 'car'
+T103	pos_IN 479 481	as
+#103	AnnotatorNotes T103	lemma = 'as'
+T104	pos_RB 482 487	often
+#104	AnnotatorNotes T104	lemma = 'often'
+T105	pos_IN 488 490	as
+#105	AnnotatorNotes T105	lemma = 'as'
+T106	pos_NP 491 500	Americans
+#106	AnnotatorNotes T106	lemma = 'americans'
+T107	pos_Fp 500 501	.
+#107	AnnotatorNotes T107	lemma = '.'
+T108	pos_DT 502 505	The
+#108	AnnotatorNotes T108	lemma = 'the'
+T109	pos_NN 506 511	graph
+#109	AnnotatorNotes T109	lemma = 'graph'
+T110	pos_RB 512 516	also
+#110	AnnotatorNotes T110	lemma = 'also'
+T111	pos_VBZ 517 522	shows
+#111	AnnotatorNotes T111	lemma = 'show'
+T112	pos_DT 523 526	the
+#112	AnnotatorNotes T112	lemma = 'the'
+T113	pos_NNS 527 539	correlations
+#113	AnnotatorNotes T113	lemma = 'correlation'
+T114	pos_IN 540 547	between
+#114	AnnotatorNotes T114	lemma = 'between'
+T115	pos_JJ 548 555	certain
+#115	AnnotatorNotes T115	lemma = 'certain'
+T116	pos_JJ 556 562	social
+#116	AnnotatorNotes T116	lemma = 'social'
+T117	pos_NNS 563 570	classes
+#117	AnnotatorNotes T117	lemma = 'class'
+T118	pos_Fpa 571 572	(
+#118	AnnotatorNotes T118	lemma = '('
+T119	pos_JJS 572 579	poorest
+#119	AnnotatorNotes T119	lemma = 'poor'
+T120	pos_Fc 579 580	,
+#120	AnnotatorNotes T120	lemma = ','
+T121	pos_JJ 581 594	middle-income
+#121	AnnotatorNotes T121	lemma = 'middle-income'
+T122	pos_Fc 594 595	,
+#122	AnnotatorNotes T122	lemma = ','
+T123	pos_JJS 596 603	richest
+#123	AnnotatorNotes T123	lemma = 'rich'
+T124	pos_Fpt 603 604	)
+#124	AnnotatorNotes T124	lemma = ')'
+T125	pos_CC 605 608	and
+#125	AnnotatorNotes T125	lemma = 'and'
+T126	pos_DT 609 612	the
+#126	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 613 623	percentage
+#127	AnnotatorNotes T127	lemma = 'percentage'
+T128	pos_IN 624 626	of
+#128	AnnotatorNotes T128	lemma = 'of'
+T129	pos_NN 627 633	income
+#129	AnnotatorNotes T129	lemma = 'income'
+T130	pos_PRP 634 638	they
+#130	AnnotatorNotes T130	lemma = 'they'
+T131	pos_VBP 639 644	spend
+#131	AnnotatorNotes T131	lemma = 'spend'
+T132	pos_IN 645 647	on
+#132	AnnotatorNotes T132	lemma = 'on'
+T133	pos_NN 648 654	petrol
+#133	AnnotatorNotes T133	lemma = 'petrol'
+T134	pos_Fp 654 655	.
+#134	AnnotatorNotes T134	lemma = '.'
+T135	pos_IN 656 661	While
+#135	AnnotatorNotes T135	lemma = 'while'
+T136	pos_IN 662 664	in
+#136	AnnotatorNotes T136	lemma = 'in'
+T137	pos_DT 665 668	the
+#137	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NP 669 671	UK
+#138	AnnotatorNotes T138	lemma = 'uk'
+T139	pos_DT 672 675	the
+#139	AnnotatorNotes T139	lemma = 'the'
+T140	pos_JJS 676 683	poorest
+#140	AnnotatorNotes T140	lemma = 'poor'
+T141	pos_NN 684 689	class
+#141	AnnotatorNotes T141	lemma = 'class'
+T142	pos_VBZ 690 696	spends
+#142	AnnotatorNotes T142	lemma = 'spend'
+T143	pos_DT 697 700	the
+#143	AnnotatorNotes T143	lemma = 'the'
+T144	pos_JJS 701 706	least
+#144	AnnotatorNotes T144	lemma = 'little'
+T145	pos_Fpa 707 708	(
+#145	AnnotatorNotes T145	lemma = '('
+T146	pos_IN 708 712	from
+#146	AnnotatorNotes T146	lemma = 'from'
+T147	pos_Z 713 716	0,5
+#147	AnnotatorNotes T147	lemma = '0,5'
+T148	pos_TO 717 719	to
+#148	AnnotatorNotes T148	lemma = 'to'
+T149	pos_Zp 720 724	2,5%
+#149	AnnotatorNotes T149	lemma = '2,5/100'
+T150	pos_Fpt 724 725	)
+#150	AnnotatorNotes T150	lemma = ')'
+T151	pos_Fc 721 722	,
+#151	AnnotatorNotes T151	lemma = ','
+T152	pos_IN 727 729	in
+#152	AnnotatorNotes T152	lemma = 'in'
+T153	pos_DT 730 733	the
+#153	AnnotatorNotes T153	lemma = 'the'
+T154	pos_NP 734 737	USA
+#154	AnnotatorNotes T154	lemma = 'usa'
+T155	pos_DT 738 742	this
+#155	AnnotatorNotes T155	lemma = 'this'
+T156	pos_NN 743 748	class
+#156	AnnotatorNotes T156	lemma = 'class'
+T157	pos_VBZ 749 751	is
+#157	AnnotatorNotes T157	lemma = 'be'
+T158	pos_DT 752 755	the
+#158	AnnotatorNotes T158	lemma = 'the'
+T159	pos_NN 756 759	one
+#159	AnnotatorNotes T159	lemma = 'one'
+T160	pos_WDT 760 764	that
+#160	AnnotatorNotes T160	lemma = 'that'
+T161	pos_VBZ 765 771	spends
+#161	AnnotatorNotes T161	lemma = 'spend'
+T162	pos_DT 772 775	the
+#162	AnnotatorNotes T162	lemma = 'the'
+T163	pos_RBS 776 780	most
+#163	AnnotatorNotes T163	lemma = 'many'
+T164	pos_Fpa 781 782	(
+#164	AnnotatorNotes T164	lemma = '('
+T165	pos_RP 782 784	up
+#165	AnnotatorNotes T165	lemma = 'up'
+T166	pos_TO 785 787	to
+#166	AnnotatorNotes T166	lemma = 'to'
+T167	pos_Zp 788 792	5,2%
+#167	AnnotatorNotes T167	lemma = '5,2/100'
+T168	pos_Fpt 792 793	)
+#168	AnnotatorNotes T168	lemma = ')'
+T169	pos_Fp 793 794	.
+#169	AnnotatorNotes T169	lemma = '.'
+T170	pos_DT 795 798	The
+#170	AnnotatorNotes T170	lemma = 'the'
+T171	pos_JJS 799 807	reachest
+#171	AnnotatorNotes T171	lemma = 'reachest'
+T172	pos_NNS 808 814	people
+#172	AnnotatorNotes T172	lemma = 'people'
+T173	pos_IN 815 817	in
+#173	AnnotatorNotes T173	lemma = 'in'
+T174	pos_DT 818 821	the
+#174	AnnotatorNotes T174	lemma = 'the'
+T175	pos_NP 822 825	USA
+#175	AnnotatorNotes T175	lemma = 'usa'
+T176	pos_VBP 826 831	spend
+#176	AnnotatorNotes T176	lemma = 'spend'
+T177	pos_RB 832 836	just
+#177	AnnotatorNotes T177	lemma = 'just'
+T178	pos_RB 837 842	about
+#178	AnnotatorNotes T178	lemma = 'about'
+T179	pos_Zp 843 847	2,5%
+#179	AnnotatorNotes T179	lemma = '2,5/100'
+T180	pos_IN 848 850	of
+#180	AnnotatorNotes T180	lemma = 'of'
+T181	pos_PRP2 851 856	their
+#181	AnnotatorNotes T181	lemma = 'their'
+T182	pos_NN 857 863	income
+#182	AnnotatorNotes T182	lemma = 'income'
+T183	pos_Fc 725 726	,
+#183	AnnotatorNotes T183	lemma = ','
+T184	pos_CC 865 868	but
+#184	AnnotatorNotes T184	lemma = 'but'
+T185	pos_IN 869 871	in
+#185	AnnotatorNotes T185	lemma = 'in'
+T186	pos_DT 872 875	the
+#186	AnnotatorNotes T186	lemma = 'the'
+T187	pos_NP 876 878	UK
+#187	AnnotatorNotes T187	lemma = 'uk'
+T188	pos_DT 879 883	this
+#188	AnnotatorNotes T188	lemma = 'this'
+T189	pos_NN 884 890	number
+#189	AnnotatorNotes T189	lemma = 'number'
+T190	pos_MD 891 894	can
+#190	AnnotatorNotes T190	lemma = 'can'
+T191	pos_VB 895 899	rise
+#191	AnnotatorNotes T191	lemma = 'rise'
+T192	pos_IN 900 904	from
+#192	AnnotatorNotes T192	lemma = 'from'
+T193	pos_Z 905 908	3,4
+#193	AnnotatorNotes T193	lemma = '3,4'
+T194	pos_TO 909 911	to
+#194	AnnotatorNotes T194	lemma = 'to'
+T195	pos_RB 912 918	almost
+#195	AnnotatorNotes T195	lemma = 'almost'
+T196	pos_Zp 919 921	4%
+#196	AnnotatorNotes T196	lemma = '4/100'
+T197	pos_Fpa 922 923	(
+#197	AnnotatorNotes T197	lemma = '('
+T198	pos_RB 923 934	practically
+#198	AnnotatorNotes T198	lemma = 'practically'
+T199	pos_DT 935 938	the
+#199	AnnotatorNotes T199	lemma = 'the'
+T200	pos_JJ 939 943	same
+#200	AnnotatorNotes T200	lemma = 'same'
+T201	pos_NN 944 950	amount
+#201	AnnotatorNotes T201	lemma = 'amount'
+T202	pos_IN 951 955	that
+#202	AnnotatorNotes T202	lemma = 'that'
+T203	pos_JJ 956 968	middle-class
+#203	AnnotatorNotes T203	lemma = 'middle-class'
+T204	pos_NNS 969 975	people
+#204	AnnotatorNotes T204	lemma = 'people'
+T205	pos_VBP 976 981	spend
+#205	AnnotatorNotes T205	lemma = 'spend'
+T206	pos_IN 982 984	in
+#206	AnnotatorNotes T206	lemma = 'in'
+T207	pos_DT 985 988	the
+#207	AnnotatorNotes T207	lemma = 'the'
+T208	pos_NN 989 996	country
+#208	AnnotatorNotes T208	lemma = 'country'
+T209	pos_Fpt 996 997	)
+#209	AnnotatorNotes T209	lemma = ')'
+T210	pos_Fp 997 998	.
+#210	AnnotatorNotes T210	lemma = '.'
+T211	pos_RB 999 1006	However
+#211	AnnotatorNotes T211	lemma = 'however'
+T212	pos_Fc 789 790	,
+#212	AnnotatorNotes T212	lemma = ','
+T213	pos_IN 1008 1010	in
+#213	AnnotatorNotes T213	lemma = 'in'
+T214	pos_DT 1011 1014	the
+#214	AnnotatorNotes T214	lemma = 'the'
+T215	pos_NP 1015 1018	USA
+#215	AnnotatorNotes T215	lemma = 'usa'
+T216	pos_DT 1019 1022	the
+#216	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NN 1023 1029	middle
+#217	AnnotatorNotes T217	lemma = 'middle'
+T218	pos_NN 1030 1035	class
+#218	AnnotatorNotes T218	lemma = 'class'
+T219	pos_VBZ 1036 1042	spends
+#219	AnnotatorNotes T219	lemma = 'spend'
+T220	pos_RP 1043 1045	up
+#220	AnnotatorNotes T220	lemma = 'up'
+T221	pos_TO 1046 1048	to
+#221	AnnotatorNotes T221	lemma = 'to'
+T222	pos_Zp 1049 1051	5%
+#222	AnnotatorNotes T222	lemma = '5/100'
+T223	pos_IN 1052 1054	of
+#223	AnnotatorNotes T223	lemma = 'of'
+T224	pos_PRP2 1055 1060	their
+#224	AnnotatorNotes T224	lemma = 'their'
+T225	pos_NN 1061 1067	income
+#225	AnnotatorNotes T225	lemma = 'income'
+T226	pos_IN 1068 1070	on
+#226	AnnotatorNotes T226	lemma = 'on'
+T227	pos_NN 1071 1077	petrol
+#227	AnnotatorNotes T227	lemma = 'petrol'
+T228	pos_Fp 1077 1078	.
+#228	AnnotatorNotes T228	lemma = '.'
+T229	pos_IN 1079 1084	While
+#229	AnnotatorNotes T229	lemma = 'while'
+T230	pos_DT 1085 1090	those
+#230	AnnotatorNotes T230	lemma = 'those'
+T231	pos_NNS 1091 1103	correlations
+#231	AnnotatorNotes T231	lemma = 'correlation'
+T232	pos_IN 1104 1106	in
+#232	AnnotatorNotes T232	lemma = 'in'
+T233	pos_DT 1107 1110	the
+#233	AnnotatorNotes T233	lemma = 'the'
+T234	pos_NP 1111 1113	US
+#234	AnnotatorNotes T234	lemma = 'us'
+T235	pos_VBP 1114 1118	seem
+#235	AnnotatorNotes T235	lemma = 'seem'
+T236	pos_JJ 1119 1129	reasonable
+#236	AnnotatorNotes T236	lemma = 'reasonable'
+T237	pos_Fc 844 845	,
+#237	AnnotatorNotes T237	lemma = ','
+T238	pos_IN 1131 1133	if
+#238	AnnotatorNotes T238	lemma = 'if'
+T239	pos_PRP 1134 1136	we
+#239	AnnotatorNotes T239	lemma = 'we'
+T240	pos_VBP 1137 1144	imagine
+#240	AnnotatorNotes T240	lemma = 'imagine'
+T241	pos_IN 1145 1149	that
+#241	AnnotatorNotes T241	lemma = 'that'
+T242	pos_DT 1150 1153	the
+#242	AnnotatorNotes T242	lemma = 'the'
+T243	pos_NNS 1154 1158	cars
+#243	AnnotatorNotes T243	lemma = 'car'
+T244	pos_VBP 1159 1162	are
+#244	AnnotatorNotes T244	lemma = 'be'
+T245	pos_RB 1163 1170	equally
+#245	AnnotatorNotes T245	lemma = 'equally'
+T246	pos_JJ 1171 1178	popular
+#246	AnnotatorNotes T246	lemma = 'popular'
+T247	pos_IN 1179 1184	among
+#247	AnnotatorNotes T247	lemma = 'among'
+T248	pos_DT 1185 1188	all
+#248	AnnotatorNotes T248	lemma = 'all'
+T249	pos_JJ 1189 1195	social
+#249	AnnotatorNotes T249	lemma = 'social'
+T250	pos_NNS 1196 1203	classes
+#250	AnnotatorNotes T250	lemma = 'class'
+T251	pos_Fc 863 864	,
+#251	AnnotatorNotes T251	lemma = ','
+T252	pos_DT 1205 1208	the
+#252	AnnotatorNotes T252	lemma = 'the'
+T253	pos_NNS 1209 1221	correlations
+#253	AnnotatorNotes T253	lemma = 'correlation'
+T254	pos_IN 1222 1224	in
+#254	AnnotatorNotes T254	lemma = 'in'
+T255	pos_DT 1225 1228	the
+#255	AnnotatorNotes T255	lemma = 'the'
+T256	pos_NP 1229 1231	UK
+#256	AnnotatorNotes T256	lemma = 'uk'
+T257	pos_VBP 1232 1238	appear
+#257	AnnotatorNotes T257	lemma = 'appear'
+T258	pos_RB 1239 1245	rather
+#258	AnnotatorNotes T258	lemma = 'rather'
+T259	pos_VBG 1246 1256	surprising
+#259	AnnotatorNotes T259	lemma = 'surprise'
+T260	pos_Fp 1256 1257	.
+#260	AnnotatorNotes T260	lemma = '.'
+T261	pos_RB 1258 1263	Maybe
+#261	AnnotatorNotes T261	lemma = 'maybe'
+T262	pos_Fc 1006 1007	,
+#262	AnnotatorNotes T262	lemma = ','
+T263	pos_DT 1265 1268	the
+#263	AnnotatorNotes T263	lemma = 'the'
+T264	pos_NN 1269 1275	reason
+#264	AnnotatorNotes T264	lemma = 'reason'
+T265	pos_IN 1276 1279	for
+#265	AnnotatorNotes T265	lemma = 'for'
+T266	pos_DT 1280 1284	this
+#266	AnnotatorNotes T266	lemma = 'this'
+T267	pos_VBZ 1285 1287	is
+#267	AnnotatorNotes T267	lemma = 'be'
+T268	pos_IN 1288 1292	that
+#268	AnnotatorNotes T268	lemma = 'that'
+T269	pos_NNS 1293 1299	people
+#269	AnnotatorNotes T269	lemma = 'people'
+T270	pos_WP 1300 1303	who
+#270	AnnotatorNotes T270	lemma = 'who'
+T271	pos_MD 1304 1307	can
+#271	AnnotatorNotes T271	lemma = 'can'
+T272	pos_RB 1308 1314	hardly
+#272	AnnotatorNotes T272	lemma = 'hardly'
+T273	pos_VB 1315 1321	afford
+#273	AnnotatorNotes T273	lemma = 'afford'
+T274	pos_DT 1322 1323	a
+#274	AnnotatorNotes T274	lemma = 'a'
+T275	pos_NN 1324 1327	car
+#275	AnnotatorNotes T275	lemma = 'car'
+T276	pos_CC 1328 1330	or
+#276	AnnotatorNotes T276	lemma = 'or'
+T277	pos_DT 1331 1333	an
+#277	AnnotatorNotes T277	lemma = 'a'
+T278	pos_NN 1334 1340	amount
+#278	AnnotatorNotes T278	lemma = 'amount'
+T279	pos_IN 1341 1343	of
+#279	AnnotatorNotes T279	lemma = 'of'
+T280	pos_NN 1344 1350	petrol
+#280	AnnotatorNotes T280	lemma = 'petrol'
+T281	pos_VBN 1351 1357	needed
+#281	AnnotatorNotes T281	lemma = 'need'
+T282	pos_IN 1358 1360	in
+#282	AnnotatorNotes T282	lemma = 'in'
+T283	pos_DT 1361 1364	the
+#283	AnnotatorNotes T283	lemma = 'the'
+T284	pos_NP 1365 1367	UK
+#284	AnnotatorNotes T284	lemma = 'uk'
+T285	pos_VBP 1368 1372	tend
+#285	AnnotatorNotes T285	lemma = 'tend'
+T286	pos_TO 1373 1375	to
+#286	AnnotatorNotes T286	lemma = 'to'
+T287	pos_VB 1376 1379	use
+#287	AnnotatorNotes T287	lemma = 'use'
+T288	pos_JJ 1380 1385	other
+#288	AnnotatorNotes T288	lemma = 'other'
+T289	pos_NNS 1386 1391	kinds
+#289	AnnotatorNotes T289	lemma = 'kind'
+T290	pos_IN 1392 1394	of
+#290	AnnotatorNotes T290	lemma = 'of'
+T291	pos_NN 1395 1404	transport
+#291	AnnotatorNotes T291	lemma = 'transport'
+T292	pos_Fd 1404 1405	:
+#292	AnnotatorNotes T292	lemma = ':'
+T293	pos_NNS 1406 1411	buses
+#293	AnnotatorNotes T293	lemma = 'bus'
+T294	pos_Fc 1129 1130	,
+#294	AnnotatorNotes T294	lemma = ','
+T295	pos_NNS 1413 1421	bicycles
+#295	AnnotatorNotes T295	lemma = 'bicycle'
+T296	pos_Fc 1203 1204	,
+#296	AnnotatorNotes T296	lemma = ','
+T297	pos_RB 1423 1434	underground
+#297	AnnotatorNotes T297	lemma = 'underground'
+T298	pos_Fp 1434 1435	.
+#298	AnnotatorNotes T298	lemma = '.'

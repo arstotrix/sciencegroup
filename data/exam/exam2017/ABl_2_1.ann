@@ -1,0 +1,50 @@
+T1	Absence_explanation 62 74	unemployment
+#1	AnnotatorNotes T1	the unemployment rate
+T2	Category_confusion 50 58	changing
+#2	AnnotatorNotes T2	changes
+T3	Articles 38 74	dynamics of changing in unemployment
+#3	AnnotatorNotes T3	the dynamics of changes in unemployment rate
+T4	Suffix 151 159	Northern
+#4	AnnotatorNotes T4	North 
+T5	Suffix 220 228	Southern
+#5	AnnotatorNotes T5	South 
+T6	lex_item_choice 327 335	explored
+#6	AnnotatorNotes T6	studied
+T8	lex_item_choice 387 392	admit
+#8	AnnotatorNotes T8	note
+T10	Conjunctions 509 516	whether
+#10	AnnotatorNotes T10	while
+T11	Articles 520 534	European Union
+#11	AnnotatorNotes T11	the European Union
+T12	Articles 535 544	indicator
+#12	AnnotatorNotes T12	the indicator
+T14	Word_choice 675 695	the indicator result
+#14	AnnotatorNotes T14	the resulting indicator
+T16	lex_item_choice 720 728	explored
+#16	AnnotatorNotes T16	studied
+T17	lex_item_choice 823 830	explore
+#17	AnnotatorNotes T17	investigated
+T18	Tense_choice 846 848	is
+#18	AnnotatorNotes T18	was 
+T19	Redundant_comp 863 874	tendency in
+T20	Redundant_comp 929 933	only
+A1	Delete T20
+T21	Spelling 646 653	charges
+#20	AnnotatorNotes T21	changes
+T23	Redundant_comp 592 601	change in
+T24	Absence_explanation 602 614	unemployment
+#23	AnnotatorNotes T24	the unemployment rate
+A2	Delete T23
+T13	Suffix 636 645	dynamical
+#9	AnnotatorNotes T13	dynamic
+T25	suggestion 592 601	change in
+A3	Delete T19
+T15	Articles 849 887	an increasing tendency in unemployment
+#13	AnnotatorNotes T15	increasing unemployment
+R1	Dependent_change Arg1:T19 Arg2:T15	
+T26	Tense_choice 926 928	is
+#15	AnnotatorNotes T26	was
+T27	lex_item_choice 492 507	explored period
+#19	AnnotatorNotes T27	examination
+T7	note 954 955	.
+#7	AnnotatorNotes T7	ABl

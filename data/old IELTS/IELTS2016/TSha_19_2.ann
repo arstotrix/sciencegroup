@@ -1,0 +1,110 @@
+T1	lex_item_choice 60 67	include
+#1	AnnotatorNotes T1	accept 
+T2	Suffix 130 137	elitary
+#2	AnnotatorNotes T2	elitist
+T3	Category_confusion 120 125	close
+#3	AnnotatorNotes T3	closed
+A1	Cause T2 L1_interference
+T4	Voice 201 214	is fluctuated
+#4	AnnotatorNotes T4	fluctuates
+T6	Spelling 175 182	numbler
+#6	AnnotatorNotes T6	number
+T7	Spelling 394 401	requare
+#7	AnnotatorNotes T7	require
+T8	lex_item_choice 416 426	conditions
+#8	AnnotatorNotes T8	abilities
+T9	Category_confusion 464 472	politely
+#9	AnnotatorNotes T9	politeness
+T11	note 605 615	medsisters
+#11	AnnotatorNotes T11	такое ощущение, что в России нет понятия гендерной нейтральности и забывают про существование слова "медбрат"
+T12	lex_item_choice 605 615	medsisters
+#12	AnnotatorNotes T12	care workers
+T14	Noun_number 636 647	policewoman
+#14	AnnotatorNotes T14	policewomen
+T15	Noun_number 652 657	woman
+#15	AnnotatorNotes T15	women
+T17	Spelling 675 684	millitary
+#17	AnnotatorNotes T17	military 
+T18	Punctuation 617 621	Also
+#18	AnnotatorNotes T18	Also,
+T19	lex_item_choice 707 718	visiting of
+#19	AnnotatorNotes T19	whether or not to attend
+T20	Spelling 785 790	qwote
+#20	AnnotatorNotes T20	quota
+T23	Spelling 883 889	theese
+#23	AnnotatorNotes T23	these
+T24	Noun_number 860 873	opportunities
+#24	AnnotatorNotes T24	an opportunity
+T25	Spelling 900 907	becouse
+#25	AnnotatorNotes T25	because
+T26	Voice 924 932	be ended
+#26	AnnotatorNotes T26	end
+T28	Spelling 1157 1168	connclusion
+#28	AnnotatorNotes T28	conclusion
+T30	Spelling 1240 1247	studend
+#29	AnnotatorNotes T30	student
+T31	lex_item_choice 1266 1275	goverment
+#31	AnnotatorNotes T31	authorities
+T32	Articles 1406 1417	opportunity
+#32	AnnotatorNotes T32	an opportunity
+T34	lex_item_choice 1479 1487	dividing
+#33	AnnotatorNotes T34	solution
+T35	Word_order 1493 1510	have not benefits
+#34	AnnotatorNotes T35	not give benefits
+T39	lex_item_choice 774 780	create
+#38	AnnotatorNotes T39	establish
+T44	Linking_device 1397 1417	there is opportunity
+#42	AnnotatorNotes T44	which give an opportunity
+T38	Noun_number 719 727	subjects
+#37	AnnotatorNotes T38	a class
+T21	Punctuation 145 148	and
+#10	AnnotatorNotes T21	, and
+T5	Suffix 288 294	places
+#5	AnnotatorNotes T5	placements
+T45	Defining 386 393	, which
+A2	Cause T45 Absence_of_Category_in_L1
+#21	AnnotatorNotes T45	which
+T48	Often_confused 427 430	and
+#30	AnnotatorNotes T48	or
+T49	Punctuation 459 463	like
+#39	AnnotatorNotes T49	, like
+T13	Defining 657 662	, who
+#13	AnnotatorNotes T13	who
+T50	Coherence 630 635	a few
+#16	AnnotatorNotes T50	few
+T51	Articles 703 706	the
+A3	Delete T51
+T52	lex_item_choice 719 727	subjects
+#40	AnnotatorNotes T52	a class
+T55	Linking_device 707 718	visiting of
+#43	AnnotatorNotes T55	whether or not to attend
+T36	Prepositions 791 793	of
+#35	AnnotatorNotes T36	for
+T22	Word_choice 794 803	number of
+#22	AnnotatorNotes T22	accepting
+T43	lex_item_choice 913 919	places
+#36	AnnotatorNotes T43	placements
+T27	lex_item_choice 1088 1091	get
+#27	AnnotatorNotes T27	give
+T57	Prepositions 1120 1122	by
+#44	AnnotatorNotes T57	to
+R1	Dependent_change Arg1:T27 Arg2:T57	
+T58	Articles 1195 1198	the
+T60	Word_choice 1287 1297	prevent it
+#45	AnnotatorNotes T60	interfere with this choice
+T42	Prepositions 1297 1298	,
+#41	AnnotatorNotes T42	by
+T62	lex_item_choice 1326 1342	lecture visitors
+#46	AnnotatorNotes T62	students
+T33	Prepositions 1427 1430	for
+#47	AnnotatorNotes T33	among
+T65	lex_item_choice 1493 1497	have
+#48	AnnotatorNotes T65	give
+T66	lex_item_choice 476 500	keeping calm constantly.
+#49	AnnotatorNotes T66	composure
+T67	lex_item_choice 728 742	is a choice of
+#50	AnnotatorNotes T67	is up to
+T68	lex_item_choice 927 932	ended
+#51	AnnotatorNotes T68	occupied
+T69	Discourse 1195 1233	the getting education is the choice of
+#52	AnnotatorNotes T69	whether to get education or not is up to

@@ -1,0 +1,80 @@
+T1	Tense_choice 60 73	have accepted
+#1	AnnotatorNotes T1	accepted
+T2	Spelling 228 238	separaited
+#2	AnnotatorNotes T2	separate
+T3	Spelling 358 371	controvercial
+#3	AnnotatorNotes T3	controversial
+T6	Spelling 1181 1191	proffesion
+#6	AnnotatorNotes T6	profession 
+T7	Spelling 1390 1399	physicall
+#7	AnnotatorNotes T7	physical
+T8	Spelling 1486 1490	thry
+#8	AnnotatorNotes T8	they
+T9	Noun_number 1620 1625	point
+#9	AnnotatorNotes T9	points 
+T11	Spelling 2239 2245	choise
+#11	AnnotatorNotes T11	choice
+T12	Spelling 2250 2258	referens
+#12	AnnotatorNotes T12	preferences
+T14	suggestion 2458 2459	.
+#13	AnnotatorNotes T14	Кочнева Полина
+T16	Ref_device 981 990	that fact
+#15	AnnotatorNotes T16	which
+T17	Non_defining 1528 1530	so
+#16	AnnotatorNotes T17	where
+T18	Often_confused 1467 1472	power
+#17	AnnotatorNotes T18	physical strength
+T19	Category_confusion 1512 1516	some
+#18	AnnotatorNotes T19	certain
+T21	Ref_device 1294 1298	that
+#20	AnnotatorNotes T21	it
+T22	Noun_number 74 89	an equal number
+#21	AnnotatorNotes T22	equal numbers
+T23	Confusion_of_structures 199 351	it is better to have clearly separaited students                                                                                         of the same sex
+#22	AnnotatorNotes T23	if it is better to have clearly separate students of the same sex
+T24	lex_item_choice 439 448	acception
+#23	AnnotatorNotes T24	admission
+T4	lex_item_choice 595 601	people
+#4	AnnotatorNotes T4	students
+T15	Category_confusion 885 898	decreasing of
+#14	AnnotatorNotes T15	decreased
+T26	Prepositions 1209 1222	considered as
+#24	AnnotatorNotes T26	considered to be
+T27	Spelling 1361 1372	unnessasary
+T28	Punctuation 1372 1373	,
+A1	Delete T28
+T29	Prepositions 1374 1384	because of
+#25	AnnotatorNotes T29	for
+T30	Absence_comp_sent 1312 1329	the equal numbers
+#26	AnnotatorNotes T30	accepting equal numbers
+T31	Spelling 1424 1431	can not
+#27	AnnotatorNotes T31	cannot
+T32	Punctuation 1442 1448	, that
+#28	AnnotatorNotes T32	that
+T33	lex_item_choice 1506 1511	go to
+#29	AnnotatorNotes T33	choose
+T34	Modals 1491 1505	do not need to
+#30	AnnotatorNotes T34	should not
+T35	lex_item_choice 1569 1579	facilities
+#31	AnnotatorNotes T35	features
+T36	Absence_explanation 1595 1600	allow
+#32	AnnotatorNotes T36	allow them
+T37	Pronouns 1746 1748	it
+#33	AnnotatorNotes T37	them
+T38	Punctuation 2123 2124	,
+A2	Delete T38
+T39	Absence_comp_sent 2120 2123	say
+#34	AnnotatorNotes T39	say that
+T40	Spelling 2136 2141	chose
+#35	AnnotatorNotes T40	choose
+T41	Noun_number 2334 2340	number
+#36	AnnotatorNotes T41	numbers
+T42	Agreement_errors 2359 2361	is
+#37	AnnotatorNotes T42	are
+R1	Dependent_change Arg1:T41 Arg2:T42	
+T13	lex_item_choice 2421 2434	understanding
+#19	AnnotatorNotes T13	perception
+A3	Cause T24 L1_interference
+A4	Cause T18 L1_interference
+T5	Often_confused 1858 1863	adopt
+#5	AnnotatorNotes T5	adapt

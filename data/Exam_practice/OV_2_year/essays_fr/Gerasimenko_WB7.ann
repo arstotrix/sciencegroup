@@ -1,0 +1,29 @@
+T1	suggestion 56 67	has been in
+A1	Delete T1
+T2	Linking_device 35 40	which
+#1	AnnotatorNotes T2	with
+T3	Absence_comp_sent 331 342	43 per cent
+#2	AnnotatorNotes T3	43 per cent of ...
+T4	lex_item_choice 320 330	comprising
+#3	AnnotatorNotes T4	affecting
+T5	Articles 729 739	population
+#4	AnnotatorNotes T5	the population
+T6	Linking_device 756 763	such as
+#5	AnnotatorNotes T6	, namely,
+T7	Noun_number 764 779	a bat and a fox
+#6	AnnotatorNotes T7	bats and foxes
+T8	Articles 888 890	an
+A2	Delete T8
+T9	lex_item_choice 980 990	introduced
+#7	AnnotatorNotes T9	depicted
+T10	lex_item_choice 1083 1093	concerning
+#8	AnnotatorNotes T10	in
+T11	suggestion 1225 1226	.
+#9	AnnotatorNotes T11	WHY NOT COMBINE THE TWO INSECTS IN ONE DESCRIPTION?
+T12	Absence_explanation 1400 1404	most
+#10	AnnotatorNotes T12	the most harmful
+T13	Linking_device 1412 1422	, however,
+A3	Delete T13
+T14	suggestion 1488 1498	decreasing
+#11	AnnotatorNotes T14	decreased
+R1	Dependent_change Arg1:T2 Arg2:T1	

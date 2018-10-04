@@ -1,0 +1,39 @@
+T1	Noun_number 5 13	research
+#1	AnnotatorNotes T1	researches
+T2	Agreement_errors 14 19	shows
+#2	AnnotatorNotes T2	show
+T3	Verb_Inf 128 147	consider experience
+#3	AnnotatorNotes T3	experience to be
+T5	Redundant_comp 294 299	basis
+T6	Punctuation 249 252	but
+#4	AnnotatorNotes T6	, but 
+#6	AnnotatorNotes T5	foundation
+T8	Agreement_errors 500 504	make
+#7	AnnotatorNotes T8	makes
+T10	Noun_number 753 756	way
+#9	AnnotatorNotes T10	ways
+T11	Spelling 908 912	can’
+#10	AnnotatorNotes T11	can't
+R1	Dependent_change Arg1:T1 Arg2:T2	
+T19	lex_item_choice 112 116	have
+#11	AnnotatorNotes T19	get
+T4	Transitive 276 288	influence on
+#12	AnnotatorNotes T4	influence
+T7	lex_item_choice 454 462	studying
+#5	AnnotatorNotes T7	mastering
+T21	Transitive 454 465	studying of
+#13	AnnotatorNotes T21	studying 
+T24	Agreement_errors 466 470	this
+#14	AnnotatorNotes T24	these
+T25	Redundant_comp 520 529	amount of
+A1	Delete T25
+T26	lex_part_choice 512 514	do
+#15	AnnotatorNotes T26	make
+T9	suggestion 677 679	do
+T12	Word_choice 1015 1030	be used without
+#8	AnnotatorNotes T12	help causing
+T13	Word_choice 916 934	somehow applied in
+#16	AnnotatorNotes T13	approved of by
+#17	AnnotatorNotes T9	make
+T14	suggestion 530 537	choises
+#18	AnnotatorNotes T14	choices

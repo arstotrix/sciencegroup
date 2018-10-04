@@ -1,0 +1,180 @@
+T1	Punctuation 702 709	however
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	however,
+T2	Punctuation 1739 1751	First of all
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	First of all,
+T3	Spelling 3441 3456	systemfootnote}
+A7	Cause T3 Typo
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	system footnote
+T6	lex_item_choice 3672 3676	some
+A16	Cause T6 Other
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	certain
+T7	Articles 3885 3892	Example
+A19	Cause T7 Absence_of_Category_in_L1
+A20	Weight-language T7 Minor
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	The example
+T8	Inappropriate_register 3980 4013	I tried to resolve this ambiguity
+A22	Cause T8 Other
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Critical
+#8	AnnotatorNotes T8	an attempt to resolve this ambiguity is made
+T9	Inappropriate_register 4123 4129	he/she
+A25	Cause T9 Other
+A26	Weight-language T9 Critical
+A27	Weight-understanding T9 Critical
+#9	AnnotatorNotes T9	one
+T10	Inappropriate_register 4144 4148	some
+A28	Cause T10 Other
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Critical
+#10	AnnotatorNotes T10	a number of
+T11	Punctuation 4394 4409	For this reason
+A31	Cause T11 Other
+A32	Weight-language T11 Minor
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	For this reason,
+T12	Inappropriate_register 6083 6100	keep them in mind
+A34	Cause T12 Other
+A35	Weight-language T12 Critical
+A36	Weight-understanding T12 Critical
+#12	AnnotatorNotes T12	take them into account
+T13	Inappropriate_register 6561 6580	put the prefix back
+A37	Cause T13 Other
+A38	Weight-language T13 Critical
+A39	Weight-understanding T13 Critical
+#13	AnnotatorNotes T13	return the prefix
+T14	Inappropriate_register 6836 6841	enemy
+A40	Cause T14 Other
+A41	Weight-language T14 Critical
+A42	Weight-understanding T14 Critical
+#14	AnnotatorNotes T14	problem
+T15	lex_item_choice 7594 7601	portion
+A43	Cause T15 Other
+A44	Weight-language T15 Critical
+A45	Weight-understanding T15 Critical
+#15	AnnotatorNotes T15	percentage
+T16	lex_item_choice 7790 7797	portion
+A46	Cause T16 Other
+A47	Weight-language T16 Critical
+A48	Weight-understanding T16 Critical
+#16	AnnotatorNotes T16	percentage
+T17	lex_item_choice 8029 8036	portion
+A49	Cause T17 Other
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Critical
+#17	AnnotatorNotes T17	percentage
+T18	Tense_choice 8271 8274	had
+A52	Cause T18 Other
+A53	Weight-language T18 Critical
+A54	Weight-understanding T18 Minor
+#18	AnnotatorNotes T18	has
+T19	Tense_choice 8400 8416	I randomly chose
+A55	Cause T19 Other
+A56	Weight-language T19 Critical
+A57	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	have randomly chosen
+T20	Tense_choice 8503 8512	I counted
+A58	Cause T20 Other
+A59	Weight-language T20 Critical
+A60	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	have chosen
+T21	lex_part_choice 8641 8646	these
+A61	Cause T21 Other
+A62	Weight-language T21 Critical
+A63	Weight-understanding T21 Minor
+#21	AnnotatorNotes T21	the
+T22	Tense_choice 9429 9440	I extracted
+A64	Cause T22 Other
+A65	Weight-language T22 Critical
+A66	Weight-understanding T22 Minor
+#22	AnnotatorNotes T22	I have extracted
+T23	Inappropriate_register 10960 11033	The problem is: how do we teach a machine to decide which tags are wrong?
+A67	Cause T23 Other
+A68	Weight-language T23 Critical
+A69	Weight-understanding T23 Minor
+#23	AnnotatorNotes T23	The problem is in teaching a machine to decide which tags are wrong
+T24	Articles 11255 11257	an
+A70	Cause T24 Other
+A71	Weight-language T24 Minor
+A72	Weight-understanding T24 Minor
+#24	AnnotatorNotes T24	a
+T25	Redundant 11303 11307	with
+A73	Cause T25 Other
+A74	Weight-language T25 Critical
+A75	Weight-understanding T25 Critical
+T26	Standard 11429 11450	automatically extract
+A76	Cause T26 L1_interference
+A77	Weight-language T26 Critical
+A78	Weight-understanding T26 Minor
+#25	AnnotatorNotes T26	extract automatically
+T27	lex_item_choice 11992 12001	looks for
+A79	Cause T27 Other
+A80	Weight-language T27 Critical
+A81	Weight-understanding T27 Minor
+#26	AnnotatorNotes T27	searches
+T28	Absence_comp_colloc 12028 12037	such word
+A82	Cause T28 Absence_of_Category_in_L1
+A83	Weight-language T28 Critical
+A84	Weight-understanding T28 Minor
+#27	AnnotatorNotes T28	such a word
+T29	Tense_choice 12121 12134	would consult
+A85	Cause T29 Other
+A86	Weight-language T29 Critical
+A87	Weight-understanding T29 Minor
+#28	AnnotatorNotes T29	consults
+T30	Spelling 12599 12603	here
+A88	Cause T30 Typo
+A89	Weight-language T30 Minor
+A90	Weight-understanding T30 Minor
+#29	AnnotatorNotes T30	there
+T31	Inappropriate_register 13503 13531	New texts then are processed
+A91	Cause T31 Other
+A92	Weight-language T31 Critical
+A93	Weight-understanding T31 Minor
+#30	AnnotatorNotes T31	Further, new texts are processed
+T32	Inappropriate_register 13856 13860	some
+A94	Cause T32 Other
+A95	Weight-language T32 Critical
+A96	Weight-understanding T32 Minor
+#31	AnnotatorNotes T32	a certain
+T33	Punctuation 17198 17225	To avoid zero probabilities
+A97	Cause T33 Other
+A98	Weight-language T33 Minor
+A99	Weight-understanding T33 Minor
+#32	AnnotatorNotes T33	To avoid zero probabilities,
+T34	Inappropriate_register 17333 17337	very
+A100	Cause T34 Other
+A101	Weight-language T34 Critical
+A102	Weight-understanding T34 Minor
+#33	AnnotatorNotes T34	extremely
+T35	Punctuation 17416 17417	,
+A103	Cause T35 Other
+A104	Weight-language T35 Minor
+A105	Weight-understanding T35 Minor
+T36	Inappropriate_register 17727 17739	I should try
+T37	lex_item_choice 17841 17847	needed
+A106	Cause T37 Other
+A107	Weight-language T37 Critical
+A108	Weight-understanding T37 Minor
+#34	AnnotatorNotes T37	necessary
+T4	Punctuation 20376 20379	and
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	, and
+T5	Pronouns 20543 20547	this
+A13	Cause T5 Other
+A14	Weight-language T5 Critical
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	these
+A109	Delete T35

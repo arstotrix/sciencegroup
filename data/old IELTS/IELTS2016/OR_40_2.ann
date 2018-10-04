@@ -1,0 +1,69 @@
+T1	Spelling 20 26	preven
+#1	AnnotatorNotes T1	proven
+T2	Spelling 225 229	them
+#2	AnnotatorNotes T2	theme
+T3	Absence_comp_sent 220 229	This them
+#3	AnnotatorNotes T3	This theme is
+T4	Category_confusion 235 244	actuality
+#4	AnnotatorNotes T4	actual
+T5	Absence_comp_sent 258 268	air travel
+#5	AnnotatorNotes T5	air travel is
+T6	Prepositions 282 284	of
+#6	AnnotatorNotes T6	among
+T7	Capitalisation 326 332	Worlds
+#7	AnnotatorNotes T7	world
+T8	Noun_number 326 332	Worlds
+#8	AnnotatorNotes T8	world
+T9	Punctuation 309 310	,
+A1	Delete T9
+T10	Absence_comp_sent 700 717	your problems not
+#9	AnnotatorNotes T10	your problems are not
+T11	Noun_number 730 736	worlds
+#10	AnnotatorNotes T11	the world
+T12	Noun_attribute 655 669	Problems world
+#11	AnnotatorNotes T12	World problems
+T13	Ref_device 670 677	this is
+#12	AnnotatorNotes T13	are
+T14	Word_choice 678 681	and
+#13	AnnotatorNotes T14	too
+T15	Ref_device 575 579	what
+#14	AnnotatorNotes T15	that
+T16	Absence_comp_sent 580 603	this answer very stupid
+#15	AnnotatorNotes T16	this answer is very stupid
+T17	Confusion_of_structures 638 653	world – this we
+#16	AnnotatorNotes T17	the world is about us
+T18	Punctuation 632 633	,
+A2	Delete T18
+T19	Tense_form 368 379	We not save
+#17	AnnotatorNotes T19	We do not save
+T20	lex_item_choice 375 379	save
+#18	AnnotatorNotes T20	take care of
+T21	Spelling 387 389	an
+#19	AnnotatorNotes T21	and
+T22	Tense_form 394 400	is die
+#20	AnnotatorNotes T22	is dying
+T23	lex_item_choice 413 419	vision
+A3	Cause T23 L1_interference
+#21	AnnotatorNotes T23	see
+T24	Negation 409 412	not
+#22	AnnotatorNotes T24	do not
+T25	Tense_form 429 439	not stoped
+#23	AnnotatorNotes T25	do not stop
+T26	Category_confusion 440 454	in the killing
+#24	AnnotatorNotes T26	killing
+T27	Confusion_of_structures 472 498	Air – this one part nature
+#25	AnnotatorNotes T27	Air is one part of the nature
+T28	Agreement_errors 504 508	help
+#26	AnnotatorNotes T28	helps
+T29	Category_confusion 516 520	life
+#27	AnnotatorNotes T29	live
+T30	Redundant 542 543	a
+A4	Delete T30
+T31	lex_item_choice 556 560	self
+#28	AnnotatorNotes T31	their own
+T32	Redundant 333 335	it
+A5	Delete T32
+T33	Determiners 339 352	major problem
+#29	AnnotatorNotes T33	a major problem
+T34	Prepositions 339 366	major problem modern people
+#30	AnnotatorNotes T34	a major problem of modern people

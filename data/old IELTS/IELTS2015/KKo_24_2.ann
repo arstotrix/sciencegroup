@@ -1,0 +1,44 @@
+T3	Articles 403 429	a unpaid community service
+#3	AnnotatorNotes T3	unpaid community service
+T4	Absence_explanation 501 506	other
+#4	AnnotatorNotes T4	meeting some other needs
+T6	Suffix 953 964	benefitable
+#6	AnnotatorNotes T6	beneficial
+T8	Ref_device 1207 1212	these
+#8	AnnotatorNotes T8	the following
+T9	Redundant 1214 1226	by the first
+#9	AnnotatorNotes T9	first
+T10	Redundant 1407 1420	By the second
+#10	AnnotatorNotes T10	Second
+T11	Conjunctions 1463 1467	fact
+#11	AnnotatorNotes T11	fact that
+T12	Articles 1638 1653	compulsory part
+#12	AnnotatorNotes T12	a compulsory part
+T14	Spelling 205 209	lows
+#14	AnnotatorNotes T14	laws
+T16	Articles 351 367	compulsory parts
+#16	AnnotatorNotes T16	the compulsory parts
+A6	Delete T3
+T17	Spelling 546 547	s
+#17	AnnotatorNotes T17	a
+T18	Articles 530 542	such project
+#18	AnnotatorNotes T18	such a project
+T19	Non_defining 640 680	which will help them during their lives,
+#19	AnnotatorNotes T19	,which will help them during their lives,
+T22	Redundant_comp 1357 1365	to spend
+T1	Articles 165 188	the education standards
+#1	AnnotatorNotes T1	education standards
+T2	Category_confusion 169 178	education
+#2	AnnotatorNotes T2	educational
+T15	Punctuation 304 305	,
+#15	AnnotatorNotes T15	.
+T26	Absence_comp_sent 501 506	other
+#24	AnnotatorNotes T26	meeting some other needs
+T27	Conjunctions 497 500	and
+#25	AnnotatorNotes T27	or
+T28	Articles 681 694	an experience
+#26	AnnotatorNotes T28	experience
+A1	Delete T22
+T5	Capitalisation 306 309	for
+#5	AnnotatorNotes T5	For
+R1	Dependent_change Arg1:T15 Arg2:T5	

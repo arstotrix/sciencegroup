@@ -1,0 +1,60 @@
+T1	Spelling 119 120	n
+T4	Articles 139 142	USA
+#1	AnnotatorNotes T4	the USA
+T5	Ref_device 162 167	their
+#2	AnnotatorNotes T5	its
+T6	Punctuation 1026 1034	Moreover
+#3	AnnotatorNotes T6	Moreover,
+T7	Agreement_errors 971 975	help
+#4	AnnotatorNotes T7	helps
+T2	Articles 860 870	proportion
+#6	AnnotatorNotes T2	the proportion
+T9	Dative 759 770	gives to us
+#7	AnnotatorNotes T9	gives us
+T10	Articles 672 675	USA
+#8	AnnotatorNotes T10	the USA
+T11	Articles 695 705	proportion
+#9	AnnotatorNotes T11	the proportion
+T12	Articles 253 263	sharp line
+#10	AnnotatorNotes T12	a sharp line
+#12	AnnotatorNotes T1	in
+T14	Word_order 515 532	shockly increases
+#13	AnnotatorNotes T14	has increased shockly
+T15	Tense_choice 515 532	shockly increases
+#14	AnnotatorNotes T15	has increased shockly
+T16	Tense_choice 480 492	have changed
+#15	AnnotatorNotes T16	has been changing
+T17	Agreement_errors 1062 1070	decrease
+#16	AnnotatorNotes T17	decreases
+T20	Articles 874 884	population
+#19	AnnotatorNotes T20	the population
+T3	Redundant_comp 915 920	years
+A1	Delete T3
+T21	Punctuation 800 802	So
+#20	AnnotatorNotes T21	So,
+T22	Prepositions 826 828	of
+A2	Delete T22
+T23	Prepositions 94 101	between
+T24	Tense_form 720 724	rise
+T25	Absence_comp_sent 307 383	The most amount of changes connected with proportion of population in Sweden
+#21	AnnotatorNotes T25	The most significant number of changes connected with the proportion of population is in Sweden
+T26	Articles 349 359	proportion
+#22	AnnotatorNotes T26	the proportion
+T27	lex_item_choice 316 322	amount
+#23	AnnotatorNotes T27	number
+#24	AnnotatorNotes T23	over
+#25	AnnotatorNotes T24	rises
+T28	lex_item_choice 731 736	temps
+#26	AnnotatorNotes T28	the pace
+T29	Agreement_errors 737 740	are
+#27	AnnotatorNotes T29	is
+R1	Dependent_change Arg1:T28 Arg2:T29	
+T18	Coherence 102 112	1 thousand
+#17	AnnotatorNotes T18	a hundred
+T19	lex_item_choice 270 282	"belongs" to
+#18	AnnotatorNotes T19	characterizes
+T30	Articles 283 286	USA
+#28	AnnotatorNotes T30	the USA
+T31	Absence_explanation 299 305	steady
+#29	AnnotatorNotes T31	steadily rising
+A3	Cause T19 L1_interference

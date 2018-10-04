@@ -1,0 +1,31 @@
+T2	Spelling 201 207	plains
+#1	AnnotatorNotes T2	planes
+T3	lex_item_choice 289 297	the main
+#2	AnnotatorNotes T3	important
+T4	Word_order 318 353	because time is money for companies
+#3	AnnotatorNotes T4	 because for companies time is money
+T1	Spelling 677 683	enerjy
+#4	AnnotatorNotes T1	energy
+T5	lex_item_choice 767 780	than it burns
+#5	AnnotatorNotes T5	which is burning by it
+T6	Comparative_adj 853 863	more clear
+#6	AnnotatorNotes T6	clearer
+T7	Comparative_adj 868 873	fresh
+#7	AnnotatorNotes T7	fresher
+T8	lex_item_choice 921 927	To add
+#8	AnnotatorNotes T8	In addition
+T9	Spelling 984 990	plains
+#9	AnnotatorNotes T9	planes
+R1	Parallel_construction Arg1:T2 Arg2:T9	
+R2	Parallel_construction Arg1:T6 Arg2:T7	
+T10	Voice 992 999	is make
+#10	AnnotatorNotes T10	makes
+T11	Spelling 1231 1237	imagen
+#11	AnnotatorNotes T11	imagine
+T12	Spelling 1303 1309	plains
+#12	AnnotatorNotes T12	planes
+R3	Parallel_construction Arg1:T9 Arg2:T12	
+T13	Spelling 1380 1386	privat
+#13	AnnotatorNotes T13	private
+T14	Redundant_comp 1441 1465	developing and developed
+#14	AnnotatorNotes T14	all

@@ -1,0 +1,26 @@
+T1	Category_confusion 831 841	developing
+#1	AnnotatorNotes T1	development
+T2	Verb_Inf_Gerund 947 954	to work
+#2	AnnotatorNotes T2	working
+T3	Category_confusion 1231 1241	developing
+#3	AnnotatorNotes T3	development
+T4	Agreement_errors 1693 1697	help
+#4	AnnotatorNotes T4	helps
+T5	Agreement_errors 1690 1692	it
+R1	Dependent_change Arg1:T5 Arg2:T4	
+T6	Spelling 1857 1862	lavel
+#5	AnnotatorNotes T6	level
+T7	Category_confusion 476 484	economic
+#6	AnnotatorNotes T7	economy
+T8	Articles 831 841	developing
+#7	AnnotatorNotes T8	the development
+T9	Articles 1231 1241	developing
+#8	AnnotatorNotes T9	the development
+T10	Punctuation 1570 1580	Personally
+#9	AnnotatorNotes T10	Personally,
+T11	Modals 1791 1796	would
+#10	AnnotatorNotes T11	will
+T12	Modals 1824 1829	would
+#11	AnnotatorNotes T12	will
+T13	Category_confusion 1893 1902	economics
+#12	AnnotatorNotes T13	economy

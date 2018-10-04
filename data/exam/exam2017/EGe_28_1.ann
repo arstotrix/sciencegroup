@@ -1,0 +1,24 @@
+T1	lex_item_choice 97 104	America
+#1	AnnotatorNotes T1	USA
+T2	Standard 152 174	it can clearly be seen
+#2	AnnotatorNotes T2	it can be clearly seen
+T3	Tense_choice 343 350	reached
+#3	AnnotatorNotes T3	reaches
+T4	Spelling 401 409	Linkedin
+#4	AnnotatorNotes T4	LinkedIn
+T5	Agreement_errors 410 413	are
+#5	AnnotatorNotes T5	is
+T6	Agreement_errors 368 374	number
+R1	Dependent_change Arg1:T5 Arg2:T6	
+T7	Prepositions 487 489	of
+#6	AnnotatorNotes T7	in
+T8	Spelling 535 543	expremly
+#7	AnnotatorNotes T8	extremly
+T9	Spelling 560 566	eldery
+#8	AnnotatorNotes T9	elderly
+T10	Noun_number 702 707	cents
+#9	AnnotatorNotes T10	cent
+T11	Prepositions 779 798	all age cathegories
+#10	AnnotatorNotes T11	of all age cathegories
+T12	note 825 826	k
+#11	AnnotatorNotes T12	Zavyalov

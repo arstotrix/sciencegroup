@@ -1,0 +1,130 @@
+T1	Transitive 68 81	provides with
+T2	Articles 206 209	job
+T3	Articles 278 281	job
+T4	Participial_constr 356 358	on
+T5	Often_confused 422 426	like
+T7	Category_confusion 512 521	annoyance
+T8	Articles 527 536	ideal job
+T9	Punctuation 521 526	; and
+T10	Linking_device 567 582	instead of that
+T11	Linking_device 523 526	and
+T13	Redundant_comp 907 912	about
+T14	lex_item_choice 1049 1056	working
+T15	Articles 1063 1069	reward
+T16	Punctuation 1208 1225	and consequently,
+T17	Prefix 1420 1431	unsatisfied
+T19	Linking_device 1397 1400	and
+T20	Often_confused 1446 1447	,
+T21	lex_item_choice 1459 1463	says
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	provides
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	a job
+A7	Cause T3 Absence_of_Category_in_L1
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	a job
+T22	Tense_form 336 341	spent
+A10	Cause T22 Other
+A11	Weight-language T22 Major
+A12	Weight-understanding T22 Minor
+#4	AnnotatorNotes T22	spend
+A13	Cause T4 L1_interference
+A14	Weight-language T4 Minor
+A15	Weight-understanding T4 Minor
+#5	AnnotatorNotes T4	doing
+T23	Articles 446 449	the
+A16	Cause T23 Absence_of_Category_in_L1
+A17	Weight-language T23 Major
+A18	Weight-understanding T23 Minor
+A19	Delete T23
+A20	Cause T5 Other
+A21	Weight-language T5 Major
+A22	Weight-understanding T5 Minor
+#6	AnnotatorNotes T5	as
+A23	Cause T10 Other
+A24	Weight-language T10 Minor
+A25	Weight-understanding T10 Minor
+A26	Delete T10
+A27	Cause T7 L1_interference
+A28	Weight-language T7 Minor
+A29	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	annoyed
+A30	Cause T11 Other
+A31	Weight-language T11 Major
+A32	Weight-understanding T11 Minor
+#8	AnnotatorNotes T11	, whereas
+A33	Cause T9 Other
+A34	Weight-language T9 Minor
+A35	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	, whereas
+A36	Cause T8 Absence_of_Category_in_L1
+A37	Weight-language T8 Major
+A38	Weight-understanding T8 Minor
+#10	AnnotatorNotes T8	an ideal job
+T24	Prepositions 621 625	from
+A39	Cause T24 L1_interference
+A40	Weight-language T24 Major
+A41	Weight-understanding T24 Minor
+#11	AnnotatorNotes T24	with
+T12	Participial_constr 890 906	and not to think
+A42	Cause T12 Other
+A43	Weight-language T12 Major
+A44	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	without thinking
+A45	Cause T13 Other
+A46	Weight-language T13 Major
+A47	Weight-understanding T13 Minor
+A48	Delete T13
+A49	Cause T14 Other
+A50	Weight-language T14 Minor
+A51	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	professional
+A52	Cause T15 Absence_of_Category_in_L1
+A53	Weight-language T15 Minor
+A54	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	a reward
+T26	Often_confused 1163 1167	work
+A55	Cause T26 Other
+A56	Weight-language T26 Minor
+A57	Weight-understanding T26 Minor
+#16	AnnotatorNotes T26	job
+T27	Articles 1190 1193	the
+A58	Cause T27 Absence_of_Category_in_L1
+A59	Weight-language T27 Major
+A60	Weight-understanding T27 Minor
+A61	Delete T27
+T28	lex_item_choice 1194 1207	career growth
+A62	Cause T28 L1_interference
+A63	Weight-language T28 Minor
+A64	Weight-understanding T28 Minor
+#17	AnnotatorNotes T28	promotion
+A65	Cause T16 Other
+A66	Weight-language T16 Minor
+A67	Weight-understanding T16 Minor
+#18	AnnotatorNotes T16	and consequently
+A68	Cause T19 Other
+A69	Weight-language T19 Minor
+A70	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	but
+A71	Cause T17 Other
+A72	Weight-language T17 Minor
+A73	Weight-understanding T17 Minor
+#20	AnnotatorNotes T17	dissatisfied
+A74	Cause T20 Other
+A75	Weight-language T20 Minor
+A76	Weight-understanding T20 Minor
+#21	AnnotatorNotes T20	job
+T29	Articles 1451 1458	proverb
+A77	Cause T29 Absence_of_Category_in_L1
+A78	Weight-language T29 Major
+A79	Weight-understanding T29 Minor
+#22	AnnotatorNotes T29	a proverb
+A80	Cause T21 L1_interference
+A81	Weight-language T21 Minor
+A82	Weight-understanding T21 Minor
+#23	AnnotatorNotes T21	goes

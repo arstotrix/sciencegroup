@@ -1,0 +1,54 @@
+T1	Tense_form 31 33	be
+#1	AnnotatorNotes T1	'to be'
+T2	Adjectives 34 40	health
+#2	AnnotatorNotes T2	'healthy'
+T3	Absence_comp_sent 67 71	view
+#3	AnnotatorNotes T3	'views of how...'
+T4	suggestion 239 241	an
+A1	Delete T4
+T5	Word_choice 252 256	part
+A2	Delete T5
+T6	Prepositions 257 263	in the
+#4	AnnotatorNotes T6	'for'
+T7	Adjectives 291 297	energy
+#5	AnnotatorNotes T7	'energetic'
+T8	Spelling 325 329	mein
+#6	AnnotatorNotes T8	'main'
+T9	Determiners 403 415	Every people
+#7	AnnotatorNotes T9	'all people'
+T10	Spelling 431 435	fust
+#8	AnnotatorNotes T10	'fast'
+T11	Redundant_comp 482 483	a
+A3	Delete T11
+T12	Category_confusion 616 622	health
+#9	AnnotatorNotes T12	'healthy'
+T13	Spelling 628 632	Yoja
+#10	AnnotatorNotes T13	'yoga'
+T14	Prepositions 664 666	in
+#11	AnnotatorNotes T14	'at'
+T15	Agreement_errors 832 836	help
+#12	AnnotatorNotes T15	'helps'
+T16	Spelling 840 846	famaly
+#13	AnnotatorNotes T16	'family'
+T17	Tense_form 847 849	be
+#14	AnnotatorNotes T17	'to be'
+T18	Spelling 850 854	okey
+#15	AnnotatorNotes T18	'okay'
+T19	Spelling 877 880	edd
+#16	AnnotatorNotes T19	'add'
+T20	suggestion 896 898	of
+A4	Delete T20
+T21	Coherence 1008 1011	and
+#17	AnnotatorNotes T21	'also'
+T22	Punctuation 1064 1065	,
+A5	Delete T22
+T23	Absence_comp_sent 1074 1078	will
+#18	AnnotatorNotes T23	people
+T24	Category_confusion 1079 1085	health
+#19	AnnotatorNotes T24	'healthy'
+T25	Category_confusion 1090 1096	energy
+#20	AnnotatorNotes T25	'energetic'
+T26	Standard 1008 1022	and goverments
+#21	AnnotatorNotes T26	governments also
+T27	Verb_Inf 1069 1078	help will
+#22	AnnotatorNotes T27	help people to be

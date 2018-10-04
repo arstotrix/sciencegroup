@@ -1,0 +1,40 @@
+T1	lex_item_choice 411 421	unrenuable
+T2	Spelling 250 259	airplants
+#1	AnnotatorNotes T2	airplanes
+T3	Spelling 347 354	airplan
+#2	AnnotatorNotes T3	airplane
+T4	lex_item_choice 399 402	oil
+#3	AnnotatorNotes T4	petrol
+#4	AnnotatorNotes T1	non renewable
+T5	Spelling 25 33	airplans
+#5	AnnotatorNotes T5	airplanes
+T6	Articles 50 57	the air
+#6	AnnotatorNotes T6	air
+R1	Parallel_construction Arg1:T5 Arg2:T3	
+T7	Standard 490 502	often people
+#7	AnnotatorNotes T7	people often
+T8	Spelling 510 518	airplans
+#8	AnnotatorNotes T8	airplanes
+R2	Parallel_construction Arg1:T3 Arg2:T8	
+T9	Participial_constr 526 529	has
+#9	AnnotatorNotes T9	have
+T10	Spelling 686 693	airplan
+#10	AnnotatorNotes T10	airplane
+R3	Parallel_construction Arg1:T8 Arg2:T10	
+T11	lex_item_choice 698 705	flights
+#11	AnnotatorNotes T11	fly
+T12	Spelling 730 734	more
+#12	AnnotatorNotes T12	move
+T13	Absence_comp_sent 939 971	so the air will be polluted much
+#13	AnnotatorNotes T13	so the air will be still polluted much
+T14	Spelling 1008 1016	airplans
+#14	AnnotatorNotes T14	airplanes
+R4	Parallel_construction Arg1:T10 Arg2:T14	
+T15	Superlative_adj 1024 1033	most safe
+#15	AnnotatorNotes T15	safest
+T16	Nouns 1111 1116	crash
+#16	AnnotatorNotes T16	crashes
+T17	Prepositions 1227 1230	for
+#17	AnnotatorNotes T17	to
+T18	Spelling 1365 1370	shoul
+#18	AnnotatorNotes T18	should

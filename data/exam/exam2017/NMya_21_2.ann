@@ -1,0 +1,96 @@
+T1	Spelling 106 113	openess
+#1	AnnotatorNotes T1	openness
+T2	Agreement_errors 121 123	is
+#2	AnnotatorNotes T2	are
+T3	Punctuation 182 195	In my opinion
+#3	AnnotatorNotes T3	In my opinion,
+T4	Capitalisation 277 285	internet
+#4	AnnotatorNotes T4	the Internet
+T5	Articles 277 285	internet
+#5	AnnotatorNotes T5	the Internet
+T6	Agreement_errors 309 313	tool
+#6	AnnotatorNotes T6	tools
+T7	lex_item_choice 443 454	educational
+#7	AnnotatorNotes T7	educated
+T8	Articles 496 505	the group
+#8	AnnotatorNotes T8	a group
+T9	Tense_choice 486 495	have seen
+#9	AnnotatorNotes T9	saw
+T10	Articles 509 531	popular social network
+#10	AnnotatorNotes T10	a popular social network
+T11	Spelling 559 565	privat
+#11	AnnotatorNotes T11	private
+T12	Articles 559 570	privat club
+#12	AnnotatorNotes T12	a private club
+T13	Modals 632 641	should to
+T14	Redundant_comp 626 631	would
+A1	Delete T14
+T15	lex_item_choice 632 641	should to
+#13	AnnotatorNotes T15	had to
+T16	Spelling 696 701	roade
+#14	AnnotatorNotes T16	road
+T17	Punctuation 617 621	club
+#15	AnnotatorNotes T17	club,
+T18	Redundant_comp 791 792	a
+A2	Delete T18
+T19	Absence_comp_sent 785 790;793 802	if it dangerous
+#16	AnnotatorNotes T19	if their actions can be dangerous
+T20	Ref_device 788 790	it
+T21	Punctuation 802 803	,
+A3	Delete T21
+T22	Redundant_comp 812 814;821 823	be of
+A4	Delete T22
+T23	Absence_explanation 824 835	some crimes
+#17	AnnotatorNotes T23	some crimes to be committed
+T24	Spelling 883 890	barried
+#18	AnnotatorNotes T24	barred
+T25	lex_item_choice 1038 1042	some
+#19	AnnotatorNotes T25	certain
+T26	Noun_number 1043 1047	site
+#20	AnnotatorNotes T26	sites
+T27	Spelling 1074 1085	dificulties
+#21	AnnotatorNotes T27	difficulties
+T28	lex_item_choice 1062 1068	create
+#22	AnnotatorNotes T28	lead to
+T29	Punctuation 1129 1135	better
+#23	AnnotatorNotes T29	better,
+T30	Noun_number 1161 1169	Parent’s
+#24	AnnotatorNotes T30	Parents
+T31	Prepositional_verb 1174 1181	explain
+#25	AnnotatorNotes T31	explain to
+T32	Prepositional_verb 1197 1202	about
+A5	Delete T32
+R1	Dependent_change Arg1:T32 Arg2:T31	
+T33	Prepositional_noun 1207 1224	consequences from
+#26	AnnotatorNotes T33	consequences of
+T34	Articles 1225 1238	harmful trend
+#27	AnnotatorNotes T34	the harmful trend
+T35	Articles 1279 1284	trend
+#28	AnnotatorNotes T35	the trend
+T36	Punctuation 1284 1285	,
+A6	Delete T36
+T37	Linking_device 1286 1342	that young people committed more crimes than ever before
+#29	AnnotatorNotes T37	towards young people's committing more crimes than ever before
+T38	Articles 1346 1348	an
+A7	Delete T38
+T39	Absence_comp_sent 1349 1383	Internet crazy and harmful content
+#30	AnnotatorNotes T39	the amount of crazy and harmful content in the Internet
+T40	Spelling 1426 1438	explaination
+#31	AnnotatorNotes T40	explanation
+T41	Spelling 1487 1495	harmfull
+#32	AnnotatorNotes T41	harmful
+T42	Absence_explanation 1420 1438	is an explaination
+#33	AnnotatorNotes T42	is to provide an explanation
+T43	Often_confused 1445 1450	every
+#34	AnnotatorNotes T43	all the
+T44	Absence_explanation 1401 1419	solve this problem
+#35	AnnotatorNotes T44	solve this problem for parents
+T45	Redundant_comp 1503 1515	from parents
+A8	Delete T45
+R2	Dependent_change Arg1:T45 Arg2:T44	
+T46	Prepositional_noun 1426 1444	explaination about
+#36	AnnotatorNotes T46	explanation of
+T47	Absence_explanation 424 469	harmful, crazy for educational people content
+#37	AnnotatorNotes T47	content that looks crazy and harmful to educated people
+T48	Standard 424 469	harmful, crazy for educational people content
+#38	AnnotatorNotes T48	content that looks crazy and harmful to educated people

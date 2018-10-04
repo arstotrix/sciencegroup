@@ -1,0 +1,99 @@
+T1	Category_confusion 1129 1137	troubled
+#1	AnnotatorNotes T1	troubles
+T2	Articles 1096 1103	the way
+#2	AnnotatorNotes T2	a way
+T3	Comparative_adj 1057 1068	more useful
+#3	AnnotatorNotes T3	is more useful
+T4	Articles 989 994	ideas
+#4	AnnotatorNotes T4	the ideas
+T5	Category_confusion 1001 1007	reduce
+#5	AnnotatorNotes T5	reducing
+T6	Countable_uncountable 1008 1032	the amount of air travel
+#6	AnnotatorNotes T6	the number of air travel
+T7	Absence_comp_sent 931 968	It is really a little chance to goes.
+T8	Often_confused 897 901	view
+A1	Cause T8 L1_interference
+#7	AnnotatorNotes T8	kind
+T9	lex_item_choice 916 923	without
+#8	AnnotatorNotes T9	excluding
+T10	Superlative_adj 881 896	the most safety
+#9	AnnotatorNotes T10	the most safe
+T11	Category_confusion 890 896	safety
+#10	AnnotatorNotes T11	safe
+T12	Articles 858 870	the airplane
+#11	AnnotatorNotes T12	an airplane
+T13	Superlative_adj 735 747	most quickly
+#12	AnnotatorNotes T13	the quickest
+T14	Category_confusion 740 747	quickly
+#13	AnnotatorNotes T14	quickest 
+T15	Articles 717 731	the air travel
+#14	AnnotatorNotes T15	air travel
+T16	suggestion 699 716	In the over hand,
+#15	AnnotatorNotes T16	On the other hand,
+T17	lex_item_choice 706 710	over
+#16	AnnotatorNotes T17	other
+T18	Absence_comp_sent 749 808	The speed of airplane approximately 800 kilometers per hour
+#17	AnnotatorNotes T18	The speed of airplane is approximately 800 kilometers per hour
+T19	Articles 839 852	business trip
+#18	AnnotatorNotes T19	a business trip
+T20	Comparative_adj 612 623	more safety
+#19	AnnotatorNotes T20	safer
+T21	Prepositional_verb 627 642	travel on train
+#20	AnnotatorNotes T21	travel by train
+T22	suggestion 648 652	it's
+T23	lex_item_choice 687 692	often
+#21	AnnotatorNotes T23	frequent
+T24	Articles 687 697	often trip
+#22	AnnotatorNotes T24	a frequent trip
+T25	note 24 30	travel
+#23	AnnotatorNotes T25	в этом эссе то travel, то traver, то исправленный на travel traver 
+T26	suggestion 516 520	will
+T27	lex_part_choice 497 505	sit down
+#24	AnnotatorNotes T27	goes down
+T28	Articles 461 467	number
+#25	AnnotatorNotes T28	the number
+T29	Agreement_errors 487 489	go
+#26	AnnotatorNotes T29	goes up
+T30	Agreement_errors 461 467	number
+#27	AnnotatorNotes T30	the number
+R1	Dependent_change Arg1:T30 Arg2:T29	
+T31	Spelling 556 564	brecthly
+T32	Category_confusion 588 595	clearly
+#28	AnnotatorNotes T32	clearer
+#29	AnnotatorNotes T31	breath
+T33	Category_confusion 565 569	easy
+#30	AnnotatorNotes T33	easily
+T34	Tense_choice 544 569	would be to brecthly easy
+#31	AnnotatorNotes T34	would breath easier
+T35	Agreement_errors 497 500	sit
+#32	AnnotatorNotes T35	goes
+R2	Dependent_change Arg1:T30 Arg2:T35	
+T36	Adverbs 445 456	in this day
+#33	AnnotatorNotes T36	these days
+T37	Absence_comp_sent 394 456	Air polution, of course, one of the most important in this day
+#34	AnnotatorNotes T37	Air pollution, of course, is one of the most important issues these days
+T38	Spelling 398 406	polution
+#35	AnnotatorNotes T38	pollution
+T39	Absence_comp_sent 261 277	some people sure
+#36	AnnotatorNotes T39	some people are sure
+T40	Spelling 238 244	traver
+A2	Cause T40 Typo
+#37	AnnotatorNotes T40	travel
+T41	Countable_uncountable 314 338	the amount of air travel
+#38	AnnotatorNotes T41	the number of air travel
+T42	lex_item_choice 165 174	unusually
+#39	AnnotatorNotes T42	rarely
+T43	Category_confusion 97 104	quickly
+#40	AnnotatorNotes T43	quick
+T44	suggestion 118 122	that
+#41	AnnotatorNotes T44	which is
+T45	suggestion 136 156	business and leisure
+#42	AnnotatorNotes T45	business and leisure trips
+T46	Absence_comp_sent 42 72	this number can not be a small
+#43	AnnotatorNotes T46	this number can not be a small one
+T47	Spelling 82 88	traver
+#44	AnnotatorNotes T47	travel
+T48	Articles 74 88	The air traver
+#45	AnnotatorNotes T48	Air travel
+T49	note 20 30	air travel
+#46	AnnotatorNotes T49	в тексте было an air travel

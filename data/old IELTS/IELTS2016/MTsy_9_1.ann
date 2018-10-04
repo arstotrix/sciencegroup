@@ -1,0 +1,107 @@
+T2	Capitalisation 713 717	Rest
+A1	Cause T2 Typo
+#2	AnnotatorNotes T2	rest
+T3	lex_item_choice 51 60	inability
+#3	AnnotatorNotes T3	possibility
+T4	Category_confusion 181 191	represents
+#4	AnnotatorNotes T4	respondents
+T5	Prepositions 349 354	After
+#5	AnnotatorNotes T5	In
+T7	Redundant_comp 477 489	respectively
+A2	Delete T7
+#7	AnnotatorNotes T7	respectively
+T8	Articles 519 528	countries
+#8	AnnotatorNotes T8	the countries
+T9	Category_confusion 568 574	female
+#9	AnnotatorNotes T9	girls
+T10	Category_confusion 1100 1106	female
+#10	AnnotatorNotes T10	girls
+T11	Category_confusion 1158 1162	male
+#11	AnnotatorNotes T11	boys
+T12	Comparative_adj 1078 1085	biggest
+#12	AnnotatorNotes T12	bigger
+T13	lex_item_choice 1168 1171	had
+#13	AnnotatorNotes T13	are
+T14	Absence_comp_colloc 1172 1188	better situation
+#14	AnnotatorNotes T14	in a better situation
+T15	Absence_comp_sent 951 955	Boys
+#15	AnnotatorNotes T15	The number of boys
+T16	Word_choice 956 975	education unability
+#16	AnnotatorNotes T16	without access to education
+T17	lex_item_choice 983 988	lower
+A3	Cause T17 L1_interference
+#17	AnnotatorNotes T17	smaller
+T19	lex_part_choice 80 94	over the world
+#19	AnnotatorNotes T19	around the world
+T20	Word_choice 134 154	devided into colours
+#20	AnnotatorNotes T20	coloured
+T21	Absence_explanation 299 307	children
+#21	AnnotatorNotes T21	children of both sexes
+T23	Category_confusion 672 678	halfed
+#23	AnnotatorNotes T23	fell by half
+T24	lex_item_choice 651 666	Male proportion
+#24	AnnotatorNotes T24	The same index for boys
+T25	Redundant_comp 706 726	of the Rest of World
+A4	Delete T25
+T26	Determiners 696 705	Countries
+#25	AnnotatorNotes T26	Other countries
+T27	Absence_explanation 761 769	children
+#26	AnnotatorNotes T27	uneducated children
+A5	Addition T27
+T28	Articles 731 745	downward trend
+#27	AnnotatorNotes T28	a downward trend
+T29	lex_item_choice 874 888	first forms at
+#28	AnnotatorNotes T29	primary
+T30	Verb_Inf 585 600	afford studying
+#29	AnnotatorNotes T30	afford to study
+A6	Addition T21
+T22	Prepositions 462 464	on
+#22	AnnotatorNotes T22	by
+T31	lex_item_choice 920 927	figures
+#30	AnnotatorNotes T31	number
+T32	Agreement_errors 914 919	these
+#31	AnnotatorNotes T32	this
+R1	Dependent_change Arg1:T31 Arg2:T32	
+T33	Agreement_errors 928 932	were
+#32	AnnotatorNotes T33	was
+R2	Dependent_change Arg1:T31 Arg2:T33	
+T34	lex_part_choice 1059 1073	over the world
+#33	AnnotatorNotes T34	around the world
+T35	Articles 102 116	12-year-period
+#34	AnnotatorNotes T35	a 12-year-period
+T36	Spelling 102 116	12-year-period
+#35	AnnotatorNotes T36	a 12-year period
+T1	lex_item_choice 287 295	quantity
+#1	AnnotatorNotes T1	numbers
+T37	Agreement_errors 266 269	was
+#36	AnnotatorNotes T37	were
+R3	Dependent_change Arg1:T1 Arg2:T37	
+T38	Numerals 340 344	23,7
+#37	AnnotatorNotes T38	23.7
+T6	Numerals 465 468	5,5
+#6	AnnotatorNotes T6	5.5
+T39	Tense_choice 452 461	decreased
+#38	AnnotatorNotes T39	had decreased
+T40	Numerals 630 633	4,8
+#39	AnnotatorNotes T40	4.8
+T41	suggestion 696 705	Countries
+T42	suggestion 585 600	afford studying
+R4	Parallel_construction Arg1:T38 Arg2:T6	
+R5	Parallel_construction Arg1:T6 Arg2:T40	
+T43	lex_item_choice 751 757	amount
+#40	AnnotatorNotes T43	numbers
+T44	Numerals 837 841	12,8
+#41	AnnotatorNotes T44	12.8
+R6	Parallel_construction Arg1:T40 Arg2:T44	
+T45	Numerals 938 941	7,6
+#42	AnnotatorNotes T45	7.6
+R7	Parallel_construction Arg1:T44 Arg2:T45	
+T46	Numerals 995 999	10,5
+#43	AnnotatorNotes T46	10.5
+R8	Parallel_construction Arg1:T45 Arg2:T46	
+T47	Numerals 1011 1014	7,7
+#44	AnnotatorNotes T47	7.7
+R9	Parallel_construction Arg1:T46 Arg2:T47	
+T18	suggestion 1172 1188	better situation
+T48	lex_item_choice 1137 1143	school
+#18	AnnotatorNotes T48	education

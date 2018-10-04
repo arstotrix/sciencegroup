@@ -1,0 +1,134 @@
+T1	Spelling 1 11	Now a days
+#1	AnnotatorNotes T1	Nowadays
+T2	Voice 50 55	asked
+#2	AnnotatorNotes T2	asking
+T3	Spelling 58 66	quesnion
+#3	AnnotatorNotes T3	question
+T4	Spelling 92 96	spen
+#4	AnnotatorNotes T4	spend
+T5	Redundant_comp 103 119	for the chearful
+A1	Delete T5
+T6	Articles 148 151	the
+A2	Delete T6
+T7	lex_item_choice 152 156	sold
+#5	AnnotatorNotes T7	solving
+T8	Spelling 226 234	questins
+#6	AnnotatorNotes T8	question
+T9	Spelling 299 305	becone
+#7	AnnotatorNotes T9	becomes
+T10	Tense_choice 299 305	becone
+#8	AnnotatorNotes T10	becomes
+T11	Spelling 306 310	moer
+#9	AnnotatorNotes T11	more
+T12	Absence_explanation 311 320	difficult
+#10	AnnotatorNotes T12	difficult to overcome
+T13	Articles 267 270	the
+A3	Delete T13
+T14	Adjectives 285 292	another
+#11	AnnotatorNotes T14	other
+T15	Punctuation 332 342	I believe,
+#12	AnnotatorNotes T15	I believe
+T16	Articles 348 351	the
+A4	Delete T16
+T17	Prepositions 364 368	wait
+#13	AnnotatorNotes T17	wait for
+T18	Articles 396 399	the
+A5	Delete T18
+T19	Spelling 412 420	problums
+#14	AnnotatorNotes T19	problems
+T20	Articles 424 427	the
+A6	Delete T20
+T21	Punctuation 439 441	--
+A7	Delete T21
+T22	Prepositions 449 456	Because
+#15	AnnotatorNotes T22	Because of
+T23	Spelling 462 471	dificutes
+#16	AnnotatorNotes T23	difficulties
+T24	Pronouns 457 461	this
+#17	AnnotatorNotes T24	these
+T25	Spelling 501 506	couls
+#18	AnnotatorNotes T25	can
+T26	Spelling 517 520	owe
+#19	AnnotatorNotes T26	our
+T27	Tense_choice 575 582	be abel
+#20	AnnotatorNotes T27	will be able
+T28	Spelling 578 582	abel
+#21	AnnotatorNotes T28	able
+T29	Spelling 586 592	risind
+#22	AnnotatorNotes T29	reach
+T30	Prepositions 593 595	in
+A8	Delete T30
+T31	Spelling 596 601	spase
+#23	AnnotatorNotes T31	space
+T32	Spelling 656 661	shoul
+#24	AnnotatorNotes T32	should
+T33	Spelling 778 782	whis
+#25	AnnotatorNotes T33	which
+T34	Agreement_errors 783 787	kill
+#26	AnnotatorNotes T34	kills
+T35	Agreement_errors 774 777	War
+R1	Dependent_change Arg1:T34 Arg2:T35	
+T36	Capitalisation 768 773	Great
+#27	AnnotatorNotes T36	great
+T37	Capitalisation 774 777	War
+#28	AnnotatorNotes T37	war
+T38	Spelling 802 806	Erth
+#29	AnnotatorNotes T38	Earth
+T39	lex_item_choice 757 761	open
+#30	AnnotatorNotes T39	cause
+T40	Spelling 817 824	eximple
+#31	AnnotatorNotes T40	example
+T41	Spelling 837 846	sityation
+#32	AnnotatorNotes T41	situation
+T42	Spelling 854 858	move
+#33	AnnotatorNotes T42	movie
+T43	Spelling 859 861	be
+#34	AnnotatorNotes T43	by
+T44	Spelling 901 910	usdersten
+#35	AnnotatorNotes T44	usderstand
+T45	Spelling 915 924	politison
+#36	AnnotatorNotes T45	position
+T46	Spelling 932 937	alies
+#37	AnnotatorNotes T46	aliens
+T47	Spelling 964 972	agressiv
+#38	AnnotatorNotes T47	agressive
+T48	Tense_choice 977 981	flue
+#39	AnnotatorNotes T48	have arrived
+T49	lex_item_choice 977 981	flue
+#40	AnnotatorNotes T49	have arrived
+T50	Spelling 989 993	Erth
+#41	AnnotatorNotes T50	Earth
+T51	lex_item_choice 994 1021	for taking a the kollony of
+#42	AnnotatorNotes T51	to conquer
+T52	Redundant_comp 994 1021	for taking a the kollony of
+#43	AnnotatorNotes T52	to conquer
+T53	Spelling 1038 1042	over
+#44	AnnotatorNotes T53	other
+T54	lex_item_choice 1114 1116	be
+#45	AnnotatorNotes T54	exist
+T55	lex_item_choice 1150 1156	decide
+#46	AnnotatorNotes T55	solve
+T56	Pronouns 1157 1159	it
+#47	AnnotatorNotes T56	them
+T57	Prepositions 1197 1199	of
+A9	Delete T57
+T58	Spelling 1287 1293	polite
+#48	AnnotatorNotes T58	politics
+T59	lex_item_choice 1315 1319	born
+#49	AnnotatorNotes T59	are creating
+T60	Tense_choice 1315 1319	born
+#50	AnnotatorNotes T60	are creating
+T61	Spelling 1372 1376	Erth
+#51	AnnotatorNotes T61	Earth
+T62	Prepositions 1414 1416	on
+#52	AnnotatorNotes T62	for
+T63	Standard 1476 1496	the goverment and we
+#53	AnnotatorNotes T63	we and our government
+T64	Spelling 1550 1557	deceide
+#54	AnnotatorNotes T64	decide
+T65	Spelling 1578 1582	moer
+#55	AnnotatorNotes T65	more
+T66	Spelling 1583 1591	actualle
+#56	AnnotatorNotes T66	actual
+T67	note 1624 1625	e
+#57	AnnotatorNotes T67	Zavyalov

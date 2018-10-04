@@ -1,0 +1,72 @@
+T1	Prepositions 0 19	On the 21th centure
+#1	AnnotatorNotes T1	In the 21th century
+T2	Spelling 12 19	centure
+#2	AnnotatorNotes T2	century
+T3	Articles 20 34	the technology
+#3	AnnotatorNotes T3	technologies
+T4	Noun_number 20 34	the technology
+#4	AnnotatorNotes T4	technologies
+R1	Dependent_change Arg1:T3 Arg2:T4	
+T5	Tense_choice 35 47	is influsing
+#5	AnnotatorNotes T5	influence
+T6	Transitive 35 50	is influsing on
+#6	AnnotatorNotes T6	influence
+T7	Ref_device 107 109	it
+#7	AnnotatorNotes T7	they
+T8	Spelling 110 115	given
+#8	AnnotatorNotes T8	give
+T9	lex_item_choice 133 140	illness
+#9	AnnotatorNotes T9	diseases
+T10	Noun_number 153 160	problem
+#10	AnnotatorNotes T10	problems
+T11	Often_confused 174 181	another
+#11	AnnotatorNotes T11	others
+T12	Noun_number 204 208	kind
+#12	AnnotatorNotes T12	kinds
+T13	Redundant_comp 258 272	argument about
+A1	Delete T13
+T14	Ref_device 273 277	that
+#13	AnnotatorNotes T14	this
+T15	Noun_number 289 299	Technology
+#14	AnnotatorNotes T15	Technologies
+T16	Articles 305 316	a two sides
+#15	AnnotatorNotes T16	two sides
+T17	Tense_choice 338 343	using
+#16	AnnotatorNotes T17	use
+T18	Articles 361 372	a searching
+#17	AnnotatorNotes T18	searching
+T19	Absence_comp_colloc 363 372	searching
+#18	AnnotatorNotes T19	searching for
+T20	Articles 373 391	a some information
+#19	AnnotatorNotes T20	some information
+T21	Tense_form 395 401	’s mak
+#20	AnnotatorNotes T21	makes
+T22	Inappropriate_register 393 397	It’s
+#21	AnnotatorNotes T22	it is
+T23	lex_item_choice 403 410	a human
+#22	AnnotatorNotes T23	our
+T24	Punctuation 427 438	For example
+#23	AnnotatorNotes T24	For example,
+T25	Inappropriate_register 443 448	don’t
+#24	AnnotatorNotes T25	do not
+T26	Prepositions 457 462	go on
+#25	AnnotatorNotes T26	go  to
+T27	Prepositions 480 494	in a same time
+#26	AnnotatorNotes T27	,at the same time,
+T28	Articles 483 494	a same time
+#27	AnnotatorNotes T28	the same time
+T29	Punctuation 480 494	in a same time
+#28	AnnotatorNotes T29	,at the same time,
+T30	Tense_choice 509 516	sitting
+#29	AnnotatorNotes T30	sit
+T31	Prepositions 517 519	on
+#30	AnnotatorNotes T31	in front of
+T32	Punctuation 495 532	if you always sitting on the computer
+#31	AnnotatorNotes T32	if you always sit in front of the computer,
+T33	Articles 547 563	a health problem
+#32	AnnotatorNotes T33	health problems
+T34	Noun_number 556 563	problem
+#33	AnnotatorNotes T34	problems
+R2	Dependent_change Arg1:T33 Arg2:T34	
+T35	Noun_number 622 632	technology
+#34	AnnotatorNotes T35	technologies

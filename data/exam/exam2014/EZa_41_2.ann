@@ -1,0 +1,100 @@
+T1	Spelling 142 148	shoukd
+#1	AnnotatorNotes T1	should
+T2	Spelling 254 261	restric
+#2	AnnotatorNotes T2	restrict
+T3	Absence_comp_colloc 266 272	except
+T4	Spelling 317 323	typoes
+#3	AnnotatorNotes T4	types
+T5	Spelling 445 451	witout
+#4	AnnotatorNotes T5	without
+T7	lex_item_choice 620 625	occur
+T8	Spelling 692 699	publick
+#6	AnnotatorNotes T8	public
+T11	Redundant_comp 736 741	cover
+T12	Spelling 864 874	don'tbring
+A1	Cause T12 Typo
+#9	AnnotatorNotes T12	don't cause
+T13	lex_item_choice 869 874	bring
+#10	AnnotatorNotes T13	cause
+T15	Punctuation 974 984	, accepted
+T16	Spelling 969 974	norma
+#12	AnnotatorNotes T16	norms
+T19	lex_item_choice 1051 1061	government
+#14	AnnotatorNotes T19	administration
+T20	Spelling 1244 1256	solutionlike
+A2	Cause T20 Typo
+#15	AnnotatorNotes T20	solution like
+T21	Spelling 1275 1280	Butat
+A3	Cause T21 Typo
+#16	AnnotatorNotes T21	But at
+T22	Articles 1295 1301	artist
+#17	AnnotatorNotes T22	an artist
+T23	Agreement_errors 1369 1373	lead
+#18	AnnotatorNotes T23	leads
+T24	Determiners 1377 1383	people
+#19	AnnotatorNotes T24	people's 
+T25	lex_item_choice 1505 1514	exceptthe
+A4	Cause T25 Typo
+#20	AnnotatorNotes T25	unless
+T26	lex_item_choice 1533 1539	damage
+T27	Spelling 1552 1566	indiindividual
+#21	AnnotatorNotes T27	individual
+T28	Absence_comp_colloc 1552 1573	indiindividual humans
+#22	AnnotatorNotes T28	individual human beings
+T31	note 1630 1631	.
+#25	AnnotatorNotes T31	Sazonova
+T32	Category_confusion 165 173	influent
+T33	Spelling 59 61	is
+#26	AnnotatorNotes T33	in
+T34	Punctuation 127 130	and
+#27	AnnotatorNotes T34	, and
+T35	lex_item_choice 131 141	government
+#28	AnnotatorNotes T35	authorities
+T36	Punctuation 224 234	To my mind
+T37	Spelling 246 253	can not
+#29	AnnotatorNotes T37	cannot
+#30	AnnotatorNotes T3	except for
+T39	Punctuation 330 338	,  which
+#31	AnnotatorNotes T39	which
+T40	Articles 369 376	society
+#32	AnnotatorNotes T40	the society
+T43	Absence_comp_sent 397 398	-
+#33	AnnotatorNotes T43	is
+T45	lex_item_choice 402 412	the pieces
+#35	AnnotatorNotes T45	works
+T46	Articles 476 492	The good example
+#36	AnnotatorNotes T46	A good example
+T47	Countable_uncountable 609 619	graffities
+#37	AnnotatorNotes T47	graffiti
+#5	AnnotatorNotes T7	appear
+T6	lex_item_choice 626 633	through
+#38	AnnotatorNotes T6	around
+#7	AnnotatorNotes T11	on
+T9	Spelling 800 802	on
+#8	AnnotatorNotes T9	one
+T10	Punctuation 793 807	On the on hand
+#39	AnnotatorNotes T10	On the one hand,
+#11	AnnotatorNotes T15	accepted
+T14	lex_item_choice 1081 1089	on Earth
+#13	AnnotatorNotes T14	around the world
+T17	Dative 1090 1167	gave the special parts of city the most talented and wel-known street artists
+#40	AnnotatorNotes T17	gave the special parts of city to the most talented and wel-known street artists
+T18	Linking_device 1169 1241	According to my agreement to the statement in the beginning of the topic
+#41	AnnotatorNotes T18	In my view
+T49	Spelling 1463 1470	can not
+#43	AnnotatorNotes T49	cannot
+#44	AnnotatorNotes T26	are harmful to
+T29	Category_confusion 1600 1612	compromising
+T52	Voice 1623 1630	founded
+A9	Cause T33 Typo
+#45	AnnotatorNotes T32	influence
+#46	AnnotatorNotes T36	To my mind,
+T53	lex_item_choice 1309 1321	be raised to
+#47	AnnotatorNotes T53	comply to
+T38	Spelling 1505 1514	exceptthe
+A5	Cause T38 Typo
+#34	AnnotatorNotes T29	a compromise
+#24	AnnotatorNotes T52	found
+T30	Prepositions 1597 1599	of
+#23	AnnotatorNotes T30	to
+R1	Dependent_change Arg1:T29 Arg2:T30	

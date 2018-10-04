@@ -1,0 +1,33 @@
+T1	Spelling 315 321	utmost
+#1	AnnotatorNotes T1	almost
+T3	lex_item_choice 65 67	as
+#3	AnnotatorNotes T3	because
+T4	Redundant_comp 167 179	the best way
+#4	AnnotatorNotes T4	the best
+T5	Redundant_comp 181 199	to use plane often
+#5	AnnotatorNotes T5	to use plane
+T6	lex_item_choice 370 372	as
+#6	AnnotatorNotes T6	because
+R1	Parallel_construction Arg1:T3 Arg2:T6	
+T7	lex_item_choice 390 401	very seldom
+#7	AnnotatorNotes T7	rarely
+T8	lex_item_choice 403 407	Then
+#8	AnnotatorNotes T8	Also
+T9	Absence_comp_sent 443 456	hard to reach
+#9	AnnotatorNotes T9	are hard to reach
+T10	Absence_comp_sent 460 465	means
+#10	AnnotatorNotes T10	other means
+T11	Absence_comp_colloc 593 605	couple weeks
+#11	AnnotatorNotes T11	couple of weeks
+T12	Ref_device 784 818	from which the environment.Suffers
+#12	AnnotatorNotes T12	to the environment
+T13	lex_item_choice 784 818	from which the environment.Suffers
+#13	AnnotatorNotes T13	to the environment
+T14	Modals 909 912	may
+#14	AnnotatorNotes T14	could
+T15	lex_item_choice 1032 1046	introstructure
+#15	AnnotatorNotes T15	infrastructure
+T16	lex_item_choice 1097 1119	roads for speed moving
+#16	AnnotatorNotes T16	highways for cars
+T2	lex_item_choice 1268 1279	more seldom
+#2	AnnotatorNotes T2	less often

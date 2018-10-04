@@ -1,0 +1,71 @@
+T1	Noun_number 7 17	technology
+#1	AnnotatorNotes T1	technologies
+T2	Agreement_errors 18 20	is
+#2	AnnotatorNotes T2	have
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Tense_choice 18 27	is spread
+#3	AnnotatorNotes T3	have spreaded
+T4	Articles 38 50	short period
+#4	AnnotatorNotes T4	a short period
+T5	Agreement_errors 101 105	have
+#5	AnnotatorNotes T5	has
+T6	Noun_number 128 138	technology
+#6	AnnotatorNotes T6	technologies
+T7	Articles 146 152	health
+#7	AnnotatorNotes T7	the health
+T8	Category_confusion 168 175	capable
+#8	AnnotatorNotes T8	capability
+T9	Prepositions 164 178	The capable of
+#9	AnnotatorNotes T9	the capability to
+T10	Word_order 192 214	of modern people worse
+#10	AnnotatorNotes T10	is worse in modern people
+T11	Redundant 192 194	of
+A1	Delete T11
+T12	Often_confused 215 219	then
+#11	AnnotatorNotes T12	than
+T13	Absence_comp_colloc 220 233	their parents
+#12	AnnotatorNotes T13	in their parents
+T14	Absence_comp_sent 235 237	It
+#13	AnnotatorNotes T14	It is
+T15	Articles 243 261	widespread mention
+#14	AnnotatorNotes T15	a widespread opinion
+T16	Articles 267 272	waves
+#15	AnnotatorNotes T16	the waves
+T17	Tense_choice 284 294	are become
+#16	AnnotatorNotes T17	become
+T18	Articles 295 303	a reason
+#17	AnnotatorNotes T18	the reason
+T19	Determiners 307 320	bad sensitive
+#18	AnnotatorNotes T19	a bad emotional state
+T20	lex_item_choice 311 320	sensitive
+#19	AnnotatorNotes T20	emotional state
+T21	Punctuation 320 327	, which
+#20	AnnotatorNotes T21	which 
+T22	Spelling 337 341	sigh
+#21	AnnotatorNotes T22	sign
+T23	Articles 345 365	more serious problem
+#22	AnnotatorNotes T23	a more serious problem
+T24	lex_item_choice 415 419	lied
+#23	AnnotatorNotes T24	connected
+T25	Noun_number 425 435	technology
+#24	AnnotatorNotes T25	technologies
+T26	lex_item_choice 443 450	full of
+#25	AnnotatorNotes T26	surround
+T27	Articles 451 455	life
+#26	AnnotatorNotes T27	the life 
+T28	Prepositions 488 496	of being
+#27	AnnotatorNotes T28	to be
+T29	Tense_choice 488 496	of being
+#28	AnnotatorNotes T29	to be
+T30	Category_confusion 497 503	health
+#29	AnnotatorNotes T30	healthy
+T31	Articles 507 519	self-control
+#30	AnnotatorNotes T31	a self-control
+T32	Absence_explanation 523 528	using
+#31	AnnotatorNotes T32	the time spending in
+T33	Absence_comp_sent 562 569	talking
+#32	AnnotatorNotes T33	are talking
+T34	Category_confusion 620 629	carefully
+#33	AnnotatorNotes T34	careful
+T35	lex_item_choice 635 641	giving
+#34	AnnotatorNotes T35	letting

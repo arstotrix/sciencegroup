@@ -1,0 +1,73 @@
+T1	Agreement_errors 46 50	rise
+#1	AnnotatorNotes T1	rises
+T2	Articles 64 74	widely use
+#2	AnnotatorNotes T2	the widely use
+T3	Redundant 135 141	health
+A1	Delete T3
+T4	Noun_number 142 149	problem
+#3	AnnotatorNotes T4	problems
+T5	Voice 150 159	connected
+#4	AnnotatorNotes T5	are connected
+T6	Articles 165 175	widely use
+#5	AnnotatorNotes T6	the widely use of
+T7	Prepositions 165 175	widely use
+#6	AnnotatorNotes T7	the widely use of
+T8	Ref_device 191 193	it
+#7	AnnotatorNotes T8	them
+T9	Redundant 238 240	so
+A2	Delete T9
+T10	lex_item_choice 254 262	produced
+#8	AnnotatorNotes T10	make
+T11	Tense_choice 254 262	produced
+#9	AnnotatorNotes T11	make
+T12	Punctuation 275 282	, which
+#10	AnnotatorNotes T12	which
+T13	Transitive 283 295	influence on
+#11	AnnotatorNotes T13	influence
+T14	lex_item_choice 336 343	hard to
+#12	AnnotatorNotes T14	lower
+T15	Category_confusion 344 355	concentrate
+#13	AnnotatorNotes T15	concentration
+R1	Dependent_change Arg1:T14 Arg2:T15	
+T16	lex_item_choice 360 367	rapidly
+#14	AnnotatorNotes T16	constant
+T17	Noun_number 368 376	headache
+#15	AnnotatorNotes T17	headaches
+T18	Absence_comp_sent 378 380	It
+#16	AnnotatorNotes T18	it is
+T19	Articles 416 428	21st century
+#17	AnnotatorNotes T19	the 21st century
+T20	Inappropriate_register 481 486	don’t
+#18	AnnotatorNotes T20	do not
+T21	Word_order 496 511	it is dangerous
+#19	AnnotatorNotes T21	dangerous it is
+T22	Inappropriate_register 513 516	I’m
+#20	AnnotatorNotes T22	I
+T23	Redundant_comp 514 516	’m
+A3	Delete T23
+T24	Punctuation 589 593	, if
+#21	AnnotatorNotes T24	if
+T25	Articles 637 649	21st century
+#22	AnnotatorNotes T25	the 21st century
+T26	Redundant_comp 681 688	already
+A4	Delete T26
+T27	Noun_number 696 701	years
+#23	AnnotatorNotes T27	year
+T28	Voice 734 750	are not realized
+#24	AnnotatorNotes T28	do not realise
+T29	Spelling 742 750	realized
+#25	AnnotatorNotes T29	realise
+T30	Noun_number 811 818	problem
+#26	AnnotatorNotes T30	problems
+T31	Spelling 848 856	egeniers
+#27	AnnotatorNotes T31	engineers
+T32	Spelling 861 870	scihtiest
+#28	AnnotatorNotes T32	scientists
+T33	Spelling 892 897	magnt
+#29	AnnotatorNotes T33	magnit
+T34	Conjunctions 904 908	that
+#30	AnnotatorNotes T34	so
+T35	Absence_explanation 938 944	damage
+#31	AnnotatorNotes T35	the risk of damaging our health
+T36	Articles 938 944	damage
+#32	AnnotatorNotes T36	the risk of damaging our health

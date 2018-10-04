@@ -1,0 +1,73 @@
+T1	lex_item_choice 0 13	Great part of
+#1	AnnotatorNotes T1	Many
+T2	Spelling 64 71	becouse
+#2	AnnotatorNotes T2	because
+T3	Tense_choice 75 81	giving
+#3	AnnotatorNotes T3	gives
+T4	lex_item_choice 155 159	have
+#4	AnnotatorNotes T4	lead to
+T5	Ref_device 184 211	and unintended consequences
+#5	AnnotatorNotes T5	that
+T6	Tense_choice 212 222	are causig
+#6	AnnotatorNotes T6	cause
+T7	Absence_explanation 223 227	harm
+#7	AnnotatorNotes T7	damaging our health
+T8	Tense_choice 232 240	creating
+#8	AnnotatorNotes T8	create
+T9	Category_confusion 295 301	danger
+#9	AnnotatorNotes T9	dangerous
+T10	Word_order 280 301	technology are danger
+#10	AnnotatorNotes T10	are technology dangerous
+T11	Agreement_errors 50 52	is
+#11	AnnotatorNotes T11	are
+T12	lex_item_choice 280 290	technology
+#12	AnnotatorNotes T12	technologies
+T13	Often_confused 303 313	Technology
+#13	AnnotatorNotes T13	technologies
+T14	Agreement_errors 314 323	separates
+#14	AnnotatorNotes T14	separate
+R1	Dependent_change Arg1:T14 Arg2:T13	
+T15	lex_item_choice 353 362	divesting
+#15	AnnotatorNotes T15	distracting
+T16	Absence_comp_sent 461 464	mad
+#16	AnnotatorNotes T16	are mad
+T17	Articles 471 479	internet
+#17	AnnotatorNotes T17	the Internet
+T18	Capitalisation 471 479	internet
+#18	AnnotatorNotes T18	the Internet
+T19	lex_item_choice 488 502	become talking
+#19	AnnotatorNotes T19	talk
+T20	Spelling 540 547	rearely
+#20	AnnotatorNotes T20	rarely
+T21	Prepositions 559 572	no reason for
+#21	AnnotatorNotes T21	no reason to
+T22	Tense_choice 573 580	walking
+#22	AnnotatorNotes T22	walk
+T23	Tense_choice 585 591	moving
+#23	AnnotatorNotes T23	move
+T24	Absence_comp_sent 604 608	that
+#24	AnnotatorNotes T24	that is
+T25	Category_confusion 609 616	because
+#25	AnnotatorNotes T25	why
+T26	Inappropriate_register 640 650	fat people
+#26	AnnotatorNotes T26	people with obesity
+T27	Ref_device 652 656	That
+#27	AnnotatorNotes T27	It
+T28	Noun_number 689 696	problem
+#28	AnnotatorNotes T28	problems
+T29	Word_order 673 696	heart and blood problem
+#29	AnnotatorNotes T29	problems with heart and blood
+T30	Articles 718 727	situation
+#30	AnnotatorNotes T30	the situation
+T31	Absence_comp_colloc 731 736	begin
+#31	AnnotatorNotes T31	to have
+T32	lex_item_choice 731 736	begin
+#32	AnnotatorNotes T32	to have
+T33	Articles 737 758	more active lifestyle
+#33	AnnotatorNotes T33	a more active lifestyle
+T34	Spelling 760 763	Bay
+#34	AnnotatorNotes T34	May
+T35	Spelling 760 766	Bay be
+#35	AnnotatorNotes T35	Maybe
+T36	Noun_number 774 784	technology
+#36	AnnotatorNotes T36	technologies

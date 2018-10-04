@@ -1,0 +1,105 @@
+T1	lex_item_choice 10 18	describe
+#1	AnnotatorNotes T1	shows
+T2	Punctuation 121 131	In general
+#2	AnnotatorNotes T2	In general,
+T3	Spelling 146 155	possitive
+#3	AnnotatorNotes T3	positive
+T4	Suffix 132 142	tendention
+#4	AnnotatorNotes T4	the tendency
+T5	Articles 196 199	USA
+#5	AnnotatorNotes T5	the USA
+T6	Articles 157 167	Proportion
+#6	AnnotatorNotes T6	The proportion
+T8	Spelling 230 238	gradualy
+#8	AnnotatorNotes T8	gradually
+T9	Spelling 268 274	periud
+#9	AnnotatorNotes T9	period
+T10	Spelling 275 281	betwen
+#10	AnnotatorNotes T10	between
+T11	Punctuation 263 295	In a periud betwen 1980 and 2014
+#11	AnnotatorNotes T11	In the period between 1980 and 2014,
+T12	Determiners 266 274	a periud
+#12	AnnotatorNotes T12	the period
+T13	Articles 296 306	proportion
+#13	AnnotatorNotes T13	the proportion
+T14	Tense_choice 332 340	decrease
+#14	AnnotatorNotes T14	decreased
+T15	Prepositions 341 345	with
+A1	Cause T15 L1_interference
+#15	AnnotatorNotes T15	from
+T16	Spelling 364 368	thet
+#16	AnnotatorNotes T16	that
+T17	Punctuation 358 368	After thet
+#17	AnnotatorNotes T17	After that, 
+T18	Redundant_comp 399 411	in 2040 year
+A2	Cause T18 L1_interference
+#18	AnnotatorNotes T18	in 2040
+T19	Absence_explanation 310 320	population
+#19	AnnotatorNotes T19	the elderly population
+T20	Spelling 414 424	Persentage
+#20	AnnotatorNotes T20	Percentage
+T21	Spelling 442 447	Sapan
+#21	AnnotatorNotes T21	Japan
+T22	Absence_explanation 428 438	population
+#22	AnnotatorNotes T22	the elderly population
+T23	Absence_comp_sent 462 476	Sweden and USA
+#23	AnnotatorNotes T23	the one of Sweden and the USA
+T24	Articles 473 476	USA
+#24	AnnotatorNotes T24	the USA
+T25	Articles 414 424	Persentage
+#25	AnnotatorNotes T25	The percentage
+T26	Often_confused 457 461	then
+#26	AnnotatorNotes T26	than
+T27	Tense_choice 500 515	slowly decrease
+#27	AnnotatorNotes T27	has been slowly decreasing
+T28	Discourse 500 515	slowly decrease
+#28	AnnotatorNotes T28	has been slowly decreasing ever since
+T29	Spelling 517 518	I
+#29	AnnotatorNotes T29	In
+T30	Articles 524 534	proportion
+#30	AnnotatorNotes T30	the proportion
+T31	Tense_choice 535 540	start
+#31	AnnotatorNotes T31	started
+T32	Prepositions 553 557	with
+A3	Cause T32 L1_interference
+#32	AnnotatorNotes T32	from
+T33	Tense_choice 565 572	consist
+#33	AnnotatorNotes T33	will reach
+T34	Redundant 593 602	2026 year
+A4	Cause T34 L1_interference
+#34	AnnotatorNotes T34	2026
+T35	Noun_number 864 882	in every countries
+#35	AnnotatorNotes T35	in every country
+T36	Absence_explanation 850 863	will the same
+#36	AnnotatorNotes T36	will be the same
+T37	lex_item_choice 565 572	consist
+#37	AnnotatorNotes T37	reach
+T38	Articles 690 693	USA
+#38	AnnotatorNotes T38	the USA
+T39	Articles 697 708	a same year
+#39	AnnotatorNotes T39	the same year
+T40	Punctuation 710 718	Otherall
+#40	AnnotatorNotes T40	Overall,
+T41	Often_confused 765 769	then
+#41	AnnotatorNotes T41	than
+T42	Articles 786 791	trend
+#42	AnnotatorNotes T42	the trend
+T43	Agreement_errors 792 799	rise up
+#43	AnnotatorNotes T43	rises up
+T44	Spelling 710 718	Otherall
+#44	AnnotatorNotes T44	Overall
+T45	Absence_explanation 755 773	will more then 25%
+#45	AnnotatorNotes T45	will account for more than 25% of general population
+T46	Absence_explanation 643 660	It will more then
+A5	Cause T46 L1_interference
+#46	AnnotatorNotes T46	It will be more than
+T47	Often_confused 656 660	then
+#47	AnnotatorNotes T47	than
+A6	Cause T45 L1_interference
+A7	Cause T36 L1_interference
+T48	lex_item_choice 23 33	proportion
+#48	AnnotatorNotes T48	percentage 
+T49	lex_item_choice 157 167	Proportion
+#49	AnnotatorNotes T49	The percentage
+T50	lex_item_choice 296 306	proportion
+#50	AnnotatorNotes T50	the percentage 

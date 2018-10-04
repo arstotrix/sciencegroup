@@ -1,0 +1,85 @@
+T1	Spelling 4 13	bar-chart
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	bar chart
+T2	Absence_explanation 111 112	.
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Critical
+#2	AnnotatorNotes T2	in Australia
+T3	Articles 161 170	The males
+A7	Cause T3 Absence_of_Category_in_L1
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	Males
+T4	Articles 198 209	the females
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	females
+T5	Spelling 359 372	post-graduate
+A13	Cause T5 Typo
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	postgraduate
+T7	Ref_device 694 697	its
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	their
+T8	Absence_comp_sent 698 708	90 percent
+A22	Cause T8 Other
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	90 per cent in it
+T10	Absence_comp_sent 753 763	70 percent
+A28	Cause T10 Other
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	their 70 per cent in it
+T12	Determiners 753 763	70 percent
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	their 70 per cent
+T13	Punctuation 765 781	At the same time
+A37	Cause T13 Other
+A38	Weight-language T13 Minor
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	At the same time,
+T14	Absence_comp_sent 788 804	the least common
+A40	Cause T14 L1_interference
+A41	Weight-language T14 Critical
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	the least common qualification
+T15	Absence_comp_sent 846 862	the least common
+A43	Cause T15 L1_interference
+A44	Weight-language T15 Critical
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	the least common one
+T16	Spelling 902 911	bar-chart
+A46	Cause T16 Other
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	bar chart
+T17	Absence_comp_sent 913 917	male
+A49	Cause T17 Other
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Minor
+#17	AnnotatorNotes T17	male gender
+T18	Redundant_comp 922 928	gender
+A52	Cause T18 Other
+A53	Weight-language T18 Minor
+A54	Weight-understanding T18 Minor
+#18	AnnotatorNotes T18	the one
+T19	Tense_choice 934 937	can
+A55	Cause T19 Other
+A56	Weight-language T19 Major
+A57	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	could
+T20	Absence_comp_sent 975 981	female
+A58	Cause T20 L1_interference
+A59	Weight-language T20 Critical
+A60	Weight-understanding T20 Minor
+#20	AnnotatorNotes T20	female one

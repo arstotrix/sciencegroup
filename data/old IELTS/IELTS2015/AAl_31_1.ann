@@ -1,0 +1,50 @@
+T1	Redundant_comp 16 21	shows
+T5	Lack_par_constr 132 139	the USA
+#1	AnnotatorNotes T5	in the USA
+T7	Spelling 281 289	contaned
+#2	AnnotatorNotes T7	contained 
+T9	Spelling 465 473	contaned
+#3	AnnotatorNotes T9	contained 
+T10	Spelling 543 550	steaply
+#4	AnnotatorNotes T10	steeply
+A1	Delete T1
+T12	Redundant_comp 40 48	people's
+A2	Delete T12
+T2	Absence_explanation 74 76	65
+#5	AnnotatorNotes T2	65 and over
+T16	Absence_comp_sent 242 243	5
+#6	AnnotatorNotes T16	5 per cent
+T8	Articles 318 324	nation
+#7	AnnotatorNotes T8	the nation
+T17	Tense_form 442 460	is slightly falled
+#8	AnnotatorNotes T17	slightly fell
+T18	Linking_device 484 496	According to
+#9	AnnotatorNotes T18	As for
+T3	Tense_choice 610 622	would appear
+#10	AnnotatorNotes T3	appears
+T6	Category_confusion 632 641	statistic
+#11	AnnotatorNotes T6	statistics
+T19	Tense_choice 675 677	is
+#12	AnnotatorNotes T19	is expected to be
+T20	Category_confusion 678 701	dramatically decreasing
+#13	AnnotatorNotes T20	a dramatic decrease
+T23	Modals 793 809	is sharply go up
+#15	AnnotatorNotes T23	is sharply to go up
+T24	Punctuation 872 873	,
+A3	Delete T24
+T4	Prepositions 879 885	during
+#16	AnnotatorNotes T4	between
+T25	Numerals 886 903	the 1940 and 2040
+#17	AnnotatorNotes T25	1940 and 2040
+T26	Agreement_errors 952 956	rise
+#18	AnnotatorNotes T26	rises
+T11	Linking_device 992 1047	the nation become more aged, than in the USA and Sweden
+#19	AnnotatorNotes T11	where the nation is to become older than in the USA and Sweden
+T30	Comparative_adj 1010 1019	more aged
+#20	AnnotatorNotes T30	older
+T31	Comparative_constr 1019 1025	, than
+#21	AnnotatorNotes T31	than
+T32	Modals 1003 1009	become
+#22	AnnotatorNotes T32	is to become
+T13	Standard 796 809	sharply go up
+#14	AnnotatorNotes T13	go up sharply

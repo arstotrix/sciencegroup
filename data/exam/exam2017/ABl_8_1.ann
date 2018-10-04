@@ -1,0 +1,162 @@
+T1	note 1124 1125	.
+#1	AnnotatorNotes T1	ABl
+T2	Agreement_errors 11 15	show
+#2	AnnotatorNotes T2	shows
+T3	Standard 38 58	unemployment changes
+#3	AnnotatorNotes T3	changes in unemployment
+T4	Prepositions 86 93	between
+#4	AnnotatorNotes T4	in
+T6	Spelling 176 185	W. Africa
+#6	AnnotatorNotes T6	North Africa
+T7	Articles 187 198	Middle East
+#7	AnnotatorNotes T7	the Middle East
+T8	Articles 200 202	EU
+#8	AnnotatorNotes T8	the EU
+T9	Spelling 219 226	S. Asia
+#9	AnnotatorNotes T9	South Asia
+T10	Redundant_comp 231 235	than
+A1	Delete T10
+T11	Articles 236 251	Worldwide level
+#10	AnnotatorNotes T11	the worldwide level
+T12	Capitalisation 236 245	Worldwide
+#11	AnnotatorNotes T12	worldwide
+T13	Prepositions 284 286	of
+#12	AnnotatorNotes T13	on
+T14	Tense_form 300 309	presented
+#13	AnnotatorNotes T14	is presented
+T15	lex_item_choice 326 334	per cent
+#14	AnnotatorNotes T15	percentage
+T16	Word_choice 313 334	unemployment per cent
+#15	AnnotatorNotes T16	percentage of the unemployed
+T19	Spelling 469 478	W. Africa
+#18	AnnotatorNotes T19	North Africa
+T20	Spelling 480 487	S. Asia
+#19	AnnotatorNotes T20	South Asia
+T21	Articles 492 507	Worldwide level
+#20	AnnotatorNotes T21	the worldwide level
+T22	Capitalisation 492 501	Worldwide
+#21	AnnotatorNotes T22	worldwide
+T23	Articles 512 523	Middle East
+#22	AnnotatorNotes T23	the Middle East
+T24	Redundant_comp 416 424	of graph
+A2	Delete T24
+T25	Absence_explanation 425 441	the unemployment
+#23	AnnotatorNotes T25	the unemployment rate
+T26	Tense_choice 442 448	remain
+#24	AnnotatorNotes T26	remained
+T27	Punctuation 455 456	,
+#25	AnnotatorNotes T27	: 
+T28	Tense_choice 460 462	is
+#26	AnnotatorNotes T28	was
+T29	Absence_explanation 457 468	it is about
+#27	AnnotatorNotes T29	it was true for
+T30	Prepositions 463 468	about
+#28	AnnotatorNotes T30	for
+T31	Category_confusion 553 563	decreasing
+#29	AnnotatorNotes T31	decrease
+T32	Prepositional_noun 553 566	decreasing of
+#30	AnnotatorNotes T32	decrease in
+T33	Prepositions 580 583	for
+#31	AnnotatorNotes T33	by
+T35	Prepositions 619 622	for
+#33	AnnotatorNotes T35	by
+R1	Parallel_construction Arg1:T33 Arg2:T35	
+T37	Redundant_comp 651 655	case
+A3	Delete T37
+T38	Absence_explanation 567 579	unemployment
+#35	AnnotatorNotes T38	the unemployment rate
+T39	lex_item_choice 677 683	single
+#36	AnnotatorNotes T39	opposite
+T40	Articles 677 688	single case
+#37	AnnotatorNotes T40	the opposite case
+T41	Category_confusion 711 721	increasing
+#38	AnnotatorNotes T41	increase
+T42	Punctuation 812 818	, that
+#39	AnnotatorNotes T42	that
+T44	Redundant_comp 784 788	here
+T45	Prepositions 767 770	for
+#42	AnnotatorNotes T45	by
+T46	Spelling 775 783	per cent
+#43	AnnotatorNotes T46	percent
+T47	Redundant_comp 688 706	. When we indicate
+A4	Delete T47
+T48	Capitalisation 695 697	we
+#44	AnnotatorNotes T48	We
+T49	Tense_choice 698 706	indicate
+#45	AnnotatorNotes T49	indicated
+T50	Absence_explanation 725 737	unemployment
+#46	AnnotatorNotes T50	the level of unemployment
+T51	Spelling 738 740	is
+#47	AnnotatorNotes T51	in
+T52	Articles 741 743	EU
+#48	AnnotatorNotes T52	the EU
+T54	Spelling 843 852	statistic
+#50	AnnotatorNotes T54	statistics
+T55	Punctuation 843 853	statistic.
+#51	AnnotatorNotes T55	statistics,
+T56	lex_item_choice 873 877	rest
+#52	AnnotatorNotes T56	remained
+T57	Tense_choice 873 877	rest
+#53	AnnotatorNotes T57	remained
+T59	Tense_choice 936 938	is
+#55	AnnotatorNotes T59	was
+T60	Spelling 939 951	Word. Africa
+#56	AnnotatorNotes T60	North Africa
+T62	Tense_choice 971 973	is
+#58	AnnotatorNotes T62	was 
+T63	Spelling 974 981	S. Asia
+#59	AnnotatorNotes T63	South Asia
+T64	lex_item_choice 854 872	place distribution
+#60	AnnotatorNotes T64	ranking
+T65	Absence_explanation 995 1007	unemployment
+#61	AnnotatorNotes T65	the unemployment rate
+T66	Spelling 1036 1040	then
+#62	AnnotatorNotes T66	than
+T67	Articles 1041 1056	Worldwide level
+#63	AnnotatorNotes T67	the global level
+T68	Capitalisation 1041 1050	Worldwide
+#64	AnnotatorNotes T68	global
+T70	Tense_choice 1088 1092	have
+#66	AnnotatorNotes T70	had
+T71	Category_confusion 1116 1124	per cent
+#67	AnnotatorNotes T71	percentage
+T34	suggestion 5 10	shart
+#32	AnnotatorNotes T34	chart
+T36	suggestion 0 10	This shart
+#34	AnnotatorNotes T36	The chart in the task
+T5	suggestion 109 122	At this chort
+A5	Delete T5
+T73	Capitalisation 123 125	we
+#5	AnnotatorNotes T73	We
+R2	Dependent_change Arg1:T5 Arg2:T73	
+T74	suggestion 227 230	and
+#69	AnnotatorNotes T74	, and
+T75	suggestion 300 309	presented
+T76	suggestion 310 312	by
+#70	AnnotatorNotes T76	in
+T17	suggestion 366 381	some main trend
+#16	AnnotatorNotes T17	the main trend
+T18	Determiners 390 415	the first part of regions
+#17	AnnotatorNotes T18	some regions
+T77	Ref_device 604 614	first case
+#71	AnnotatorNotes T77	former
+T78	suggestion 604 614	first case
+T79	Prepositions 707 721	the increasing
+#72	AnnotatorNotes T79	of the increase
+R3	Dependent_change Arg1:T47 Arg2:T79	
+T80	Prepositional_noun 711 724	increasing of
+#73	AnnotatorNotes T80	increase in
+T43	suggestion 743 766	: unemployment increase
+A6	Delete T43
+A7	Delete T44
+T53	suggestion 888 893	first
+#40	AnnotatorNotes T53	the first
+T81	suggestion 894 899	place
+A8	Delete T81
+T58	suggestion 965 970	place
+A9	Delete T58
+A10	Cause T81 L1_interference
+T61	lex_item_choice 1041 1050	Worldwide
+#41	AnnotatorNotes T61	global
+T72	suggestion 983 986	But
+#49	AnnotatorNotes T72	in addition,

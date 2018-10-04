@@ -1,0 +1,25 @@
+T2	Tense_choice 768 774	ranges
+#2	AnnotatorNotes T2	ranged
+T3	Redundant_comp 800 822	according to the graph
+T5	Prepositions 163 165	of
+#4	AnnotatorNotes T5	in
+T6	Tense_form 241 258	sharply increased
+T7	lex_item_choice 197 203	number
+#5	AnnotatorNotes T7	percentage
+T8	Absence_explanation 463 472	one-third
+#6	AnnotatorNotes T8	about a third
+T9	Punctuation 560 569	. Whereas
+#7	AnnotatorNotes T9	, whereas
+T10	Spelling 856 863	alumnus
+#8	AnnotatorNotes T10	alumni
+T11	Spelling 80 87	alumnus
+A1	Addition T10
+A2	Delete T10
+A3	Addition T6
+A4	Delete T6
+#9	AnnotatorNotes T6	has sharply increased
+A5	Addition T11
+A6	Delete T11
+#1	AnnotatorNotes T11	alumni
+A7	Addition T7
+A8	Delete T7

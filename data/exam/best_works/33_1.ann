@@ -1,0 +1,42 @@
+T2	Agreement_errors 325 333	decrease
+#2	AnnotatorNotes T2	decreases
+T3	Punctuation 271 285	As one can see
+#3	AnnotatorNotes T3	As we can see,
+T4	Absence_explanation 778 783	men's
+#4	AnnotatorNotes T4	men's time
+T1	lex_item_choice 402 408	period
+#1	AnnotatorNotes T1	group
+T5	Absence_comp_colloc 418 423	years
+#5	AnnotatorNotes T5	years old
+T6	Punctuation 464 470	, that
+#6	AnnotatorNotes T6	that
+T7	Voice 636 644	spending
+#7	AnnotatorNotes T7	spent
+T8	lex_part_choice 657 669	comparing to
+#8	AnnotatorNotes T8	if compared with
+T10	Tense_choice 784 797	is decreasing
+#9	AnnotatorNotes T10	decreases with age
+T11	lex_part_choice 856 870	due to the age
+#10	AnnotatorNotes T11	with age
+T9	Punctuation 685 686	,
+T12	Standard 471 528	women spend less time on doing sports than men in general
+#11	AnnotatorNotes T12	in general women spend less time on doing sports than men
+T13	Absence_explanation 558 561	age
+#12	AnnotatorNotes T13	for the age group of
+T15	Redundant_comp 568 573	years
+T16	Absence_explanation 784 797	is decreasing
+#13	AnnotatorNotes T16	decreases with age
+T14	Linking_device 299 301	of
+#14	AnnotatorNotes T14	is that
+T17	Standard 302 315	spending time
+#15	AnnotatorNotes T17	time spent
+A1	Delete T9
+T20	suggestion 812 821	obviously
+T21	Tense_choice 918 923	spend
+A3	Delete T20
+#16	AnnotatorNotes T21	spent
+T18	Tense_choice 980 984	does
+#17	AnnotatorNotes T18	did
+T22	note 1089 1090	.
+#18	AnnotatorNotes T22	Селиверстова
+A2	Delete T15

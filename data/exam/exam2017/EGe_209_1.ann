@@ -1,0 +1,56 @@
+T1	Absence_comp_sent 31 34	the
+#1	AnnotatorNotes T1	the usage
+T2	Numerals 248 255	million
+#2	AnnotatorNotes T2	millions
+T3	Agreement_errors 297 300	are
+#3	AnnotatorNotes T3	is
+T4	Agreement_errors 266 272	number
+R1	Dependent_change Arg1:T3 Arg2:T4	
+T5	Numerals 333 340	million
+#4	AnnotatorNotes T5	millions
+T6	Articles 345 348	the
+A1	Delete T6
+T7	Capitalisation 349 354	march
+#5	AnnotatorNotes T7	March
+T8	Spelling 390 395	riced
+#6	AnnotatorNotes T8	rose
+T9	Numerals 402 409	million
+#7	AnnotatorNotes T9	millions
+T10	Articles 422 428	number
+#8	AnnotatorNotes T10	the number
+T11	Spelling 454 458	felt
+#9	AnnotatorNotes T11	fell
+T12	Numerals 466 473	million
+#10	AnnotatorNotes T12	millions
+T13	Punctuation 481 491	All in all
+#11	AnnotatorNotes T13	All in all,
+T14	Often_confused 533 539	raised
+#12	AnnotatorNotes T14	rose
+T15	Spelling 560 569	tendetion
+#13	AnnotatorNotes T15	tendency
+T16	Tense_choice 689 691	is
+#14	AnnotatorNotes T16	was
+T17	Tense_choice 234 236	is
+#15	AnnotatorNotes T17	was
+T18	Prepositions 823 826	for
+#16	AnnotatorNotes T18	to
+T19	Tense_choice 827 832	using
+#17	AnnotatorNotes T19	use
+T20	Tense_choice 842 844	is
+#18	AnnotatorNotes T20	was
+T21	Absence_comp_sent 928 982	the second reason for using Facebook receiving updates
+#19	AnnotatorNotes T21	the second reason for using Facebook was receiving updates
+T22	Tense_choice 1063 1066	use
+#20	AnnotatorNotes T22	used
+T23	Capitalisation 1158 1164	Seeing
+#21	AnnotatorNotes T23	seeing
+T24	Capitalisation 1241 1249	Learning
+#22	AnnotatorNotes T24	learning
+T25	Punctuation 1276 1329	with only 35 percent for women and 25 percent for men
+#23	AnnotatorNotes T25	, with only 35 percent for women and 25 percent for men
+T26	Punctuation 1332 1342	All in all
+#24	AnnotatorNotes T26	All in all,
+T27	Spelling 1383 1396	communicatoin
+#25	AnnotatorNotes T27	communication
+T28	note 1395 1396	n
+#26	AnnotatorNotes T28	Zavyalov

@@ -1,0 +1,32 @@
+T1	Standard 47 64	information given
+#1	AnnotatorNotes T1	given information
+T2	Agreement_errors 211 214	are
+#2	AnnotatorNotes T2	is
+T3	Countable_uncountable 206 210	data
+R1	Dependent_change Arg1:T3 Arg2:T2	
+T4	Numerals 227 235	billions
+#3	AnnotatorNotes T4	billion
+T5	Tense_choice 391 399	showes\d
+#4	AnnotatorNotes T5	showed
+T6	Numerals 423 431	billions
+#5	AnnotatorNotes T6	biliion
+T7	Numerals 439 447	billions
+#6	AnnotatorNotes T7	billion
+T8	Numerals 561 569	billions
+#7	AnnotatorNotes T8	billion
+T9	Numerals 577 585	billions
+#8	AnnotatorNotes T9	billion
+T10	Redundant 662 670	category
+A1	Delete T10
+T11	Redundant 728 734	rougly
+A2	Delete T11
+T12	Numerals 857 865	billions
+#9	AnnotatorNotes T12	billion
+T13	Numerals 881 889	billions
+#10	AnnotatorNotes T13	billion
+T14	Spelling 1072 1076	theu
+#11	AnnotatorNotes T14	they
+T15	Spelling 1091 1097	upwarg
+#12	AnnotatorNotes T15	upward
+T16	Capitalisation 1177 1182	World
+#13	AnnotatorNotes T16	world

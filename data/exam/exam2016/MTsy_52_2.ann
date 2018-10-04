@@ -1,0 +1,60 @@
+T2	Tense_form 36 42	become
+T4	Spelling 173 182	nessecary
+T5	Punctuation 195 199	life
+T6	Spelling 219 226	demages
+T8	Articles 273 279	number
+T9	Spelling 361 368	sertain
+T1	lex_item_choice 462 469	enables
+T10	lex_item_choice 476 480	meet
+T12	Agreement_errors 612 616	part
+T13	lex_item_choice 722 728	source
+T14	Spelling 851 855	rare
+T20	Redundant_comp 996 999	the
+T22	Category_confusion 1268 1276	economic
+T23	Voice 1310 1314	need
+#1	AnnotatorNotes T2	becomes
+#2	AnnotatorNotes T4	neccesary
+#3	AnnotatorNotes T6	damages
+#4	AnnotatorNotes T8	the number
+#5	AnnotatorNotes T9	certain
+#6	AnnotatorNotes T1	let
+T3	Redundant_comp 473 475	to
+A1	Delete T3
+T7	Redundant_comp 481 485	with
+A2	Delete T7
+#7	AnnotatorNotes T12	parts
+T11	Articles 620 625	world
+#8	AnnotatorNotes T11	the world
+#9	AnnotatorNotes T13	mean
+#10	AnnotatorNotes T14	are
+T24	Spelling 886 893	can not
+#11	AnnotatorNotes T24	cannot
+T15	Capitalisation 971 982	world trade
+#13	AnnotatorNotes T15	World Trade
+A3	Delete T20
+#14	AnnotatorNotes T23	needed
+#15	AnnotatorNotes T22	economy
+T16	note 1337 1338	.
+#16	AnnotatorNotes T16	Berseneva
+T17	Articles 173 182	nessecary
+#17	AnnotatorNotes T17	a neccesary
+#18	AnnotatorNotes T5	life,
+T19	Category_confusion 310 316	travel
+#19	AnnotatorNotes T19	travelling
+R1	Dependent_change Arg1:T1 Arg2:T3	
+#20	AnnotatorNotes T10	explore
+R3	Dependent_change Arg1:T1 Arg2:T10	
+R2	Dependent_change Arg1:T10 Arg2:T7	
+T21	Redundant_comp 490 492	to
+A4	Delete T21
+R4	Parallel_construction Arg1:T3 Arg2:T21	
+T18	Punctuation 1111 1120	of course
+#12	AnnotatorNotes T18	, of course, 
+T25	Redundant_comp 1156 1159	the
+A5	Delete T25
+T26	Articles 1169 1175	amount
+#21	AnnotatorNotes T26	the amount
+T27	Spelling 1221 1229	with out
+#22	AnnotatorNotes T27	without
+T28	lex_item_choice 671 675	ways
+#23	AnnotatorNotes T28	trips

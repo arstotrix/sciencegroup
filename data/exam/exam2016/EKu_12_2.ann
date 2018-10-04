@@ -1,0 +1,31 @@
+T1	Spelling 27 34	busness
+#1	AnnotatorNotes T1	business
+T2	Prepositions 35 37	in
+#2	AnnotatorNotes T2	to
+T3	Tense_choice 78 84	became
+#3	AnnotatorNotes T3	become
+T4	Spelling 131 135	mave
+#4	AnnotatorNotes T4	move
+T5	Redundant 257 259	in
+A1	Delete T5
+T6	Articles 241 243	an
+T7	Inappropriate_register 270 290	less use child labor
+#5	AnnotatorNotes T7	helps to decrease the child labor
+T8	Agreement_errors 296 299	are
+#6	AnnotatorNotes T8	is
+T9	Noun_number 285 290	labor
+R1	Dependent_change Arg1:T9 Arg2:T8	
+T10	Absence_explanation 379 383	sell
+#7	AnnotatorNotes T10	sell goods
+T11	Absence_explanation 427 431	sell
+#8	AnnotatorNotes T11	sell goods
+T12	Spelling 544 550	upword
+#9	AnnotatorNotes T12	upward
+T13	Redundant_comp 776 779	are
+A2	Delete T13
+T14	lex_item_choice 813 820	linking
+#10	AnnotatorNotes T14	connected
+T15	Redundant 876 878	it
+A3	Delete T15
+T16	Spelling 914 923	outweight
+#11	AnnotatorNotes T16	outweigh

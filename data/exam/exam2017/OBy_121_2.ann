@@ -1,0 +1,40 @@
+T1	Tense_choice 142 152	are losing
+#1	AnnotatorNotes T1	lose
+T2	Redundant_comp 224 228	does
+A1	Delete T2
+T3	Ref_device 238 243	those
+#2	AnnotatorNotes T3	these
+T4	Agreement_errors 333 338	agree
+#3	AnnotatorNotes T4	agrees
+T5	Tense_choice 403 414	are staling
+#4	AnnotatorNotes T5	steal
+T6	Articles 415 430	the information
+#5	AnnotatorNotes T6	information
+T7	lex_item_choice 471 475	fact
+#6	AnnotatorNotes T7	case
+T8	Articles 616 624	Internet
+#7	AnnotatorNotes T8	the Internet
+T9	Tense_choice 630 643	are providing
+#8	AnnotatorNotes T9	provide
+T10	Agreement_errors 755 759	want
+#9	AnnotatorNotes T10	wants
+T11	lex_item_choice 793 802	different
+#10	AnnotatorNotes T11	other
+T12	Category_confusion 917 923	longer
+#11	AnnotatorNotes T12	long
+T13	Redundant_comp 952 961	as longer
+A2	Delete T13
+T14	Agreement_errors 1017 1021	need
+#12	AnnotatorNotes T14	needs
+T15	lex_item_choice 1061 1069	Internet
+#13	AnnotatorNotes T15	online
+T16	lex_item_choice 1124 1133	something
+#14	AnnotatorNotes T16	anything
+T17	Articles 1253 1256	way
+#15	AnnotatorNotes T17	the way
+T18	Ref_device 1547 1549	it
+#16	AnnotatorNotes T18	them
+T19	lex_item_choice 1551 1555	Then
+#17	AnnotatorNotes T19	When
+T20	Noun_number 1643 1647	film
+#18	AnnotatorNotes T20	films

@@ -1,0 +1,25 @@
+T1	lex_item_choice 224 238	social classes
+#1	AnnotatorNotes T1	income group
+T2	Conjunctions 323 330	despite
+#2	AnnotatorNotes T2	although
+T3	lex_item_choice 381 386	value
+#3	AnnotatorNotes T3	dependency
+T4	Spelling 506 510	than
+#4	AnnotatorNotes T4	then
+T5	Non_defining 658 663	where
+#5	AnnotatorNotes T5	, where
+T6	Noun_number 781 788	poorest
+#6	AnnotatorNotes T6	the poorest
+T7	Redundant_comp 942 944	is
+#7	AnnotatorNotes T7	the income level
+T8	Punctuation 933 961	the more is the income level
+#8	AnnotatorNotes T8	the more the income level,
+T9	Redundant_comp 971 973	is
+A1	Delete T9
+A2	Delete T7
+T10	Linking_device 929 932	and
+#9	AnnotatorNotes T10	, but also
+T11	note 841 928	the most significant difference between two counties is presented for the poorest class
+#10	AnnotatorNotes T11	EXPLAIN WHAT THIS DIFFERENCE IS
+T12	note 988 989	.
+#11	AnnotatorNotes T12	THE GRADE IS 7

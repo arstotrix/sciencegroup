@@ -1,0 +1,34 @@
+T1	Articles 157 184	very controversial question
+#1	AnnotatorNotes T1	a very controversial question
+T4	Spelling 619 625	occure
+#3	AnnotatorNotes T4	occur
+T6	Spelling 731 742	unstability
+#5	AnnotatorNotes T6	instability
+T8	note 1417 1418	.
+#6	AnnotatorNotes T8	Сазонова
+T10	Coherence 1326 1330	Also
+T12	Redundant_comp 1117 1121	Also
+T14	lex_item_choice 957 970	less poisoned
+#7	AnnotatorNotes T14	fresh
+T15	Spelling 796 798	an
+T16	Category_confusion 1157 1177	environment-friendly
+#8	AnnotatorNotes T16	environmentally friendly
+T17	Tense_choice 1211 1216	would
+T3	lex_item_choice 503 508	other
+#2	AnnotatorNotes T3	different
+T5	Prefix 699 713	unsatisfaction
+#4	AnnotatorNotes T5	dissatisfaction
+#9	AnnotatorNotes T15	can
+T9	Punctuation 940 974	In order to save less poisoned air
+A1	Cause T15 Typo
+T2	Punctuation 627 631	Also
+#12	AnnotatorNotes T2	Also,
+#13	AnnotatorNotes T9	In order to save fresh air,
+#14	AnnotatorNotes T17	will
+A2	Cause T3 L1_interference
+A3	Delete T12
+#10	AnnotatorNotes T10	All in all, 
+T7	Inappropriate_register 149 156	kind of
+A4	Delete T7
+T11	lex_item_choice 1100 1115	transportations
+#11	AnnotatorNotes T11	flights

@@ -1,0 +1,634 @@
+T1	Word_choice 12 21	face with
+#1	AnnotatorNotes T1	meet OR look at OR come across
+T2	Spelling 183 189	belive
+#2	AnnotatorNotes T2	believe
+T3	Punctuation 189 190	,
+A1	Delete T3
+T4	Spelling 221 230	Personaly
+#3	AnnotatorNotes T4	Personally,
+T5	Punctuation 221 230	Personaly
+#4	AnnotatorNotes T5	Personally,
+T6	Punctuation 255 256	,
+A2	Delete T6
+T7	Word_choice 247 255	at first
+#5	AnnotatorNotes T7	first
+T8	Spelling 289 297	graffity
+#6	AnnotatorNotes T8	graffito
+T9	Word_choice 343 367	are really worth calling
+#7	AnnotatorNotes T9	really deserve being called
+T10	Voice 360 367	calling
+#8	AnnotatorNotes T10	being called
+T11	Formational_affixes 421 428	writing
+#9	AnnotatorNotes T11	written
+T12	lex_item_choice 451 465	From this view
+#10	AnnotatorNotes T12	With this in view
+T13	Punctuation 474 475	,
+A3	Delete T13
+T14	Countable_uncountable 499 505	an art
+#11	AnnotatorNotes T14	art
+T15	Articles 615 622	society
+#12	AnnotatorNotes T15	the society
+T16	Lack_par_constr 624 631	develop
+#13	AnnotatorNotes T16	to develop
+T17	Determiners 632 635	the
+#14	AnnotatorNotes T17	this
+T18	Articles 672 673	a
+A4	Delete T18
+T19	Articles 794 795	a
+A5	Delete T19
+T20	Punctuation 865 873	that for
+#15	AnnotatorNotes T20	that, for
+T21	Agreement_errors 913 918	exist
+#16	AnnotatorNotes T21	exists
+T22	Word_choice 913 918	exist
+#17	AnnotatorNotes T22	has been allotted
+T23	Voice 1112 1116	call
+#18	AnnotatorNotes T23	be called
+T24	Spelling 1137 1144	can not
+#19	AnnotatorNotes T24	cannot
+T25	Verb_pattern 1159 1161	as
+A6	Delete T25
+T26	Discourse 1401 1409	painting
+#20	AnnotatorNotes T26	the quality of a painting
+T27	Defining 1423 1430	, where
+#21	AnnotatorNotes T27	where
+T28	pos_RB 0 8	Nowadays
+#22	AnnotatorNotes T28	lemma = 'nowadays'
+T29	pos_PRP 9 11	we
+#23	AnnotatorNotes T29	lemma = 'we'
+T30	pos_VBP 12 16	face
+#24	AnnotatorNotes T30	lemma = 'face'
+T31	pos_IN 17 21	with
+#25	AnnotatorNotes T31	lemma = 'with'
+T32	pos_NNS 22 30	graffiti
+#26	AnnotatorNotes T32	lemma = 'graffito'
+T33	pos_RBR 31 35	more
+#27	AnnotatorNotes T33	lemma = 'many'
+T34	pos_CC 36 39	and
+#28	AnnotatorNotes T34	lemma = 'and'
+T35	pos_RBR 40 44	more
+#29	AnnotatorNotes T35	lemma = 'many'
+T36	pos_RB 45 50	often
+#30	AnnotatorNotes T36	lemma = 'often'
+T37	pos_Fc 50 51	,
+#31	AnnotatorNotes T37	lemma = ','
+T38	pos_PRP 52 54	it
+#32	AnnotatorNotes T38	lemma = 'it'
+T39	pos_VBZ 55 58	has
+#33	AnnotatorNotes T39	lemma = 'have'
+T40	pos_VBN 59 65	become
+#34	AnnotatorNotes T40	lemma = 'become'
+T41	pos_DT 66 67	a
+#35	AnnotatorNotes T41	lemma = 'a'
+T42	pos_JJ 68 75	typical
+#36	AnnotatorNotes T42	lemma = 'typical'
+T43	pos_NN 76 85	attribute
+#37	AnnotatorNotes T43	lemma = 'attribute'
+T44	pos_IN 86 88	of
+#38	AnnotatorNotes T44	lemma = 'of'
+T45	pos_DT 89 92	all
+#39	AnnotatorNotes T45	lemma = 'all'
+T46	pos_JJ 93 99	modern
+#40	AnnotatorNotes T46	lemma = 'modern'
+T47	pos_NNS 100 106	cities
+#41	AnnotatorNotes T47	lemma = 'city'
+T48	pos_Fp 106 107	.
+#42	AnnotatorNotes T48	lemma = '.'
+T49	pos_DT 108 112	Some
+#43	AnnotatorNotes T49	lemma = 'some'
+T50	pos_NNS 113 119	people
+#44	AnnotatorNotes T50	lemma = 'people'
+T51	pos_VBP 120 125	claim
+#45	AnnotatorNotes T51	lemma = 'claim'
+T52	pos_IN 126 130	that
+#46	AnnotatorNotes T52	lemma = 'that'
+T53	pos_NNS 131 139	graffiti
+#47	AnnotatorNotes T53	lemma = 'graffito'
+T54	pos_VBZ 140 142	is
+#48	AnnotatorNotes T54	lemma = 'be'
+T55	pos_DT 143 144	a
+#49	AnnotatorNotes T55	lemma = 'a'
+T56	pos_NN 145 149	kind
+#50	AnnotatorNotes T56	lemma = 'kind'
+T57	pos_IN 150 152	of
+#51	AnnotatorNotes T57	lemma = 'of'
+T58	pos_NN 153 162	vandalism
+#52	AnnotatorNotes T58	lemma = 'vandalism'
+T59	pos_Fc 162 163	,
+#53	AnnotatorNotes T59	lemma = ','
+T60	pos_IN 164 169	while
+#54	AnnotatorNotes T60	lemma = 'while'
+T61	pos_NNS 170 176	others
+#55	AnnotatorNotes T61	lemma = 'other'
+T62	pos_RB 177 182	still
+#56	AnnotatorNotes T62	lemma = 'still'
+T63	pos_VBP 183 189	belive
+#57	AnnotatorNotes T63	lemma = 'belive'
+T64	pos_Fc 189 190	,
+#58	AnnotatorNotes T64	lemma = ','
+T65	pos_IN 191 195	that
+#59	AnnotatorNotes T65	lemma = 'that'
+T66	pos_PRP 196 198	it
+#60	AnnotatorNotes T66	lemma = 'it'
+T67	pos_Fw 198 199	’
+#61	AnnotatorNotes T67	lemma = '’'
+T68	pos_VBZ 199 200	s
+#62	AnnotatorNotes T68	lemma = 's'
+T69	pos_DT 201 202	a
+#63	AnnotatorNotes T69	lemma = 'a'
+T70	pos_JJ 203 206	new
+#64	AnnotatorNotes T70	lemma = 'new'
+T71	pos_NN 207 211	form
+#65	AnnotatorNotes T71	lemma = 'form'
+T72	pos_IN 212 214	of
+#66	AnnotatorNotes T72	lemma = 'of'
+T73	pos_NN 215 218	art
+#67	AnnotatorNotes T73	lemma = 'art'
+T74	pos_Fp 218 219	.
+#68	AnnotatorNotes T74	lemma = '.'
+T75	pos_RB 221 230	Personaly
+#69	AnnotatorNotes T75	lemma = 'personaly'
+T76	pos_PRP 231 232	I
+#70	AnnotatorNotes T76	lemma = 'i'
+T77	pos_VBP 233 241	consider
+#71	AnnotatorNotes T77	lemma = 'consider'
+T78	pos_IN 242 246	that
+#72	AnnotatorNotes T78	lemma = 'that'
+T79	pos_IN 247 249	at
+#73	AnnotatorNotes T79	lemma = 'at'
+T80	pos_JJ 250 255	first
+#74	AnnotatorNotes T80	lemma = '1'
+T81	pos_Fc 255 256	,
+#75	AnnotatorNotes T81	lemma = ','
+T82	pos_PRP 257 259	we
+#76	AnnotatorNotes T82	lemma = 'we'
+T83	pos_MD 260 266	should
+#77	AnnotatorNotes T83	lemma = 'should'
+T84	pos_VB 267 273	define
+#78	AnnotatorNotes T84	lemma = 'define'
+T85	pos_WP 274 278	what
+#79	AnnotatorNotes T85	lemma = 'what'
+T86	pos_PRP 279 281	we
+#80	AnnotatorNotes T86	lemma = 'we'
+T87	pos_VBP 282 286	call
+#81	AnnotatorNotes T87	lemma = 'call'
+T88	pos_DT 287 288	a
+#82	AnnotatorNotes T88	lemma = 'a'
+T89	pos_NN 289 297	graffity
+#83	AnnotatorNotes T89	lemma = 'graffity'
+T90	pos_Fp 297 298	.
+#84	AnnotatorNotes T90	lemma = '.'
+T91	pos_NNS 299 308	Paintings
+#85	AnnotatorNotes T91	lemma = 'painting'
+T92	pos_IN 309 311	of
+#86	AnnotatorNotes T92	lemma = 'of'
+T93	pos_NNS 312 323	graffitiers
+#87	AnnotatorNotes T93	lemma = 'graffitiers'
+T94	pos_VBP 324 328	vary
+#88	AnnotatorNotes T94	lemma = 'vary'
+T95	pos_Fd 328 329	:
+#89	AnnotatorNotes T95	lemma = ':'
+T96	pos_DT 330 334	some
+#90	AnnotatorNotes T96	lemma = 'some'
+T97	pos_IN 335 337	of
+#91	AnnotatorNotes T97	lemma = 'of'
+T98	pos_PRP 338 342	them
+#92	AnnotatorNotes T98	lemma = 'them'
+T99	pos_VBP 343 346	are
+#93	AnnotatorNotes T99	lemma = 'be'
+T100	pos_RB 347 353	really
+#94	AnnotatorNotes T100	lemma = 'really'
+T101	pos_JJ 354 359	worth
+#95	AnnotatorNotes T101	lemma = 'worth'
+T102	pos_VBG 360 367	calling
+#96	AnnotatorNotes T102	lemma = 'call'
+T103	pos_DT 368 369	a
+#97	AnnotatorNotes T103	lemma = 'a'
+T104	pos_NN 370 381	masterpiece
+#98	AnnotatorNotes T104	lemma = 'masterpiece'
+T105	pos_Fc 381 382	,
+#99	AnnotatorNotes T105	lemma = ','
+T106	pos_IN 383 388	while
+#100	AnnotatorNotes T106	lemma = 'while'
+T107	pos_NNS 389 395	others
+#101	AnnotatorNotes T107	lemma = 'other'
+T108	pos_PRP 396 398	we
+#102	AnnotatorNotes T108	lemma = 'we'
+T109	pos_MD 399 402	can
+#103	AnnotatorNotes T109	lemma = 'can'
+T110	pos_VB 403 410	compare
+#104	AnnotatorNotes T110	lemma = 'compare'
+T111	pos_IN 411 415	with
+#105	AnnotatorNotes T111	lemma = 'with'
+T112	pos_NN 416 428	hand-writing
+#106	AnnotatorNotes T112	lemma = 'hand-writing'
+T113	pos_NNS 429 438	paintings
+#107	AnnotatorNotes T113	lemma = 'painting'
+T114	pos_IN 439 441	on
+#108	AnnotatorNotes T114	lemma = 'on'
+T115	pos_DT 442 443	a
+#109	AnnotatorNotes T115	lemma = 'a'
+T116	pos_NN 444 449	fence
+#110	AnnotatorNotes T116	lemma = 'fence'
+T117	pos_Fp 449 450	.
+#111	AnnotatorNotes T117	lemma = '.'
+T118	pos_IN 451 455	From
+#112	AnnotatorNotes T118	lemma = 'from'
+T119	pos_DT 456 460	this
+#113	AnnotatorNotes T119	lemma = 'this'
+T120	pos_NN 461 465	view
+#114	AnnotatorNotes T120	lemma = 'view'
+T121	pos_Fc 465 466	,
+#115	AnnotatorNotes T121	lemma = ','
+T122	pos_PRP 467 468	I
+#116	AnnotatorNotes T122	lemma = 'i'
+T123	pos_VBP 469 474	agree
+#117	AnnotatorNotes T123	lemma = 'agree'
+T124	pos_Fc 474 475	,
+#118	AnnotatorNotes T124	lemma = ','
+T125	pos_IN 476 480	that
+#119	AnnotatorNotes T125	lemma = 'that'
+T126	pos_DT 481 484	the
+#120	AnnotatorNotes T126	lemma = 'the'
+T127	pos_JJ 485 490	first
+#121	AnnotatorNotes T127	lemma = '1'
+T128	pos_NN 491 495	type
+#122	AnnotatorNotes T128	lemma = 'type'
+T129	pos_VBZ 496 498	is
+#123	AnnotatorNotes T129	lemma = 'be'
+T130	pos_DT 499 501	an
+#124	AnnotatorNotes T130	lemma = 'a'
+T131	pos_NN 502 505	art
+#125	AnnotatorNotes T131	lemma = 'art'
+T132	pos_Fp 505 506	.
+#126	AnnotatorNotes T132	lemma = '.'
+T133	pos_PRP 507 509	It
+#127	AnnotatorNotes T133	lemma = 'it'
+T134	pos_VBZ 510 513	has
+#128	AnnotatorNotes T134	lemma = 'have'
+T135	pos_VBN 514 520	become
+#129	AnnotatorNotes T135	lemma = 'become'
+T136	pos_DT 521 522	a
+#130	AnnotatorNotes T136	lemma = 'a'
+T137	pos_JJ 523 529	modern
+#131	AnnotatorNotes T137	lemma = 'modern'
+T138	pos_NN 530 533	way
+#132	AnnotatorNotes T138	lemma = 'way'
+T139	pos_IN 534 537	for
+#133	AnnotatorNotes T139	lemma = 'for'
+T140	pos_PRP 538 542	many
+#134	AnnotatorNotes T140	lemma = 'many'
+T141	pos_NNS 543 552	teenagers
+#135	AnnotatorNotes T141	lemma = 'teenager'
+T142	pos_CC 553 556	and
+#136	AnnotatorNotes T142	lemma = 'and'
+T143	pos_NNS 557 563	adults
+#137	AnnotatorNotes T143	lemma = 'adult'
+T144	pos_TO 564 566	to
+#138	AnnotatorNotes T144	lemma = 'to'
+T145	pos_VB 567 574	express
+#139	AnnotatorNotes T145	lemma = 'express'
+T146	pos_PRP2 575 580	their
+#140	AnnotatorNotes T146	lemma = 'their'
+T147	pos_NNS 581 589	feelings
+#141	AnnotatorNotes T147	lemma = 'feeling'
+T148	pos_Fc 589 590	,
+#142	AnnotatorNotes T148	lemma = ','
+T149	pos_TO 591 593	to
+#143	AnnotatorNotes T149	lemma = 'to'
+T150	pos_VB 594 597	say
+#144	AnnotatorNotes T150	lemma = 'say'
+T151	pos_PRP 598 607	something
+#145	AnnotatorNotes T151	lemma = 'something'
+T152	pos_JJ 608 611	new
+#146	AnnotatorNotes T152	lemma = 'new'
+T153	pos_TO 612 614	to
+#147	AnnotatorNotes T153	lemma = 'to'
+T154	pos_NN 615 622	society
+#148	AnnotatorNotes T154	lemma = 'society'
+T155	pos_Fc 622 623	,
+#149	AnnotatorNotes T155	lemma = ','
+T156	pos_VB 624 631	develop
+#150	AnnotatorNotes T156	lemma = 'develop'
+T157	pos_DT 632 635	the
+#151	AnnotatorNotes T157	lemma = 'the'
+T158	pos_NN 636 639	art
+#152	AnnotatorNotes T158	lemma = 'art'
+T159	pos_Fp 639 640	.
+#153	AnnotatorNotes T159	lemma = '.'
+T160	pos_PRP 641 643	It
+#154	AnnotatorNotes T160	lemma = 'it'
+T161	pos_VBZ 644 646	is
+#155	AnnotatorNotes T161	lemma = 'be'
+T162	pos_DT 647 649	an
+#156	AnnotatorNotes T162	lemma = 'a'
+T163	pos_NN 650 661	opportunity
+#157	AnnotatorNotes T163	lemma = 'opportunity'
+T164	pos_TO 662 664	to
+#158	AnnotatorNotes T164	lemma = 'to'
+T165	pos_VB 665 671	create
+#159	AnnotatorNotes T165	lemma = 'create'
+T166	pos_DT 672 673	a
+#160	AnnotatorNotes T166	lemma = 'a'
+T167	pos_JJ 674 683	wonderful
+#161	AnnotatorNotes T167	lemma = 'wonderful'
+T168	pos_NNS 684 690	things
+#162	AnnotatorNotes T168	lemma = 'thing'
+T169	pos_Fp 690 691	.
+#163	AnnotatorNotes T169	lemma = '.'
+T170	pos_RB 692 705	Unfortunately
+#164	AnnotatorNotes T170	lemma = 'unfortunately'
+T171	pos_Fc 705 706	,
+#165	AnnotatorNotes T171	lemma = ','
+T172	pos_IN 707 709	in
+#166	AnnotatorNotes T172	lemma = 'in'
+T173	pos_PRP2 710 713	our
+#167	AnnotatorNotes T173	lemma = 'our'
+T174	pos_NN 714 721	country
+#168	AnnotatorNotes T174	lemma = 'country'
+T175	pos_DT 722 726	this
+#169	AnnotatorNotes T175	lemma = 'this'
+T176	pos_NN 727 731	kind
+#170	AnnotatorNotes T176	lemma = 'kind'
+T177	pos_IN 732 734	of
+#171	AnnotatorNotes T177	lemma = 'of'
+T178	pos_NN 735 738	art
+#172	AnnotatorNotes T178	lemma = 'art'
+T179	pos_VBZ 739 741	is
+#173	AnnotatorNotes T179	lemma = 'be'
+T180	pos_RB 742 745	not
+#174	AnnotatorNotes T180	lemma = 'not'
+T181	pos_VBN 746 755	supported
+#175	AnnotatorNotes T181	lemma = 'support'
+T182	pos_CC 756 759	and
+#176	AnnotatorNotes T182	lemma = 'and'
+T183	pos_IN 760 763	for
+#177	AnnotatorNotes T183	lemma = 'for'
+T184	pos_PRP 764 768	many
+#178	AnnotatorNotes T184	lemma = 'many'
+T185	pos_NNS 769 775	people
+#179	AnnotatorNotes T185	lemma = 'people'
+T186	pos_NNS 776 784	graffiti
+#180	AnnotatorNotes T186	lemma = 'graffito'
+T187	pos_VBZ 785 787	is
+#181	AnnotatorNotes T187	lemma = 'be'
+T188	pos_RB 788 793	still
+#182	AnnotatorNotes T188	lemma = 'still'
+T189	pos_DT 794 795	a
+#183	AnnotatorNotes T189	lemma = 'a'
+T190	pos_JJ 796 803	strange
+#184	AnnotatorNotes T190	lemma = 'strange'
+T191	pos_CC 804 807	and
+#185	AnnotatorNotes T191	lemma = 'and'
+T192	pos_JJ 808 822	unprofessional
+#186	AnnotatorNotes T192	lemma = 'unprofessional'
+T193	pos_NNS 823 832	paintings
+#187	AnnotatorNotes T193	lemma = 'painting'
+T194	pos_IN 833 835	of
+#188	AnnotatorNotes T194	lemma = 'of'
+T195	pos_NNS 836 845	teenagers
+#189	AnnotatorNotes T195	lemma = 'teenager'
+T196	pos_IN 846 848	on
+#190	AnnotatorNotes T196	lemma = 'on'
+T197	pos_DT 849 850	a
+#191	AnnotatorNotes T197	lemma = 'a'
+T198	pos_NN 851 856	fence
+#192	AnnotatorNotes T198	lemma = 'fence'
+T199	pos_Fp 856 857	.
+#193	AnnotatorNotes T199	lemma = '.'
+T200	pos_PRP 858 859	I
+#194	AnnotatorNotes T200	lemma = 'i'
+T201	pos_VBP 860 864	know
+#195	AnnotatorNotes T201	lemma = 'know'
+T202	pos_IN 865 869	that
+#196	AnnotatorNotes T202	lemma = 'that'
+T203	pos_RB 870 881	for example
+#197	AnnotatorNotes T203	lemma = 'for_example'
+T204	pos_Fc 881 882	,
+#198	AnnotatorNotes T204	lemma = ','
+T205	pos_IN 883 885	in
+#199	AnnotatorNotes T205	lemma = 'in'
+T206	pos_NP 886 894	New York
+#200	AnnotatorNotes T206	lemma = 'new_york'
+T207	pos_DT 895 896	a
+#201	AnnotatorNotes T207	lemma = 'a'
+T208	pos_JJ 897 904	special
+#202	AnnotatorNotes T208	lemma = 'special'
+T209	pos_NNS 905 912	regions
+#203	AnnotatorNotes T209	lemma = 'region'
+T210	pos_VBP 913 918	exist
+#204	AnnotatorNotes T210	lemma = 'exist'
+T211	pos_IN 919 922	for
+#205	AnnotatorNotes T211	lemma = 'for'
+T212	pos_NNS 923 940	graffiti-painters
+#206	AnnotatorNotes T212	lemma = 'graffiti-painters'
+T213	pos_Fc 940 941	,
+#207	AnnotatorNotes T213	lemma = ','
+T214	pos_WRB 942 947	where
+#208	AnnotatorNotes T214	lemma = 'where'
+T215	pos_PRP 948 952	they
+#209	AnnotatorNotes T215	lemma = 'they'
+T216	pos_MD 953 956	can
+#210	AnnotatorNotes T216	lemma = 'can'
+T217	pos_VB 957 961	draw
+#211	AnnotatorNotes T217	lemma = 'draw'
+T218	pos_IN 962 964	on
+#212	AnnotatorNotes T218	lemma = 'on'
+T219	pos_JJ 965 969	huge
+#213	AnnotatorNotes T219	lemma = 'huge'
+T220	pos_NNS 970 975	walls
+#214	AnnotatorNotes T220	lemma = 'wall'
+T221	pos_Fp 975 976	.
+#215	AnnotatorNotes T221	lemma = '.'
+T222	pos_IN 977 979	In
+#216	AnnotatorNotes T222	lemma = 'in'
+T223	pos_PDT 980 984	such
+#217	AnnotatorNotes T223	lemma = 'such'
+T224	pos_VBZ 985 991	places
+#218	AnnotatorNotes T224	lemma = 'place'
+T225	pos_VBG 992 998	making
+#219	AnnotatorNotes T225	lemma = 'make'
+T226	pos_DT 999 1000	a
+#220	AnnotatorNotes T226	lemma = 'a'
+T227	pos_NNS 1001 1009	graffiti
+#221	AnnotatorNotes T227	lemma = 'graffito'
+T228	pos_VBZ 1010 1013	has
+#222	AnnotatorNotes T228	lemma = 'have'
+T229	pos_VBN 1014 1020	become
+#223	AnnotatorNotes T229	lemma = 'become'
+T230	pos_DT 1021 1023	an
+#224	AnnotatorNotes T230	lemma = 'a'
+T231	pos_NN 1024 1027	art
+#225	AnnotatorNotes T231	lemma = 'art'
+T232	pos_CC 1028 1031	and
+#226	AnnotatorNotes T232	lemma = 'and'
+T233	pos_NNS 1032 1041	paintings
+#227	AnnotatorNotes T233	lemma = 'painting'
+T234	pos_NN 1042 1050	surprise
+#228	AnnotatorNotes T234	lemma = 'surprise'
+T235	pos_NNS 1051 1058	viewers
+#229	AnnotatorNotes T235	lemma = 'viewer'
+T236	pos_Fp 1058 1059	.
+#230	AnnotatorNotes T236	lemma = '.'
+T237	pos_RB 1060 1067	However
+#231	AnnotatorNotes T237	lemma = 'however'
+T238	pos_Fc 1067 1068	,
+#232	AnnotatorNotes T238	lemma = ','
+T239	pos_EX 1069 1074	there
+#233	AnnotatorNotes T239	lemma = 'there'
+T240	pos_VBP 1075 1078	are
+#234	AnnotatorNotes T240	lemma = 'be'
+T241	pos_DT 1079 1087	a lot of
+#235	AnnotatorNotes T241	lemma = 'a_lot_of'
+T242	pos_NNS 1088 1097	paintings
+#236	AnnotatorNotes T242	lemma = 'painting'
+T243	pos_WDT 1098 1103	which
+#237	AnnotatorNotes T243	lemma = 'which'
+T244	pos_VBD 1104 1108	used
+#238	AnnotatorNotes T244	lemma = 'use'
+T245	pos_TO 1109 1111	to
+#239	AnnotatorNotes T245	lemma = 'to'
+T246	pos_VB 1112 1116	call
+#240	AnnotatorNotes T246	lemma = 'call'
+T247	pos_NNS 1117 1125	graffiti
+#241	AnnotatorNotes T247	lemma = 'graffito'
+T248	pos_Fc 1125 1126	,
+#242	AnnotatorNotes T248	lemma = ','
+T249	pos_CC 1127 1130	but
+#243	AnnotatorNotes T249	lemma = 'but'
+T250	pos_WDT 1131 1136	which
+#244	AnnotatorNotes T250	lemma = 'which'
+T251	pos_MD 1137 1140	can
+#245	AnnotatorNotes T251	lemma = 'can'
+T252	pos_RB 1141 1144	not
+#246	AnnotatorNotes T252	lemma = 'not'
+T253	pos_VB 1145 1147	be
+#247	AnnotatorNotes T253	lemma = 'be'
+T254	pos_VBN 1148 1158	considered
+#248	AnnotatorNotes T254	lemma = 'consider'
+T255	pos_IN 1159 1161	as
+#249	AnnotatorNotes T255	lemma = 'as'
+T256	pos_NN 1162 1165	art
+#250	AnnotatorNotes T256	lemma = 'art'
+T257	pos_Fp 1165 1166	.
+#251	AnnotatorNotes T257	lemma = '.'
+T258	pos_RB 1167 1178	For example
+#252	AnnotatorNotes T258	lemma = 'for_example'
+T259	pos_Fc 1178 1179	,
+#253	AnnotatorNotes T259	lemma = ','
+T260	pos_DT 1180 1184	some
+#254	AnnotatorNotes T260	lemma = 'some'
+T261	pos_NNS 1185 1194	paintings
+#255	AnnotatorNotes T261	lemma = 'painting'
+T262	pos_CC 1195 1197	or
+#256	AnnotatorNotes T262	lemma = 'or'
+T263	pos_NNS 1198 1205	scripts
+#257	AnnotatorNotes T263	lemma = 'script'
+T264	pos_IN 1206 1213	without
+#258	AnnotatorNotes T264	lemma = 'without'
+T265	pos_NN 1214 1224	censorship
+#259	AnnotatorNotes T265	lemma = 'censorship'
+T266	pos_Fp 1224 1225	.
+#260	AnnotatorNotes T266	lemma = '.'
+T267	pos_PRP 1226 1227	I
+#261	AnnotatorNotes T267	lemma = 'i'
+T268	pos_VBP 1228 1233	agree
+#262	AnnotatorNotes T268	lemma = 'agree'
+T269	pos_DT 1234 1238	that
+#263	AnnotatorNotes T269	lemma = 'that'
+T270	pos_RBS 1239 1243	most
+#264	AnnotatorNotes T270	lemma = 'many'
+T271	pos_IN 1244 1246	of
+#265	AnnotatorNotes T271	lemma = 'of'
+T272	pos_PRP 1247 1251	them
+#266	AnnotatorNotes T272	lemma = 'them'
+T273	pos_VBP 1252 1255	are
+#267	AnnotatorNotes T273	lemma = 'be'
+T274	pos_JJ 1256 1262	likely
+#268	AnnotatorNotes T274	lemma = 'likely'
+T275	pos_TO 1263 1265	to
+#269	AnnotatorNotes T275	lemma = 'to'
+T276	pos_VB 1266 1268	be
+#270	AnnotatorNotes T276	lemma = 'be'
+T277	pos_DT 1269 1270	a
+#271	AnnotatorNotes T277	lemma = 'a'
+T278	pos_NN 1271 1275	sort
+#272	AnnotatorNotes T278	lemma = 'sort'
+T279	pos_IN 1276 1278	of
+#273	AnnotatorNotes T279	lemma = 'of'
+T280	pos_NN 1279 1288	vandalism
+#274	AnnotatorNotes T280	lemma = 'vandalism'
+T281	pos_Fp 1288 1289	.
+#275	AnnotatorNotes T281	lemma = '.'
+T282	pos_TO 1291 1293	To
+#276	AnnotatorNotes T282	lemma = 'to'
+T283	pos_VB 1294 1297	sum
+#277	AnnotatorNotes T283	lemma = 'sum'
+T284	pos_PRP 1298 1300	it
+#278	AnnotatorNotes T284	lemma = 'it'
+T285	pos_RP 1301 1303	up
+#279	AnnotatorNotes T285	lemma = 'up'
+T286	pos_Fc 1303 1304	,
+#280	AnnotatorNotes T286	lemma = ','
+T287	pos_NNS 1305 1313	graffiti
+#281	AnnotatorNotes T287	lemma = 'graffito'
+T288	pos_MD 1314 1317	may
+#282	AnnotatorNotes T288	lemma = 'may'
+T289	pos_VB 1318 1320	be
+#283	AnnotatorNotes T289	lemma = 'be'
+T290	pos_PDT 1321 1325	both
+#284	AnnotatorNotes T290	lemma = 'both'
+T291	pos_DT 1326 1327	a
+#285	AnnotatorNotes T291	lemma = 'a'
+T292	pos_NN 1328 1334	branch
+#286	AnnotatorNotes T292	lemma = 'branch'
+T293	pos_IN 1335 1337	of
+#287	AnnotatorNotes T293	lemma = 'of'
+T294	pos_JJ 1338 1344	modern
+#288	AnnotatorNotes T294	lemma = 'modern'
+T295	pos_NN 1345 1348	art
+#289	AnnotatorNotes T295	lemma = 'art'
+T296	pos_CC 1349 1352	and
+#290	AnnotatorNotes T296	lemma = 'and'
+T297	pos_DT 1353 1355	an
+#291	AnnotatorNotes T297	lemma = 'a'
+T298	pos_NN 1356 1359	act
+#292	AnnotatorNotes T298	lemma = 'act'
+T299	pos_IN 1360 1362	of
+#293	AnnotatorNotes T299	lemma = 'of'
+T300	pos_NN 1363 1372	vandalism
+#294	AnnotatorNotes T300	lemma = 'vandalism'
+T301	pos_Fp 1372 1373	.
+#295	AnnotatorNotes T301	lemma = '.'
+T302	pos_PRP 1374 1376	It
+#296	AnnotatorNotes T302	lemma = 'it'
+T303	pos_VBZ 1377 1384	depends
+#297	AnnotatorNotes T303	lemma = 'depend'
+T304	pos_IN 1385 1387	on
+#298	AnnotatorNotes T304	lemma = 'on'
+T305	pos_DT 1388 1391	the
+#299	AnnotatorNotes T305	lemma = 'the'
+T306	pos_NN 1392 1399	painter
+#300	AnnotatorNotes T306	lemma = 'painter'
+T307	pos_Fc 1399 1400	,
+#301	AnnotatorNotes T307	lemma = ','
+T308	pos_VBG 1401 1409	painting
+#302	AnnotatorNotes T308	lemma = 'paint'
+T309	pos_CC 1410 1413	and
+#303	AnnotatorNotes T309	lemma = 'and'
+T310	pos_DT 1414 1417	the
+#304	AnnotatorNotes T310	lemma = 'the'
+T311	pos_NN 1418 1423	place
+#305	AnnotatorNotes T311	lemma = 'place'
+T312	pos_Fc 1423 1424	,
+#306	AnnotatorNotes T312	lemma = ','
+T313	pos_WRB 1425 1430	where
+#307	AnnotatorNotes T313	lemma = 'where'
+T314	pos_PRP 1431 1433	it
+#308	AnnotatorNotes T314	lemma = 'it'
+T315	pos_VBZ 1434 1436	is
+#309	AnnotatorNotes T315	lemma = 'be'
+T316	pos_VBN 1437 1442	drawn
+#310	AnnotatorNotes T316	lemma = 'draw'
+T317	pos_Fp 1442 1443	.
+#311	AnnotatorNotes T317	lemma = '.'

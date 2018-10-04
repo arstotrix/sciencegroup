@@ -1,0 +1,98 @@
+T1	Spelling 6772 6785	worzuberieten
+#1	AnnotatorNotes T1	vorzubereiten
+T2	Spelling 7110 7117	gingsie
+#2	AnnotatorNotes T2	ging sie
+T3	Adjectives 20037 20041	viel
+#3	AnnotatorNotes T3	viele
+T4	Pronouns 20088 20092	habe
+#4	AnnotatorNotes T4	habe mich
+T5	Verb_pattern 20129 20137	geärgert
+#5	AnnotatorNotes T5	(reflexive verb)
+T6	Pronouns 20143 20147	habe
+#6	AnnotatorNotes T6	habe mich
+T7	Verb_pattern 20171 20178	gefreut
+#7	AnnotatorNotes T7	(reflexive verb)
+R1	Dependent_change Arg1:T5 Arg2:T4	
+R2	Dependent_change Arg1:T7 Arg2:T6	
+T8	Articles 20189 20192	ein
+#8	AnnotatorNotes T8	eine (feminine)
+T9	Spelling 20211 20219	getraümt
+#9	AnnotatorNotes T9	geträumt
+T10	note 30298 30308	eine halbe
+#10	AnnotatorNotes T10	Corrected sentence. The learner's mistake was 'halb' instead of 'eine halbe'
+T11	note 30571 30574	die
+#11	AnnotatorNotes T11	Corrected sentence. The learner's mistake was zero article.
+T12	note 30663 30673	eine halbe
+#12	AnnotatorNotes T12	Corrected sentence. The leraner's mistake was 'halb' instead of 'eine halbe'
+T13	Pronouns 30513 30518	etwas
+A1	Delete T13
+T14	Word_choice 33350 33353	Uhr
+#13	AnnotatorNotes T14	Stunden
+T15	Word_choice 33419 33422	Uhr
+#14	AnnotatorNotes T15	Stunden
+T16	Word_choice 33479 33482	Uhr
+#15	AnnotatorNotes T16	Stunden
+T17	Word_order 33503 33507	mich
+T18	Word_order 33473 33476	ich
+#16	AnnotatorNotes T18	ich mich
+T19	Word_choice 33565 33568	Uhr
+#17	AnnotatorNotes T19	Stunden
+T20	Word_order 33569 33573	mich
+T21	Standard 33552 33556	habe
+#18	AnnotatorNotes T21	habe mich
+R4	Dependent_change Arg1:T20 Arg2:T21	
+R3	Dependent_change Arg1:T17 Arg2:T18	
+T22	Word_choice 33625 33628	Uhr
+#19	AnnotatorNotes T22	Stunden
+T23	Determiners 33633 33639	Urlaub
+#20	AnnotatorNotes T23	einem
+T24	Word_choice 33667 33670	Uhr
+#21	AnnotatorNotes T24	Stunden
+T25	Pronouns 34426 34432	seiner
+#22	AnnotatorNotes T25	seinem
+T26	Articles 34487 34498	dem teueren
+#23	AnnotatorNotes T26	das teueres
+T27	Pronouns 34859 34865	seiner
+#24	AnnotatorNotes T27	seines
+T28	Nouns 34948 34958	den leeren
+#25	AnnotatorNotes T28	die leere
+T29	Pronouns 35001 35007	seinen
+#26	AnnotatorNotes T29	seine (Akk, Pl)
+T30	Pronouns 35046 35052	seiner
+#27	AnnotatorNotes T30	seinen
+T31	Spelling 28905 28910	micht
+#28	AnnotatorNotes T31	mich
+T32	Word_choice 35663 35668	einst
+#29	AnnotatorNotes T32	vorhin
+T33	Word_choice 35937 35944	Nachher
+#30	AnnotatorNotes T33	Demnächst
+T34	Word_choice 36337 36343	Morgen
+#31	AnnotatorNotes T34	kürzlich
+T35	Word_choice 36422 36431	demnächst
+#32	AnnotatorNotes T35	gleich
+T36	Word_choice 36480 36486	gleich
+#33	AnnotatorNotes T36	sofort
+T37	note 39783 39788	Weißt
+#34	AnnotatorNotes T37	corrected, the learner's mistake was in "Wießt"
+T38	Spelling 39783 39788	Weißt
+#35	AnnotatorNotes T38	Weißt
+T39	note 40054 40059	jetzt
+#36	AnnotatorNotes T39	corrected, the learner's mistake was "momentan"
+T40	Word_choice 40054 40059	jetzt
+T41	note 16327 16334	Mit wem
+#37	AnnotatorNotes T41	corrected, the learner's mistake was "Womit"
+T43	Pronouns 16327 16334	Mit wem
+#39	AnnotatorNotes T43	Mit wem
+T44	note 16688 16695	Mit wem
+#40	AnnotatorNotes T44	corrected, the learner's mistake was "Womit"
+T42	Pronouns 16688 16695	Mit wem
+T45	Prepositions 17267 17272	dabei
+#38	AnnotatorNotes T45	dafür 
+T46	note 48656 48660	sind
+#41	AnnotatorNotes T46	corrected, the learner's mistake "ist"
+T47	Verbs 48656 48660	sind
+#42	AnnotatorNotes T47	ist
+T48	note 48916 48919	wie
+#43	AnnotatorNotes T48	corrected, the learner's mistake was "als"
+T49	Adverbs 48916 48919	wie
+#44	AnnotatorNotes T49	wie

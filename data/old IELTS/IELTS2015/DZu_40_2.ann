@@ -1,0 +1,32 @@
+T1	Tense_choice 37 47	are having
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	have 
+T2	suggestion 169 172	Its
+A4	Cause T2 Typo
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	It
+T3	Often_confused 211 214	its
+A7	Cause T3 Typo
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	it's
+T5	Articles 23 33	experience
+#5	AnnotatorNotes T5	the experience
+T6	Redundant_comp 84 124	Because characteristics we are born with
+#6	AnnotatorNotes T6	The characteristics we are born with
+T7	Articles 92 107	characteristics
+#7	AnnotatorNotes T7	the characterstics
+T8	Confusion_of_structures 173 182	no matter
+#8	AnnotatorNotes T8	does not matter
+R1	Dependent_change Arg1:T8 Arg2:T2	
+T9	Articles 196 201	human
+#9	AnnotatorNotes T9	a person
+T10	Articles 205 210	child
+#10	AnnotatorNotes T10	a child
+T11	lex_item_choice 196 201	human
+#11	AnnotatorNotes T11	person
+T12	Inappropriate_register 234 237	his
+#12	AnnotatorNotes T12	his or her

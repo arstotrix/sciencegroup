@@ -1,0 +1,71 @@
+T1	suggestion 36 51	male and female
+#1	AnnotatorNotes T1	male and female students
+T2	Punctuation 204 225	From my point of view
+#2	AnnotatorNotes T2	From my point of view,
+T3	Articles 256 268	equal number
+#3	AnnotatorNotes T3	an equal number
+T4	Spelling 429 440	engeneering
+#4	AnnotatorNotes T4	engineering
+T5	Category_confusion 462 466	male
+#5	AnnotatorNotes T5	men
+T6	Articles 661 667	person
+#6	AnnotatorNotes T6	a person
+T7	Prepositional_verb 729 745	fascinated about
+#7	AnnotatorNotes T7	fascinated by
+T8	lex_item_choice 978 985	finally
+#8	AnnotatorNotes T8	in the end
+T9	Spelling 1044 1049	wonen
+#9	AnnotatorNotes T9	women
+T11	Articles 1277 1291	discrimination
+#11	AnnotatorNotes T11	the discrimination
+T12	Often_confused 1545 1562	effect positively
+#12	AnnotatorNotes T12	have any positive effects
+T13	Articles 1305 1315	the gender
+#13	AnnotatorNotes T13	gender
+T14	Absence_comp_sent 92 104	They believe
+#14	AnnotatorNotes T14	They believe that
+T15	lex_item_choice 132 136	good
+#15	AnnotatorNotes T15	positive
+T16	lex_item_choice 151 156	total
+#16	AnnotatorNotes T16	final
+T17	Spelling 623 636	worth-wasting
+#17	AnnotatorNotes T17	worth wasting
+T18	Lack_par_constr 616 636	is not worth-wasting
+#18	AnnotatorNotes T18	not worth wasting
+T19	Absence_comp_sent 815 817	is
+#19	AnnotatorNotes T19	it is 
+T20	Non_defining 376 381	which
+#20	AnnotatorNotes T20	, which
+T22	Absence_explanation 828 830	to
+#22	AnnotatorNotes T22	for them to 
+T24	Punctuation 906 911	which
+#24	AnnotatorNotes T24	, which
+T25	Punctuation 948 952	will
+#25	AnnotatorNotes T25	, will
+T26	Articles 1107 1118	cooperation
+#26	AnnotatorNotes T26	the cooperation
+T27	Absence_comp_sent 1101 1106	helps
+#27	AnnotatorNotes T27	helps with
+T28	Redundant_comp 1159 1214	there is a problem that there are too many programmists
+#28	AnnotatorNotes T28	there is a problem of excessive amount of programmists 
+T29	Spelling 1202 1214	programmists
+#29	AnnotatorNotes T29	programmers
+T30	Redundant_comp 1202 1226	programmists who are men
+#30	AnnotatorNotes T30	male programmers 
+T31	Redundant_comp 1231 1252	doctors who are women
+#31	AnnotatorNotes T31	female doctors
+T32	lex_item_choice 1493 1500	subject
+#32	AnnotatorNotes T32	area
+T34	Prepositions 1355 1357	on
+#34	AnnotatorNotes T34	at
+T10	Redundant_comp 529 537	a couple
+A1	Delete T10
+T21	lex_item_choice 543 548	hours
+#10	AnnotatorNotes T21	time
+R1	Dependent_change Arg1:T10 Arg2:T21	
+T35	suggestion 376 381	which
+T36	suggestion 772 787	German language
+T37	suggestion 963 969	better
+T23	suggestion 906 947	which is not interesting and is difficult
+T33	note 1576 1583	results
+#21	AnnotatorNotes T33	Приходина

@@ -1,0 +1,36 @@
+T1	Absence_explanation 56 59	for
+#1	AnnotatorNotes T1	for first-year students in
+T2	Articles 121 128	results
+T3	lex_item_choice 170 174	done
+T4	Capitalisation 178 194	computer science
+T5	lex_item_choice 227 231	this
+T6	lex_item_choice 232 236	exam
+#2	AnnotatorNotes T6	-
+T7	Punctuation 194 195	.
+#3	AnnotatorNotes T7	:
+T8	Capitalisation 196 197	I
+#4	AnnotatorNotes T8	i
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Voice 293 308	students showed
+#5	AnnotatorNotes T9	were demonstrated by students
+T10	lex_item_choice 153 164	assessments
+T11	lex_item_choice 625 631	amount
+T13	Articles 344 353	two years
+#6	AnnotatorNotes T13	the two years
+T14	lex_item_choice 713 719	remind
+T15	Noun_number 757 763	number
+#7	AnnotatorNotes T15	numbers
+T16	Punctuation 882 883	.
+#8	AnnotatorNotes T16	:
+T17	Coherence 912 938	decrease in exams’ results
+#9	AnnotatorNotes T2	the
+T18	Capitalisation 884 885	N
+#10	AnnotatorNotes T14	remain
+#11	AnnotatorNotes T4	Computer Science
+#12	AnnotatorNotes T10	grades
+#13	AnnotatorNotes T3	got
+#14	AnnotatorNotes T5	-
+#15	AnnotatorNotes T11	percentage
+#16	AnnotatorNotes T18	"n"
+T19	lex_item_choice 442 450	the exam
+#17	AnnotatorNotes T19	-

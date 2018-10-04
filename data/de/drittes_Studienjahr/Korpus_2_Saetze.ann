@@ -1,0 +1,19 @@
+T1	Adjectives 12825 12830	guten
+#1	AnnotatorNotes T1	gutes
+T2	Modals 8906 8910	soll
+#2	AnnotatorNotes T2	sollte
+T3	Infinitive_constr 9124 9130	kommen
+#3	AnnotatorNotes T3	zu kommen
+T4	note 9103 9105	um
+#4	AnnotatorNotes T4	um ... zu
+R1	Parallel_construction Arg1:T4 Arg2:T3	
+T5	Modals 9136 9140	soll
+#5	AnnotatorNotes T5	sollte
+T6	Articles 9179 9182	ein
+#6	AnnotatorNotes T6	einen
+T7	Nouns 9183 9189	Expert
+#7	AnnotatorNotes T7	Experten
+T8	Modals 9330 9334	soll
+#8	AnnotatorNotes T8	sollte
+T9	Word_choice 9354 9361	richten
+#9	AnnotatorNotes T9	wenden

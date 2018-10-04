@@ -1,0 +1,29 @@
+T1	Prepositions 103 108	since
+A1	Cause T1 Absence_of_Category_in_L1
+#1	AnnotatorNotes T1	from
+T2	Numerals 544 572	9,9 millions of young people
+#2	AnnotatorNotes T2	9.9 million young people
+T3	Numerals 919 948	7,7 millions of children boys
+#3	AnnotatorNotes T3	7.7 million boys
+T4	Numerals 798 819	10,5 millions of boys
+#4	AnnotatorNotes T4	10.5 million boys
+T5	Numerals 391 417	32,7 millions of teenagers
+#5	AnnotatorNotes T5	32.7 million  teenagers
+T7	Articles 148 161	Rest of World
+#7	AnnotatorNotes T7	the Rest of the World
+T9	Ref_device 362 371	least one
+#9	AnnotatorNotes T9	least
+T10	lex_item_choice 316 321	learn
+#10	AnnotatorNotes T10	study
+T11	Redundant 935 948	children boys
+A2	Delete T11
+#11	AnnotatorNotes T11	boys
+T12	Tense_form 573 579	hadn’t
+#12	AnnotatorNotes T12	didn't have
+T13	Redundant_comp 594 609	mentioned above
+A3	Delete T13
+T14	suggestion 776 789	Rest of World
+T15	Standard 719 763	the least position had girls from South Asia
+#13	AnnotatorNotes T15	girls from South Asia had the least position
+T16	Spelling 310 315	did’n
+#14	AnnotatorNotes T16	did not

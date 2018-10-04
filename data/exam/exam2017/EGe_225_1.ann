@@ -1,0 +1,32 @@
+T1	Absence_explanation 203 210	by road
+#1	AnnotatorNotes T1	is goods transported by road
+T2	Spelling 253 259	matals
+#2	AnnotatorNotes T2	metals
+T3	Noun_number 285 289	good
+#3	AnnotatorNotes T3	goods
+T4	Prepositions 493 495	by
+#4	AnnotatorNotes T4	for
+T5	lex_item_choice 352 356	part
+#5	AnnotatorNotes T5	chart
+T6	Absence_explanation 572 577	first
+#6	AnnotatorNotes T6	first chart
+T7	Prepositions 581 583	by
+#7	AnnotatorNotes T7	for
+T8	Punctuation 655 680	, as a manufactured goods
+#8	AnnotatorNotes T8	as manufactured goods
+T9	Articles 660 661	a
+A1	Delete T9
+T10	Redundant_comp 792 802	clear that
+A2	Delete T10
+T11	Absence_explanation 843 848	level
+#9	AnnotatorNotes T11	level of railroad transportation
+T12	Spelling 881 891	depednding
+#10	AnnotatorNotes T12	dependence
+T13	Category_confusion 881 891	depednding
+#11	AnnotatorNotes T13	dependence
+T14	Agreement_errors 961 972	it includes
+#12	AnnotatorNotes T14	they include
+T15	Agreement_errors 941 951	two charts
+R1	Dependent_change Arg1:T14 Arg2:T15	
+T16	note 1006 1007	s
+#13	AnnotatorNotes T16	Zavyalov

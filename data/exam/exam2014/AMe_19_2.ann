@@ -1,0 +1,143 @@
+T1	Redundant_comp 0 2	In
+T2	Capitalisation 3 6	our
+#1	AnnotatorNotes T2	Our
+T3	Suffix 17 23	talent
+#2	AnnotatorNotes T3	talented
+T4	Absence_comp_sent 31 49	who have own ideas
+#3	AnnotatorNotes T4	who have their own ideas
+T5	lex_item_choice 84 91	freedom
+#4	AnnotatorNotes T5	allow
+T6	Agreement_errors 77 83	do not
+#5	AnnotatorNotes T6	does not
+T7	Infinitive_constr 92 94	do
+#6	AnnotatorNotes T7	to do
+R1	Dependent_change Arg1:T7 Arg2:T5	
+T8	Absence_comp_sent 84 94	freedom do
+#7	AnnotatorNotes T8	allow them to do
+T9	Redundant_comp 95 99	that
+T10	Absence_comp_sent 100 109	what want
+#8	AnnotatorNotes T10	what they want
+T11	Redundant_comp 110 115	to do
+R2	Parallel_construction Arg1:T11 Arg2:T7	
+T12	Redundant_comp 116 132	greative artists
+T14	Tense_choice 251 255	says
+T13	Defining 245 250	which
+#9	AnnotatorNotes T13	who
+#10	AnnotatorNotes T14	say
+T15	Pronouns 256 260	that
+#11	AnnotatorNotes T15	what
+T16	Redundant_comp 268 289	can do and do not can
+#12	AnnotatorNotes T16	can and cannot do
+T17	Suffix 291 298	Tallent
+#13	AnnotatorNotes T17	Talented 
+T18	Spelling 291 298	Tallent
+#14	AnnotatorNotes T18	Talented
+T19	Determiners 311 315	many
+#15	AnnotatorNotes T19	a lot of
+T20	Suffix 355 362	amoraly
+#16	AnnotatorNotes T20	amoral
+T21	Conjunctions 363 367	that
+#17	AnnotatorNotes T21	and that
+T22	Redundant_comp 375 391	goverment don’t.
+T23	Redundant_comp 397 404	kind of
+T24	Spelling 415 423	stranges
+#18	AnnotatorNotes T24	strange
+T25	Articles 428 437	goverment
+#19	AnnotatorNotes T25	the government
+T26	Spelling 491 498	tallant
+#20	AnnotatorNotes T26	talented
+T27	Suffix 491 498	tallant
+#21	AnnotatorNotes T27	talented
+T28	Spelling 506 509	con
+#22	AnnotatorNotes T28	can
+T29	Spelling 524 530	socity
+#23	AnnotatorNotes T29	society
+T30	Defining 539 544	which
+#24	AnnotatorNotes T30	when
+T31	Absence_comp_sent 552 561	something
+#25	AnnotatorNotes T31	do something
+T32	Redundant_comp 562 568	things
+T33	Conjunctions 570 575	which
+#26	AnnotatorNotes T33	and
+T34	lex_item_choice 576 582	simple
+#27	AnnotatorNotes T34	ordinary
+T35	Prepositional_verb 590 596	listen
+#28	AnnotatorNotes T35	listen to
+T36	Absence_comp_sent 590 607	listen first time
+#29	AnnotatorNotes T36	listen to it for the
+T37	Punctuation 614 624	feel, that
+#30	AnnotatorNotes T37	feel that
+T38	Agreement_errors 646 655	ideas are
+#31	AnnotatorNotes T38	idea is
+T39	Voice 652 662	are forgot
+#32	AnnotatorNotes T39	is forgotten
+T40	Redundant_comp 670 674	that
+T41	Pronouns 699 708	something
+#33	AnnotatorNotes T41	some
+T42	Modals 714 719	found
+#34	AnnotatorNotes T42	can be found
+T43	Redundant_comp 720 723	and
+T44	lex_item_choice 730 738	actually
+#35	AnnotatorNotes T44	authentic
+T45	Tense_choice 774 776	is
+#36	AnnotatorNotes T45	was
+T46	lex_item_choice 777 782	false
+#37	AnnotatorNotes T46	fake
+T47	Comparative_adj 744 750	earlie
+#38	AnnotatorNotes T47	earlier
+T48	Spelling 932 941	dengerase
+#39	AnnotatorNotes T48	dangerous
+T49	Absence_comp_sent 822 833	think other
+#40	AnnotatorNotes T49	think about other
+T50	lex_item_choice 834 841	compare
+T51	Redundant_comp 842 848	simple
+#41	AnnotatorNotes T50	similar
+T52	Category_confusion 913 920	forbate
+#42	AnnotatorNotes T52	forbidden
+T53	Spelling 913 920	forbate
+#43	AnnotatorNotes T53	forbid
+T54	Negation 980 989	should be
+#44	AnnotatorNotes T54	should not
+T55	Category_confusion 990 1001	restriction
+#45	AnnotatorNotes T55	restrict
+T56	Spelling 1002 1009	tallent
+#46	AnnotatorNotes T56	talent
+T57	Suffix 1002 1009	tallent
+#47	AnnotatorNotes T57	talented
+T58	Prepositions 1017 1022	think
+#48	AnnotatorNotes T58	from thinking
+T59	Category_confusion 1023 1030	freedom
+#49	AnnotatorNotes T59	freely
+T60	Gerund_phrase 1017 1030	think freedom
+#50	AnnotatorNotes T60	from thinking freely
+T61	Category_confusion 1059 1066	success
+#51	AnnotatorNotes T61	successful
+T62	Prepositions 1081 1084	for
+#52	AnnotatorNotes T62	of
+T63	lex_item_choice 1085 1091	depend
+#53	AnnotatorNotes T63	the development
+T64	Articles 1085 1091	depend
+#54	AnnotatorNotes T64	the development
+T65	Prepositions 1092 1101	our world
+#55	AnnotatorNotes T65	of
+T66	Spelling 1103 1108	Mayby
+#56	AnnotatorNotes T66	Maybe
+T67	Spelling 1145 1154	experiace
+#57	AnnotatorNotes T67	experience
+T68	Pronouns 1184 1188	them
+#58	AnnotatorNotes T68	their
+T69	Modals 1195 1204	begin use
+#59	AnnotatorNotes T69	began to be used
+A1	Cause T61 L1_interference
+T70	lex_item_choice 1219 1221	do
+#60	AnnotatorNotes T70	should
+T71	Absence_comp_sent 1214 1225	that do not
+#61	AnnotatorNotes T71	that this should not
+T72	Articles 1229 1237	criteria
+#62	AnnotatorNotes T72	a criteria
+T73	Prepositional_noun 1229 1237	criteria
+#63	AnnotatorNotes T73	criteria of
+T74	Redundant_comp 1279 1280	’
+T75	Negation 1273 1275	is
+#64	AnnotatorNotes T75	isn't
+T76	suggestion 642 645	any

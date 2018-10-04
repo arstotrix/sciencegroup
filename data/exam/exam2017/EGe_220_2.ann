@@ -1,0 +1,66 @@
+T1	Noun_number 65 73	a lot of
+#1	AnnotatorNotes T1	lots of
+T2	Spelling 81 83	al
+#2	AnnotatorNotes T2	all
+T3	Spelling 116 120	wanr
+#3	AnnotatorNotes T3	want
+T4	Spelling 121 124	rhe
+#4	AnnotatorNotes T4	to
+T5	Prepositions 175 182	morning
+#5	AnnotatorNotes T5	in the morning
+T6	Absence_explanation 204 209	crime
+#6	AnnotatorNotes T6	crime level
+T7	Agreement_errors 210 214	rise
+#7	AnnotatorNotes T7	rises
+T8	Agreement_errors 204 209	crime
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	lex_item_choice 236 240	such
+#8	AnnotatorNotes T9	some
+T10	lex_item_choice 231 235	find
+#9	AnnotatorNotes T10	look for
+T11	Spelling 265 271	poeple
+#10	AnnotatorNotes T11	people
+T12	Spelling 316 323	priosin
+#11	AnnotatorNotes T12	prison
+T13	Noun_number 388 396	a lot of
+#12	AnnotatorNotes T13	lots of 
+T14	lex_item_choice 439 444	not a
+#13	AnnotatorNotes T14	no
+T15	Noun_number 508 516	a lot of
+#14	AnnotatorNotes T15	lots of
+T16	Noun_number 553 561	a lot of
+#15	AnnotatorNotes T16	lots of
+T17	Agreement_errors 627 632	works
+#16	AnnotatorNotes T17	work
+T18	Agreement_errors 614 622	russians
+R2	Dependent_change Arg1:T17 Arg2:T18	
+T19	lex_item_choice 673 681	consider
+#17	AnnotatorNotes T19	think 
+T20	Agreement_errors 725 728	are
+#18	AnnotatorNotes T20	is
+T21	Agreement_errors 718 724	prison
+R3	Dependent_change Arg1:T20 Arg2:T21	
+T22	Articles 766 769	the
+#19	AnnotatorNotes T22	for a
+T23	Tense_choice 780 786	became
+#20	AnnotatorNotes T23	become
+T24	Abs_comp_clause 905 919	are not prison
+#21	AnnotatorNotes T24	there aren't any prisons
+T25	Noun_number 938 944	prison
+#22	AnnotatorNotes T25	prisons
+T26	Agreement_errors 945 948	are
+#23	AnnotatorNotes T26	is
+T27	Agreement_errors 927 934	quality
+R4	Dependent_change Arg1:T26 Arg2:T27	
+T28	lex_item_choice 1049 1060	stand up in
+#24	AnnotatorNotes T28	turn to 
+T29	Noun_number 1165 1174	knowleges
+#25	AnnotatorNotes T29	knowledge
+T30	Absence_explanation 1201 1208	Prisons
+#26	AnnotatorNotes T30	Number of prisons
+T31	Gerund_phrase 1263 1267	work
+#27	AnnotatorNotes T31	working
+T32	Punctuation 1318 1331	In conclusion
+#28	AnnotatorNotes T32	In conclusion,
+T33	note 1435 1436	e
+#29	AnnotatorNotes T33	Zavyalov

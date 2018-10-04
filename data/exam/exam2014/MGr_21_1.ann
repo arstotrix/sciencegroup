@@ -1,0 +1,43 @@
+T1	Articles 34 54	usage of electricity
+#1	AnnotatorNotes T1	the usage of electricity
+T3	lex_item_choice 132 138	reason
+#3	AnnotatorNotes T3	aim
+T4	suggestion 154 160	demand
+T5	Possessive 312 320	winter’s
+#5	AnnotatorNotes T5	winter
+T6	lex_item_choice 655 670	prefer to spend
+#6	AnnotatorNotes T6	is also used
+T7	Spelling 734 737	ant
+#7	AnnotatorNotes T7	and
+T8	Spelling 895 903	tendeney
+#8	AnnotatorNotes T8	tendency
+T2	lex_item_choice 132 138	reason
+#2	AnnotatorNotes T2	different uses
+A1	Delete T4
+T9	lex_item_choice 229 234	units
+#4	AnnotatorNotes T9	consumption
+T10	Agreement_errors 250 253	are
+#9	AnnotatorNotes T10	is
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	Standard 312 328	winter’s typical
+#10	AnnotatorNotes T11	typical winter
+T12	Absence_explanation 362 367	point
+#11	AnnotatorNotes T12	point of 45000 units
+T13	Agreement_errors 483 494	flacturates
+T14	Agreement_errors 523 528	drops
+#12	AnnotatorNotes T14	drop
+#13	AnnotatorNotes T13	fluctuate
+T15	Absence_explanation 471 482	both graphs
+#14	AnnotatorNotes T15	lines in both graphs
+T16	suggestion 671 677	energy
+A2	Delete T16
+T17	Absence_explanation 645 654	One fifth
+#15	AnnotatorNotes T17	One fifth of the total amount
+T18	Articles 728 733	third
+#16	AnnotatorNotes T18	the third
+T19	Confusion_of_structures 744 763	position belongs to
+#17	AnnotatorNotes T19	important needs come from
+T20	Conjunctions 764 773	TV, radio
+#18	AnnotatorNotes T20	TV with radio
+T21	lex_item_choice 856 864	consider
+#19	AnnotatorNotes T21	conclude

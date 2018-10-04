@@ -1,0 +1,63 @@
+T2	lex_item_choice 403 407	grap
+#2	AnnotatorNotes T2	rob
+T3	Spelling 1565 1567	od
+#3	AnnotatorNotes T3	of
+T4	lex_part_choice 1245 1255	make sport
+#4	AnnotatorNotes T4	do sport
+T5	Category_confusion 1391 1396	sport
+#5	AnnotatorNotes T5	sports
+T6	lex_part_choice 1174 1184	make sport
+#6	AnnotatorNotes T6	do sport
+T7	Ref_device 1103 1105	It
+#7	AnnotatorNotes T7	These
+T8	Agreement_errors 1106 1108	is
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Spelling 1008 1017	agressive
+#8	AnnotatorNotes T9	aggressive
+T10	lex_item_choice 1058 1060	do
+#9	AnnotatorNotes T10	commit
+T11	lex_item_choice 949 954	force
+#10	AnnotatorNotes T11	encourage
+T12	Capitalisation 891 899	internet
+#11	AnnotatorNotes T12	Internet
+T13	Articles 891 899	internet
+#12	AnnotatorNotes T13	the Internet
+T14	Spelling 563 572	agressive
+#13	AnnotatorNotes T14	aggressive
+T15	lex_item_choice 29 41	take part in
+#14	AnnotatorNotes T15	commit
+T16	lex_item_choice 128 136	powerful
+#15	AnnotatorNotes T16	significant
+T1	suggestion 383 390	, where
+#1	AnnotatorNotes T1	where
+T17	suggestion 714 718	play
+#16	AnnotatorNotes T17	played
+T18	suggestion 720 728	children
+#17	AnnotatorNotes T18	children's
+T19	suggestion 750 755	these
+#18	AnnotatorNotes T19	violent
+T20	lex_item_choice 798 802	make
+#19	AnnotatorNotes T20	commit
+T21	Noun_number 803 808	crime
+#20	AnnotatorNotes T21	crimes
+T22	Articles 812 823	a real life
+#21	AnnotatorNotes T22	real life
+T23	suggestion 949 972	force young people make
+#22	AnnotatorNotes T23	encourage young people to commit
+T24	suggestion 968 972	make
+#23	AnnotatorNotes T24	commit
+#24	AnnotatorNotes T8	are
+T25	suggestion 1204 1208	full
+#25	AnnotatorNotes T25	fill
+T26	suggestion 1209 1214	there
+#26	AnnotatorNotes T26	their
+T27	suggestion 1317 1320	are
+A1	Delete T27
+T28	suggestion 1559 1564	using
+#27	AnnotatorNotes T28	use 
+T29	suggestion 1668 1675	nowdays
+T30	suggestion 1694 1702	explaine
+T31	suggestion 1694 1715	explaine young people
+#28	AnnotatorNotes T31	explain to young people
+T32	suggestion 1739 1743	make
+#29	AnnotatorNotes T32	commit

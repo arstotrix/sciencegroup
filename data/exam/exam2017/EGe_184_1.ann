@@ -1,0 +1,17 @@
+T1	Redundant_comp 74 90	On the one hand,
+T2	Redundant_comp 147 167	, on the other hand,
+R1	Parallel_construction Arg1:T1 Arg2:T2	
+A1	Delete T1
+A2	Delete T2
+T3	Punctuation 372 433	, from 150 million users in 2012 to 130 million users in 2013
+#1	AnnotatorNotes T3	 from 150 million users in 2012 to 130 million users in 2013
+T4	Redundant_comp 435 453	On the other hand,
+A3	Delete T4
+T5	Noun_number 858 865	numbers
+#2	AnnotatorNotes T5	number
+T6	Articles 858 865	numbers
+#3	AnnotatorNotes T6	the number
+T7	suggestion 898 900	is
+R2	Dependent_change Arg1:T7 Arg2:T5	
+T8	note 921 922	y
+#4	AnnotatorNotes T8	Zavyalov

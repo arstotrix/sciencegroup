@@ -1,0 +1,32 @@
+T1	Word_choice 235 244	injection
+#1	AnnotatorNotes T1	level
+T2	Spelling 330 333	arm
+#2	AnnotatorNotes T2	harm
+T3	lex_part_choice 330 333	arm
+#3	AnnotatorNotes T3	harm inflicted
+T4	Articles 463 464	a
+A1	Delete T4
+T5	lex_item_choice 646 654	quantity
+#4	AnnotatorNotes T5	number
+T6	Defining 753 754	,
+A2	Delete T6
+T7	Category_confusion 814 821	threats
+#5	AnnotatorNotes T7	threatens
+T8	Agreement_errors 846 855	arguments
+#6	AnnotatorNotes T8	argument
+T9	Capitalisation 868 874	Volume
+#7	AnnotatorNotes T9	volume
+T10	Defining 1134 1135	,
+A3	Delete T10
+T11	lex_item_choice 1193 1198	autos
+#8	AnnotatorNotes T11	cars
+T12	Spelling 1318 1328	convinient
+#9	AnnotatorNotes T12	convenient
+T13	Redundant_comp 1343 1345	an
+A4	Delete T13
+T14	Inappropriate_register 1459 1474	rocketing trend
+#10	AnnotatorNotes T14	upward tendency
+T15	Articles 1455 1458	the
+#11	AnnotatorNotes T15	an
+T16	lex_item_choice 1812 1818	causes
+#12	AnnotatorNotes T16	consequences

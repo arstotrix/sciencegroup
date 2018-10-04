@@ -1,0 +1,107 @@
+T1	Spelling 32 40	concider
+#1	AnnotatorNotes T1	considers
+T2	Ref_device 173 175	it
+#2	AnnotatorNotes T2	this issue
+T3	Inappropriate_register 206 210	it’s
+#3	AnnotatorNotes T3	it is
+T4	Inappropriate_register 272 276	It’s
+#4	AnnotatorNotes T4	it is
+T5	Spelling 524 533	themselvs
+#5	AnnotatorNotes T5	themselves 
+T6	Tense 676 682	wasn’t
+#6	AnnotatorNotes T6	did not
+T7	Often_confused 779 783	else
+#7	AnnotatorNotes T7	different
+T8	Agreement_errors 828 830	is
+#8	AnnotatorNotes T8	are
+T9	Inappropriate_register 879 884	don’t
+#9	AnnotatorNotes T9	do not
+T10	Non_defining 924 929	, who
+T12	lex_item_choice 1012 1018	lonely
+#11	AnnotatorNotes T12	only
+T13	Lack_par_constr 1041 1044	buy
+#12	AnnotatorNotes T13	to buy
+T14	Inappropriate_register 1106 1113	haven’t
+#13	AnnotatorNotes T14	have no
+T15	Agreement_errors 1179 1181	do
+#14	AnnotatorNotes T15	does
+T17	Punctuation 1273 1282	To sum up
+#16	AnnotatorNotes T17	To sum up,
+T18	Inappropriate_register 1302 1306	it’s
+#17	AnnotatorNotes T18	it is
+T19	Redundant_comp 1374 1378	It’s
+#18	AnnotatorNotes T19	It
+T21	Tense_choice 1379 1383	save
+#20	AnnotatorNotes T21	will save
+T23	Agreement_errors 32 40	concider
+T24	Transitive 159 172	discuss about
+#21	AnnotatorNotes T24	discuss
+T25	Articles 179 189	that essay
+#22	AnnotatorNotes T25	the essay
+T26	suggestion 250 254	make
+#23	AnnotatorNotes T26	have been made
+T27	Tense 250 254	make
+#24	AnnotatorNotes T27	have been made
+T28	Noun_number 313 323	electronic
+#25	AnnotatorNotes T28	electronics
+T29	Pronouns 334 343	smth else
+#26	AnnotatorNotes T29	other goods
+T30	Absence_comp_sent 370 373	was
+#27	AnnotatorNotes T30	there was
+T31	Articles 374 377	the
+#28	AnnotatorNotes T31	an
+R1	Dependent_change Arg1:T30 Arg2:T31	
+T32	Agreement_errors 401 405	were
+#29	AnnotatorNotes T32	was
+T33	Spelling 406 416	not import
+#30	AnnotatorNotes T33	no import
+T34	Tense 449 462	were not feel
+#31	AnnotatorNotes T34	did not feel
+T35	Formational_affixes 463 470	deficit
+#32	AnnotatorNotes T35	any deficiency
+T36	Category_confusion 609 617	economic
+#33	AnnotatorNotes T36	economy
+T37	Noun_number 669 675	worker
+#34	AnnotatorNotes T37	workers
+T38	Articles 665 666	i
+#35	AnnotatorNotes T38	Soviet
+T39	Agreement_errors 658 675	the soviet worker
+#36	AnnotatorNotes T39	Soviet workers
+T40	Tense 705 711	import
+#37	AnnotatorNotes T40	imported
+T41	lex_item_choice 850 870	has the biggest size
+#38	AnnotatorNotes T41	has the biggest territory
+#39	AnnotatorNotes T10	who
+T42	Tense 930 934	work
+#40	AnnotatorNotes T42	worked
+T43	Inappropriate_register 962 969	haven’t
+#41	AnnotatorNotes T43	do not have
+T44	Articles 970 973	job
+#42	AnnotatorNotes T44	a job
+T11	Articles 983 993	population
+#10	AnnotatorNotes T11	the population
+T22	Agreement_errors 994 998	need
+#43	AnnotatorNotes T22	needs
+T45	Agreement_errors 1114 1117	job
+#44	AnnotatorNotes T45	jobs
+T46	Prepositions 1142 1144	on
+#45	AnnotatorNotes T46	at
+T47	Category_confusion 1122 1141	the Russia economic
+#46	AnnotatorNotes T47	Russian economy
+T48	Absence_comp_sent 1122 1155	the Russia economic on the bottom
+#47	AnnotatorNotes T48	Russian economy is at the bottom
+T16	Redundant_comp 1206 1233	do something to less impor,
+A1	Delete T16
+T49	Category_confusion 1238 1246	economic
+#15	AnnotatorNotes T49	economy
+T50	Absence_explanation 1342 1372	that their own population eats
+#48	AnnotatorNotes T50	for the population to eat
+T20	Category_confusion 1388 1396	economic
+#19	AnnotatorNotes T20	economy
+T51	Articles 1400 1407	country
+#49	AnnotatorNotes T51	the country
+T52	Category_confusion 1428 1434	places
+#50	AnnotatorNotes T52	placements
+T53	Agreement_errors 1419 1434	the work places
+#51	AnnotatorNotes T53	work placements
+T54	Agreement_errors 374 377	the

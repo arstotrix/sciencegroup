@@ -1,0 +1,482 @@
+T1	Articles 111 119	pizzeria
+#1	AnnotatorNotes T1	a pizzeria
+T2	Articles 314 320	robber
+#2	AnnotatorNotes T2	the robber
+T3	Articles 372 380	Reporter
+#3	AnnotatorNotes T3	The reporter
+T4	Determiners 476 485	employees
+#4	AnnotatorNotes T4	some employees
+T5	Possessive 532 540	robber’s
+#5	AnnotatorNotes T5	robbers'
+T6	Articles 554 560	Police
+#6	AnnotatorNotes T6	The police
+T7	lex_item_choice 666 684	The reporter  told
+#7	AnnotatorNotes T7	It was reported
+T8	Articles 690 705	Japanese artist
+#8	AnnotatorNotes T8	a Japanese artist
+T9	Articles 912 920	Reporter
+#9	AnnotatorNotes T9	The reporter
+T10	lex_item_choice 1010 1020	He told us
+#10	AnnotatorNotes T10	The story went on to say
+T11	Prepositional_verb 1176 1188	explained us
+#11	AnnotatorNotes T11	explained to us 
+T12	pos_JJ 17 22	Brave
+#12	AnnotatorNotes T12	lemma = 'brave'
+T13	pos_NN 23 28	pizza
+#13	AnnotatorNotes T13	lemma = 'pizza'
+T14	pos_NN 29 33	shop
+#14	AnnotatorNotes T14	lemma = 'shop'
+T15	pos_NNS 34 41	workers
+#15	AnnotatorNotes T15	lemma = 'worker'
+T16	pos_NP 48 51	The
+#16	AnnotatorNotes T16	lemma = 'the'
+T17	pos_NN 52 60	reporter
+#17	AnnotatorNotes T17	lemma = 'reporter'
+T18	pos_VBD 61 65	said
+#18	AnnotatorNotes T18	lemma = 'say'
+T19	pos_IN 66 70	that
+#19	AnnotatorNotes T19	lemma = 'that'
+T20	pos_DT 71 74	the
+#20	AnnotatorNotes T20	lemma = 'the'
+T21	pos_NN 75 78	day
+#21	AnnotatorNotes T21	lemma = 'day'
+T22	pos_IN 79 85	before
+#22	AnnotatorNotes T22	lemma = 'before'
+T23	pos_Z 86 89	two
+#23	AnnotatorNotes T23	lemma = '2'
+T24	pos_NNS 90 93	men
+#24	AnnotatorNotes T24	lemma = 'man'
+T25	pos_VBD 94 97	had
+#25	AnnotatorNotes T25	lemma = 'have'
+T26	pos_VBN 98 103	tried
+#26	AnnotatorNotes T26	lemma = 'try'
+T27	pos_TO 104 106	to
+#27	AnnotatorNotes T27	lemma = 'to'
+T28	pos_VB 107 110	rob
+#28	AnnotatorNotes T28	lemma = 'rob'
+T29	pos_NNS 111 119	pizzeria
+#29	AnnotatorNotes T29	lemma = 'pizzeria'
+T30	pos_IN 121 123	in
+#30	AnnotatorNotes T30	lemma = 'in'
+T31	pos_JJ 124 132	southern
+#31	AnnotatorNotes T31	lemma = 'southern'
+T32	pos_NP 133 138	Italy
+#32	AnnotatorNotes T32	lemma = 'italy'
+T33	pos_Fc 138 139	,
+#33	AnnotatorNotes T33	lemma = ','
+T34	pos_CC 140 143	but
+#34	AnnotatorNotes T34	lemma = 'but'
+T35	pos_PRP 144 148	they
+#35	AnnotatorNotes T35	lemma = 'they'
+T36	pos_VBD 149 153	were
+#36	AnnotatorNotes T36	lemma = 'be'
+T37	pos_RB 154 157	not
+#37	AnnotatorNotes T37	lemma = 'not'
+T38	pos_JJ 158 168	successful
+#38	AnnotatorNotes T38	lemma = 'successful'
+T39	pos_Fp 168 169	.
+#39	AnnotatorNotes T39	lemma = '.'
+T40	pos_PRP 170 172	He
+#40	AnnotatorNotes T40	lemma = 'he'
+T41	pos_VBD 173 182	explained
+#41	AnnotatorNotes T41	lemma = 'explain'
+T42	pos_IN 183 187	that
+#42	AnnotatorNotes T42	lemma = 'that'
+T43	pos_PRP 188 192	they
+#43	AnnotatorNotes T43	lemma = 'they'
+T44	pos_VBD 193 196	had
+#44	AnnotatorNotes T44	lemma = 'have'
+T45	pos_VBN 198 205	entered
+#45	AnnotatorNotes T45	lemma = 'enter'
+T46	pos_DT 206 209	the
+#46	AnnotatorNotes T46	lemma = 'the'
+T47	pos_NN 210 215	pizza
+#47	AnnotatorNotes T47	lemma = 'pizza'
+T48	pos_NN 216 220	shop
+#48	AnnotatorNotes T48	lemma = 'shop'
+T49	pos_Fc 220 221	,
+#49	AnnotatorNotes T49	lemma = ','
+T50	pos_NN 222 225	one
+#50	AnnotatorNotes T50	lemma = 'one'
+T51	pos_IN 226 228	of
+#51	AnnotatorNotes T51	lemma = 'of'
+T52	pos_PRP 229 233	them
+#52	AnnotatorNotes T52	lemma = 'them'
+T53	pos_VBD 234 237	had
+#53	AnnotatorNotes T53	lemma = 'have'
+T54	pos_VBN 238 244	pulled
+#54	AnnotatorNotes T54	lemma = 'pull'
+T55	pos_RP 245 248	out
+#55	AnnotatorNotes T55	lemma = 'out'
+T56	pos_DT 249 252	the
+#56	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 253 259	pistol
+#57	AnnotatorNotes T57	lemma = 'pistol'
+T58	pos_CC 260 263	and
+#58	AnnotatorNotes T58	lemma = 'and'
+T59	pos_VBN 264 269	aimed
+#59	AnnotatorNotes T59	lemma = 'aim'
+T60	pos_PRP 270 272	it
+#60	AnnotatorNotes T60	lemma = 'it'
+T61	pos_IN 274 276	at
+#61	AnnotatorNotes T61	lemma = 'at'
+T62	pos_DT 277 280	the
+#62	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 281 286	owner
+#63	AnnotatorNotes T63	lemma = 'owner'
+T64	pos_Fp 286 287	.
+#64	AnnotatorNotes T64	lemma = '.'
+T65	pos_DT 294 297	The
+#65	AnnotatorNotes T65	lemma = 'the'
+T66	pos_NN 298 303	owner
+#66	AnnotatorNotes T66	lemma = 'owner'
+T67	pos_VBD 304 308	said
+#67	AnnotatorNotes T67	lemma = 'say'
+T68	pos_DT 309 313	that
+#68	AnnotatorNotes T68	lemma = 'that'
+T69	pos_NN 314 320	robber
+#69	AnnotatorNotes T69	lemma = 'robber'
+T70	pos_VBD 321 324	had
+#70	AnnotatorNotes T70	lemma = 'have'
+T71	pos_VBN 325 330	fired
+#71	AnnotatorNotes T71	lemma = 'fire'
+T72	pos_DT 331 334	the
+#72	AnnotatorNotes T72	lemma = 'the'
+T73	pos_NN 335 338	gun
+#73	AnnotatorNotes T73	lemma = 'gun'
+T74	pos_RB 339 349	repeatedly
+#74	AnnotatorNotes T74	lemma = 'repeatedly'
+T75	pos_Fc 349 350	,
+#75	AnnotatorNotes T75	lemma = ','
+T76	pos_CC 351 354	but
+#76	AnnotatorNotes T76	lemma = 'but'
+T77	pos_PRP 355 357	it
+#77	AnnotatorNotes T77	lemma = 'it'
+T78	pos_VBD 358 361	had
+#78	AnnotatorNotes T78	lemma = 'have'
+T79	pos_VBN 362 368	jammed
+#79	AnnotatorNotes T79	lemma = 'jam'
+T80	pos_Fp 368 369	.
+#80	AnnotatorNotes T80	lemma = '.'
+T81	pos_NN 372 380	Reporter
+#81	AnnotatorNotes T81	lemma = 'reporter'
+T82	pos_VBD 381 385	said
+#82	AnnotatorNotes T82	lemma = 'say'
+T83	pos_DT 386 390	that
+#83	AnnotatorNotes T83	lemma = 'that'
+T84	pos_NN 391 394	one
+#84	AnnotatorNotes T84	lemma = 'one'
+T85	pos_IN 395 397	of
+#85	AnnotatorNotes T85	lemma = 'of'
+T86	pos_DT 398 401	the
+#86	AnnotatorNotes T86	lemma = 'the'
+T87	pos_NNS 402 409	robbers
+#87	AnnotatorNotes T87	lemma = 'robber'
+T88	pos_VBD 410 413	had
+#88	AnnotatorNotes T88	lemma = 'have'
+T89	pos_VBN 414 419	tried
+#89	AnnotatorNotes T89	lemma = 'try'
+T90	pos_TO 420 422	to
+#90	AnnotatorNotes T90	lemma = 'to'
+T91	pos_VB 423 427	open
+#91	AnnotatorNotes T91	lemma = 'open'
+T92	pos_DT 428 431	the
+#92	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 432 436	till
+#93	AnnotatorNotes T93	lemma = 'till'
+T94	pos_Fc 436 437	,
+#94	AnnotatorNotes T94	lemma = ','
+T95	pos_CC 438 441	but
+#95	AnnotatorNotes T95	lemma = 'but'
+T96	pos_DT 442 445	the
+#96	AnnotatorNotes T96	lemma = 'the'
+T97	pos_NN 447 452	owner
+#97	AnnotatorNotes T97	lemma = 'owner'
+T98	pos_VBD 454 457	had
+#98	AnnotatorNotes T98	lemma = 'have'
+T99	pos_VBN 458 462	kept
+#99	AnnotatorNotes T99	lemma = 'keep'
+T100	pos_VBG 463 471	fighting
+#100	AnnotatorNotes T100	lemma = 'fight'
+T101	pos_CC 472 475	and
+#101	AnnotatorNotes T101	lemma = 'and'
+T102	pos_NNS 476 485	employees
+#102	AnnotatorNotes T102	lemma = 'employee'
+T103	pos_IN 486 488	of
+#103	AnnotatorNotes T103	lemma = 'of'
+T104	pos_DT 489 492	the
+#104	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NNS 493 501	pizzeria
+#105	AnnotatorNotes T105	lemma = 'pizzeria'
+T106	pos_VBD 502 505	had
+#106	AnnotatorNotes T106	lemma = 'have'
+T107	pos_VBN 507 513	broken
+#107	AnnotatorNotes T107	lemma = 'break'
+T108	pos_NNS 514 520	plates
+#108	AnnotatorNotes T108	lemma = 'plate'
+T109	pos_IN 522 526	over
+#109	AnnotatorNotes T109	lemma = 'over'
+T110	pos_DT 528 531	the
+#110	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 532 538	robber
+#111	AnnotatorNotes T111	lemma = 'robber'
+T112	pos_Fw 538 539	’
+#112	AnnotatorNotes T112	lemma = '’'
+T113	pos_NNS 539 540	s
+#113	AnnotatorNotes T113	lemma = 's'
+T114	pos_NNS 541 546	heads
+#114	AnnotatorNotes T114	lemma = 'head'
+T115	pos_Fp 546 547	.
+#115	AnnotatorNotes T115	lemma = '.'
+T116	pos_NNS 554 560	Police
+#116	AnnotatorNotes T116	lemma = 'police'
+T117	pos_VBN 561 569	arrested
+#117	AnnotatorNotes T117	lemma = 'arrest'
+T118	pos_DT 570 573	the
+#118	AnnotatorNotes T118	lemma = 'the'
+T119	pos_Z 574 577	two
+#119	AnnotatorNotes T119	lemma = '2'
+T120	pos_NNS 578 587	criminals
+#120	AnnotatorNotes T120	lemma = 'criminal'
+T121	pos_RB 588 595	shortly
+#121	AnnotatorNotes T121	lemma = 'shortly'
+T122	pos_IN 596 601	after
+#122	AnnotatorNotes T122	lemma = 'after'
+T123	pos_DT 603 606	the
+#123	AnnotatorNotes T123	lemma = 'the'
+T124	pos_NN 607 615	incident
+#124	AnnotatorNotes T124	lemma = 'incident'
+T125	pos_Fp 615 616	.
+#125	AnnotatorNotes T125	lemma = '.'
+T126	pos_NN 645 649	Face
+#126	AnnotatorNotes T126	lemma = 'face'
+T127	pos_NN 650 660	projection
+#127	AnnotatorNotes T127	lemma = 'projection'
+T128	pos_NP 666 669	The
+#128	AnnotatorNotes T128	lemma = 'the'
+T129	pos_NN 670 678	reporter
+#129	AnnotatorNotes T129	lemma = 'reporter'
+T130	pos_VBD 680 684	told
+#130	AnnotatorNotes T130	lemma = 'tell'
+T131	pos_IN 685 689	that
+#131	AnnotatorNotes T131	lemma = 'that'
+T132	pos_NP 690 698	Japanese
+#132	AnnotatorNotes T132	lemma = 'japanese'
+T133	pos_NN 699 705	artist
+#133	AnnotatorNotes T133	lemma = 'artist'
+T134	pos_VBD 706 709	had
+#134	AnnotatorNotes T134	lemma = 'have'
+T135	pos_VBN 710 715	found
+#135	AnnotatorNotes T135	lemma = 'find'
+T136	pos_DT 716 717	a
+#136	AnnotatorNotes T136	lemma = 'a'
+T137	pos_NN 718 721	way
+#137	AnnotatorNotes T137	lemma = 'way'
+T138	pos_TO 722 724	to
+#138	AnnotatorNotes T138	lemma = 'to'
+T139	pos_VB 725 732	project
+#139	AnnotatorNotes T139	lemma = 'project'
+T140	pos_NNS 735 746	expressions
+#140	AnnotatorNotes T140	lemma = 'expression'
+T141	pos_IN 747 751	onto
+#141	AnnotatorNotes T141	lemma = 'onto'
+T142	pos_NNS 752 758	people
+#142	AnnotatorNotes T142	lemma = 'people'
+T143	pos_Fw 758 759	’
+#143	AnnotatorNotes T143	lemma = '’'
+T144	pos_NNS 759 760	s
+#144	AnnotatorNotes T144	lemma = 's'
+T145	pos_VBZ 761 766	faces
+#145	AnnotatorNotes T145	lemma = 'face'
+T146	pos_Fc 766 767	,
+#146	AnnotatorNotes T146	lemma = ','
+T147	pos_RB 768 770	so
+#147	AnnotatorNotes T147	lemma = 'so'
+T148	pos_PRP 772 774	he
+#148	AnnotatorNotes T148	lemma = 'he'
+T149	pos_VBD 775 778	had
+#149	AnnotatorNotes T149	lemma = 'have'
+T150	pos_VBN 779 786	created
+#150	AnnotatorNotes T150	lemma = 'create'
+T151	pos_DT 787 788	a
+#151	AnnotatorNotes T151	lemma = 'a'
+T152	pos_JJ 789 795	facial
+#152	AnnotatorNotes T152	lemma = 'facial'
+T153	pos_NN 796 800	mask
+#153	AnnotatorNotes T153	lemma = 'mask'
+T154	pos_Fp 800 801	.
+#154	AnnotatorNotes T154	lemma = '.'
+T155	pos_DT 805 808	The
+#155	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NN 809 815	artist
+#156	AnnotatorNotes T156	lemma = 'artist'
+T157	pos_VBD 816 820	said
+#157	AnnotatorNotes T157	lemma = 'say'
+T158	pos_IN 821 825	that
+#158	AnnotatorNotes T158	lemma = 'that'
+T159	pos_PRP 826 828	he
+#159	AnnotatorNotes T159	lemma = 'he'
+T160	pos_CC 829 832	and
+#160	AnnotatorNotes T160	lemma = 'and'
+T161	pos_PRP2 833 836	his
+#161	AnnotatorNotes T161	lemma = 'his'
+T162	pos_NN 837 841	team
+#162	AnnotatorNotes T162	lemma = 'team'
+T163	pos_VBD 842 845	had
+#163	AnnotatorNotes T163	lemma = 'have'
+T164	pos_VBD 846 852	showed
+#164	AnnotatorNotes T164	lemma = 'show'
+T165	pos_PRP2 853 858	their
+#165	AnnotatorNotes T165	lemma = 'their'
+T166	pos_Z 859 861	3D
+#166	AnnotatorNotes T166	lemma = '3D'
+T167	pos_JJ 862 868	facial
+#167	AnnotatorNotes T167	lemma = 'facial'
+T168	pos_NN 869 879	projection
+#168	AnnotatorNotes T168	lemma = 'projection'
+T169	pos_TO 881 883	to
+#169	AnnotatorNotes T169	lemma = 'to'
+T170	pos_DT 884 885	a
+#170	AnnotatorNotes T170	lemma = 'a'
+T171	pos_NN 886 891	group
+#171	AnnotatorNotes T171	lemma = 'group'
+T172	pos_IN 892 894	of
+#172	AnnotatorNotes T172	lemma = 'of'
+T173	pos_NNS 895 901	people
+#173	AnnotatorNotes T173	lemma = 'people'
+T174	pos_IN 902 904	in
+#174	AnnotatorNotes T174	lemma = 'in'
+T175	pos_NP 905 910	Tokyo
+#175	AnnotatorNotes T175	lemma = 'tokyo'
+T176	pos_Fp 910 911	.
+#176	AnnotatorNotes T176	lemma = '.'
+T177	pos_NN 912 920	Reporter
+#177	AnnotatorNotes T177	lemma = 'reporter'
+T178	pos_VBD 921 925	said
+#178	AnnotatorNotes T178	lemma = 'say'
+T179	pos_IN 926 930	that
+#179	AnnotatorNotes T179	lemma = 'that'
+T180	pos_JJ 931 942	traditional
+#180	AnnotatorNotes T180	lemma = 'traditional'
+T181	pos_NP 943 951	Japanese
+#181	AnnotatorNotes T181	lemma = 'japanese'
+T182	pos_NN 953 960	culture
+#182	AnnotatorNotes T182	lemma = 'culture'
+T183	pos_Fc 960 961	,
+#183	AnnotatorNotes T183	lemma = ','
+T184	pos_NN 962 971	animation
+#184	AnnotatorNotes T184	lemma = 'animation'
+T185	pos_CC 972 975	and
+#185	AnnotatorNotes T185	lemma = 'and'
+T186	pos_NN 976 986	technology
+#186	AnnotatorNotes T186	lemma = 'technology'
+T187	pos_VBD 987 990	had
+#187	AnnotatorNotes T187	lemma = 'have'
+T188	pos_VBN 991 999	inspired
+#188	AnnotatorNotes T188	lemma = 'inspire'
+T189	pos_DT 1000 1003	the
+#189	AnnotatorNotes T189	lemma = 'the'
+T190	pos_NN 1004 1008	team
+#190	AnnotatorNotes T190	lemma = 'team'
+T191	pos_Fp 1008 1009	.
+#191	AnnotatorNotes T191	lemma = '.'
+T192	pos_PRP 1010 1012	He
+#192	AnnotatorNotes T192	lemma = 'he'
+T193	pos_VBD 1013 1017	told
+#193	AnnotatorNotes T193	lemma = 'tell'
+T194	pos_PRP 1018 1020	us
+#194	AnnotatorNotes T194	lemma = 'us'
+T195	pos_IN 1021 1025	that
+#195	AnnotatorNotes T195	lemma = 'that'
+T196	pos_PRP 1028 1032	they
+#196	AnnotatorNotes T196	lemma = 'they'
+T197	pos_RB 1033 1037	also
+#197	AnnotatorNotes T197	lemma = 'also'
+T198	pos_VBD 1038 1041	had
+#198	AnnotatorNotes T198	lemma = 'have'
+T199	pos_VBN 1042 1052	discovered
+#199	AnnotatorNotes T199	lemma = 'discover'
+T200	pos_IN 1053 1057	that
+#200	AnnotatorNotes T200	lemma = 'that'
+T201	pos_VBG 1058 1068	projecting
+#201	AnnotatorNotes T201	lemma = 'project'
+T202	pos_DT 1069 1070	a
+#202	AnnotatorNotes T202	lemma = 'a'
+T203	pos_JJ 1071 1082	symmetrical
+#203	AnnotatorNotes T203	lemma = 'symmetrical'
+T204	pos_NN 1085 1089	face
+#204	AnnotatorNotes T204	lemma = 'face'
+T205	pos_VBZ 1090 1095	feels
+#205	AnnotatorNotes T205	lemma = 'feel'
+T206	pos_JJ 1098 1107	unnatural
+#206	AnnotatorNotes T206	lemma = 'unnatural'
+T207	pos_Fp 1107 1108	.
+#207	AnnotatorNotes T207	lemma = '.'
+T208	pos_RB 1109 1111	So
+#208	AnnotatorNotes T208	lemma = 'so'
+T209	pos_PRP 1112 1116	they
+#209	AnnotatorNotes T209	lemma = 'they'
+T210	pos_VBD 1118 1127	projected
+#210	AnnotatorNotes T210	lemma = 'project'
+T211	pos_DT 1128 1130	an
+#211	AnnotatorNotes T211	lemma = 'a'
+T212	pos_JJ 1131 1143	asymmetrical
+#212	AnnotatorNotes T212	lemma = 'asymmetrical'
+T213	pos_NN 1144 1148	face
+#213	AnnotatorNotes T213	lemma = 'face'
+T214	pos_RB 1149 1156	instead
+#214	AnnotatorNotes T214	lemma = 'instead'
+T215	pos_Fp 1157 1158	.
+#215	AnnotatorNotes T215	lemma = '.'
+T216	pos_DT 1163 1166	The
+#216	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NN 1167 1175	reporter
+#217	AnnotatorNotes T217	lemma = 'reporter'
+T218	pos_VBD 1176 1185	explained
+#218	AnnotatorNotes T218	lemma = 'explain'
+T219	pos_PRP 1186 1188	us
+#219	AnnotatorNotes T219	lemma = 'us'
+T220	pos_IN 1189 1193	that
+#220	AnnotatorNotes T220	lemma = 'that'
+T221	pos_DT 1194 1197	the
+#221	AnnotatorNotes T221	lemma = 'the'
+T222	pos_NN 1198 1204	artist
+#222	AnnotatorNotes T222	lemma = 'artist'
+T223	pos_CC 1205 1208	and
+#223	AnnotatorNotes T223	lemma = 'and'
+T224	pos_PRP2 1210 1213	his
+#224	AnnotatorNotes T224	lemma = 'his'
+T225	pos_NN 1214 1218	team
+#225	AnnotatorNotes T225	lemma = 'team'
+T226	pos_VBD 1219 1223	were
+#226	AnnotatorNotes T226	lemma = 'be'
+T227	pos_VBG 1224 1231	looking
+#227	AnnotatorNotes T227	lemma = 'look'
+T228	pos_IN 1232 1235	for
+#228	AnnotatorNotes T228	lemma = 'for'
+T229	pos_NNS 1237 1246	investors
+#229	AnnotatorNotes T229	lemma = 'investor'
+T230	pos_Fc 1246 1247	,
+#230	AnnotatorNotes T230	lemma = ','
+T231	pos_RB 1248 1250	so
+#231	AnnotatorNotes T231	lemma = 'so'
+T232	pos_PRP 1251 1255	they
+#232	AnnotatorNotes T232	lemma = 'they'
+T233	pos_MD 1256 1261	could
+#233	AnnotatorNotes T233	lemma = 'can'
+T234	pos_VB 1262 1266	take
+#234	AnnotatorNotes T234	lemma = 'take'
+T235	pos_PRP2 1267 1272	their
+#235	AnnotatorNotes T235	lemma = 'their'
+T236	pos_NN 1273 1280	project
+#236	AnnotatorNotes T236	lemma = 'project'
+T237	pos_TO 1281 1283	to
+#237	AnnotatorNotes T237	lemma = 'to'
+T238	pos_DT 1284 1287	the
+#238	AnnotatorNotes T238	lemma = 'the'
+T239	pos_JJ 1288 1292	next
+#239	AnnotatorNotes T239	lemma = 'next'
+T240	pos_NN 1294 1299	level
+#240	AnnotatorNotes T240	lemma = 'level'
+T241	pos_Fp 1299 1300	.
+#241	AnnotatorNotes T241	lemma = '.'

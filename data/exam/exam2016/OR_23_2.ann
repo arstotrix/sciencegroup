@@ -1,0 +1,137 @@
+T1	Determiners 10 13	sky
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	the sky
+T2	Category_confusion 14 23	pollution
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	pollutes
+T3	Agreement_errors 32 41	influence
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	influences
+T4	Redundant 33 59	nfluence on global warming
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	influences global warming
+T5	Voice 85 89	need
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	is needed
+T6	Spelling 151 164	disadvanteges
+#6	AnnotatorNotes T6	disadvantages
+T7	Determiners 168 173	athor
+A16	Cause T7 Absence_of_Category_in_L1
+A17	Weight-language T7 Major
+A18	Weight-understanding T7 Major
+#7	AnnotatorNotes T7	the author's
+T8	Spelling 168 173	athor
+A19	Cause T8 Other
+A20	Weight-language T8 Major
+A21	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	the author's
+T9	Absence_comp_sent 137 164	I am going to disadvanteges
+A22	Cause T9 Other
+A23	Weight-language T9 Major
+A24	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	I am going to present disadvantages
+T10	Prepositional_noun 151 178	disadvanteges on athor idea
+A25	Cause T10 Other
+A26	Weight-language T10 Major
+A27	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	disadvantages of the author's idea
+T11	Voice 201 205	need
+A28	Cause T11 Other
+A29	Weight-language T11 Major
+A30	Weight-understanding T11 Major
+#11	AnnotatorNotes T11	is needed
+T12	Spelling 216 223	Nowaday
+A31	Weight-language T12 Major
+#12	AnnotatorNotes T12	Nowadays
+T13	Spelling 248 261	internetional
+A32	Weight-language T13 Major
+#13	AnnotatorNotes T13	international
+T14	Spelling 275 281	wokers
+#14	AnnotatorNotes T14	workers
+T15	Absence_comp_colloc 275 294	wokers this company
+A33	Weight-language T15 Major
+#15	AnnotatorNotes T15	workers of this company
+T16	Absence_explanation 282 294	this company
+T17	Spelling 299 305	quiqly
+#16	AnnotatorNotes T17	quickly
+T18	Prepositions 312 314	in
+#17	AnnotatorNotes T18	to
+T19	Category_confusion 248 294	internetional business and wokers this company
+A34	Weight-language T19 Major
+A35	Weight-understanding T19 Major
+#18	AnnotatorNotes T19	workers of international business companies
+T20	Spelling 360 366	solove
+#19	AnnotatorNotes T20	solve
+T21	Agreement_errors 388 392	help
+#20	AnnotatorNotes T21	helps
+T22	lex_item_choice 410 424	fly till place
+A36	Cause T22 Other
+A37	Weight-language T22 Major
+A38	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	reach the place
+T23	Often_confused 469 478	transport
+#22	AnnotatorNotes T23	kind of transport
+T24	Spelling 480 487	Reciech
+A39	Weight-language T24 Major
+A40	Weight-understanding T24 Major
+#23	AnnotatorNotes T24	Research
+T25	lex_item_choice 480 498	Reciech professors
+A41	Cause T25 Other
+A42	Weight-language T25 Major
+A43	Weight-understanding T25 Minor
+#24	AnnotatorNotes T25	Researchers
+T26	Linking_device 480 535	Reciech professors National state university in Ukraine
+A44	Cause T26 Other
+A45	Weight-language T26 Major
+A46	Weight-understanding T26 Major
+#25	AnnotatorNotes T26	Researchers of the National state university in Ukraine
+T27	Agreement_errors 536 541	shows
+A47	Cause T27 Other
+A48	Weight-language T27 Major
+A49	Weight-understanding T27 Major
+#26	AnnotatorNotes T27	show
+T28	Numerals 588 594	twenty
+A50	Cause T28 Other
+A51	Weight-language T28 Major
+A52	Weight-understanding T28 Major
+#27	AnnotatorNotes T28	the 20th
+T29	Agreement_errors 595 604	centuries
+A53	Weight-language T29 Major
+A54	Weight-understanding T29 Minor
+#28	AnnotatorNotes T29	century
+T30	Abs_comp_clause 606 638	Third, gas, which pollution air,
+A55	Weight-language T30 Minor
+A56	Weight-understanding T30 Major
+T31	Category_confusion 606 611	Third
+#29	AnnotatorNotes T31	Thirdly,
+T32	Category_confusion 624 633	pollution
+#30	AnnotatorNotes T32	pollutes
+T33	Standard 547 604	in air was catastrof with airplane 19 in twenty centuries
+#31	AnnotatorNotes T33	there were 19 air accidents in the 20th century
+T34	Agreement_errors 554 557	was
+#32	AnnotatorNotes T34	were
+T35	lex_item_choice 558 581	catastrof with airplane
+#33	AnnotatorNotes T35	air accidents
+T36	Prepositions 393 395	on
+A57	Weight-language T36 Major
+#34	AnnotatorNotes T36	in
+T37	Determiners 396 406	short time
+A58	Cause T37 Absence_of_Category_in_L1
+A59	Weight-language T37 Major
+A60	Weight-understanding T37 Minor
+#35	AnnotatorNotes T37	a short time
+T38	Determiners 436 444	airplane
+A61	Cause T38 Absence_of_Category_in_L1
+A62	Weight-language T38 Major
+A63	Weight-understanding T38 Minor
+#36	AnnotatorNotes T38	an airplane

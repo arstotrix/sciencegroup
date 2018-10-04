@@ -1,0 +1,71 @@
+T1	Agreement_errors 23 30	believe
+#1	AnnotatorNotes T1	believes
+T2	Articles 36 39	use
+#2	AnnotatorNotes T2	the use
+T3	Noun_number 50 60	technology
+#3	AnnotatorNotes T3	technologies
+T4	Absence_comp_colloc 238 243	sight
+#4	AnnotatorNotes T4	eyesight
+T5	Articles 261 267	person
+#5	AnnotatorNotes T5	a person
+T6	Redundant_comp 268 270	is
+A1	Delete T6
+T7	Agreement_errors 278 281	use
+#6	AnnotatorNotes T7	uses
+T8	Inappropriate_register 282 285	his
+#7	AnnotatorNotes T8	his/her
+T9	Inappropriate_register 326 329	his
+#8	AnnotatorNotes T9	his/her
+T10	Absence_comp_sent 335 343	will not
+#9	AnnotatorNotes T10	will not be
+T11	Often_confused 344 354	in comfort
+#10	AnnotatorNotes T11	okay
+T12	Agreement_errors 378 382	sped
+#11	AnnotatorNotes T12	spends
+T13	Spelling 378 382	sped
+#12	AnnotatorNotes T13	spends
+T14	Articles 403 411	Internet
+#13	AnnotatorNotes T14	the Internet
+T15	lex_item_choice 416 421	cause
+#14	AnnotatorNotes T15	suffer
+T16	lex_item_choice 527 540	more and more
+#15	AnnotatorNotes T16	many
+T17	Spelling 560 564	fond
+#16	AnnotatorNotes T17	find
+T18	lex_item_choice 557 573	to fond and more
+#17	AnnotatorNotes T18	searching for
+T19	Tense_choice 557 573	to fond and more
+#18	AnnotatorNotes T19	searching for
+T20	Tense_choice 637 642	spend
+#19	AnnotatorNotes T20	have spent
+T21	Tense_choice 673 679	forget
+#20	AnnotatorNotes T21	forgot
+T22	Absence_explanation 860 864	only
+#21	AnnotatorNotes T22	only use them 
+T23	Prepositions 865 868	for
+#22	AnnotatorNotes T23	when
+T24	Spelling 883 890	can not
+#23	AnnotatorNotes T24	cannot
+T25	Redundant 891 899	to waste
+#24	AnnotatorNotes T25	waste
+T26	Absence_explanation 937 950	go for a walk
+#25	AnnotatorNotes T26	, instead, they can
+T27	Articles 997 1004	screens
+#26	AnnotatorNotes T27	the screens
+T28	Infinitive_constr 1048 1057	begin eat
+#27	AnnotatorNotes T28	begin to eat
+T29	Articles 1161 1175	right products
+#28	AnnotatorNotes T29	the right products
+T30	Prepositions 1189 1196	in time
+#29	AnnotatorNotes T30	on time
+T31	Prepositions 1071 1078	in time
+#30	AnnotatorNotes T31	on time
+T32	Noun_number 1253 1263	technology
+#31	AnnotatorNotes T32	technologies
+T33	Ref_device 1295 1297	it
+#32	AnnotatorNotes T33	they
+T34	Agreement_errors 1298 1304	causes
+#33	AnnotatorNotes T34	cause
+R1	Dependent_change Arg1:T34 Arg2:T33	
+T35	Spelling 1348 1352	thes
+#34	AnnotatorNotes T35	these

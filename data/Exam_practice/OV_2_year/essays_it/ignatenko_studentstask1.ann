@@ -1,0 +1,49 @@
+T1	Articles 1255 1270	observed period
+#1	AnnotatorNotes T1	the observed period
+T2	Redundant_comp 0 24	Now I’m going to observe
+A1	Delete T2
+T3	Redundant_comp 40 47	, which
+A2	Delete T3
+T4	suggestion 57 71	an information
+T5	suggestion 185 191	likely
+#2	AnnotatorNotes T5	equally likely
+T6	Word_choice 307 317	both rates
+#3	AnnotatorNotes T6	either choice
+T7	Punctuation 336 346	those, who
+T8	Tense_choice 347 359	accommodated
+#4	AnnotatorNotes T8	was accommodated
+T9	Noun_number 363 371	students
+#5	AnnotatorNotes T9	student
+T10	suggestion 431 436	quite
+T11	Articles 462 474	previous two
+#6	AnnotatorNotes T11	the previous two
+T12	Articles 490 493	70s
+#7	AnnotatorNotes T12	the 70s
+T13	Punctuation 612 644	, living in shared flat or house
+#8	AnnotatorNotes T13	living in shared flat or house
+T14	lex_item_choice 669 674	where
+#9	AnnotatorNotes T14	when
+T15	suggestion 774 784	those, who
+T16	Articles 794 806	paying guest
+#10	AnnotatorNotes T16	a paying guest
+T17	lex_item_choice 897 909	Oscillations
+#11	AnnotatorNotes T17	Fluctuations
+T18	suggestion 999 1017	started declining,
+#12	AnnotatorNotes T18	started declining in ...,
+T19	Category_confusion 1054 1062	latterly
+#13	AnnotatorNotes T19	later
+T20	Absence_comp_sent 1063 1078	almost returned
+#14	AnnotatorNotes T20	it almost returned
+T21	suggestion 1112 1122	Percentage
+#15	AnnotatorNotes T21	The percentage
+T22	Articles 967 971	Rate
+#16	AnnotatorNotes T22	The rate
+T23	Articles 760 770	Percentage
+#17	AnnotatorNotes T23	The percentage
+T24	lex_item_choice 1365 1369	less
+#18	AnnotatorNotes T24	least
+T25	Punctuation 1357 1360	and
+#19	AnnotatorNotes T25	, and
+T26	suggestion 1378 1379	—
+#20	AnnotatorNotes T26	was
+A3	Cause T26 L1_interference

@@ -1,0 +1,472 @@
+T1	Lack_par_constr 189 193	take
+#1	AnnotatorNotes T1	taking
+T2	Lack_par_constr 242 244	go
+#2	AnnotatorNotes T2	going
+T3	lex_item_choice 290 298	quantity
+#3	AnnotatorNotes T3	number
+T4	Tense_choice 325 332	prefers
+#4	AnnotatorNotes T4	preferred
+T5	Word_choice 361 398	the rate of this feature was reducing
+#5	AnnotatorNotes T5	this number was getting smaller
+T6	Discourse 404 408	time
+#6	AnnotatorNotes T6	the researched period
+T8	Defining 487 488	,
+A2	Delete T8
+T9	lex_item_choice 414 423	incidence
+#7	AnnotatorNotes T9	number
+T10	Word_choice 548 565	was going to fall
+#8	AnnotatorNotes T10	started to fall
+T11	Discourse 534 547	this tendency
+#9	AnnotatorNotes T11	it
+T12	Word_choice 591 597	pupils
+#10	AnnotatorNotes T12	school graduates
+T13	Articles 615 616	a
+A3	Delete T13
+T15	Defining 695 696	,
+T16	Numerical 712 717	lower
+#11	AnnotatorNotes T16	as low
+T17	Discourse 782 789	rapidly
+A5	Delete T17
+T18	Tense_choice 821 832	have chosen
+#12	AnnotatorNotes T18	chose
+T19	Prepositions 794 796	by
+#13	AnnotatorNotes T19	in
+T20	lex_item_choice 838 845	variant
+#14	AnnotatorNotes T20	option
+T7	Defining 436 442	, that
+#16	AnnotatorNotes T7	that
+T14	Defining 661 666	, who
+#17	AnnotatorNotes T14	who
+A1	Delete T15
+T21	Defining 900 907	, which
+#18	AnnotatorNotes T21	which
+T23	Coherence 1061 1066	later
+#19	AnnotatorNotes T23	earlier
+T24	Absence_comp_sent 1067 1070	was
+#15	AnnotatorNotes T24	the priority was
+T22	Redundant_comp 1071 1082	still prior
+A4	Delete T22
+T25	pos_NP 0 2	WB
+#20	AnnotatorNotes T25	lemma = 'wb'
+T26	pos_Fp 2 3	.
+#21	AnnotatorNotes T26	lemma = '.'
+T27	pos_Z 4 7	p11
+#22	AnnotatorNotes T27	lemma = 'p11'
+T28	pos_Z 8 12	ex.1
+#23	AnnotatorNotes T28	lemma = 'ex.1'
+T30	pos_NN 24 29	graph
+#25	AnnotatorNotes T30	lemma = 'graph'
+T31	pos_VBZ 30 38	provides
+#26	AnnotatorNotes T31	lemma = 'provide'
+T32	pos_NN 39 50	information
+#27	AnnotatorNotes T32	lemma = 'information'
+T33	pos_IN 51 56	about
+#28	AnnotatorNotes T33	lemma = 'about'
+T34	pos_NN 57 63	school
+#29	AnnotatorNotes T34	lemma = 'school'
+T35	pos_NNS 64 71	leavers
+#30	AnnotatorNotes T35	lemma = 'leaver'
+T36	pos_IN 72 79	between
+#31	AnnotatorNotes T36	lemma = 'between'
+T37	pos_Z 80 84	2008
+#32	AnnotatorNotes T37	lemma = '2008'
+T38	pos_CC 85 88	and
+#33	AnnotatorNotes T38	lemma = 'and'
+T39	pos_Z 89 93	2012
+#34	AnnotatorNotes T39	lemma = '2012'
+T40	pos_Fp 93 94	.
+#35	AnnotatorNotes T40	lemma = '.'
+T41	pos_PRP 95 97	It
+#36	AnnotatorNotes T41	lemma = 'it'
+T42	pos_VBZ 98 107	indicates
+#37	AnnotatorNotes T42	lemma = 'indicate'
+T43	pos_PRP 108 116	how many
+#38	AnnotatorNotes T43	lemma = 'how_many'
+T44	pos_NNS 117 123	puplis
+#39	AnnotatorNotes T44	lemma = 'puplis'
+T45	pos_VBP 124 128	have
+#40	AnnotatorNotes T45	lemma = 'have'
+T46	pos_VBN 129 135	chosen
+#41	AnnotatorNotes T46	lemma = 'choose'
+T47	pos_NN 136 139	one
+#42	AnnotatorNotes T47	lemma = 'one'
+T48	pos_IN 140 142	of
+#43	AnnotatorNotes T48	lemma = 'of'
+T49	pos_DT 143 146	the
+#44	AnnotatorNotes T49	lemma = 'the'
+T50	pos_Z 147 152	three
+#45	AnnotatorNotes T50	lemma = '3'
+T51	pos_NNS 153 166	opportunities
+#46	AnnotatorNotes T51	lemma = 'opportunity'
+T52	pos_Fd 166 167	:
+#47	AnnotatorNotes T52	lemma = ':'
+T53	pos_VBG 168 173	going
+#48	AnnotatorNotes T53	lemma = 'go'
+T54	pos_TO 174 176	to
+#49	AnnotatorNotes T54	lemma = 'to'
+T55	pos_NN 177 187	university
+#50	AnnotatorNotes T55	lemma = 'university'
+T56	pos_Fc 187 188	,
+#51	AnnotatorNotes T56	lemma = ','
+T57	pos_VB 189 193	take
+#52	AnnotatorNotes T57	lemma = 'take'
+T59	pos_RB 196 198	so
+#54	AnnotatorNotes T59	lemma = 'so'
+T60	pos_VBN 199 205	called
+#55	AnnotatorNotes T60	lemma = 'call'
+T61	pos_Fe 206 207	"
+#56	AnnotatorNotes T61	lemma = '"'
+T62	pos_NN 207 210	gap
+#57	AnnotatorNotes T62	lemma = 'gap'
+T63	pos_NN 211 215	year
+#58	AnnotatorNotes T63	lemma = 'year'
+T64	pos_Fe 215 216	"
+#59	AnnotatorNotes T64	lemma = '"'
+T65	pos_CC 217 219	or
+#60	AnnotatorNotes T65	lemma = 'or'
+T66	pos_RB 220 228	directly
+#61	AnnotatorNotes T66	lemma = 'directly'
+T67	pos_IN 229 234	after
+#62	AnnotatorNotes T67	lemma = 'after'
+T68	pos_NN 235 241	school
+#63	AnnotatorNotes T68	lemma = 'school'
+T69	pos_VB 242 244	go
+#64	AnnotatorNotes T69	lemma = 'go'
+T70	pos_TO 245 247	to
+#65	AnnotatorNotes T70	lemma = 'to'
+T71	pos_VB 248 252	work
+#66	AnnotatorNotes T71	lemma = 'work'
+T72	pos_Fp 252 253	.
+#67	AnnotatorNotes T72	lemma = '.'
+T73	pos_IN 255 267	According to
+#68	AnnotatorNotes T73	lemma = 'according_to'
+T74	pos_DT 268 271	the
+#69	AnnotatorNotes T74	lemma = 'the'
+T75	pos_NN 272 279	diagram
+#70	AnnotatorNotes T75	lemma = 'diagram'
+T76	pos_DT 280 283	the
+#71	AnnotatorNotes T76	lemma = 'the'
+T77	pos_JJ 284 289	large
+#72	AnnotatorNotes T77	lemma = 'large'
+T78	pos_NN 290 298	quantity
+#73	AnnotatorNotes T78	lemma = 'quantity'
+T79	pos_IN 299 301	of
+#74	AnnotatorNotes T79	lemma = 'of'
+T80	pos_NN 302 308	school
+#75	AnnotatorNotes T80	lemma = 'school'
+T81	pos_NNS 309 316	leavers
+#76	AnnotatorNotes T81	lemma = 'leaver'
+T82	pos_IN 317 319	in
+#77	AnnotatorNotes T82	lemma = 'in'
+T83	pos_W 320 324	2008
+#78	AnnotatorNotes T83	lemma = '[??:??/??/2008:??.??:??]'
+T84	pos_VBZ 325 332	prefers
+#79	AnnotatorNotes T84	lemma = 'prefer'
+T85	pos_VBG 333 340	looking
+#80	AnnotatorNotes T85	lemma = 'look'
+T86	pos_IN 341 344	for
+#81	AnnotatorNotes T86	lemma = 'for'
+T87	pos_DT 194 195	a
+#82	AnnotatorNotes T87	lemma = 'a'
+T88	pos_NN 347 350	job
+#83	AnnotatorNotes T88	lemma = 'job'
+T89	pos_Fp 350 351	.
+#84	AnnotatorNotes T89	lemma = '.'
+T90	pos_RB 352 359	However
+#85	AnnotatorNotes T90	lemma = 'however'
+T91	pos_Fc 359 360	,
+#86	AnnotatorNotes T91	lemma = ','
+T92	pos_DT 361 364	the
+#87	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 365 369	rate
+#88	AnnotatorNotes T93	lemma = 'rate'
+T94	pos_IN 370 372	of
+#89	AnnotatorNotes T94	lemma = 'of'
+T95	pos_DT 373 377	this
+#90	AnnotatorNotes T95	lemma = 'this'
+T96	pos_NN 378 385	feature
+#91	AnnotatorNotes T96	lemma = 'feature'
+T97	pos_VBD 386 389	was
+#92	AnnotatorNotes T97	lemma = 'be'
+T98	pos_VBG 390 398	reducing
+#93	AnnotatorNotes T98	lemma = 'reduce'
+T99	pos_IN 399 403	over
+#94	AnnotatorNotes T99	lemma = 'over'
+T100	pos_NN 404 408	time
+#95	AnnotatorNotes T100	lemma = 'time'
+T101	pos_Fp 408 409	.
+#96	AnnotatorNotes T101	lemma = '.'
+T102	pos_DT 20 23	The
+#97	AnnotatorNotes T102	lemma = 'the'
+T103	pos_NN 414 423	incidence
+#98	AnnotatorNotes T103	lemma = 'incidence'
+T104	pos_IN 424 426	of
+#99	AnnotatorNotes T104	lemma = 'of'
+T105	pos_NNS 427 436	teenagers
+#100	AnnotatorNotes T105	lemma = 'teenager'
+T106	pos_Fc 436 437	,
+#101	AnnotatorNotes T106	lemma = ','
+T107	pos_WDT 438 442	that
+#102	AnnotatorNotes T107	lemma = 'that'
+T108	pos_VBP 443 447	have
+#103	AnnotatorNotes T108	lemma = 'have'
+T109	pos_VBN 448 454	chosen
+#104	AnnotatorNotes T109	lemma = 'choose'
+T110	pos_TO 455 457	to
+#105	AnnotatorNotes T110	lemma = 'to'
+T111	pos_VB 458 460	go
+#106	AnnotatorNotes T111	lemma = 'go'
+T112	pos_TO 461 463	to
+#107	AnnotatorNotes T112	lemma = 'to'
+T113	pos_NN 464 474	university
+#108	AnnotatorNotes T113	lemma = 'university'
+T114	pos_IN 475 480	after
+#109	AnnotatorNotes T114	lemma = 'after'
+T115	pos_NN 481 487	school
+#110	AnnotatorNotes T115	lemma = 'school'
+T116	pos_Fc 487 488	,
+#111	AnnotatorNotes T116	lemma = ','
+T117	pos_VBD 489 492	was
+#112	AnnotatorNotes T117	lemma = 'be'
+T118	pos_VBG 493 503	increasing
+#113	AnnotatorNotes T118	lemma = 'increase'
+T119	pos_IN 504 508	from
+#114	AnnotatorNotes T119	lemma = 'from'
+T120	pos_Z 509 513	2008
+#115	AnnotatorNotes T120	lemma = '2008'
+T121	pos_IN 514 518	till
+#116	AnnotatorNotes T121	lemma = 'till'
+T122	pos_Z 519 523	2010
+#117	AnnotatorNotes T122	lemma = '2010'
+T123	pos_Fc 523 524	,
+#118	AnnotatorNotes T123	lemma = ','
+T124	pos_CC 525 528	but
+#119	AnnotatorNotes T124	lemma = 'but'
+T125	pos_RB 529 533	then
+#120	AnnotatorNotes T125	lemma = 'then'
+T126	pos_DT 534 538	this
+#121	AnnotatorNotes T126	lemma = 'this'
+T127	pos_NN 539 547	tendency
+#122	AnnotatorNotes T127	lemma = 'tendency'
+T128	pos_VBD 548 551	was
+#123	AnnotatorNotes T128	lemma = 'be'
+T129	pos_VBG 552 557	going
+#124	AnnotatorNotes T129	lemma = 'go'
+T130	pos_TO 558 560	to
+#125	AnnotatorNotes T130	lemma = 'to'
+T131	pos_VB 561 565	fall
+#126	AnnotatorNotes T131	lemma = 'fall'
+T132	pos_Fp 565 566	.
+#127	AnnotatorNotes T132	lemma = '.'
+T133	pos_IN 567 569	In
+#128	AnnotatorNotes T133	lemma = 'in'
+T134	pos_W 570 574	2008
+#129	AnnotatorNotes T134	lemma = '[??:??/??/2008:??.??:??]'
+T135	pos_DT 575 578	the
+#130	AnnotatorNotes T135	lemma = 'the'
+T136	pos_NN 579 587	majority
+#131	AnnotatorNotes T136	lemma = 'majority'
+T137	pos_IN 588 590	of
+#132	AnnotatorNotes T137	lemma = 'of'
+T138	pos_NNS 591 597	pupils
+#133	AnnotatorNotes T138	lemma = 'pupil'
+T139	pos_VBD 598 602	went
+#134	AnnotatorNotes T139	lemma = 'go'
+T140	pos_TO 603 605	to
+#135	AnnotatorNotes T140	lemma = 'to'
+T141	pos_VB 606 610	look
+#136	AnnotatorNotes T141	lemma = 'look'
+T142	pos_IN 611 614	for
+#137	AnnotatorNotes T142	lemma = 'for'
+T143	pos_DT 345 346	a
+#138	AnnotatorNotes T143	lemma = 'a'
+T144	pos_NN 617 621	work
+#139	AnnotatorNotes T144	lemma = 'work'
+T145	pos_Fc 621 622	,
+#140	AnnotatorNotes T145	lemma = ','
+T146	pos_IN 623 628	while
+#141	AnnotatorNotes T146	lemma = 'while'
+T147	pos_DT 629 632	the
+#142	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NN 633 639	number
+#143	AnnotatorNotes T148	lemma = 'number'
+T149	pos_IN 640 642	of
+#144	AnnotatorNotes T149	lemma = 'of'
+T150	pos_DT 643 646	the
+#145	AnnotatorNotes T150	lemma = 'the'
+T151	pos_NN 647 653	school
+#146	AnnotatorNotes T151	lemma = 'school'
+T152	pos_NNS 654 661	leavers
+#147	AnnotatorNotes T152	lemma = 'leaver'
+T153	pos_Fc 661 662	,
+#148	AnnotatorNotes T153	lemma = ','
+T154	pos_WP 663 666	who
+#149	AnnotatorNotes T154	lemma = 'who'
+T155	pos_VBP 667 671	have
+#150	AnnotatorNotes T155	lemma = 'have'
+T156	pos_VBN 672 678	chosen
+#151	AnnotatorNotes T156	lemma = 'choose'
+T157	pos_DT 615 616	a
+#152	AnnotatorNotes T157	lemma = 'a'
+T158	pos_JJ 681 689	temporal
+#153	AnnotatorNotes T158	lemma = 'temporal'
+T159	pos_NN 690 695	break
+#154	AnnotatorNotes T159	lemma = 'break'
+T160	pos_Fc 695 696	,
+#155	AnnotatorNotes T160	lemma = ','
+T161	pos_VBD 697 700	was
+#156	AnnotatorNotes T161	lemma = 'be'
+T162	pos_Z 701 706	three
+#157	AnnotatorNotes T162	lemma = '3'
+T163	pos_NN 707 711	time
+#158	AnnotatorNotes T163	lemma = 'time'
+T164	pos_VB 712 717	lower
+#159	AnnotatorNotes T164	lemma = 'lower'
+T165	pos_Fp 717 718	.
+#160	AnnotatorNotes T165	lemma = '.'
+T166	pos_RB 719 726	However
+#161	AnnotatorNotes T166	lemma = 'however'
+T167	pos_Fc 726 727	,
+#162	AnnotatorNotes T167	lemma = ','
+T168	pos_RB 728 737	gradually
+#163	AnnotatorNotes T168	lemma = 'gradually'
+T169	pos_DT 738 741	the
+#164	AnnotatorNotes T169	lemma = 'the'
+T170	pos_NN 742 747	trend
+#165	AnnotatorNotes T170	lemma = 'trend'
+T171	pos_TO 748 750	to
+#166	AnnotatorNotes T171	lemma = 'to'
+T172	pos_VB 751 755	take
+#167	AnnotatorNotes T172	lemma = 'take'
+T173	pos_DT 679 680	a
+#168	AnnotatorNotes T173	lemma = 'a'
+T174	pos_NN 758 761	gap
+#169	AnnotatorNotes T174	lemma = 'gap'
+T175	pos_NN 762 766	year
+#170	AnnotatorNotes T175	lemma = 'year'
+T176	pos_VBD 767 770	was
+#171	AnnotatorNotes T176	lemma = 'be'
+T177	pos_VBG 771 781	increasing
+#172	AnnotatorNotes T177	lemma = 'increase'
+T178	pos_RB 782 789	rapidly
+#173	AnnotatorNotes T178	lemma = 'rapidly'
+T179	pos_CC 790 793	and
+#174	AnnotatorNotes T179	lemma = 'and'
+T180	pos_IN 794 796	by
+#175	AnnotatorNotes T180	lemma = 'by'
+T181	pos_Z 797 801	2012
+#176	AnnotatorNotes T181	lemma = '2012'
+T182	pos_IN 802 806	over
+#177	AnnotatorNotes T182	lemma = 'over'
+T183	pos_Z 807 810	300
+#178	AnnotatorNotes T183	lemma = '300'
+T184	pos_NNS 811 820	teenagers
+#179	AnnotatorNotes T184	lemma = 'teenager'
+T185	pos_VBP 821 825	have
+#180	AnnotatorNotes T185	lemma = 'have'
+T186	pos_VBN 826 832	chosen
+#181	AnnotatorNotes T186	lemma = 'choose'
+T187	pos_DT 833 837	this
+#182	AnnotatorNotes T187	lemma = 'this'
+T188	pos_NN 838 845	variant
+#183	AnnotatorNotes T188	lemma = 'variant'
+T189	pos_Fp 845 846	.
+#184	AnnotatorNotes T189	lemma = '.'
+T190	pos_IN 847 849	In
+#185	AnnotatorNotes T190	lemma = 'in'
+T191	pos_NN 850 857	summary
+#186	AnnotatorNotes T191	lemma = 'summary'
+T192	pos_Fc 857 858	,
+#187	AnnotatorNotes T192	lemma = ','
+T193	pos_DT 859 862	the
+#188	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 863 868	graph
+#189	AnnotatorNotes T194	lemma = 'graph'
+T195	pos_VBZ 869 880	illustrates
+#190	AnnotatorNotes T195	lemma = 'illustrate'
+T196	pos_DT 881 884	the
+#191	AnnotatorNotes T196	lemma = 'the'
+T197	pos_JJ 885 891	strong
+#192	AnnotatorNotes T197	lemma = 'strong'
+T198	pos_NN 892 900	tendency
+#193	AnnotatorNotes T198	lemma = 'tendency'
+T199	pos_Fc 900 901	,
+#194	AnnotatorNotes T199	lemma = ','
+T200	pos_WDT 902 907	which
+#195	AnnotatorNotes T200	lemma = 'which'
+T201	pos_RB 908 916	probably
+#196	AnnotatorNotes T201	lemma = 'probably'
+T202	pos_VBZ 917 919	is
+#197	AnnotatorNotes T202	lemma = 'be'
+T203	pos_DT 920 922	an
+#198	AnnotatorNotes T203	lemma = 'a'
+T204	pos_VBG 923 934	interesting
+#199	AnnotatorNotes T204	lemma = 'interest'
+T205	pos_NN 935 944	indicator
+#200	AnnotatorNotes T205	lemma = 'indicator'
+T206	pos_IN 945 947	of
+#201	AnnotatorNotes T206	lemma = 'of'
+T207	pos_NNS 948 955	changes
+#202	AnnotatorNotes T207	lemma = 'change'
+T208	pos_IN 956 958	in
+#203	AnnotatorNotes T208	lemma = 'in'
+T209	pos_JJ 959 965	social
+#204	AnnotatorNotes T209	lemma = 'social'
+T210	pos_NN 966 970	life
+#205	AnnotatorNotes T210	lemma = 'life'
+T211	pos_IN 971 973	of
+#206	AnnotatorNotes T211	lemma = 'of'
+T212	pos_JJ 974 979	young
+#207	AnnotatorNotes T212	lemma = 'young'
+T213	pos_NNS 980 986	people
+#208	AnnotatorNotes T213	lemma = 'people'
+T214	pos_Fp 986 987	.
+#209	AnnotatorNotes T214	lemma = '.'
+T215	pos_PRP 988 990	It
+#210	AnnotatorNotes T215	lemma = 'it'
+T216	pos_VBZ 990 992	's
+#211	AnnotatorNotes T216	lemma = 'be'
+T217	pos_VBN 993 999	become
+#212	AnnotatorNotes T217	lemma = 'become'
+T218	pos_JJ 1000 1006	common
+#213	AnnotatorNotes T218	lemma = 'common'
+T219	pos_TO 1007 1009	to
+#214	AnnotatorNotes T219	lemma = 'to'
+T220	pos_VB 1010 1014	take
+#215	AnnotatorNotes T220	lemma = 'take'
+T221	pos_DT 756 757	a
+#216	AnnotatorNotes T221	lemma = 'a'
+T222	pos_NN 1017 1022	break
+#217	AnnotatorNotes T222	lemma = 'break'
+T223	pos_IN 1023 1027	from
+#218	AnnotatorNotes T223	lemma = 'from'
+T224	pos_NN 1028 1037	education
+#219	AnnotatorNotes T224	lemma = 'education'
+T225	pos_Fc 1037 1038	,
+#220	AnnotatorNotes T225	lemma = ','
+T226	pos_IN 1039 1044	while
+#221	AnnotatorNotes T226	lemma = 'while'
+T227	pos_JJ 1045 1049	only
+#222	AnnotatorNotes T227	lemma = 'only'
+T228	pos_Z 1050 1054	five
+#223	AnnotatorNotes T228	lemma = '5'
+T229	pos_NNS 1055 1060	years
+#224	AnnotatorNotes T229	lemma = 'year'
+T230	pos_JJ 1061 1066	later
+#225	AnnotatorNotes T230	lemma = 'later'
+T231	pos_VBD 1067 1070	was
+#226	AnnotatorNotes T231	lemma = 'be'
+T232	pos_RB 1071 1076	still
+#227	AnnotatorNotes T232	lemma = 'still'
+T233	pos_JJ 1077 1082	prior
+#228	AnnotatorNotes T233	lemma = 'prior'
+T234	pos_TO 1083 1085	to
+#229	AnnotatorNotes T234	lemma = 'to'
+T235	pos_VB 1086 1090	work
+#230	AnnotatorNotes T235	lemma = 'work'
+T236	pos_CC 1091 1093	or
+#231	AnnotatorNotes T236	lemma = 'or'
+T237	pos_VB 1094 1099	study
+#232	AnnotatorNotes T237	lemma = 'study'
+T238	pos_Fp 1099 1100	.
+#233	AnnotatorNotes T238	lemma = '.'

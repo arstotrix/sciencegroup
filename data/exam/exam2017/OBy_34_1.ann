@@ -1,0 +1,73 @@
+T1	Noun_number 8 13	chart
+#1	AnnotatorNotes T1	charts
+T2	Agreement_errors 14 25	illustrates
+#2	AnnotatorNotes T2	illustrate
+R1	Dependent_change Arg1:T2 Arg2:T1	
+T3	Articles 26 30	data
+#3	AnnotatorNotes T3	the data
+T4	Often_confused 133 141	per cent
+#4	AnnotatorNotes T4	percentages
+T5	Noun_number 133 141	per cent
+#5	AnnotatorNotes T5	percentages
+T6	lex_item_choice 260 263	was
+#6	AnnotatorNotes T6	had
+T7	lex_item_choice 298 301	was
+#7	AnnotatorNotes T7	had
+T8	Redundant_comp 302 309	in over
+A1	Delete T8
+T9	Comparative_adj 322 327	lower
+#8	AnnotatorNotes T9	less
+T10	Absence_comp_sent 420 423	was
+#9	AnnotatorNotes T10	it was
+T11	lex_item_choice 459 462	was
+#10	AnnotatorNotes T11	had
+T12	Absence_comp_sent 481 496	the most little
+#11	AnnotatorNotes T12	is smaller
+T13	Comparative_adj 481 496	the most little
+#12	AnnotatorNotes T13	is smaller
+T14	Ref_device 524 528	this
+#13	AnnotatorNotes T14	these
+T15	Absence_explanation 529 542	goods by rail
+#14	AnnotatorNotes T15	goods transported by rail
+T16	lex_item_choice 543 546	was
+#15	AnnotatorNotes T16	had
+T17	Absence_explanation 547 567	significantly bigger
+#16	AnnotatorNotes T17	a significantly bigger proportions
+T18	Absence_comp_sent 572 575	was
+#17	AnnotatorNotes T18	it was
+T19	lex_item_choice 618 626	per cent
+#18	AnnotatorNotes T19	proportion
+T20	Category_confusion 581 590	Gragually
+#19	AnnotatorNotes T20	gradual
+T21	Articles 581 601	Gragually difference
+#20	AnnotatorNotes T21	A gragual difference
+T22	lex_item_choice 687 691	data
+#21	AnnotatorNotes T22	percentage
+T23	Articles 724 734	road chart
+#22	AnnotatorNotes T23	the road chart
+T24	lex_item_choice 771 774	was
+#23	AnnotatorNotes T24	had
+T25	Numerical 775 791	in 2 times lower
+#24	AnnotatorNotes T25	2 times less
+T26	lex_item_choice 821 824	was
+#25	AnnotatorNotes T26	had
+T27	Articles 839 849	rail chart
+#26	AnnotatorNotes T27	the rail chart
+T28	Spelling 895 899	past
+#27	AnnotatorNotes T28	parts
+T29	Redundant_comp 909 917	per cent
+A2	Delete T29
+T30	Noun_number 895 899	past
+#28	AnnotatorNotes T30	parts
+T31	Superlative_adj 888 894	bigger
+#29	AnnotatorNotes T31	biggest
+T32	Agreement_errors 941 944	was
+#30	AnnotatorNotes T32	were
+T33	Redundant_comp 938 940	it
+A3	Delete T33
+T34	Articles 986 994	per cent
+#31	AnnotatorNotes T34	the percentage
+T35	Often_confused 986 994	per cent
+#32	AnnotatorNotes T35	the percentage
+T36	Redundant_comp 995 1004	this good
+A4	Delete T36

@@ -1,0 +1,35 @@
+T1	Tense_choice 95 104	developed
+#1	AnnotatorNotes T1	develop 
+T2	Spelling 109 118	industrie
+A1	Cause T2 Typo
+#2	AnnotatorNotes T2	industry
+T3	Redundant_comp 129 132	the
+A2	Delete T3
+T4	note 213 226	must be spyed
+#3	AnnotatorNotes T4	?
+T5	Redundant_comp 302 304	be
+A3	Delete T5
+T6	Spelling 312 318	fridom
+#4	AnnotatorNotes T6	freedom
+T7	Redundant_comp 341 344	the
+A4	Delete T7
+T8	Capitalisation 105 108	Art
+#5	AnnotatorNotes T8	art
+T9	Capitalisation 381 384	Art
+#6	AnnotatorNotes T9	art
+T10	Redundant_comp 385 390	it is
+A5	Delete T10
+T11	Redundant_comp 410 413	The
+A6	Delete T11
+T12	Agreement_errors 427 434	doesn't
+#7	AnnotatorNotes T12	don't
+T13	Tense_choice 435 443	painting
+#8	AnnotatorNotes T13	paint
+T14	Tense_choice 447 454	playing
+#9	AnnotatorNotes T14	play
+T15	Spelling 455 461	musick
+#10	AnnotatorNotes T15	music
+T16	Spelling 472 479	clouser
+#11	AnnotatorNotes T16	closer
+T17	Absence_explanation 487 489	or
+#12	AnnotatorNotes T17	?

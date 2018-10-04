@@ -1,0 +1,67 @@
+T1	Prefix 149 159	unstandart
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	non-standard
+T2	Spelling 149 159	unstandart
+A2	Cause T2 Other
+#2	AnnotatorNotes T2	non-standard
+T3	Voice 392 403	cannot deny
+A3	Cause T3 Other
+#3	AnnotatorNotes T3	can not be denied
+T4	Spelling 499 503	thie
+A4	Cause T4 Typo
+#4	AnnotatorNotes T4	the
+T5	Prepositions 556 558	on
+A5	Cause T5 L1_interference
+A6	Delete T5
+T6	Articles 595 596	a
+A7	Cause T6 Absence_of_Category_in_L1
+A8	Delete T6
+T7	Countable_uncountable 601 605	mood
+A9	Cause T7 Other
+T8	lex_item_choice 625 642	not understanding
+A10	Cause T8 L1_interference
+#5	AnnotatorNotes T8	uncomprehending
+T9	Articles 721 722	a
+A11	Cause T9 Absence_of_Category_in_L1
+A12	Delete T9
+T10	Determiners 747 751	much
+A13	Cause T10 Absence_of_Category_in_L1
+#6	AnnotatorNotes T10	a lot of
+T11	Prepositions 860 862	of
+A14	Cause T11 L1_interference
+#7	AnnotatorNotes T11	at
+T12	Inappropriate_register 920 972	they start to have some problems with their behavior
+A15	Cause T12 L1_interference
+#8	AnnotatorNotes T12	problems with their behaviour appear
+T13	Articles 993 1010	successful family
+A16	Cause T13 Absence_of_Category_in_L1
+#9	AnnotatorNotes T13	a successful family
+T14	Articles 1056 1062	mirrow
+A17	Cause T14 Absence_of_Category_in_L1
+#10	AnnotatorNotes T14	a mirrow
+T15	Articles 1047 1052	child
+A18	Cause T15 Absence_of_Category_in_L1
+#11	AnnotatorNotes T15	a child
+T16	Articles 1081 1082	a
+A19	Cause T16 Absence_of_Category_in_L1
+#12	AnnotatorNotes T16	the
+T17	Pronouns 1222 1230	therself
+A20	Cause T17 Other
+#13	AnnotatorNotes T17	theirselves
+T18	Spelling 1205 1210	works
+#14	AnnotatorNotes T18	words
+T19	Spelling 1273 1278	works
+#15	AnnotatorNotes T19	words
+T20	Spelling 1288 1294	famaly
+A21	Cause T20 Typo
+#16	AnnotatorNotes T20	family
+T21	Absence_comp_sent 1338 1347	this true
+A22	Cause T21 L1_interference
+#17	AnnotatorNotes T21	this is true
+T22	Redundant_comp 1424 1432	the main
+A23	Delete T22
+T23	Inappropriate_register 1433 1436	for
+#18	AnnotatorNotes T23	???
+T24	Spelling 1446 1452	famoly
+A24	Cause T24 Typo
+#19	AnnotatorNotes T24	family

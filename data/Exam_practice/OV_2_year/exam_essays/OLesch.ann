@@ -1,0 +1,42 @@
+T1	Lack_par_constr 128 137	a chamber
+#1	AnnotatorNotes T1	and a chamber
+T2	lex_item_choice 85 94	mechanism
+#2	AnnotatorNotes T2	structure
+T3	suggestion 139 142	Air
+#3	AnnotatorNotes T3	The air
+T4	Redundant_comp 170 179	outwardly
+A1	Delete T4
+T5	suggestion 187 197	water wave
+#4	AnnotatorNotes T5	a water wave
+T6	suggestion 210 213	air
+T7	suggestion 254 262	sea wave
+#5	AnnotatorNotes T7	the sea wave
+T8	suggestion 336 340	sits
+#6	AnnotatorNotes T8	is mounted
+T9	Absence_explanation 348 353	cliff
+#7	AnnotatorNotes T9	cliff or sea wall
+T10	suggestion 355 368	The Diagram A
+#8	AnnotatorNotes T10	Diagram A
+T11	suggestion 288 297	mechanism
+#9	AnnotatorNotes T11	device
+T12	suggestion 404 412	sea wall
+#10	AnnotatorNotes T12	the device
+T13	suggestion 418 431	the diagram B
+#11	AnnotatorNotes T13	diagram B
+T14	Ref_device 471 473	it
+#12	AnnotatorNotes T14	they
+T15	suggestion 474 490	leaves the cliff
+#13	AnnotatorNotes T15	retreat
+T16	suggestion 474 480	leaves
+#14	AnnotatorNotes T16	retreat
+R1	Dependent_change Arg1:T14 Arg2:T16	
+T17	suggestion 492 507	The Electricity
+#15	AnnotatorNotes T17	Electricity
+T18	suggestion 522 531	roatation
+#16	AnnotatorNotes T18	rotation
+T19	suggestion 522 531	roatation
+#17	AnnotatorNotes T19	the rotation
+T20	suggestion 535 542	turbine
+#18	AnnotatorNotes T20	the turbine
+T21	Linking_device 543 546	and
+#19	AnnotatorNotes T21	in

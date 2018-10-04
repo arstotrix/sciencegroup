@@ -1,0 +1,90 @@
+T1	Spelling 151 160	Face-book
+#1	AnnotatorNotes T1	Facebook
+T2	Articles 128 133	three
+#2	AnnotatorNotes T2	the three
+T3	Prepositions 45 51	adults
+#3	AnnotatorNotes T3	of adults
+T4	Punctuation 267 275	moreover
+#4	AnnotatorNotes T4	moreover, 
+T5	lex_item_choice 327 331	more
+A1	Cause T5 L1_interference
+#5	AnnotatorNotes T5	higher
+T6	Spelling 402 412	intresting
+#6	AnnotatorNotes T6	interesting
+T7	Agreement_errors 1154 1156	is
+#7	AnnotatorNotes T7	are
+T8	Comparative_adj 1193 1196	old
+#8	AnnotatorNotes T8	older
+T9	Articles 1075 1089	social network
+#9	AnnotatorNotes T9	a social network
+T10	Spelling 1020 1029	Face book
+#10	AnnotatorNotes T10	Facebook
+T11	Articles 1033 1045	most popular
+#11	AnnotatorNotes T11	the most polular
+T12	Comparative_adj 879 882	old
+#12	AnnotatorNotes T12	older
+T13	Word_choice 831 845	In distinguish
+#13	AnnotatorNotes T13	Conversely,
+T15	Comparative_adj 748 751	old
+#15	AnnotatorNotes T15	older
+T17	lex_item_choice 514 522	property
+#17	AnnotatorNotes T17	popularity
+T18	Articles 215 227	most popular
+#18	AnnotatorNotes T18	the most popular
+T19	Often_confused 279 282	all
+A2	Cause T19 L1_interference
+#19	AnnotatorNotes T19	each of
+T20	Articles 283 298	four age groups
+#20	AnnotatorNotes T20	the four age groups
+T21	Articles 299 305	amount
+#21	AnnotatorNotes T21	the proportion
+T22	Ref_device 337 343	amount
+#22	AnnotatorNotes T22	that of
+T23	Ref_device 368 374	amount
+#23	AnnotatorNotes T23	that of
+T24	Prepositions 616 618	in
+#24	AnnotatorNotes T24	among
+T26	Absence_comp_sent 732 734	in
+#26	AnnotatorNotes T26	among people of
+T28	Punctuation 83 112	: 18-29, 30-49, 50-64 and 65+
+#28	AnnotatorNotes T28	 (18-29, 30-49, 50-64 and 65+)
+T29	lex_item_choice 299 305	amount
+#29	AnnotatorNotes T29	the proportion
+T30	Absence_comp_sent 417 418	:
+#30	AnnotatorNotes T30	is that
+T31	Word_choice 486 493	As well
+#31	AnnotatorNotes T31	Besides,
+T32	Numerical 648 671	twice more popular than
+#32	AnnotatorNotes T32	twice as popular as
+T33	Absence_explanation 699 707	in 30-49
+#33	AnnotatorNotes T33	in age group 30-49,
+T34	Numerical 708 731	twice more popular than
+T27	Superlative_adj 772 786	very unpopular
+#27	AnnotatorNotes T27	the least popular
+T35	Punctuation 831 845	In distinguish
+#34	AnnotatorNotes T35	Conversely,
+T37	Absence_comp_colloc 915 925	Percentage
+#36	AnnotatorNotes T37	Percentage numbers
+T38	Standard 926 945	use of this network
+#37	AnnotatorNotes T38	of this network's use
+T39	Agreement_errors 980 982	is
+#38	AnnotatorNotes T39	are
+R1	Dependent_change Arg1:T37 Arg2:T39	
+T40	Linking_device 1015 1019	what
+#39	AnnotatorNotes T40	that
+T41	Comparative_adj 1127 1130	old
+#40	AnnotatorNotes T41	older
+T42	Punctuation 786 787	,
+#41	AnnotatorNotes T42	:
+A3	Cause T40 L1_interference
+#42	AnnotatorNotes T34	twice as popular as
+T16	Punctuation 699 707	in 30-49
+#16	AnnotatorNotes T16	in age group 30-49,
+T14	Standard 858 872	popular rather
+#14	AnnotatorNotes T14	rather popular
+T25	suggestion 1107 1110	and
+#25	AnnotatorNotes T25	, and
+T36	lex_item_choice 1197 1203	adults
+#35	AnnotatorNotes T36	people
+T43	suggestion 105 112	and 65+
+#43	AnnotatorNotes T43	,

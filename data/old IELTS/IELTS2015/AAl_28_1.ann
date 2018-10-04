@@ -1,0 +1,64 @@
+T3	Spelling 704 713	compliane
+T4	Capitalisation 874 879	japan
+T5	Spelling 135 145	peasantage
+#1	AnnotatorNotes T5	percentage
+T7	Punctuation 395 396	,
+T8	Punctuation 441 442	,
+T2	Punctuation 476 477	(
+T9	Category_confusion 224 229	Japan
+#2	AnnotatorNotes T9	Japanese
+T10	Punctuation 280 281	.
+T13	Articles 576 579	USA
+#4	AnnotatorNotes T13	the USA
+T14	Spelling 911 917	grouth
+#6	AnnotatorNotes T14	growth
+#7	AnnotatorNotes T4	Japanese
+T15	Category_confusion 874 879	japan
+#8	AnnotatorNotes T15	Japanese
+T11	Spelling 106 110	seem
+#10	AnnotatorNotes T11	seen
+T16	Category_confusion 149 155	Sweden
+#11	AnnotatorNotes T16	Swedish
+T17	Category_confusion 160 163	USA
+#12	AnnotatorNotes T17	American
+T12	Redundant_comp 767 778	not evident
+T18	Word_order 929 946	dramatically more
+#3	AnnotatorNotes T18	more dramatically 
+T20	Spelling 1023 1029	member
+#14	AnnotatorNotes T20	number
+T6	Tense_choice 175 180	tends
+#9	AnnotatorNotes T6	tended
+T22	Punctuation 241 243	it
+#15	AnnotatorNotes T22	. It
+T23	Capitalisation 241 243	it
+#16	AnnotatorNotes T23	. It
+A2	Delete T10
+T26	Capitalisation 282 287	These
+#17	AnnotatorNotes T26	these
+R1	Dependent_change Arg1:T10 Arg2:T26	
+A3	Delete T7
+T27	Articles 407 426	the stable decrease
+#18	AnnotatorNotes T27	a stable decrease
+T29	Spelling 457 463	sadden
+#19	AnnotatorNotes T29	sudden
+A4	Delete T8
+A5	Delete T2
+T32	Redundant_comp 591 601	age groups
+A6	Delete T32
+#20	AnnotatorNotes T3	compliance
+T34	Spelling 733 743	persentage
+#21	AnnotatorNotes T34	percentage
+A7	Delete T12
+T37	Spelling 828 837	empasized
+#22	AnnotatorNotes T37	emphasized
+T38	lex_item_choice 900 910	perpertual
+#23	AnnotatorNotes T38	permanent
+T39	Comparative_constr 929 961	dramatically more in contrast to
+#24	AnnotatorNotes T39	more dramatically than
+T41	Prepositions 962 977	other countries
+#25	AnnotatorNotes T41	in other countries
+R2	Dependent_change Arg1:T39 Arg2:T41	
+T42	Redundant_comp 1057 1073	of that catagory
+A8	Delete T42
+T19	Tense_choice 501 508	changed
+#13	AnnotatorNotes T19	has changed

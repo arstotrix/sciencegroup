@@ -1,0 +1,61 @@
+T1	lex_item_choice 342 344	be
+#1	AnnotatorNotes T1	become
+T2	Articles 366 369	the
+A1	Delete T2
+T3	Agreement_errors 443 449	reason
+#2	AnnotatorNotes T3	reasons
+T4	lex_item_choice 463 465	do
+#3	AnnotatorNotes T4	commit
+T5	Word_choice 571 591	not very complicated
+#4	AnnotatorNotes T5	uncomplicated
+T6	Determiners 756 766	an another
+#5	AnnotatorNotes T6	another
+T7	Articles 785 788	The
+A2	Delete T7
+T8	Redundant_comp 823 825	by
+A3	Delete T8
+T9	lex_item_choice 136 142	scores
+#6	AnnotatorNotes T9	rates
+T10	lex_item_choice 219 225	number
+#7	AnnotatorNotes T10	quantity
+T11	lex_item_choice 236 242	should
+#8	AnnotatorNotes T11	must
+T12	Word_order 259 274	society actions
+#9	AnnotatorNotes T12	actions of the society
+T13	Articles 259 266	society
+#10	AnnotatorNotes T13	the society
+T14	Possessive 975 981	people
+#11	AnnotatorNotes T14	people's
+T15	Inappropriate_register 1303 1313	teenagers’
+A4	Delete T15
+T16	Redundant_comp 1296 1319	in the teenagers’ minds
+A5	Delete T16
+T17	Word_choice 1273 1295	provide respect to law
+#12	AnnotatorNotes T17	has to teach children to respect the law
+T18	Redundant_comp 1266 1272	should
+A6	Delete T18
+T19	Tense_form 1343 1350	can not
+#13	AnnotatorNotes T19	cannot
+T20	Inappropriate_register 1406 1413	kind of
+A7	Delete T20
+T21	Adjectives 1424 1430	parent
+#14	AnnotatorNotes T21	parental
+T22	Inappropriate_register 1491 1503	a crime boom
+#15	AnnotatorNotes T22	an increase in the number of young people's crimes
+T24	Agreement_errors 1547 1553	one of
+#16	AnnotatorNotes T24	among
+T23	Articles 502 505	the
+A8	Delete T23
+T25	Word_choice 630 651	users of their labour
+#17	AnnotatorNotes T25	exploitation
+T26	Spelling 653 663	goverments
+#18	AnnotatorNotes T26	governments
+T27	suggestion 219 225	number
+T28	suggestion 236 242	should
+T29	suggestion 530 534	it's
+T30	suggestion 823 825	by
+T31	Punctuation 913 922	countries
+#19	AnnotatorNotes T31	countries.
+T32	lex_item_choice 894 900	actual
+A9	Cause T32 L1_interference
+#20	AnnotatorNotes T32	urgent

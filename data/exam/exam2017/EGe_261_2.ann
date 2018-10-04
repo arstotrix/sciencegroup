@@ -1,0 +1,95 @@
+T1	Punctuation 1985 1992	problem
+#1	AnnotatorNotes T1	problem.
+T2	Spelling 1916 1920	sill
+#2	AnnotatorNotes T2	still
+T3	note 1991 1992	m
+#3	AnnotatorNotes T3	Oleynik
+T4	Articles 24 44	serious social issue
+#4	AnnotatorNotes T4	a serious social issue
+T5	Noun_number 0 6	Crimes
+#5	AnnotatorNotes T5	Crime
+T6	Tense_form 7 11	have
+#6	AnnotatorNotes T6	has
+R1	Dependent_change Arg1:T6 Arg2:T5	
+T7	Punctuation 1812 1818	Though
+#7	AnnotatorNotes T7	though
+T8	Spelling 155 165	arguements
+#8	AnnotatorNotes T8	arguments
+T9	lex_part_choice 90 106	amount of crimes
+#9	AnnotatorNotes T9	crime rate
+T10	lex_part_choice 193 208	level of crimes
+#10	AnnotatorNotes T10	crime rate
+T11	Determiners 209 223	in the society
+#11	AnnotatorNotes T11	in today's society
+T12	Determiners 242 246	both
+#12	AnnotatorNotes T12	all of the
+T13	Punctuation 270 281	think, that
+#13	AnnotatorNotes T13	think that
+T14	Articles 321 337	criminal problem
+#14	AnnotatorNotes T14	the criminal problem
+T15	Inappropriate_register 228 238	let's look
+#15	AnnotatorNotes T15	I suggest looking
+T16	Capitalisation 633 635	If
+#16	AnnotatorNotes T16	if
+T17	Punctuation 748 755	Finally
+#17	AnnotatorNotes T17	Finally,
+T18	Articles 563 574	the society
+#18	AnnotatorNotes T18	society
+T19	Comparative_constr 604 623	much more effective
+#19	AnnotatorNotes T19	very effective
+T22	Absence_comp_sent 733 746	social safety
+#22	AnnotatorNotes T22	reaching social safety
+T20	lex_item_choice 644 653	criminals
+#20	AnnotatorNotes T20	culprits
+T21	lex_item_choice 722 729	measure
+#21	AnnotatorNotes T21	way
+T23	lex_item_choice 808 815	healthy
+#23	AnnotatorNotes T23	productive
+T24	lex_item_choice 816 820	part
+#24	AnnotatorNotes T24	member
+T25	Articles 824 835	the society
+#25	AnnotatorNotes T25	society
+T26	Articles 808 820	healthy part
+#26	AnnotatorNotes T26	a productive member
+T27	Redundant_comp 840 861	schools and education
+#27	AnnotatorNotes T27	education
+T28	lex_item_choice 908 915	leaving
+#28	AnnotatorNotes T28	their release from
+T29	Articles 916 926	the prison
+#29	AnnotatorNotes T29	jail
+T30	lex_item_choice 916 926	the prison
+#30	AnnotatorNotes T30	jail
+T31	note 865 872	prisons
+R2	Dependent_change Arg1:T31 Arg2:T30	
+#31	AnnotatorNotes T31	"prison" is used 2 times
+T32	Articles 1069 1079	the prison
+#32	AnnotatorNotes T32	prison
+T33	Tense_form 1113 1116	are
+#33	AnnotatorNotes T33	is
+T34	Articles 1207 1218	opportunity
+#34	AnnotatorNotes T34	an opportunity
+T35	lex_item_choice 1203 1206	get
+#35	AnnotatorNotes T35	have
+T36	lex_item_choice 1183 1190	prisons
+#36	AnnotatorNotes T36	jails
+T37	note 1137 1143	prison
+#37	AnnotatorNotes T37	"prison" is used 2 times
+R3	Dependent_change Arg1:T37 Arg2:T36	
+T38	Articles 1281 1285	part
+#38	AnnotatorNotes T38	a part
+T39	Punctuation 1355 1362	people,
+#39	AnnotatorNotes T39	people.
+T40	Articles 1402 1413	the society
+#40	AnnotatorNotes T40	society
+T41	note 1668 1689	the tale of Showshenk
+#41	AnnotatorNotes T41	The Shawshank Redemption
+T42	Spelling 1680 1689	Showshenk
+#42	AnnotatorNotes T42	Shawshank
+T43	Capitalisation 1668 1676	the tale
+#43	AnnotatorNotes T43	The Tale
+T44	Punctuation 1668 1689	the tale of Showshenk
+#44	AnnotatorNotes T44	The Tale of Shawshunk (should be in italics)
+T45	Tense_form 1885 1888	are
+#45	AnnotatorNotes T45	is
+T46	Spelling 1900 1902	so
+#46	AnnotatorNotes T46	do

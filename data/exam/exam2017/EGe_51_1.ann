@@ -1,0 +1,76 @@
+T1	Noun_number 171 175	rate
+#1	AnnotatorNotes T1	rates
+T2	note 819 820	.
+#2	AnnotatorNotes T2	Oleynik
+T3	Noun_number 471 475	rate
+#3	AnnotatorNotes T3	rates
+T4	Punctuation 445 496	Comparing birth and death rate with population size
+#4	AnnotatorNotes T4	Comparing birth and death rates with the population size,
+T5	Inappropriate_register 497 501	it's
+#5	AnnotatorNotes T5	it is
+T6	Noun_number 618 622	rate
+#6	AnnotatorNotes T6	rates
+T8	Punctuation 660 667	in 1950
+#8	AnnotatorNotes T8	in 1950,
+T9	Punctuation 220 227	In 1800
+#9	AnnotatorNotes T9	In 1800,
+T10	Tense_choice 239 244	reach
+#10	AnnotatorNotes T10	reached
+T11	Punctuation 257 262	level
+#11	AnnotatorNotes T11	level,
+T12	Punctuation 309 322	1950, however
+#12	AnnotatorNotes T12	1950; however,
+T13	Punctuation 323 340	from 1950 to 2000
+#13	AnnotatorNotes T13	from 1950 to 2000,
+T14	Tense_choice 344 349	rises
+#14	AnnotatorNotes T14	was rising
+T15	Punctuation 351 373	During the same period
+#15	AnnotatorNotes T15	During the same period,
+T16	Tense_choice 390 397	reaches
+#16	AnnotatorNotes T16	reached
+T17	Ref_device 398 411	highest point
+#17	AnnotatorNotes T17	its highest point
+T18	Punctuation 566 597	while USA population is growing
+#18	AnnotatorNotes T18	while the USA population is growing,
+T19	Articles 612 617	death
+#19	AnnotatorNotes T19	the death
+T20	Articles 668 678	birth rate
+#20	AnnotatorNotes T20	the birth rate
+T21	Inappropriate_register 797 803	didn’t
+#21	AnnotatorNotes T21	did not
+T22	Inappropriate_register 814 819	a lot
+#22	AnnotatorNotes T22	significantly
+T23	Standard 797 819	didn’t affect it a lot
+#23	AnnotatorNotes T23	did not significantly affect it
+R2	Dependent_change Arg1:T22 Arg2:T23	
+T24	Articles 719 733	USA population
+#24	AnnotatorNotes T24	the USA population
+T25	Word_choice 513 526	overall trend
+#25	AnnotatorNotes T25	general trends
+T26	Noun_number 513 526	overall trend
+#26	AnnotatorNotes T26	general trends
+T27	Verbs 542 544	is
+#27	AnnotatorNotes T27	are
+T28	Articles 572 586	USA population
+#28	AnnotatorNotes T28	the USA population
+T29	Noun_number 98 102	rate
+#29	AnnotatorNotes T29	rates
+T30	lex_item_choice 206 218	some moments
+#30	AnnotatorNotes T30	certain aspects
+T31	Articles 481 496	population size
+#31	AnnotatorNotes T31	the population
+T32	Redundant 481 496	population size
+#32	AnnotatorNotes T32	the population
+T7	Verbs 623 632	is having
+#7	AnnotatorNotes T7	display
+T33	Tense_choice 623 632	is having
+#33	AnnotatorNotes T33	display
+R1	Dependent_change Arg1:T7 Arg2:T6	
+T34	Noun_number 773 778	death
+#34	AnnotatorNotes T34	deaths
+T35	Articles 786 796	birth rate
+#35	AnnotatorNotes T35	the birth rate
+T36	Prepositions 752 762	falling in
+#36	AnnotatorNotes T36	decreasing
+T37	Word_choice 752 762	falling in
+#37	AnnotatorNotes T37	decreasing

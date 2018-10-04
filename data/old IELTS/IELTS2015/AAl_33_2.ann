@@ -1,0 +1,96 @@
+T4	Spelling 1027 1038	uninversale
+T5	Spelling 1114 1116	of
+T6	Articles 1312 1320	the boys
+T7	Spelling 8 15	centary
+#1	AnnotatorNotes T7	century
+T8	Articles 467 476	the exams
+T12	Spelling 1292 1301	completed
+#5	AnnotatorNotes T12	competed
+T13	Spelling 1441 1448	busical
+#6	AnnotatorNotes T13	basic
+T14	Articles 3 15	21st centary
+T16	lex_item_choice 100 105	voted
+#8	AnnotatorNotes T16	elected
+#10	AnnotatorNotes T8	exams
+T21	Redundant 667 674	half of
+#14	AnnotatorNotes T21	half
+T22	Redundant 683 690	half of
+#15	AnnotatorNotes T22	half
+R1	Parallel_construction Arg1:T21 Arg2:T22	
+T23	Prepositions 697 699	on
+#16	AnnotatorNotes T23	in
+T25	lex_item_choice 841 857	more complicated
+#18	AnnotatorNotes T25	tougher
+T26	Articles 841 869	more complicated competition
+#19	AnnotatorNotes T26	a tougher competition
+#3	AnnotatorNotes T4	not a universal
+T10	Negation 1027 1038	uninversale
+#21	AnnotatorNotes T10	not a universal
+T28	Formational_affixes 1027 1038	uninversale
+#22	AnnotatorNotes T28	not a universal
+T29	Spelling 1106 1113	Tatcher
+#23	AnnotatorNotes T29	Thatcher
+T30	Defining 1286 1322	, who completed only with the boys ,
+#24	AnnotatorNotes T30	who have competed only with boys
+#25	AnnotatorNotes T6	boys
+T31	Ref_device 1352 1354	he
+#26	AnnotatorNotes T31	they
+T32	Agreement_errors 1355 1357	is
+#27	AnnotatorNotes T32	are
+R2	Dependent_change Arg1:T31 Arg2:T32	
+T33	Noun_number 1387 1395	the girl
+#28	AnnotatorNotes T33	girls
+T34	Articles 1387 1395	the girl
+#29	AnnotatorNotes T34	girls
+T36	Absence_comp_colloc 1337 1346	education
+#31	AnnotatorNotes T36	educational degree
+T37	Confusion_of_structures 1495 1505	to realize
+#32	AnnotatorNotes T37	people will ever realise
+T38	Articles 1506 1512	system
+#33	AnnotatorNotes T38	the system
+T39	Absence_comp_sent 1516 1521	equal
+#34	AnnotatorNotes T39	equal numbers of
+T43	Word_choice 439 458	the similar chances
+T40	Word_choice 481 486	go to
+#35	AnnotatorNotes T40	enroll at
+T45	lex_item_choice 596 609	independently
+#37	AnnotatorNotes T45	regardless
+#43	AnnotatorNotes T14	the 21st century
+#2	AnnotatorNotes T43	the same chances
+T2	lex_item_choice 617 620	sex
+#11	AnnotatorNotes T2	gender
+T9	lex_item_choice 624 630	person
+#12	AnnotatorNotes T9	an applicant
+#38	AnnotatorNotes T5	or
+T15	suggestion 1575 1576	.
+#9	AnnotatorNotes T15	Тимофеева С
+T17	Absence_comp_sent 1347 1351	even
+#17	AnnotatorNotes T17	even if
+A1	Cause T40 L1_interference
+T19	Word_choice 192 197	go to
+#20	AnnotatorNotes T19	serve in
+T20	Category_confusion 245 251	humans
+#30	AnnotatorNotes T20	human beings
+T27	Agreement_errors 574 581	compare
+#39	AnnotatorNotes T27	compares
+T35	Articles 624 630	person
+#40	AnnotatorNotes T35	an applicant
+T44	Absence_comp_sent 744 754	proportion
+#41	AnnotatorNotes T44	proportion of the two genders
+T46	Tense_choice 951 955	were
+#42	AnnotatorNotes T46	have always been
+T47	Prepositions 998 1001	for
+#45	AnnotatorNotes T47	in
+T49	lex_item_choice 1329 1333	have
+#46	AnnotatorNotes T49	get
+T50	Tense_choice 1292 1301	completed
+#47	AnnotatorNotes T50	have competed
+A2	Cause T19 L1_interference
+T1	Prefix 395 402	pretend
+#4	AnnotatorNotes T1	contend
+T11	Word_choice 47 63	the similar with
+#7	AnnotatorNotes T11	the same as
+T18	Coherence 288 303	an exception of
+#36	AnnotatorNotes T18	any exception for
+T24	Category_confusion 413 428	male and female
+#44	AnnotatorNotes T24	girls and boys

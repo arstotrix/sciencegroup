@@ -1,0 +1,54 @@
+T1	Agreement_errors 10 17	provide
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	provides
+T2	Agreement_errors 68 78	educations
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	education
+T3	Noun_number 96 100	mens
+#3	AnnotatorNotes T3	men
+T4	Noun_number 105 111	womans
+#4	AnnotatorNotes T4	women
+T5	Absence_comp_sent 123 137	As can be seen
+#5	AnnotatorNotes T5	As it can be seen
+T6	Spelling 161 171	vacational
+A7	Cause T6 Typo
+#6	AnnotatorNotes T6	vocational
+T7	Absence_comp_sent 204 209	males
+#7	AnnotatorNotes T7	in males
+T8	Redundant_comp 218 222	year
+A8	Delete T8
+T9	Spelling 289 297	manority
+A9	Cause T9 Typo
+#8	AnnotatorNotes T9	minority
+T10	Capitalisation 301 306	Males
+#9	AnnotatorNotes T10	males
+T11	Voice 357 361	take
+#10	AnnotatorNotes T11	is taken by
+T12	Absence_comp_sent 420 430	vocational
+#11	AnnotatorNotes T12	vocational diploma
+T13	Spelling 451 458	amounth
+A10	Cause T13 Typo
+#12	AnnotatorNotes T13	amount
+T14	Spelling 459 469	flactuated
+#13	AnnotatorNotes T14	fluctuated
+T15	Spelling 563 569	periog
+#14	AnnotatorNotes T15	period 
+T16	Spelling 598 608	vacational
+A11	Cause T16 Typo
+#15	AnnotatorNotes T16	vocational
+T17	Noun_number 697 703	womans
+#16	AnnotatorNotes T17	women
+T18	Absence_comp_sent 689 696	percent
+#17	AnnotatorNotes T18	percent of
+T19	lex_item_choice 704 707	was
+#18	AnnotatorNotes T19	have
+T20	Noun_number 762 766	mans
+#19	AnnotatorNotes T20	men
+T21	Spelling 785 795	flactuated
+#20	AnnotatorNotes T21	fluctuated
+T22	Spelling 919 930	incompilent
+#21	AnnotatorNotes T22	incompetent

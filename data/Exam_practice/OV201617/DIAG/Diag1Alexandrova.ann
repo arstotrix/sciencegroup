@@ -1,0 +1,57 @@
+T1	lex_item_choice 199 206	Results
+#1	AnnotatorNotes T1	The findings
+T2	Articles 210 223	two countries
+#2	AnnotatorNotes T2	the two countries
+T3	lex_item_choice 296 304	the peak
+#3	AnnotatorNotes T3	its peak
+T4	lex_item_choice 333 338	While
+#4	AnnotatorNotes T4	On the contrary,
+T5	lex_item_choice 435 441	amount
+#5	AnnotatorNotes T5	percentage
+T6	Articles 474 488	poorest people
+T7	lex_item_choice 543 553	the income
+#6	AnnotatorNotes T7	their income
+T8	Absence_explanation 515 521	spends
+#7	AnnotatorNotes T8	spends on fuel
+T9	Prepositions 570 577	in part
+#8	AnnotatorNotes T9	on the part
+T10	Articles 658 669	bigger part
+#9	AnnotatorNotes T10	a bigger part
+T11	Articles 727 742	young invention
+#10	AnnotatorNotes T11	a young invention
+T12	Punctuation 744 751	however
+#11	AnnotatorNotes T12	however,
+T13	Punctuation 1061 1067	, like
+#12	AnnotatorNotes T13	like
+T14	Prepositions 1078 1096	Using the Internet
+T15	Tense_choice 1263 1275	had appeared
+#13	AnnotatorNotes T15	appeared
+T16	Punctuation 1430 1436	, when
+#14	AnnotatorNotes T16	when
+T17	Tense_choice 1538 1544	leaded
+#15	AnnotatorNotes T17	has led
+T18	suggestion 1548 1557	explosion
+T19	lex_item_choice 1581 1585	each
+#16	AnnotatorNotes T19	all
+T20	Determiners 1594 1602	contains
+#17	AnnotatorNotes T20	contain
+T21	Spelling 1749 1750	r
+T22	Prepositions 1799 1805	search
+#18	AnnotatorNotes T22	search for
+T23	Absence_explanation 2162 2172	develop it
+#19	AnnotatorNotes T23	develop it even further
+T24	lex_item_choice 2215 2223	Although
+#20	AnnotatorNotes T24	Nevertheless,
+#21	AnnotatorNotes T6	the poorest people
+A1	Cause T1 L1_interference
+A2	Cause T4 L1_interference
+A3	Cause T9 L1_interference
+T25	Gerund_phrase 830 866	can't imagine how to live without it
+A4	Cause T25 L1_interference
+#22	AnnotatorNotes T25	can't imagine living without it
+#23	AnnotatorNotes T14	By using the Internet
+A5	Cause T14 L1_interference
+A6	Cause T13 L1_interference
+A7	Cause T16 L1_interference
+#24	AnnotatorNotes T21	or
+A8	Cause T22 L1_interference

@@ -1,0 +1,101 @@
+T1	Articles 167 181	the institutes
+#1	AnnotatorNotes T1	educational institutions
+T3	Articles 352 367	the huge number
+#2	AnnotatorNotes T3	a huge number
+T5	Spelling 1306 1313	pojects
+#4	AnnotatorNotes T5	projects
+T6	Articles 1406 1422	the universities
+#5	AnnotatorNotes T6	universities
+T7	Prepositions 117 120	for
+#6	AnnotatorNotes T7	to
+T8	lex_item_choice 145 152	persons
+#7	AnnotatorNotes T8	people
+T9	Redundant_comp 598 602	only
+T10	Spelling 746 758	requarements
+#9	AnnotatorNotes T10	requirements
+T11	Spelling 804 812	instanse
+#10	AnnotatorNotes T11	instance
+T13	Spelling 1135 1139	then
+#12	AnnotatorNotes T13	when
+T14	Absence_comp_sent 1154 1165	male female
+#13	AnnotatorNotes T14	male and female students
+T15	Spelling 1236 1246	convinient
+#14	AnnotatorNotes T15	convenient
+T2	lex_item_choice 1268 1272	make
+#15	AnnotatorNotes T2	divide
+T16	Prepositions 1276 1278	to
+#16	AnnotatorNotes T16	into
+R1	Dependent_change Arg1:T2 Arg2:T16	
+T17	Linking_device 1154 1165	male female
+#17	AnnotatorNotes T17	male and female sudents
+T18	Punctuation 1335 1347	To sum it up
+#18	AnnotatorNotes T18	To sum it up,
+T20	Punctuation 937 954	on the other hand
+#20	AnnotatorNotes T20	, on the other hand,
+T21	Absence_explanation 50 56	around
+T22	lex_item_choice 692 696	take
+#21	AnnotatorNotes T22	accept
+#22	AnnotatorNotes T21	around you
+T23	lex_item_choice 153 161	consider
+#23	AnnotatorNotes T23	believe
+T25	lex_item_choice 206 212	amount
+#24	AnnotatorNotes T25	numbers
+T27	Suffix 171 181	institutes
+#25	AnnotatorNotes T27	institutions
+T28	Absence_explanation 167 181	the institutes
+#26	AnnotatorNotes T28	educational institutions
+T29	Category_confusion 588 607	female or only male
+#27	AnnotatorNotes T29	female or male students
+T30	Category_confusion 658 664	policy
+#28	AnnotatorNotes T30	politics
+T31	Punctuation 800 812	for instanse
+#29	AnnotatorNotes T31	, for instance
+T33	Category_confusion 927 931	male
+#31	AnnotatorNotes T33	male students
+T35	Category_confusion 989 993	suit
+#32	AnnotatorNotes T35	are suitable
+T37	Standard 998 1017	girls and boys both
+#33	AnnotatorNotes T37	both girls and boys
+T40	Standard 998 1083	girls and boys both: jurisprudence, economics, politics and so on in the universities
+#35	AnnotatorNotes T40	both girls and boys in universities: law, economics, politics, and others
+T43	Agreement_errors 1166 1168	is
+#37	AnnotatorNotes T43	are
+R2	Dependent_change Arg1:T14 Arg2:T43	
+T45	lex_item_choice 1490 1496	amount
+#38	AnnotatorNotes T45	numbers
+T47	Word_choice 1540 1552	occasionally
+#39	AnnotatorNotes T47	when necessary
+T24	lex_item_choice 1019 1032	jurisprudence
+#40	AnnotatorNotes T24	law
+T26	lex_item_choice 1144 1150	amount
+#34	AnnotatorNotes T26	numbers
+T34	suggestion 1552 1553	!
+#36	AnnotatorNotes T34	Тимофеева С
+A1	Cause T22 L1_interference
+A3	Cause T24 L1_interference
+T36	Determiners 497 515	the discrimination
+#41	AnnotatorNotes T36	any discrimination
+T38	lex_item_choice 561 569	subjects
+#42	AnnotatorNotes T38	areas
+T39	Word_choice 576 587	demand only
+#43	AnnotatorNotes T39	give preference to
+A2	Delete T9
+T41	lex_item_choice 636 641	kinds
+#44	AnnotatorNotes T41	fields
+T46	lex_item_choice 907 914	faculty
+#45	AnnotatorNotes T46	departments
+T48	Punctuation 1054 1057	and
+#46	AnnotatorNotes T48	, and
+T49	Articles 1067 1083	the universities
+#47	AnnotatorNotes T49	universities
+T50	Word_choice 1445 1451	strong
+#48	AnnotatorNotes T50	rigidly
+T42	Suffix 622 629	nursury
+#3	AnnotatorNotes T42	nursing
+T52	Word_choice 1058 1063	so on
+#8	AnnotatorNotes T52	others
+T53	Category_confusion 1500 1515	male and female
+T4	Spelling 770 783	phychological
+#30	AnnotatorNotes T4	psychological
+T32	Noun_number 907 914	faculty
+#49	AnnotatorNotes T32	departments

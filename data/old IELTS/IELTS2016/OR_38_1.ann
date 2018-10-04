@@ -1,0 +1,95 @@
+T1	Redundant 87 90	age
+A1	Delete T1
+T2	suggestion 209 219	foyti fore
+A2	Cause T2 L1_interference
+T3	suggestion 292 299	porydka
+A3	Cause T3 L1_interference
+T4	suggestion 447 474	menshe 166 minutes chem men
+A4	Cause T4 L1_interference
+T5	suggestion 583 591	foti for
+A5	Cause T5 L1_interference
+T6	suggestion 564 570	menshe
+A6	Cause T6 L1_interference
+T7	suggestion 626 656	chem starshe people tem menshe
+A7	Cause T7 L1_interference
+T8	Determiners 8 15	diagram
+#1	AnnotatorNotes T8	a diagram
+T9	lex_item_choice 16 20	look
+#2	AnnotatorNotes T9	showing
+T10	Pronouns 21 23	we
+#3	AnnotatorNotes T10	us
+T11	Noun_number 59 67	exercise
+#4	AnnotatorNotes T11	exercises
+T12	Ref_device 114 118	whot
+#5	AnnotatorNotes T12	that
+T13	Punctuation 118 119	,
+A8	Delete T13
+T14	Numerals 158 165	handred
+#6	AnnotatorNotes T14	hundred
+T15	Prepositions 124 126	is
+#7	AnnotatorNotes T15	of
+T16	Prepositions 132 145	on 16 then 24
+#8	AnnotatorNotes T16	from 16 to 24
+T17	Absence_comp_sent 120 123	men
+#9	AnnotatorNotes T17	men trained
+T18	Prepositions 146 153	average
+#10	AnnotatorNotes T18	on average
+T19	Numerals 166 175	a ten-two
+#11	AnnotatorNotes T19	twelve
+T20	Linking_device 189 203	on twenty-five
+T21	Prepositions 220 227	average
+#12	AnnotatorNotes T21	on average
+T22	Redundant 228 232	time
+A9	Delete T22
+T23	Redundant 233 238	spent
+A10	Delete T23
+T24	Tense_choice 239 244	doing
+#13	AnnotatorNotes T24	did
+T25	Prepositions 251 265	153,8  minutes
+#14	AnnotatorNotes T25	for 153,8 minutes
+T26	Prepositions 276 286	35 then 44
+#15	AnnotatorNotes T26	from 35 to 44
+T27	Noun_number 319 326	minut’s
+#16	AnnotatorNotes T27	minutes
+T28	suggestion 328 333	Kogda
+A11	Cause T28 L1_interference
+T29	Absence_comp_sent 334 339	women
+T30	Prepositions 340 347	average
+#17	AnnotatorNotes T30	on average
+T31	Prepositions 348 360	92,8 minutes
+#18	AnnotatorNotes T31	for 92,8 minutes
+T32	Prepositions 362 389	Women the age on 16 then 24
+#19	AnnotatorNotes T32	Women of the age from 16 to 24
+T33	Prepositions 391 398	average
+#20	AnnotatorNotes T33	on average
+T34	Redundant 399 403	time
+A12	Delete T34
+T35	Spelling 437 443	thises
+#21	AnnotatorNotes T35	this is
+T36	Prepositions 480 495	on 45 to 54 age
+#22	AnnotatorNotes T36	of the age from 45 to 54
+T37	Noun_number 524 531	minut’s
+#23	AnnotatorNotes T37	minutes
+T38	Absence_comp_sent 533 540	a women
+#24	AnnotatorNotes T38	women spent for sport
+T39	lex_item_choice 509 511	is
+#25	AnnotatorNotes T39	did
+T40	Ref_device 571 575	whot
+#26	AnnotatorNotes T40	than
+T41	Prepositions 580 582	on
+#27	AnnotatorNotes T41	by
+T42	Noun_number 592 599	minut’s
+#28	AnnotatorNotes T42	minutes
+T43	Spelling 607 611	graf
+#29	AnnotatorNotes T43	the graph
+T44	Ref_device 621 625	whot
+A13	Cause T44 L1_interference
+#30	AnnotatorNotes T44	that
+T45	Prepositions 615 619	look
+#31	AnnotatorNotes T45	look at
+T46	Confusion_of_structures 693 722	men average time more a women
+#32	AnnotatorNotes T46	men spent on average more time for sport than women
+T47	Determiners 533 540	a women
+#33	AnnotatorNotes T47	women
+T48	Determiners 715 722	a women
+#34	AnnotatorNotes T48	women

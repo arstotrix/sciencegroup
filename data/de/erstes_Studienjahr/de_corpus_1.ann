@@ -1,0 +1,50 @@
+T1	Prepositions 72 74	in
+A1	Weight-language T1 Critical
+A2	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	an
+T2	Word_order 732 740	studiert
+A3	Weight-language T2 Major
+A4	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	verb second position
+T3	Word_choice 1173 1179	buchen
+A5	Weight-language T3 Major
+A6	Weight-understanding T3 Major
+T4	Word_order 1359 1373	mit die E-Mail
+T5	Word_order 1352 1358	senden
+R1	Dependent_change Arg1:T4 Arg2:T5	
+T6	Prepositions 1359 1366	mit die
+A7	Weight-language T6 Major
+A8	Weight-understanding T6 Major
+#3	AnnotatorNotes T6	per
+T9	Articles 2743 2746	die
+A11	Weight-language T9 Critical
+A12	Weight-understanding T9 Major
+#5	AnnotatorNotes T9	der
+T10	Prepositions 2909 2911	in
+A13	Weight-language T10 Major
+A14	Weight-understanding T10 Minor
+#6	AnnotatorNotes T10	an
+T11	Word_order 2947 2951	auch
+A15	Weight-language T11 Minor
+A16	Weight-understanding T11 Major
+T12	suggestion 2942 2946	lese
+T13	suggestion 2977 2978	.
+R3	Dependent_change Arg1:T11 Arg2:T13	
+R4	Dependent_change Arg1:T11 Arg2:T12	
+#7	AnnotatorNotes T11	'also' or 'too'
+T14	Standard 2998 3020	mit meine Nachbarinnen
+A17	Weight-language T14 Minor
+A18	Weight-understanding T14 Minor
+T15	suggestion 3057 3058	.
+R5	Dependent_change Arg1:T14 Arg2:T15	
+T16	Pronouns 4298 4301	Sie
+A19	Weight-language T16 Major
+A20	Weight-understanding T16 Major
+#8	AnnotatorNotes T16	Das
+T17	Prepositions 4525 4526	t
+A21	Weight-language T17 Major
+A22	Weight-understanding T17 Minor
+#9	AnnotatorNotes T17	von
+#10	AnnotatorNotes T3	leihen
+T7	Pronouns 3002 3007	meine
+#4	AnnotatorNotes T7	meiner

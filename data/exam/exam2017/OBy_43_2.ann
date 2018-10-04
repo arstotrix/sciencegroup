@@ -1,0 +1,118 @@
+T1	Inappropriate_register 2 7	don’t
+#1	AnnotatorNotes T1	do not
+T2	Noun_number 51 61	technology
+#2	AnnotatorNotes T2	technologies
+T3	Redundant_comp 62 86	and modern manufacturing
+A1	Delete T3
+T4	Redundant_comp 87 89	is
+T5	Absence_explanation 160 164	city
+#3	AnnotatorNotes T5	every city
+T6	Articles 168 180	uncial place
+#4	AnnotatorNotes T6	a unique place
+T7	Spelling 168 174	uncial
+#5	AnnotatorNotes T7	unique
+T8	Infinitive_constr 181 191	for living
+#6	AnnotatorNotes T8	to live
+T9	Articles 199 206	antonym
+#7	AnnotatorNotes T9	an antonym
+T10	Agreement_errors 234 237	has
+#8	AnnotatorNotes T10	have
+T11	Articles 274 285	first cause
+#9	AnnotatorNotes T11	the first reason
+T12	lex_item_choice 280 285	cause
+#10	AnnotatorNotes T12	reason
+T13	lex_item_choice 330 337	general
+#11	AnnotatorNotes T13	the main one
+T14	Agreement_errors 345 347	is
+#12	AnnotatorNotes T14	are
+T15	Punctuation 369 375	, like
+#13	AnnotatorNotes T15	like
+T16	Absence_explanation 376 385	transport
+#14	AnnotatorNotes T16	transport systems
+T17	Tense_choice 412 416	talk
+#15	AnnotatorNotes T17	will talk
+T18	lex_item_choice 437 441	call
+#16	AnnotatorNotes T18	has
+T19	Articles 463 484	contemporary problems
+#17	AnnotatorNotes T19	a temporary problem
+T20	Noun_number 476 484	problems
+#18	AnnotatorNotes T20	problem
+T21	Articles 502 511	transport
+#19	AnnotatorNotes T21	the transport
+T22	Articles 547 550	car
+#20	AnnotatorNotes T22	a car
+T23	lex_item_choice 463 475	contemporary
+#21	AnnotatorNotes T23	temporaty
+T24	Articles 579 599	Long-lasting problem
+#22	AnnotatorNotes T24	The long-lasting problems
+T25	Noun_number 592 599	problem
+#23	AnnotatorNotes T25	problems
+T26	Articles 605 614	transport
+#24	AnnotatorNotes T26	the transport
+T27	Prepositions 497 501	from
+#25	AnnotatorNotes T27	because of 
+T28	Prepositions 600 604	from
+#26	AnnotatorNotes T28	because of 
+T29	Agreement_errors 615 617	is
+#27	AnnotatorNotes T29	are
+R1	Dependent_change Arg1:T29 Arg2:T25	
+T30	Articles 627 630	air
+#28	AnnotatorNotes T30	the  air
+T31	Inappropriate_register 652 657	can’t
+#29	AnnotatorNotes T31	cannot
+T32	Absence_comp_sent 652 662	can’t name
+#30	AnnotatorNotes T32	I cannot name
+T33	Ref_device 684 688	then
+#31	AnnotatorNotes T33	that
+T34	Noun_number 702 708	period
+#32	AnnotatorNotes T34	periods
+T35	Word_order 689 715	breathing by period wastes
+#33	AnnotatorNotes T35	breathing wasted by periods
+T36	Redundant_comp 723 725	so
+A2	Delete T36
+T37	Ref_device 762 766	that
+#34	AnnotatorNotes T37	these
+T38	Punctuation 775 779	, if
+#35	AnnotatorNotes T38	if
+T39	Spelling 787 802	electro-engines
+#36	AnnotatorNotes T39	electric-engines
+T40	Articles 837 848	big problem
+#37	AnnotatorNotes T40	the big problem
+T41	Agreement_errors 849 851	is
+#38	AnnotatorNotes T41	are
+T42	Agreement_errors 929 935	causes
+#39	AnnotatorNotes T42	cause
+T43	Articles 975 982	factory
+#40	AnnotatorNotes T43	a factory
+T44	Superlative_adj 997 1003	nearly
+#41	AnnotatorNotes T44	the nearest
+T45	Articles 997 1008	nearly lake
+#42	AnnotatorNotes T45	the nearest lake
+T46	Articles 1018 1022	lake
+#43	AnnotatorNotes T46	the lake
+T47	Articles 1010 1014	fish
+#44	AnnotatorNotes T47	a fish
+T48	Tense_choice 1038 1044	became
+#45	AnnotatorNotes T48	becomes
+T49	Agreement_errors 1038 1044	became
+#46	AnnotatorNotes T49	becomes
+T50	Inappropriate_register 1076 1081	don’t
+#47	AnnotatorNotes T50	do not
+T51	Tense_choice 1105 1108	was
+#48	AnnotatorNotes T51	is
+T52	Tense_choice 1167 1170	had
+#49	AnnotatorNotes T52	have
+T53	Agreement_errors 983 986	put
+#50	AnnotatorNotes T53	puts
+T54	Noun_number 1203 1213	technology
+#51	AnnotatorNotes T54	technologies
+T55	Redundant_comp 1214 1221	society
+A3	Delete T55
+T56	Redundant_comp 1247 1257	to routine
+A4	Delete T56
+T57	Absence_explanation 1295 1301	nature
+#52	AnnotatorNotes T57	a part of the nature
+T58	Articles 1339 1346	Mankind
+#53	AnnotatorNotes T58	The mankind
+T59	lex_item_choice 1365 1372	mankind
+#54	AnnotatorNotes T59	itself

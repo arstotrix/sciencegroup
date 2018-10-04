@@ -1,0 +1,27 @@
+T1	Spelling 185 191	oveall
+#1	AnnotatorNotes T1	overall
+T2	Spelling 658 665	everage
+#2	AnnotatorNotes T2	average
+T3	Prepositions 777 779	of
+#3	AnnotatorNotes T3	by
+T5	Spelling 1023 1036	contr-example
+#5	AnnotatorNotes T5	counterexample
+T6	note 1337 1338	e
+#6	AnnotatorNotes T6	DBatov
+T7	lex_item_choice 425 429	less
+#7	AnnotatorNotes T7	as little
+T8	lex_item_choice 461 465	than
+#8	AnnotatorNotes T8	as
+R1	Dependent_change Arg1:T7 Arg2:T8	
+T9	Redundant_comp 625 628	5th
+A1	Delete T9
+T10	Absence_comp_colloc 712 717	years
+#9	AnnotatorNotes T10	years old
+T4	Voice 971 979	reducing
+#4	AnnotatorNotes T4	reduced
+T11	Redundant 980 1002	with their age raising
+#10	AnnotatorNotes T11	with age
+T12	Noun_number 1044 1049	years
+#11	AnnotatorNotes T12	year
+T13	Punctuation 1189 1197	the less
+#12	AnnotatorNotes T13	, the less

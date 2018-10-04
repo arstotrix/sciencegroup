@@ -1,0 +1,165 @@
+T1	Articles 84 97	very old type
+#1	AnnotatorNotes T1	a very old type
+T2	note 2842 2850	continue
+#2	AnnotatorNotes T2	6, Kazakova
+T3	Punctuation 544 557	In my opinion
+#3	AnnotatorNotes T3	In my opinion, 
+T5	Inappropriate_register 821 826	cause
+#5	AnnotatorNotes T5	because
+T6	Tense_choice 830 839	is giving
+#6	AnnotatorNotes T6	gives
+T7	Tense_choice 879 892	is decreasing
+#7	AnnotatorNotes T7	decreases
+T8	Punctuation 1071 1073	is
+#8	AnnotatorNotes T8	is,
+T9	Tense_choice 1163 1169	making
+#9	AnnotatorNotes T9	make
+T10	Articles 1504 1510	person
+#10	AnnotatorNotes T10	a person
+T11	Punctuation 1512 1544	So if you are not capable to win
+#11	AnnotatorNotes T11	So if you are not capable of winning,
+T12	Punctuation 946 951	sport
+#12	AnnotatorNotes T12	sport,
+T13	lex_part_choice 996 1007	was injured
+#13	AnnotatorNotes T13	gets injured
+T14	Tense_choice 996 1007	was injured
+#14	AnnotatorNotes T14	gets injured
+T15	Punctuation 1000 1007	injured
+#15	AnnotatorNotes T15	,
+T16	Tense_choice 1017 1026	destroyed
+#16	AnnotatorNotes T16	destroys 
+T17	Punctuation 1593 1627	And when there are no competitions
+#17	AnnotatorNotes T17	And when there are no competitions,
+T18	Punctuation 1722 1723	,
+A1	Delete T18
+T20	Punctuation 2248 2251	and
+A3	Addition T20
+#18	AnnotatorNotes T20	, and
+A4	Addition T17
+A5	Addition T11
+A6	Addition T15
+A7	Addition T12
+A8	Addition T3
+T23	Coherence 2257 2259	is
+T24	suggestion 2260 2285	additional motivation not
+#21	AnnotatorNotes T24	motivation is not
+R1	Dependent_change Arg1:T23 Arg2:T24	
+A9	Delete T23
+T22	Articles 2299 2308	first two
+#20	AnnotatorNotes T22	the first two
+T26	suggestion 2221 2227	others
+#23	AnnotatorNotes T26	,
+T28	Punctuation 2434 2435	,
+A12	Delete T28
+T29	Redundant_comp 2473 2477	ones
+A13	Delete T29
+T30	Tense_choice 2501 2506	added
+#25	AnnotatorNotes T30	adds
+T31	Absence_explanation 2765 2771	amount
+A14	Addition T31
+#26	AnnotatorNotes T31	amount of money
+T34	Tense_choice 1824 1831	will be
+#28	AnnotatorNotes T34	is
+T35	Punctuation 1818 1848	or it will be less interesting
+A16	Addition T35
+#29	AnnotatorNotes T35	or it will be less interesting,
+T36	Articles 1922 1931	bad thing
+#30	AnnotatorNotes T36	a bad thing
+T38	Absence_comp_sent 2030 2040	motivation
+#31	AnnotatorNotes T38	is motivation
+T39	Tense_choice 2195 2202	will be
+#32	AnnotatorNotes T39	are
+T40	Grammar 163 169	so far
+A18	Delete T40
+T41	Prepositions 149 162	every century
+#33	AnnotatorNotes T41	with every century
+T42	Word_choice 186 189	old
+A19	Delete T42
+T43	Noun_number 352 358	salary
+#34	AnnotatorNotes T43	salaries
+T44	Conjunctions 359 363	even
+#35	AnnotatorNotes T44	even if
+T45	Tense_choice 364 375	not winning
+#36	AnnotatorNotes T45	they don't win
+R2	Dependent_change Arg1:T44 Arg2:T45	
+T46	Agreement_errors 447 450	are
+#37	AnnotatorNotes T46	is
+T47	Tense_form 564 568	help
+#38	AnnotatorNotes T47	helps
+T48	Coordinate 590 594	what
+T49	Grammar 598 622	good for society overall
+#39	AnnotatorNotes T49	on the whole good for society
+T50	lex_item_choice 648 656	consider
+#40	AnnotatorNotes T50	state
+T51	Tense_form 725 728	are
+#41	AnnotatorNotes T51	is
+T52	lex_item_choice 845 857	capabilities
+#42	AnnotatorNotes T52	possibilities
+T53	Prepositions 858 861	for
+#43	AnnotatorNotes T53	to
+T54	Punctuation 1071 1073	is
+T55	lex_item_choice 1116 1120	drop
+#44	AnnotatorNotes T55	decrease
+T56	Punctuation 1105 1192	So when we drop the probability of damage to athletes and making their potential higher
+#45	AnnotatorNotes T56	So when we drop the probability of damage to athletes and making their potential higher,
+T57	Articles 1199 1209	good thing
+#46	AnnotatorNotes T57	a good thing
+T58	lex_item_choice 1242 1248	at all
+#47	AnnotatorNotes T58	in general
+T59	Adjectives 1303 1321	competitive spirit
+#48	AnnotatorNotes T59	spirit of competition
+T60	Punctuation 1422 1429	: Hobby
+#49	AnnotatorNotes T60	a hobby
+T61	Noun_number 1474 1478	case
+#50	AnnotatorNotes T61	cases
+T62	Grammar 1530 1544	capable to win
+#51	AnnotatorNotes T62	capable of winning
+T63	Verbs 1581 1591	for living
+#52	AnnotatorNotes T63	to live on
+T64	Articles 1645 1658	stable salary
+#53	AnnotatorNotes T64	a stable salary
+T65	Punctuation 1659 1661	or
+#54	AnnotatorNotes T65	, or
+T66	Punctuation 1659 1661	or
+T67	Articles 1675 1678	job
+#55	AnnotatorNotes T67	a job
+T68	Word_order 1549 1569	should earn at least
+#56	AnnotatorNotes T68	should at least earn
+T32	Absence_explanation 1821 1823	it
+#27	AnnotatorNotes T32	the competition
+T33	Punctuation 1874 1877	and
+#57	AnnotatorNotes T33	, and
+T19	Non_defining 2003 2010	, which
+T37	Defining 2003 2010	, which
+#58	AnnotatorNotes T37	which
+T70	Noun_number 2171 2180	ambitions
+#59	AnnotatorNotes T70	ambition
+T71	Prepositional_adjective 2203 2210	good in
+#60	AnnotatorNotes T71	good at
+A2	Delete T26
+T25	Absence_comp_sent 2313 2320	working
+#19	AnnotatorNotes T25	it works
+T72	lex_item_choice 2328 2335	aspects
+#22	AnnotatorNotes T72	stages
+T27	Prepositional_verb 2410 2420	substitute
+#24	AnnotatorNotes T27	substitute for
+T73	Grammar 2453 2463	biological
+#61	AnnotatorNotes T73	biologically
+T75	lex_item_choice 2565 2573	conclude
+#63	AnnotatorNotes T75	summarise
+T76	Standard 2587 2651	All biological and psychological sides of sport I cannot approve
+#64	AnnotatorNotes T76	I cannot approve of all biological and psychological sides of sport
+T77	Prepositional_verb 2644 2651	approve
+#65	AnnotatorNotes T77	approve of
+T78	Prepositions 2666 2672	not in
+#66	AnnotatorNotes T78	beyond
+T79	Coherence 2692 2699	this is
+#67	AnnotatorNotes T79	above are
+T80	Redundant_comp 2714 2723	extracted
+A10	Delete T80
+T81	Redundant_comp 2729 2735	living
+A11	Delete T81
+T82	Pronouns 2729 2746	living experience
+#68	AnnotatorNotes T82	my experience
+T83	Tense_choice 2837 2850	will continue
+#69	AnnotatorNotes T83	continues

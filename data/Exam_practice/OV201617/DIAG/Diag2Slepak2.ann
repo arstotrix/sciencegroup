@@ -1,0 +1,56 @@
+T1	Articles 1136 1149	enjoyable job
+T2	Punctuation 1167 1173	, than
+#1	AnnotatorNotes T2	than
+T3	lex_item_choice 1236 1244	consider
+T4	Pronouns 1277 1284	their's
+T6	Defining 1360 1367	, which
+#3	AnnotatorNotes T6	which
+T8	Redundant_comp 1396 1398	it
+A1	Delete T8
+T9	lex_item_choice 1424 1430	dumpty
+T10	Articles 1424 1437	dumpty office
+T11	Absence_explanation 1472 1482	not notice
+#4	AnnotatorNotes T11	work without noticing
+T12	Prepositions 1523 1527	with
+#5	AnnotatorNotes T12	in
+T13	Articles 1528 1537	good mood
+T14	Redundant_comp 1628 1638	documnents
+T15	Spelling 1661 1671	monotoneus
+T16	Spelling 1738 1749	raltionship
+T18	Pronouns 1957 1964	their's
+T20	Spelling 2033 2042	what ever
+#6	AnnotatorNotes T20	whatever
+T21	Spelling 2082 2089	can not
+#7	AnnotatorNotes T21	cannot
+T22	Word_choice 2135 2150	correlates with
+#8	AnnotatorNotes T22	depends on
+T23	Articles 2204 2217	enjoyable job
+#9	AnnotatorNotes T1	an enjoyable job
+#10	AnnotatorNotes T3	think
+T24	Spelling 1252 1257	hight
+#11	AnnotatorNotes T24	high
+#12	AnnotatorNotes T4	their
+T25	Articles 1352 1360	that job
+#13	AnnotatorNotes T25	the job
+T5	lex_part_choice 1373 1395	can put their heart on
+#2	AnnotatorNotes T5	put their heart and soul into
+#14	AnnotatorNotes T9	stuffy
+#15	AnnotatorNotes T10	a stuffy office
+#16	AnnotatorNotes T13	a good mood
+A3	Delete T14
+T7	Noun_number 1622 1627	paper
+#17	AnnotatorNotes T7	papers
+T26	lex_item_choice 1686 1693	admires
+#18	AnnotatorNotes T26	loves
+#19	AnnotatorNotes T16	relationship
+T17	Redundant_comp 1843 1848	thing
+A2	Delete T17
+T27	suggestion 1829 1830	a
+A4	Delete T27
+R1	Dependent_change Arg1:T17 Arg2:T27	
+#20	AnnotatorNotes T18	their
+T19	lex_item_choice 1995 2001	stable
+#21	AnnotatorNotes T19	permanently
+T28	Articles 1995 2013	stable high salary
+#22	AnnotatorNotes T28	a permanently high salary
+#23	AnnotatorNotes T23	an enjoyable job

@@ -1,0 +1,53 @@
+T1	lex_item_choice 219 224	bring
+A1	Cause T1 L1_interference
+#1	AnnotatorNotes T1	create
+T2	Articles 299 308	teacher’s
+A2	Cause T2 Absence_of_Category_in_L1
+#2	AnnotatorNotes T2	the teacher's
+T3	Capitalisation 326 330	ther
+#3	AnnotatorNotes T3	There
+T4	Spelling 326 330	ther
+A3	Cause T4 Typo
+#4	AnnotatorNotes T4	There
+T5	Prepositions 348 350	of
+#5	AnnotatorNotes T5	for
+T6	Spelling 393 403	phsicology
+A4	Cause T6 L1_interference
+#6	AnnotatorNotes T6	psychology
+T7	Verb_pattern 428 431	not
+A5	Cause T7 L1_interference
+#7	AnnotatorNotes T7	do not
+T8	Redundant_comp 532 534	be
+A6	Cause T8 Other
+A7	Delete T8
+T9	Verb_pattern 532 534	be
+A8	Delete T9
+T10	Voice 598 614	is really matter
+A9	Cause T10 Other
+#8	AnnotatorNotes T10	really matters
+T11	Articles 628 634	family
+A10	Cause T11 Absence_of_Category_in_L1
+#9	AnnotatorNotes T11	the family
+T12	Verb_pattern 727 735	grown up
+A11	Cause T12 Other
+#10	AnnotatorNotes T12	are grown up 
+T13	Inappropriate_register 761 767	effect
+A12	Cause T13 Other
+#11	AnnotatorNotes T13	has an effect 
+T14	Agreement_errors 771 774	his
+#12	AnnotatorNotes T14	their
+T15	Articles 853 861	big part
+A13	Cause T15 Absence_of_Category_in_L1
+#13	AnnotatorNotes T15	the big part
+T16	Standard 921 944	should be really wisdom
+A14	Cause T16 L1_interference
+#14	AnnotatorNotes T16	should really be wise
+T17	Category_confusion 938 944	wisdom
+A15	Cause T17 Other
+#15	AnnotatorNotes T17	wise
+T18	Capitalisation 1095 1102	instead
+#16	AnnotatorNotes T18	Instead
+T19	Inappropriate_register 1423 1430	with it
+A16	Delete T19
+T20	lex_item_choice 1436 1443	through
+#17	AnnotatorNotes T20	thanks to 

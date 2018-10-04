@@ -1,0 +1,66 @@
+T1	Adjectives 151 158	mainest
+#1	AnnotatorNotes T1	main
+T2	Spelling 268 275	centure
+#2	AnnotatorNotes T2	century
+T3	Spelling 322 329	can not
+#3	AnnotatorNotes T3	cannot
+T4	Adjectives 477 484	mainest
+#4	AnnotatorNotes T4	main
+T5	lex_item_choice 410 416	decide
+#5	AnnotatorNotes T5	solve
+T7	Punctuation 640 642	So
+#7	AnnotatorNotes T7	So,
+T8	Redundant_comp 658 664	should
+T9	Articles 675 679	laws
+#8	AnnotatorNotes T9	the laws
+T10	lex_item_choice 749 752	way
+#9	AnnotatorNotes T10	duration
+T11	Absence_comp_sent 778 858	Also the post line or other line with baggage can more by special trains or cars
+T12	Category_confusion 1066 1073	solving
+#10	AnnotatorNotes T12	solution
+T13	Spelling 1082 1090	probleme
+#11	AnnotatorNotes T13	problem
+T14	Articles 1061 1065	good
+#12	AnnotatorNotes T14	a good
+T16	Word_choice 159 164	theme
+#14	AnnotatorNotes T16	cause
+T17	Spelling 169 176	worring
+#15	AnnotatorNotes T17	worrying 
+T18	Articles 180 191	governments
+#16	AnnotatorNotes T18	the governments 
+T19	Prepositions 165 168	for
+#17	AnnotatorNotes T19	of
+T20	Articles 229 238	important
+#18	AnnotatorNotes T20	an important 
+T21	Articles 268 275	centure
+#19	AnnotatorNotes T21	the century 
+T22	Standard 307 321	for example, I
+#20	AnnotatorNotes T22	I, for example, 
+T23	Articles 372 390	unique opportunity
+#21	AnnotatorNotes T23	an unique opportunity 
+T6	Punctuation 617 638	, travelling by train
+#6	AnnotatorNotes T6	travelling by train 
+T24	Ref_device 716 718	it
+#22	AnnotatorNotes T24	they
+T25	lex_item_choice 719 723	must
+#23	AnnotatorNotes T25	can
+T26	Articles 936 947	whole world
+#24	AnnotatorNotes T26	the whole world 
+T27	Tense_choice 948 953	think
+#25	AnnotatorNotes T27	are thinking 
+T28	Defining 971 1047	, which could allow people to travel with comfort and fast without any limit
+#26	AnnotatorNotes T28	which could allow people to travel with comfort and fast without any limit 
+T29	Prepositional_noun 1066 1076	solving of
+#27	AnnotatorNotes T29	solution to 
+T15	Punctuation 1103 1109	, that
+#13	AnnotatorNotes T15	that 
+T30	Agreement_errors 1143 1145	is
+#28	AnnotatorNotes T30	are
+T31	Agreement_errors 1161 1168	problem
+#29	AnnotatorNotes T31	problems
+T32	Agreement_errors 1203 1205	it
+#30	AnnotatorNotes T32	them 
+R1	Dependent_change Arg1:T30 Arg2:T31	
+R2	Dependent_change Arg1:T30 Arg2:T32	
+T33	Absence_explanation 1209 1217	such way
+#31	AnnotatorNotes T33	way of ...

@@ -1,0 +1,84 @@
+T1	Absence_comp_sent 25 40	information how
+A1	Cause T1 L1_interference
+#1	AnnotatorNotes T1	information about how
+T2	Possessive 46 53	Britain
+A2	Cause T2 Other
+#2	AnnotatorNotes T2	British 
+T3	Articles 97 99	UK
+A3	Cause T3 Absence_of_Category_in_L1
+#3	AnnotatorNotes T3	the UK 
+T4	Tense_choice 91 96	visit
+A4	Cause T4 Other
+#4	AnnotatorNotes T4	visited
+T5	Spelling 140 144	chat
+A5	Cause T5 Typo
+#5	AnnotatorNotes T5	chart 
+T6	Articles 214 215	a
+A6	Cause T6 Absence_of_Category_in_L1
+A7	Delete T6
+T7	Tense_choice 338 341	are
+A8	Cause T7 Other
+#6	AnnotatorNotes T7	were
+T8	Numerals 351 359	millions
+A9	Cause T8 Other
+#7	AnnotatorNotes T8	million
+T9	Defining 378 387	go abroad
+A10	Cause T9 Other
+#8	AnnotatorNotes T9	who went abroad
+T10	Tense_choice 378 387	go abroad
+A11	Cause T10 Other
+#9	AnnotatorNotes T10	who went abroad
+T11	Redundant_comp 404 408	year
+A12	Delete T11
+T12	Possessive 421 430	Americans
+A13	Cause T12 Other
+#10	AnnotatorNotes T12	American
+T13	Numerals 460 468	millions
+A14	Cause T13 Other
+#11	AnnotatorNotes T13	million
+T14	Spelling 507 516	travelers
+#12	AnnotatorNotes T14	travellers
+T15	Absence_comp_sent 589 598	travelers
+A15	Cause T15 L1_interference
+#13	AnnotatorNotes T15	the amount of travellers
+T16	Articles 602 605	USA
+A16	Cause T16 Absence_of_Category_in_L1
+#14	AnnotatorNotes T16	the USA
+T17	lex_item_choice 671 678	come UK
+A17	Cause T17 Other
+#15	AnnotatorNotes T17	travelled to the UK
+T18	Tense_choice 684 688	have
+A18	Cause T18 Other
+#16	AnnotatorNotes T18	had
+T19	Noun_number 741 747	charts
+A19	Cause T19 Other
+#17	AnnotatorNotes T19	chart
+T20	Articles 793 795	UK
+A20	Cause T20 Absence_of_Category_in_L1
+#18	AnnotatorNotes T20	the UK
+T21	Spelling 798 807	travelers
+A21	Cause T21 Other
+#19	AnnotatorNotes T21	travellers
+T22	Numerals 839 847	millions
+A22	Cause T22 Other
+#20	AnnotatorNotes T22	million
+T23	Defining 851 868	Americans visited
+A23	Cause T23 L1_interference
+#21	AnnotatorNotes T23	Americans who visited
+T24	Absence_comp_sent 932 934	is
+#22	AnnotatorNotes T24	it is 
+T25	Defining 997 1014	residents visited
+#23	AnnotatorNotes T25	residents who visited
+T26	Defining 1077 1093	people travelled
+#24	AnnotatorNotes T26	people who travelled
+T27	Absence_comp_sent 1122 1138	number much more
+#25	AnnotatorNotes T27	number is a lot more
+T28	Determiners 1129 1133	much
+A24	Cause T28 Absence_of_Category_in_L1
+#26	AnnotatorNotes T28	a lot
+T29	Tense_choice 61 63	go
+#27	AnnotatorNotes T29	went
+T30	suggestion 360 362	of
+A25	Delete T30
+T31	suggestion 469 471	of
+A26	Delete T31

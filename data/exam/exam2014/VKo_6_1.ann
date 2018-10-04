@@ -1,0 +1,58 @@
+T1	Spelling 188 198	gorizontal
+T2	Spelling 449 459	gorizontal
+#1	AnnotatorNotes T1	horisontal
+T3	lex_item_choice 359 364	sexes
+#2	AnnotatorNotes T3	genders
+#3	AnnotatorNotes T2	horizontal
+T5	Numerals 511 527	hundred percents
+#5	AnnotatorNotes T5	a hundred percent
+T6	Defining 725 730	, who
+#6	AnnotatorNotes T6	who
+T7	Defining 844 849	, who
+#7	AnnotatorNotes T7	who
+T8	Defining 899 904	, who
+#8	AnnotatorNotes T8	who
+T9	Absence_comp_sent 1162 1165	are
+#9	AnnotatorNotes T9	there are
+T10	Absence_comp_sent 1276 1279	are
+#10	AnnotatorNotes T10	there are
+T11	Ref_device 375 391	candidates there
+#11	AnnotatorNotes T11	owners of those qualifications
+T12	Word_choice 151 172	consists of two lines
+#12	AnnotatorNotes T12	presents percentage numbers along two axes
+T13	lex_item_choice 205 209	line
+#13	AnnotatorNotes T13	axis
+T14	lex_item_choice 402 406	line
+#14	AnnotatorNotes T14	axis
+T15	Word_choice 417 430	qualification
+#15	AnnotatorNotes T15	certain qualifications
+T16	Word_choice 431 432	o
+#16	AnnotatorNotes T16	received by
+T17	Word_choice 478 497	percent proportions
+#17	AnnotatorNotes T17	percentage numbers
+T4	Word_choice 529 551	Vertical line includes
+#4	AnnotatorNotes T4	Along the vertical axis there are
+T18	lex_item_choice 715 725	candidates
+#18	AnnotatorNotes T18	school graduates 
+T19	Tense_choice 731 735	have
+#19	AnnotatorNotes T19	had
+T20	Tense_choice 850 854	have
+#20	AnnotatorNotes T20	had
+T21	Tense_choice 905 909	have
+#21	AnnotatorNotes T21	had
+T22	Coherence 994 998	more
+#22	AnnotatorNotes T22	fewer
+T23	Punctuation 1084 1085	:
+#23	AnnotatorNotes T23	 - 
+T24	Defining 1154 1161	, where
+#24	AnnotatorNotes T24	where
+T25	Punctuation 1154 1155	,
+#25	AnnotatorNotes T25	 - 
+R1	Dependent_change Arg1:T23 Arg2:T25	
+T26	Punctuation 1223 1224	:
+#26	AnnotatorNotes T26	 - 
+T27	Defining 1268 1275	, where
+#27	AnnotatorNotes T27	where
+T28	Punctuation 1268 1269	,
+#28	AnnotatorNotes T28	 - 
+R2	Dependent_change Arg1:T26 Arg2:T28	

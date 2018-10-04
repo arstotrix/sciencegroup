@@ -1,0 +1,52 @@
+T3	Prepositions 1115 1117	at
+#3	AnnotatorNotes T3	of
+T4	lex_item_choice 1135 1143	observer
+#4	AnnotatorNotes T4	observed 
+T5	lex_item_choice 1164 1169	prove
+#5	AnnotatorNotes T5	are shown 
+T6	Standard 94 119	As it can clearly be seen
+#6	AnnotatorNotes T6	As it can be clearly seen 
+T8	lex_item_choice 334 340	at all
+#8	AnnotatorNotes T8	altogether
+T9	Prepositions 441 444	for
+#9	AnnotatorNotes T9	on
+T10	lex_item_choice 602 612	vulnerable
+#10	AnnotatorNotes T10	susceptible 
+T11	Prepositions 723 725	at
+#11	AnnotatorNotes T11	during
+T12	lex_part_choice 934 944	at average
+#12	AnnotatorNotes T12	on average
+T13	Absence_explanation 1021 1026	spend
+#13	AnnotatorNotes T13	spend on exercise
+T14	Prepositions 1144 1146	on
+#14	AnnotatorNotes T14	from
+T15	Conjunctions 1370 1372	to
+#15	AnnotatorNotes T15	as
+T16	Conjunctions 1379 1381	as
+#16	AnnotatorNotes T16	when
+T17	Tense_choice 1387 1390	did
+#17	AnnotatorNotes T17	do it
+T18	suggestion 131 138	covered
+A1	Delete T18
+T19	suggestion 149 166	males and females
+#18	AnnotatorNotes T19	men and women
+T20	suggestion 139 195	groups of males and females from 16 to over 75 years old
+#19	AnnotatorNotes T20	groups of men and women from 16 to over 75 years old under observation
+R1	Dependent_change Arg1:T20 Arg2:T18	
+T7	suggestion 309 315	length
+#7	AnnotatorNotes T7	duration
+T21	suggestion 519 523	apex
+#20	AnnotatorNotes T21	peak
+T22	Ref_device 673 677	them
+#21	AnnotatorNotes T22	it
+T23	suggestion 755 777	twice more sports than
+#22	AnnotatorNotes T23	twice as much sport as
+T24	suggestion 974 991	number of minutes
+#23	AnnotatorNotes T24	period
+T25	suggestion 1021 1026	spend
+T1	suggestion 1387 1390	did
+#1	AnnotatorNotes T1	do it
+T26	suggestion 1391 1397	during
+#24	AnnotatorNotes T26	in
+T27	Ref_device 1382 1386	they
+#25	AnnotatorNotes T27	the latter

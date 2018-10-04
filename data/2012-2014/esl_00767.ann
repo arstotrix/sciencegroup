@@ -1,0 +1,400 @@
+T2	lex_item_choice 28 34	amount
+#1	AnnotatorNotes T2	number
+T3	lex_item_choice 14 23	describes
+#2	AnnotatorNotes T3	shows
+T4	Vocabulary 161 167	to see
+A2	Delete T4
+T5	lex_item_choice 178 180	of
+#3	AnnotatorNotes T5	out of
+T6	Prepositions 234 236	in
+#4	AnnotatorNotes T6	by
+T7	lex_item_choice 283 291	the view
+#5	AnnotatorNotes T7	consideration
+T8	Spelling 300 303	8th
+#6	AnnotatorNotes T8	eighth
+T9	Punctuation 316 322	namely
+#7	AnnotatorNotes T9	namely,
+T10	lex_item_choice 366 372	amount
+#8	AnnotatorNotes T10	number
+T11	Prepositions 438 440	in
+#9	AnnotatorNotes T11	among
+T12	Prepositions 580 582	in
+#10	AnnotatorNotes T12	by
+T13	Lack_par_constr 606 610	rose
+#11	AnnotatorNotes T13	and thus rose
+T14	Prepositions 626 628	on
+#12	AnnotatorNotes T14	to
+T16	lex_item_choice 633 646	and became at
+#14	AnnotatorNotes T16	reaching
+T17	lex_part_choice 835 838	the
+A3	Delete T17
+T18	Word_choice 859 883	university New Brunswick
+#15	AnnotatorNotes T18	university at OR of
+T19	lex_item_choice 997 1001	like
+#16	AnnotatorNotes T19	just as
+T20	Tense_choice 1005 1008	was
+#17	AnnotatorNotes T20	had been
+T21	note 1016 1017	.
+#18	AnnotatorNotes T21	The grade is 7. You cannot use fewer words than the minimum (150). There are no attempts to generalise or show your understanding of the reasons for such research.
+A4	Cause T14 L1_interference
+A5	Weight-language T14 Major
+A6	Weight-understanding T14 Major
+A7	Cause T6 L1_interference
+A8	Weight-language T6 Major
+A9	Weight-understanding T6 Major
+A10	Cause T12 L1_interference
+A11	Weight-language T12 Major
+A12	Weight-understanding T12 Major
+T22	Redundant_comp 441 446	given
+A13	Delete T22
+T23	Articles 447 459	universities
+A14	Cause T23 Absence_of_Category_in_L1
+A15	Weight-language T23 Major
+A16	Weight-understanding T23 Major
+#19	AnnotatorNotes T23	the universities
+T24	Numerical 599 604	times
+#20	AnnotatorNotes T24	times as many
+T1	Defining 46 51	, who
+#21	AnnotatorNotes T1	who
+T15	Attr_participial 633 643	and became
+#13	AnnotatorNotes T15	reaching
+T25	pos_DT 0 3	The
+#22	AnnotatorNotes T25	lemma = 'the'
+T26	pos_NN 4 7	bar
+#23	AnnotatorNotes T26	lemma = 'bar'
+T27	pos_NN 8 13	graph
+#24	AnnotatorNotes T27	lemma = 'graph'
+T28	pos_VBZ 14 23	describes
+#25	AnnotatorNotes T28	lemma = 'describe'
+T29	pos_DT 24 27	the
+#26	AnnotatorNotes T29	lemma = 'the'
+T30	pos_NN 28 34	amount
+#27	AnnotatorNotes T30	lemma = 'amount'
+T31	pos_IN 35 37	of
+#28	AnnotatorNotes T31	lemma = 'of'
+T32	pos_NNS 38 46	students
+#29	AnnotatorNotes T32	lemma = 'student'
+T33	pos_Fc 46 47	,
+#30	AnnotatorNotes T33	lemma = ','
+T34	pos_WP 48 51	who
+#31	AnnotatorNotes T34	lemma = 'who'
+T35	pos_VBD 52 56	came
+#32	AnnotatorNotes T35	lemma = 'come'
+T36	pos_IN 57 61	from
+#33	AnnotatorNotes T36	lemma = 'from'
+T37	pos_RB 62 68	abroad
+#34	AnnotatorNotes T37	lemma = 'abroad'
+T38	pos_TO 69 71	to
+#35	AnnotatorNotes T38	lemma = 'to'
+T39	pos_VB 72 78	finish
+#36	AnnotatorNotes T39	lemma = 'finish'
+T40	pos_PRP2 79 84	their
+#37	AnnotatorNotes T40	lemma = 'their'
+T41	pos_NN 85 94	education
+#38	AnnotatorNotes T41	lemma = 'education'
+T42	pos_IN 95 97	in
+#39	AnnotatorNotes T42	lemma = 'in'
+T43	pos_JJ 98 105	various
+#40	AnnotatorNotes T43	lemma = 'various'
+T44	pos_NP 106 114	Canadian
+#41	AnnotatorNotes T44	lemma = 'canadian'
+T45	pos_NNS 115 124	provinces
+#42	AnnotatorNotes T45	lemma = 'province'
+T46	pos_IN 125 132	between
+#43	AnnotatorNotes T46	lemma = 'between'
+T47	pos_Z 133 137	2001
+#44	AnnotatorNotes T47	lemma = '2001'
+T48	pos_CC 138 141	and
+#45	AnnotatorNotes T48	lemma = 'and'
+T49	pos_Z 142 146	2006
+#46	AnnotatorNotes T49	lemma = '2006'
+T50	pos_Fp 146 147	.
+#47	AnnotatorNotes T50	lemma = '.'
+T51	pos_PRP 149 151	It
+#48	AnnotatorNotes T51	lemma = 'it'
+T52	pos_VBZ 152 154	is
+#49	AnnotatorNotes T52	lemma = 'be'
+T53	pos_JJ 155 160	clear
+#50	AnnotatorNotes T53	lemma = 'clear'
+T54	pos_TO 161 163	to
+#51	AnnotatorNotes T54	lemma = 'to'
+T55	pos_VB 164 167	see
+#52	AnnotatorNotes T55	lemma = 'see'
+T56	pos_IN 168 172	that
+#53	AnnotatorNotes T56	lemma = 'that'
+T57	pos_IN 173 175	in
+#54	AnnotatorNotes T57	lemma = 'in'
+T58	pos_Z 176 177	7
+#55	AnnotatorNotes T58	lemma = '7'
+T59	pos_IN 178 180	of
+#56	AnnotatorNotes T59	lemma = 'of'
+T60	pos_Z 181 182	8
+#57	AnnotatorNotes T60	lemma = '8'
+T61	pos_NNS 183 195	universities
+#58	AnnotatorNotes T61	lemma = 'university'
+T62	pos_DT 196 199	the
+#59	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 200 210	percentage
+#60	AnnotatorNotes T63	lemma = 'percentage'
+T64	pos_IN 211 213	of
+#61	AnnotatorNotes T64	lemma = 'of'
+T65	pos_NNS 214 223	graduates
+#62	AnnotatorNotes T65	lemma = 'graduate'
+T66	pos_VBN 224 233	increased
+#63	AnnotatorNotes T66	lemma = 'increase'
+T67	pos_IN 234 236	in
+#64	AnnotatorNotes T67	lemma = 'in'
+T68	pos_RB 237 250	approximately
+#65	AnnotatorNotes T68	lemma = 'approximately'
+T69	pos_RB 251 258	2 times
+#66	AnnotatorNotes T69	lemma = '2_times'
+T70	pos_IN 259 265	during
+#67	AnnotatorNotes T70	lemma = 'during'
+T71	pos_DT 266 269	the
+#68	AnnotatorNotes T71	lemma = 'the'
+T72	pos_NN 270 276	period
+#69	AnnotatorNotes T72	lemma = 'period'
+T73	pos_IN 277 282	under
+#70	AnnotatorNotes T73	lemma = 'under'
+T74	pos_DT 283 286	the
+#71	AnnotatorNotes T74	lemma = 'the'
+T75	pos_NN 287 291	view
+#72	AnnotatorNotes T75	lemma = 'view'
+T76	pos_Fp 291 292	.
+#73	AnnotatorNotes T76	lemma = '.'
+T77	pos_IN 293 295	In
+#74	AnnotatorNotes T77	lemma = 'in'
+T78	pos_DT 296 299	the
+#75	AnnotatorNotes T78	lemma = 'the'
+T79	pos_JJ 300 303	8th
+#76	AnnotatorNotes T79	lemma = '8'
+T80	pos_NP 304 314	University
+#77	AnnotatorNotes T80	lemma = 'university'
+T81	pos_Fc 314 315	,
+#78	AnnotatorNotes T81	lemma = ','
+T82	pos_RB 316 322	namely
+#79	AnnotatorNotes T82	lemma = 'namely'
+T83	pos_NP 323 330	Alberta
+#80	AnnotatorNotes T83	lemma = 'alberta'
+T84	pos_Fc 330 331	,
+#81	AnnotatorNotes T84	lemma = ','
+T85	pos_EX 332 337	there
+#82	AnnotatorNotes T85	lemma = 'there'
+T86	pos_VBD 338 341	was
+#83	AnnotatorNotes T86	lemma = 'be'
+T87	pos_DT 342 343	a
+#84	AnnotatorNotes T87	lemma = 'a'
+T88	pos_JJ 344 352	downward
+#85	AnnotatorNotes T88	lemma = 'downward'
+T89	pos_NN 353 358	trend
+#86	AnnotatorNotes T89	lemma = 'trend'
+T90	pos_IN 359 361	in
+#87	AnnotatorNotes T90	lemma = 'in'
+T91	pos_DT 362 365	the
+#88	AnnotatorNotes T91	lemma = 'the'
+T92	pos_NN 366 372	amount
+#89	AnnotatorNotes T92	lemma = 'amount'
+T93	pos_IN 373 375	of
+#90	AnnotatorNotes T93	lemma = 'of'
+T94	pos_NNS 376 384	students
+#91	AnnotatorNotes T94	lemma = 'student'
+T95	pos_Fp 384 385	.
+#92	AnnotatorNotes T95	lemma = '.'
+T96	pos_DT 386 390	This
+#93	AnnotatorNotes T96	lemma = 'this'
+T97	pos_JJ 391 402	educational
+#94	AnnotatorNotes T97	lemma = 'educational'
+T98	pos_NN 403 414	institution
+#95	AnnotatorNotes T98	lemma = 'institution'
+T99	pos_VBD 415 419	took
+#96	AnnotatorNotes T99	lemma = 'take'
+T100	pos_DT 420 423	the
+#97	AnnotatorNotes T100	lemma = 'the'
+T101	pos_JJ 424 428	last
+#98	AnnotatorNotes T101	lemma = 'last'
+T102	pos_NN 429 437	position
+#99	AnnotatorNotes T102	lemma = 'position'
+T103	pos_IN 438 440	in
+#100	AnnotatorNotes T103	lemma = 'in'
+T104	pos_VBN 441 446	given
+#101	AnnotatorNotes T104	lemma = 'give'
+T105	pos_NNS 447 459	universities
+#102	AnnotatorNotes T105	lemma = 'university'
+T106	pos_IN 460 462	in
+#103	AnnotatorNotes T106	lemma = 'in'
+T107	pos_DT 463 466	the
+#104	AnnotatorNotes T107	lemma = 'the'
+T108	pos_NN 467 475	province
+#105	AnnotatorNotes T108	lemma = 'province'
+T109	pos_IN 476 478	in
+#106	AnnotatorNotes T109	lemma = 'in'
+T110	pos_W 479 483	2006
+#107	AnnotatorNotes T110	lemma = '[??:??/??/2006:??.??:??]'
+T111	pos_Fp 483 484	.
+#108	AnnotatorNotes T111	lemma = '.'
+T112	pos_RB 485 495	Conversely
+#109	AnnotatorNotes T112	lemma = 'conversely'
+T113	pos_Fc 495 496	,
+#110	AnnotatorNotes T113	lemma = ','
+T114	pos_NP 497 524	British Columbia University
+#111	AnnotatorNotes T114	lemma = 'british_columbia_university'
+T115	pos_VBD 525 528	had
+#112	AnnotatorNotes T115	lemma = 'have'
+T116	pos_DT 529 531	an
+#113	AnnotatorNotes T116	lemma = 'a'
+T117	pos_NN 532 540	increase
+#114	AnnotatorNotes T117	lemma = 'increase'
+T118	pos_IN 541 543	in
+#115	AnnotatorNotes T118	lemma = 'in'
+T119	pos_DT 544 547	the
+#116	AnnotatorNotes T119	lemma = 'the'
+T120	pos_NN 548 552	flow
+#117	AnnotatorNotes T120	lemma = 'flow'
+T121	pos_IN 553 555	of
+#118	AnnotatorNotes T121	lemma = 'of'
+T122	pos_JJ 556 569	international
+#119	AnnotatorNotes T122	lemma = 'international'
+T123	pos_NNS 570 579	graduates
+#120	AnnotatorNotes T123	lemma = 'graduate'
+T124	pos_IN 580 582	in
+#121	AnnotatorNotes T124	lemma = 'in'
+T125	pos_RB 583 596	approximately
+#122	AnnotatorNotes T125	lemma = 'approximately'
+T126	pos_RB 597 604	2 times
+#123	AnnotatorNotes T126	lemma = '2_times'
+T127	pos_Fc 604 605	,
+#124	AnnotatorNotes T127	lemma = ','
+T128	pos_VBD 606 610	rose
+#125	AnnotatorNotes T128	lemma = 'rise'
+T129	pos_IN 611 615	from
+#126	AnnotatorNotes T129	lemma = 'from'
+T130	pos_JJ 616 619	4th
+#127	AnnotatorNotes T130	lemma = '4'
+T131	pos_NN 620 625	place
+#128	AnnotatorNotes T131	lemma = 'place'
+T132	pos_IN 626 628	on
+#129	AnnotatorNotes T132	lemma = 'on'
+T133	pos_JJ 629 632	7th
+#130	AnnotatorNotes T133	lemma = '7'
+T134	pos_CC 633 636	and
+#131	AnnotatorNotes T134	lemma = 'and'
+T135	pos_VBD 637 643	became
+#132	AnnotatorNotes T135	lemma = 'become'
+T136	pos_IN 644 646	at
+#133	AnnotatorNotes T136	lemma = 'at'
+T137	pos_DT 647 650	the
+#134	AnnotatorNotes T137	lemma = 'the'
+T138	pos_JJ 651 655	same
+#135	AnnotatorNotes T138	lemma = 'same'
+T139	pos_NN 656 661	level
+#136	AnnotatorNotes T139	lemma = 'level'
+T140	pos_IN 662 666	with
+#137	AnnotatorNotes T140	lemma = 'with'
+T141	pos_NP 667 689	Nova Scotia University
+#138	AnnotatorNotes T141	lemma = 'nova_scotia_university'
+T142	pos_IN 690 692	by
+#139	AnnotatorNotes T142	lemma = 'by'
+T143	pos_Z 693 697	2006
+#140	AnnotatorNotes T143	lemma = '2006'
+T144	pos_Fp 697 698	.
+#141	AnnotatorNotes T144	lemma = '.'
+T145	pos_Z 699 702	Two
+#142	AnnotatorNotes T145	lemma = '2'
+T146	pos_NNS 703 715	universities
+#143	AnnotatorNotes T146	lemma = 'university'
+T147	pos_Fc 715 716	,
+#144	AnnotatorNotes T147	lemma = ','
+T148	pos_NP 717 725	Manitoba
+#145	AnnotatorNotes T148	lemma = 'manitoba'
+T149	pos_CC 726 729	and
+#146	AnnotatorNotes T149	lemma = 'and'
+T150	pos_NP 730 753	Newfoundland & Labrador
+#147	AnnotatorNotes T150	lemma = 'newfoundland_&_labrador'
+T151	pos_Fc 753 754	,
+#148	AnnotatorNotes T151	lemma = ','
+T152	pos_VBD 755 758	had
+#149	AnnotatorNotes T152	lemma = 'have'
+T153	pos_RB 759 772	approximately
+#150	AnnotatorNotes T153	lemma = 'approximately'
+T154	pos_DT 773 776	the
+#151	AnnotatorNotes T154	lemma = 'the'
+T155	pos_JJ 777 781	same
+#152	AnnotatorNotes T155	lemma = 'same'
+T156	pos_NN 782 792	percentage
+#153	AnnotatorNotes T156	lemma = 'percentage'
+T157	pos_IN 793 795	of
+#154	AnnotatorNotes T157	lemma = 'of'
+T158	pos_NNS 796 804	students
+#155	AnnotatorNotes T158	lemma = 'student'
+T159	pos_IN 805 811	during
+#156	AnnotatorNotes T159	lemma = 'during'
+T160	pos_DT 812 815	the
+#157	AnnotatorNotes T160	lemma = 'the'
+T161	pos_JJ 816 821	whole
+#158	AnnotatorNotes T161	lemma = 'whole'
+T162	pos_NN 822 828	period
+#159	AnnotatorNotes T162	lemma = 'period'
+T163	pos_IN 829 834	under
+#160	AnnotatorNotes T163	lemma = 'under'
+T164	pos_DT 835 838	the
+#161	AnnotatorNotes T164	lemma = 'the'
+T165	pos_NN 839 852	consideration
+#162	AnnotatorNotes T165	lemma = 'consideration'
+T166	pos_Fp 852 853	.
+#163	AnnotatorNotes T166	lemma = '.'
+T167	pos_DT 855 858	The
+#164	AnnotatorNotes T167	lemma = 'the'
+T168	pos_NN 859 869	university
+#165	AnnotatorNotes T168	lemma = 'university'
+T169	pos_NP 870 883	New Brunswick
+#166	AnnotatorNotes T169	lemma = 'new_brunswick'
+T170	pos_VBD 884 888	held
+#167	AnnotatorNotes T170	lemma = 'hold'
+T171	pos_PRP2 889 892	its
+#168	AnnotatorNotes T171	lemma = 'its'
+T172	pos_NN 893 901	position
+#169	AnnotatorNotes T172	lemma = 'position'
+T173	pos_CC 902 905	and
+#170	AnnotatorNotes T173	lemma = 'and'
+T174	pos_IN 906 908	in
+#171	AnnotatorNotes T174	lemma = 'in'
+T175	pos_W 909 913	2006
+#172	AnnotatorNotes T175	lemma = '[??:??/??/2006:??.??:??]'
+T176	pos_PRP 914 916	it
+#173	AnnotatorNotes T176	lemma = 'it'
+T177	pos_VBD 917 920	was
+#174	AnnotatorNotes T177	lemma = 'be'
+T178	pos_DT 921 924	the
+#175	AnnotatorNotes T178	lemma = 'the'
+T179	pos_JJ 925 936	educational
+#176	AnnotatorNotes T179	lemma = 'educational'
+T180	pos_NN 937 948	institution
+#177	AnnotatorNotes T180	lemma = 'institution'
+T181	pos_IN 949 953	with
+#178	AnnotatorNotes T181	lemma = 'with'
+T182	pos_DT 954 957	the
+#179	AnnotatorNotes T182	lemma = 'the'
+T183	pos_JJS 958 965	highest
+#180	AnnotatorNotes T183	lemma = 'high'
+T184	pos_NN 966 972	amount
+#181	AnnotatorNotes T184	lemma = 'amount'
+T185	pos_IN 973 975	of
+#182	AnnotatorNotes T185	lemma = 'of'
+T186	pos_NNS 976 984	students
+#183	AnnotatorNotes T186	lemma = 'student'
+T187	pos_IN 985 989	from
+#184	AnnotatorNotes T187	lemma = 'from'
+T188	pos_RB 990 996	abroad
+#185	AnnotatorNotes T188	lemma = 'abroad'
+T189	pos_IN 997 1001	like
+#186	AnnotatorNotes T189	lemma = 'like'
+T190	pos_PRP 1002 1004	it
+#187	AnnotatorNotes T190	lemma = 'it'
+T191	pos_VBD 1005 1008	was
+#188	AnnotatorNotes T191	lemma = 'be'
+T192	pos_IN 1009 1011	in
+#189	AnnotatorNotes T192	lemma = 'in'
+T193	pos_W 1012 1016	2001
+#190	AnnotatorNotes T193	lemma = '[??:??/??/2001:??.??:??]'
+T194	pos_Fp 1016 1017	.
+#191	AnnotatorNotes T194	lemma = '.'

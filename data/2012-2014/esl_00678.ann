@@ -1,0 +1,624 @@
+T1	Standard 170 193	are indicated the years
+A1	Weight-language T1 Critical
+A2	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	the years are indicated
+T2	Numerals 459 467	billions
+A3	Weight-language T2 Minor
+A4	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	billion
+T3	Prepositional_verb 479 487	spent by
+#3	AnnotatorNotes T3	spent on
+T4	lex_item_choice 613 618	leaks
+A5	Weight-language T4 Critical
+A6	Weight-understanding T4 Critical
+#4	AnnotatorNotes T4	increases
+T5	Prepositional_verb 679 687	spent by
+A7	Weight-language T5 Critical
+A8	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	spent on
+A9	Weight-language T3 Critical
+A10	Weight-understanding T3 Minor
+T6	Numerals 865 873	billions
+A11	Weight-language T6 Critical
+A12	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	billion
+T7	Numerals 821 829	billions
+A13	Weight-language T7 Critical
+A14	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	billion
+T8	Numerals 722 730	billions
+A15	Weight-language T8 Critical
+A16	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	billion
+T9	Derivation 926 931	grows
+A17	Weight-language T9 Critical
+A18	Weight-understanding T9 Critical
+#9	AnnotatorNotes T9	growth
+T10	Spelling 1152 1156	then
+A19	Weight-language T10 Critical
+A20	Weight-understanding T10 Critical
+#10	AnnotatorNotes T10	than
+T11	Derivation 1175 1180	grows
+A21	Weight-language T11 Critical
+A22	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	growth
+T12	Prepositional_verb 1212 1220	spent by
+A23	Weight-language T12 Critical
+A24	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	soent on
+T13	Spelling 1272 1280	explaind
+A25	Weight-language T13 Critical
+A26	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	explained
+T14	Spelling 1346 1351	wethe
+A27	Weight-language T14 Critical
+A28	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	whether
+T15	Spelling 1429 1432	and
+A29	Cause T15 Typo
+A30	Weight-language T15 Minor
+A31	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	end
+A32	Cause T3 L1_interference
+A33	Cause T5 L1_interference
+A34	Cause T12 L1_interference
+T16	pos_IN 0 2	In
+#16	AnnotatorNotes T16	lemma = 'in'
+T17	pos_DT 3 7	this
+#17	AnnotatorNotes T17	lemma = 'this'
+T18	pos_NN 8 14	report
+#18	AnnotatorNotes T18	lemma = 'report'
+T19	pos_PRP 15 16	I
+#19	AnnotatorNotes T19	lemma = 'i'
+T20	pos_MD 17 21	will
+#20	AnnotatorNotes T20	lemma = 'will'
+T21	pos_VB 22 30	describe
+#21	AnnotatorNotes T21	lemma = 'describe'
+T22	pos_DT 31 32	a
+#22	AnnotatorNotes T22	lemma = 'a'
+T23	pos_NN 33 36	bar
+#23	AnnotatorNotes T23	lemma = 'bar'
+T24	pos_NN 37 42	chart
+#24	AnnotatorNotes T24	lemma = 'chart'
+T25	pos_WDT 43 47	that
+#25	AnnotatorNotes T25	lemma = 'that'
+T26	pos_VBZ 48 53	shows
+#26	AnnotatorNotes T26	lemma = 'show'
+T27	pos_DT 54 55	a
+#27	AnnotatorNotes T27	lemma = 'a'
+T28	pos_JJ 56 61	total
+#28	AnnotatorNotes T28	lemma = 'total'
+T29	pos_NN 62 68	amount
+#29	AnnotatorNotes T29	lemma = 'amount'
+T30	pos_IN 69 71	of
+#30	AnnotatorNotes T30	lemma = 'of'
+T31	pos_DT 72 75	the
+#31	AnnotatorNotes T31	lemma = 'the'
+T32	pos_NP 76 78	UK
+#32	AnnotatorNotes T32	lemma = 'uk'
+T33	pos_NN 79 88	telephone
+#33	AnnotatorNotes T33	lemma = 'telephone'
+T34	pos_VBZ 89 94	calls
+#34	AnnotatorNotes T34	lemma = 'call'
+T35	pos_IN 95 99	from
+#35	AnnotatorNotes T35	lemma = 'from'
+T36	pos_Z 100 104	1995
+#36	AnnotatorNotes T36	lemma = '1995'
+T37	pos_TO 105 107	to
+#37	AnnotatorNotes T37	lemma = 'to'
+T38	pos_Z 108 112	2002
+#38	AnnotatorNotes T38	lemma = '2002'
+T39	pos_Fp 112 113	.
+#39	AnnotatorNotes T39	lemma = '.'
+T40	pos_DT 114 117	The
+#40	AnnotatorNotes T40	lemma = 'the'
+T41	pos_NP 118 124	Y-axis
+#41	AnnotatorNotes T41	lemma = 'y-axis'
+T42	pos_VBZ 125 130	shows
+#42	AnnotatorNotes T42	lemma = 'show'
+T43	pos_NNS 131 138	minutes
+#43	AnnotatorNotes T43	lemma = 'minute'
+T44	pos_IN 139 141	of
+#44	AnnotatorNotes T44	lemma = 'of'
+T45	pos_DT 142 145	the
+#45	AnnotatorNotes T45	lemma = 'the'
+T46	pos_NNS 146 151	talks
+#46	AnnotatorNotes T46	lemma = 'talk'
+T47	pos_CC 152 155	and
+#47	AnnotatorNotes T47	lemma = 'and'
+T48	pos_IN 156 158	on
+#48	AnnotatorNotes T48	lemma = 'on'
+T49	pos_DT 159 162	the
+#49	AnnotatorNotes T49	lemma = 'the'
+T50	pos_NNS 163 169	x-axis
+#50	AnnotatorNotes T50	lemma = 'x-axis'
+T51	pos_VBP 170 173	are
+#51	AnnotatorNotes T51	lemma = 'be'
+T52	pos_VBN 174 183	indicated
+#52	AnnotatorNotes T52	lemma = 'indicate'
+T53	pos_DT 184 187	the
+#53	AnnotatorNotes T53	lemma = 'the'
+T54	pos_NNS 188 193	years
+#54	AnnotatorNotes T54	lemma = 'year'
+T55	pos_Fp 193 194	.
+#55	AnnotatorNotes T55	lemma = '.'
+T56	pos_DT 195 198	The
+#56	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 199 210	information
+#57	AnnotatorNotes T57	lemma = 'information'
+T58	pos_VBZ 211 213	is
+#58	AnnotatorNotes T58	lemma = 'be'
+T59	pos_VBN 214 223	presented
+#59	AnnotatorNotes T59	lemma = 'present'
+T60	pos_IN 224 226	on
+#60	AnnotatorNotes T60	lemma = 'on'
+T61	pos_Z 227 228	3
+#61	AnnotatorNotes T61	lemma = '3'
+T62	pos_JJ 229 233	main
+#62	AnnotatorNotes T62	lemma = 'main'
+T63	pos_NNS 234 239	types
+#63	AnnotatorNotes T63	lemma = 'type'
+T64	pos_IN 240 242	of
+#64	AnnotatorNotes T64	lemma = 'of'
+T65	pos_DT 243 246	the
+#65	AnnotatorNotes T65	lemma = 'the'
+T66	pos_NNS 247 257	telephones
+#66	AnnotatorNotes T66	lemma = 'telephone'
+T67	pos_Fd 257 258	:
+#67	AnnotatorNotes T67	lemma = ':'
+T68	pos_JJ 259 264	local
+#68	AnnotatorNotes T68	lemma = 'local'
+T69	pos_NNS 265 275	telephones
+#69	AnnotatorNotes T69	lemma = 'telephone'
+T70	pos_Fc 275 276	,
+#70	AnnotatorNotes T70	lemma = ','
+T71	pos_JJ 277 283	mobile
+#71	AnnotatorNotes T71	lemma = 'mobile'
+T72	pos_CC 284 287	and
+#72	AnnotatorNotes T72	lemma = 'and'
+T73	pos_JJ 288 296	national
+#73	AnnotatorNotes T73	lemma = 'national'
+T74	pos_CC 297 300	and
+#74	AnnotatorNotes T74	lemma = 'and'
+T75	pos_JJ 301 314	international
+#75	AnnotatorNotes T75	lemma = 'international'
+T76	pos_NNS 315 325	telephones
+#76	AnnotatorNotes T76	lemma = 'telephone'
+T77	pos_Fp 325 326	.
+#77	AnnotatorNotes T77	lemma = '.'
+T78	pos_PRP 327 329	We
+#78	AnnotatorNotes T78	lemma = 'we'
+T79	pos_MD 330 333	can
+#79	AnnotatorNotes T79	lemma = 'can'
+T80	pos_VB 334 341	observe
+#80	AnnotatorNotes T80	lemma = 'observe'
+T81	pos_DT 342 343	a
+#81	AnnotatorNotes T81	lemma = 'a'
+T82	pos_JJ 344 348	slow
+#82	AnnotatorNotes T82	lemma = 'slow'
+T83	pos_NN 349 357	increase
+#83	AnnotatorNotes T83	lemma = 'increase'
+T84	pos_IN 358 360	of
+#84	AnnotatorNotes T84	lemma = 'of'
+T85	pos_DT 361 364	the
+#85	AnnotatorNotes T85	lemma = 'the'
+T86	pos_JJ 365 370	total
+#86	AnnotatorNotes T86	lemma = 'total'
+T87	pos_NN 371 377	amount
+#87	AnnotatorNotes T87	lemma = 'amount'
+T88	pos_IN 378 380	of
+#88	AnnotatorNotes T88	lemma = 'of'
+T89	pos_NNS 381 388	minutes
+#89	AnnotatorNotes T89	lemma = 'minute'
+T90	pos_IN 389 391	of
+#90	AnnotatorNotes T90	lemma = 'of'
+T91	pos_JJ 392 397	local
+#91	AnnotatorNotes T91	lemma = 'local'
+T92	pos_VBZ 398 403	calls
+#92	AnnotatorNotes T92	lemma = 'call'
+T93	pos_IN 404 408	from
+#93	AnnotatorNotes T93	lemma = 'from'
+T94	pos_Z 409 413	1995
+#94	AnnotatorNotes T94	lemma = '1995'
+T95	pos_TO 414 416	to
+#95	AnnotatorNotes T95	lemma = 'to'
+T96	pos_Z 417 421	1999
+#96	AnnotatorNotes T96	lemma = '1999'
+T97	pos_Fp 421 422	.
+#97	AnnotatorNotes T97	lemma = '.'
+T98	pos_PRP 423 425	It
+#98	AnnotatorNotes T98	lemma = 'it'
+T99	pos_VBZ 426 433	reaches
+#99	AnnotatorNotes T99	lemma = 'reach'
+T100	pos_PRP2 434 437	its
+#100	AnnotatorNotes T100	lemma = 'its'
+T101	pos_NN 438 442	peak
+#101	AnnotatorNotes T101	lemma = 'peak'
+T102	pos_IN 443 445	in
+#102	AnnotatorNotes T102	lemma = 'in'
+T103	pos_W 446 450	1999
+#103	AnnotatorNotes T103	lemma = '[??:??/??/1999:??.??:??]'
+T104	pos_IN 451 455	with
+#104	AnnotatorNotes T104	lemma = 'with'
+T105	pos_Z 456 467	90 billions
+#105	AnnotatorNotes T105	lemma = '90000000000'
+T106	pos_IN 468 470	of
+#106	AnnotatorNotes T106	lemma = 'of'
+T107	pos_NNS 471 478	minutes
+#107	AnnotatorNotes T107	lemma = 'minute'
+T108	pos_VBN 479 484	spent
+#108	AnnotatorNotes T108	lemma = 'spend'
+T109	pos_IN 485 487	by
+#109	AnnotatorNotes T109	lemma = 'by'
+T110	pos_VBG 488 495	talking
+#110	AnnotatorNotes T110	lemma = 'talk'
+T111	pos_Fp 495 496	.
+#111	AnnotatorNotes T111	lemma = '.'
+T112	pos_RB 497 501	Then
+#112	AnnotatorNotes T112	lemma = 'then'
+T113	pos_EX 502 507	there
+#113	AnnotatorNotes T113	lemma = 'there'
+T114	pos_VBZ 508 510	is
+#114	AnnotatorNotes T114	lemma = 'be'
+T115	pos_DT 511 512	a
+#115	AnnotatorNotes T115	lemma = 'a'
+T116	pos_JJ 513 517	slow
+#116	AnnotatorNotes T116	lemma = 'slow'
+T117	pos_Fc 517 518	,
+#117	AnnotatorNotes T117	lemma = ','
+T118	pos_CC 519 522	but
+#118	AnnotatorNotes T118	lemma = 'but'
+T119	pos_JJ 523 529	stable
+#119	AnnotatorNotes T119	lemma = 'stable'
+T120	pos_NN 530 537	decline
+#120	AnnotatorNotes T120	lemma = 'decline'
+T121	pos_Fp 537 538	.
+#121	AnnotatorNotes T121	lemma = '.'
+T122	pos_DT 539 542	The
+#122	AnnotatorNotes T122	lemma = 'the'
+T123	pos_NN 543 547	rate
+#123	AnnotatorNotes T123	lemma = 'rate'
+T124	pos_IN 548 550	of
+#124	AnnotatorNotes T124	lemma = 'of'
+T125	pos_DT 551 554	the
+#125	AnnotatorNotes T125	lemma = 'the'
+T126	pos_JJ 555 561	mobile
+#126	AnnotatorNotes T126	lemma = 'mobile'
+T127	pos_NN 562 567	phone
+#127	AnnotatorNotes T127	lemma = 'phone'
+T128	pos_VBZ 568 573	calls
+#128	AnnotatorNotes T128	lemma = 'call'
+T129	pos_VBZ 574 576	is
+#129	AnnotatorNotes T129	lemma = 'be'
+T130	pos_RB 577 583	pretty
+#130	AnnotatorNotes T130	lemma = 'pretty'
+T131	pos_JJ 584 587	low
+#131	AnnotatorNotes T131	lemma = 'low'
+T132	pos_IN 588 590	in
+#132	AnnotatorNotes T132	lemma = 'in'
+T133	pos_DT 591 594	the
+#133	AnnotatorNotes T133	lemma = 'the'
+T134	pos_JJ 595 599	late
+#134	AnnotatorNotes T134	lemma = 'late'
+T135	pos_JJ 600 604	90th
+#135	AnnotatorNotes T135	lemma = '90'
+T136	pos_Fc 604 605	,
+#136	AnnotatorNotes T136	lemma = ','
+T137	pos_CC 606 609	but
+#137	AnnotatorNotes T137	lemma = 'but'
+T138	pos_PRP 610 612	it
+#138	AnnotatorNotes T138	lemma = 'it'
+T139	pos_VBZ 613 618	leaks
+#139	AnnotatorNotes T139	lemma = 'leak'
+T140	pos_RB 619 626	rapidly
+#140	AnnotatorNotes T140	lemma = 'rapidly'
+T141	pos_IN 627 632	after
+#141	AnnotatorNotes T141	lemma = 'after'
+T142	pos_Z 633 637	1999
+#142	AnnotatorNotes T142	lemma = '1999'
+T143	pos_Fc 637 638	,
+#143	AnnotatorNotes T143	lemma = ','
+T144	pos_CC 639 642	and
+#144	AnnotatorNotes T144	lemma = 'and'
+T145	pos_IN 643 645	in
+#145	AnnotatorNotes T145	lemma = 'in'
+T146	pos_W 646 650	2002
+#146	AnnotatorNotes T146	lemma = '[??:??/??/2002:??.??:??]'
+T147	pos_DT 651 654	the
+#147	AnnotatorNotes T147	lemma = 'the'
+T148	pos_JJ 655 660	total
+#148	AnnotatorNotes T148	lemma = 'total'
+T149	pos_NN 661 667	amount
+#149	AnnotatorNotes T149	lemma = 'amount'
+T150	pos_IN 668 670	of
+#150	AnnotatorNotes T150	lemma = 'of'
+T151	pos_NNS 671 678	minutes
+#151	AnnotatorNotes T151	lemma = 'minute'
+T152	pos_VBN 679 684	spent
+#152	AnnotatorNotes T152	lemma = 'spend'
+T153	pos_IN 685 687	by
+#153	AnnotatorNotes T153	lemma = 'by'
+T154	pos_VBG 688 695	talking
+#154	AnnotatorNotes T154	lemma = 'talk'
+T155	pos_IN 696 698	on
+#155	AnnotatorNotes T155	lemma = 'on'
+T156	pos_DT 699 702	the
+#156	AnnotatorNotes T156	lemma = 'the'
+T157	pos_JJ 703 709	mobile
+#157	AnnotatorNotes T157	lemma = 'mobile'
+T158	pos_NN 710 715	phone
+#158	AnnotatorNotes T158	lemma = 'phone'
+T159	pos_VBZ 716 718	is
+#159	AnnotatorNotes T159	lemma = 'be'
+T160	pos_Z 719 730	45 billions
+#160	AnnotatorNotes T160	lemma = '45000000000'
+T161	pos_Fp 730 731	.
+#161	AnnotatorNotes T161	lemma = '.'
+T162	pos_PRP 732 734	We
+#162	AnnotatorNotes T162	lemma = 'we'
+T163	pos_RB 735 739	also
+#163	AnnotatorNotes T163	lemma = 'also'
+T164	pos_MD 740 743	can
+#164	AnnotatorNotes T164	lemma = 'can'
+T165	pos_VB 744 751	observe
+#165	AnnotatorNotes T165	lemma = 'observe'
+T166	pos_DT 752 753	a
+#166	AnnotatorNotes T166	lemma = 'a'
+T167	pos_JJ 754 758	slow
+#167	AnnotatorNotes T167	lemma = 'slow'
+T168	pos_NN 759 765	growth
+#168	AnnotatorNotes T168	lemma = 'growth'
+T169	pos_IN 766 768	of
+#169	AnnotatorNotes T169	lemma = 'of'
+T170	pos_DT 769 772	the
+#170	AnnotatorNotes T170	lemma = 'the'
+T171	pos_JJ 773 781	national
+#171	AnnotatorNotes T171	lemma = 'national'
+T172	pos_CC 782 785	and
+#172	AnnotatorNotes T172	lemma = 'and'
+T173	pos_JJ 786 799	international
+#173	AnnotatorNotes T173	lemma = 'international'
+T174	pos_NN 800 805	phone
+#174	AnnotatorNotes T174	lemma = 'phone'
+T175	pos_VBZ 806 811	calls
+#175	AnnotatorNotes T175	lemma = 'call'
+T176	pos_Fd 811 812	:
+#176	AnnotatorNotes T176	lemma = ':'
+T177	pos_IN 813 817	from
+#177	AnnotatorNotes T177	lemma = 'from'
+T178	pos_Z 818 829	37 billions
+#178	AnnotatorNotes T178	lemma = '37000000000'
+T179	pos_IN 830 832	of
+#179	AnnotatorNotes T179	lemma = 'of'
+T180	pos_NNS 833 840	minutes
+#180	AnnotatorNotes T180	lemma = 'minute'
+T181	pos_IN 841 843	in
+#181	AnnotatorNotes T181	lemma = 'in'
+T182	pos_W 844 848	1995
+#182	AnnotatorNotes T182	lemma = '[??:??/??/1995:??.??:??]'
+T183	pos_TO 849 851	to
+#183	AnnotatorNotes T183	lemma = 'to'
+T184	pos_RBR 852 856	more
+#184	AnnotatorNotes T184	lemma = 'many'
+T185	pos_IN 857 861	than
+#185	AnnotatorNotes T185	lemma = 'than'
+T186	pos_Z 862 873	60 billions
+#186	AnnotatorNotes T186	lemma = '60000000000'
+T187	pos_IN 874 876	in
+#187	AnnotatorNotes T187	lemma = 'in'
+T188	pos_W 877 881	2002
+#188	AnnotatorNotes T188	lemma = '[??:??/??/2002:??.??:??]'
+T189	pos_Fp 881 882	.
+#189	AnnotatorNotes T189	lemma = '.'
+T190	pos_PRP 883 884	I
+#190	AnnotatorNotes T190	lemma = 'i'
+T191	pos_VBP 885 890	think
+#191	AnnotatorNotes T191	lemma = 'think'
+T192	pos_EX 891 896	there
+#192	AnnotatorNotes T192	lemma = 'there'
+T193	pos_VBZ 897 899	is
+#193	AnnotatorNotes T193	lemma = 'be'
+T194	pos_DT 900 901	a
+#194	AnnotatorNotes T194	lemma = 'a'
+T195	pos_NN 902 913	correlation
+#195	AnnotatorNotes T195	lemma = 'correlation'
+T196	pos_IN 914 921	between
+#196	AnnotatorNotes T196	lemma = 'between'
+T197	pos_DT 922 925	the
+#197	AnnotatorNotes T197	lemma = 'the'
+T198	pos_VBZ 926 931	grows
+#198	AnnotatorNotes T198	lemma = 'grow'
+T199	pos_IN 932 934	of
+#199	AnnotatorNotes T199	lemma = 'of'
+T200	pos_NN 935 945	popularity
+#200	AnnotatorNotes T200	lemma = 'popularity'
+T201	pos_IN 946 948	of
+#201	AnnotatorNotes T201	lemma = 'of'
+T202	pos_DT 949 952	the
+#202	AnnotatorNotes T202	lemma = 'the'
+T203	pos_JJ 953 959	mobile
+#203	AnnotatorNotes T203	lemma = 'mobile'
+T204	pos_NNS 960 966	phones
+#204	AnnotatorNotes T204	lemma = 'phone'
+T205	pos_CC 967 970	and
+#205	AnnotatorNotes T205	lemma = 'and'
+T206	pos_DT 971 974	the
+#206	AnnotatorNotes T206	lemma = 'the'
+T207	pos_NN 975 983	decrease
+#207	AnnotatorNotes T207	lemma = 'decrease'
+T208	pos_IN 984 986	of
+#208	AnnotatorNotes T208	lemma = 'of'
+T209	pos_DT 987 990	the
+#209	AnnotatorNotes T209	lemma = 'the'
+T210	pos_NN 991 1001	popularity
+#210	AnnotatorNotes T210	lemma = 'popularity'
+T211	pos_IN 1002 1004	of
+#211	AnnotatorNotes T211	lemma = 'of'
+T212	pos_DT 1005 1008	the
+#212	AnnotatorNotes T212	lemma = 'the'
+T213	pos_JJ 1009 1014	local
+#213	AnnotatorNotes T213	lemma = 'local'
+T214	pos_NNS 1015 1019	ones
+#214	AnnotatorNotes T214	lemma = 'one'
+T215	pos_Fd 1019 1020	:
+#215	AnnotatorNotes T215	lemma = ':'
+T216	pos_JJ 1021 1024	due
+#216	AnnotatorNotes T216	lemma = 'due'
+T217	pos_TO 1025 1027	to
+#217	AnnotatorNotes T217	lemma = 'to'
+T218	pos_DT 1028 1031	the
+#218	AnnotatorNotes T218	lemma = 'the'
+T219	pos_NN 1032 1038	spread
+#219	AnnotatorNotes T219	lemma = 'spread'
+T220	pos_IN 1039 1041	of
+#220	AnnotatorNotes T220	lemma = 'of'
+T221	pos_DT 1042 1045	the
+#221	AnnotatorNotes T221	lemma = 'the'
+T222	pos_JJ 1046 1052	mobile
+#222	AnnotatorNotes T222	lemma = 'mobile'
+T223	pos_NNS 1053 1059	phones
+#223	AnnotatorNotes T223	lemma = 'phone'
+T224	pos_Fc 1059 1060	,
+#224	AnnotatorNotes T224	lemma = ','
+T225	pos_WDT 1061 1065	that
+#225	AnnotatorNotes T225	lemma = 'that'
+T226	pos_VBD 1066 1072	became
+#226	AnnotatorNotes T226	lemma = 'become'
+T227	pos_IN 1073 1077	less
+#227	AnnotatorNotes T227	lemma = 'less'
+T228	pos_JJ 1078 1087	expensive
+#228	AnnotatorNotes T228	lemma = 'expensive'
+T229	pos_CC 1088 1091	and
+#229	AnnotatorNotes T229	lemma = 'and'
+T230	pos_RB 1092 1096	thus
+#230	AnnotatorNotes T230	lemma = 'thus'
+T231	pos_RBR 1097 1101	more
+#231	AnnotatorNotes T231	lemma = 'many'
+T232	pos_JJ 1102 1112	accessible
+#232	AnnotatorNotes T232	lemma = 'accessible'
+T233	pos_Fc 1112 1113	,
+#233	AnnotatorNotes T233	lemma = ','
+T234	pos_CC 1114 1117	and
+#234	AnnotatorNotes T234	lemma = 'and'
+T235	pos_NNS 1118 1124	people
+#235	AnnotatorNotes T235	lemma = 'people'
+T236	pos_VBP 1125 1129	find
+#236	AnnotatorNotes T236	lemma = 'find'
+T237	pos_PRP 1130 1134	them
+#237	AnnotatorNotes T237	lemma = 'them'
+T238	pos_RBR 1135 1139	more
+#238	AnnotatorNotes T238	lemma = 'many'
+T239	pos_JJ 1140 1151	appropriate
+#239	AnnotatorNotes T239	lemma = 'appropriate'
+T240	pos_RB 1152 1156	then
+#240	AnnotatorNotes T240	lemma = 'then'
+T241	pos_JJ 1157 1162	local
+#241	AnnotatorNotes T241	lemma = 'local'
+T242	pos_NNS 1163 1169	phones
+#242	AnnotatorNotes T242	lemma = 'phone'
+T243	pos_Fp 1169 1170	.
+#243	AnnotatorNotes T243	lemma = '.'
+T244	pos_DT 1171 1174	The
+#244	AnnotatorNotes T244	lemma = 'the'
+T245	pos_VBZ 1175 1180	grows
+#245	AnnotatorNotes T245	lemma = 'grow'
+T246	pos_IN 1181 1183	of
+#246	AnnotatorNotes T246	lemma = 'of'
+T247	pos_DT 1184 1187	the
+#247	AnnotatorNotes T247	lemma = 'the'
+T248	pos_JJ 1188 1193	total
+#248	AnnotatorNotes T248	lemma = 'total'
+T249	pos_NN 1194 1200	amount
+#249	AnnotatorNotes T249	lemma = 'amount'
+T250	pos_IN 1201 1203	of
+#250	AnnotatorNotes T250	lemma = 'of'
+T251	pos_NNS 1204 1211	minutes
+#251	AnnotatorNotes T251	lemma = 'minute'
+T252	pos_VBN 1212 1217	spent
+#252	AnnotatorNotes T252	lemma = 'spend'
+T253	pos_IN 1218 1220	by
+#253	AnnotatorNotes T253	lemma = 'by'
+T254	pos_VBG 1221 1228	talking
+#254	AnnotatorNotes T254	lemma = 'talk'
+T255	pos_JJ 1229 1237	national
+#255	AnnotatorNotes T255	lemma = 'national'
+T256	pos_CC 1238 1241	and
+#256	AnnotatorNotes T256	lemma = 'and'
+T257	pos_JJ 1242 1255	international
+#257	AnnotatorNotes T257	lemma = 'international'
+T258	pos_NNS 1256 1262	phones
+#258	AnnotatorNotes T258	lemma = 'phone'
+T259	pos_MD 1263 1268	could
+#259	AnnotatorNotes T259	lemma = 'can'
+T260	pos_VB 1269 1271	be
+#260	AnnotatorNotes T260	lemma = 'be'
+T261	pos_NN 1272 1280	explaind
+#261	AnnotatorNotes T261	lemma = 'explaind'
+T262	pos_IN 1281 1283	by
+#262	AnnotatorNotes T262	lemma = 'by'
+T263	pos_DT 1284 1287	the
+#263	AnnotatorNotes T263	lemma = 'the'
+T264	pos_NN 1288 1295	process
+#264	AnnotatorNotes T264	lemma = 'process'
+T265	pos_IN 1296 1298	of
+#265	AnnotatorNotes T265	lemma = 'of'
+T266	pos_NN 1299 1312	globalisation
+#266	AnnotatorNotes T266	lemma = 'globalisation'
+T267	pos_Fd 1312 1313	:
+#267	AnnotatorNotes T267	lemma = ':'
+T268	pos_NNS 1314 1320	people
+#268	AnnotatorNotes T268	lemma = 'people'
+T269	pos_VBP 1321 1327	travel
+#269	AnnotatorNotes T269	lemma = 'travel'
+T270	pos_RBR 1328 1332	more
+#270	AnnotatorNotes T270	lemma = 'many'
+T271	pos_IN 1333 1337	than
+#271	AnnotatorNotes T271	lemma = 'than'
+T272	pos_IN 1338 1344	before
+#272	AnnotatorNotes T272	lemma = 'before'
+T273	pos_Fpa 1345 1346	(
+#273	AnnotatorNotes T273	lemma = '('
+T274	pos_NN 1346 1352	wether
+#274	AnnotatorNotes T274	lemma = 'wether'
+T275	pos_IN 1353 1363	because of
+#275	AnnotatorNotes T275	lemma = 'because_of'
+T276	pos_DT 1364 1367	the
+#276	AnnotatorNotes T276	lemma = 'the'
+T277	pos_JJ 1368 1376	economic
+#277	AnnotatorNotes T277	lemma = 'economic'
+T278	pos_NN 1377 1386	situation
+#278	AnnotatorNotes T278	lemma = 'situation'
+T279	pos_CC 1387 1389	or
+#279	AnnotatorNotes T279	lemma = 'or'
+T280	pos_RB 1390 1394	just
+#280	AnnotatorNotes T280	lemma = 'just'
+T281	pos_TO 1395 1397	to
+#281	AnnotatorNotes T281	lemma = 'to'
+T282	pos_VB 1398 1402	have
+#282	AnnotatorNotes T282	lemma = 'have'
+T283	pos_DT 1403 1404	a
+#283	AnnotatorNotes T283	lemma = 'a'
+T284	pos_JJ 1405 1409	good
+#284	AnnotatorNotes T284	lemma = 'good'
+T285	pos_NN 1410 1414	rest
+#285	AnnotatorNotes T285	lemma = 'rest'
+T286	pos_Fpt 1414 1415	)
+#286	AnnotatorNotes T286	lemma = ')'
+T287	pos_Fp 1415 1416	.
+#287	AnnotatorNotes T287	lemma = '.'
+T288	pos_DT 1417 1421	This
+#288	AnnotatorNotes T288	lemma = 'this'
+T289	pos_VBZ 1422 1424	is
+#289	AnnotatorNotes T289	lemma = 'be'
+T290	pos_DT 1425 1428	the
+#290	AnnotatorNotes T290	lemma = 'the'
+T291	pos_CC 1429 1432	and
+#291	AnnotatorNotes T291	lemma = 'and'
+T292	pos_IN 1433 1435	of
+#292	AnnotatorNotes T292	lemma = 'of'
+T293	pos_PRP2 1436 1438	my
+#293	AnnotatorNotes T293	lemma = 'my'
+T294	pos_NN 1439 1445	report
+#294	AnnotatorNotes T294	lemma = 'report'
+T295	pos_Fp 1445 1446	.
+#295	AnnotatorNotes T295	lemma = '.'

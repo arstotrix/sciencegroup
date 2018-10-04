@@ -1,0 +1,342 @@
+T1	Articles 25 29	main
+#1	AnnotatorNotes T1	the main
+T2	Articles 94 95	a
+#2	AnnotatorNotes T2	the
+T3	Voice 116 134	is been destroying
+#3	AnnotatorNotes T3	is getting destroyed
+T4	Discourse 135 146	for a while
+A1	Delete T4
+T5	Articles 156 162	rock’s
+#4	AnnotatorNotes T5	the rock's
+T6	Countable_uncountable 213 218	flows
+#5	AnnotatorNotes T6	the flow
+T7	Articles 213 218	flows
+#6	AnnotatorNotes T7	the flow
+T8	Determiners 228 243	every fragments
+#7	AnnotatorNotes T8	all fragments
+T9	Voice 249 267	are not strengthen
+#8	AnnotatorNotes T9	are not attached
+T10	lex_item_choice 257 267	strengthen
+#9	AnnotatorNotes T10	attached
+T11	Articles 290 292	an
+#10	AnnotatorNotes T11	the
+T12	Agreement_errors 318 325	appears
+#11	AnnotatorNotes T12	appear
+T13	Word_choice 567 576	organized
+#12	AnnotatorNotes T13	formed
+T14	Prepositions 577 580	for
+#13	AnnotatorNotes T14	over
+T15	Discourse 612 623	the way how
+#14	AnnotatorNotes T15	the way
+T16	lex_item_choice 663 669	united
+#15	AnnotatorNotes T16	combined OR joint
+T17	Word_choice 736 753	a necessary thing
+#16	AnnotatorNotes T17	required
+T18	suggestion 754 791	in order to create a sedimentary rock
+#17	AnnotatorNotes T18	for sedimentary rock to form
+T19	pos_DT 0 3	The
+#18	AnnotatorNotes T19	lemma = 'the'
+T20	pos_NNS 4 12	diagrams
+#19	AnnotatorNotes T20	lemma = 'diagram'
+T21	pos_VBP 13 24	demonstrate
+#20	AnnotatorNotes T21	lemma = 'demonstrate'
+T22	pos_JJ 25 29	main
+#21	AnnotatorNotes T22	lemma = 'main'
+T23	pos_NNS 30 36	stages
+#22	AnnotatorNotes T23	lemma = 'stage'
+T24	pos_IN 37 39	of
+#23	AnnotatorNotes T24	lemma = 'of'
+T25	pos_JJ 40 47	coastal
+#24	AnnotatorNotes T25	lemma = 'coastal'
+T26	pos_NN 48 57	formation
+#25	AnnotatorNotes T26	lemma = 'formation'
+T27	pos_IN 58 60	of
+#26	AnnotatorNotes T27	lemma = 'of'
+T28	pos_JJ 61 72	sedimentary
+#27	AnnotatorNotes T28	lemma = 'sedimentary'
+T29	pos_NN 73 77	rock
+#28	AnnotatorNotes T29	lemma = 'rock'
+T30	pos_Fp 77 78	.
+#29	AnnotatorNotes T30	lemma = '.'
+T31	pos_JJ 80 85	First
+#30	AnnotatorNotes T31	lemma = '1'
+T32	pos_IN 86 88	of
+#31	AnnotatorNotes T32	lemma = 'of'
+T33	pos_DT 89 92	all
+#32	AnnotatorNotes T33	lemma = 'all'
+T34	pos_Fc 92 93	,
+#33	AnnotatorNotes T34	lemma = ','
+T35	pos_DT 94 95	a
+#34	AnnotatorNotes T35	lemma = 'a'
+T36	pos_NN 96 103	surface
+#35	AnnotatorNotes T36	lemma = 'surface'
+T37	pos_IN 104 106	of
+#36	AnnotatorNotes T37	lemma = 'of'
+T38	pos_DT 107 110	the
+#37	AnnotatorNotes T38	lemma = 'the'
+T39	pos_NN 111 115	rock
+#38	AnnotatorNotes T39	lemma = 'rock'
+T40	pos_VBZ 116 118	is
+#39	AnnotatorNotes T40	lemma = 'be'
+T41	pos_VBN 119 123	been
+#40	AnnotatorNotes T41	lemma = 'be'
+T42	pos_VBG 124 134	destroying
+#41	AnnotatorNotes T42	lemma = 'destroy'
+T43	pos_IN 135 138	for
+#42	AnnotatorNotes T43	lemma = 'for'
+T44	pos_DT 139 140	a
+#43	AnnotatorNotes T44	lemma = 'a'
+T45	pos_NN 141 146	while
+#44	AnnotatorNotes T45	lemma = 'while'
+T46	pos_CC 147 150	and
+#45	AnnotatorNotes T46	lemma = 'and'
+T47	pos_RB 151 155	then
+#46	AnnotatorNotes T47	lemma = 'then'
+T48	pos_NN 156 160	rock
+#47	AnnotatorNotes T48	lemma = 'rock'
+T49	pos_Fw 160 161	’
+#48	AnnotatorNotes T49	lemma = '’'
+T50	pos_NNS 161 162	s
+#49	AnnotatorNotes T50	lemma = 's'
+T51	pos_NNS 163 172	fragments
+#50	AnnotatorNotes T51	lemma = 'fragment'
+T52	pos_CC 173 176	and
+#51	AnnotatorNotes T52	lemma = 'and'
+T53	pos_NNS 177 183	stones
+#52	AnnotatorNotes T53	lemma = 'stone'
+T54	pos_VBP 184 187	are
+#53	AnnotatorNotes T54	lemma = 'be'
+T55	pos_VBN 188 195	carried
+#54	AnnotatorNotes T55	lemma = 'carry'
+T56	pos_TO 196 198	to
+#55	AnnotatorNotes T56	lemma = 'to'
+T57	pos_DT 199 202	the
+#56	AnnotatorNotes T57	lemma = 'the'
+T58	pos_NN 203 206	sea
+#57	AnnotatorNotes T58	lemma = 'sea'
+T59	pos_Fp 206 207	.
+#58	AnnotatorNotes T59	lemma = '.'
+T60	pos_IN 208 212	With
+#59	AnnotatorNotes T60	lemma = 'with'
+T61	pos_NNS 213 218	flows
+#60	AnnotatorNotes T61	lemma = 'flow'
+T62	pos_IN 219 221	of
+#61	AnnotatorNotes T62	lemma = 'of'
+T63	pos_NN 222 227	water
+#62	AnnotatorNotes T63	lemma = 'water'
+T64	pos_DT 228 233	every
+#63	AnnotatorNotes T64	lemma = 'every'
+T65	pos_NNS 234 243	fragments
+#64	AnnotatorNotes T65	lemma = 'fragment'
+T66	pos_WDT 244 248	that
+#65	AnnotatorNotes T66	lemma = 'that'
+T67	pos_VBP 249 252	are
+#66	AnnotatorNotes T67	lemma = 'be'
+T68	pos_RB 253 256	not
+#67	AnnotatorNotes T68	lemma = 'not'
+T69	pos_VB 257 267	strengthen
+#68	AnnotatorNotes T69	lemma = 'strengthen'
+T70	pos_TO 268 270	to
+#69	AnnotatorNotes T70	lemma = 'to'
+T71	pos_DT 271 274	the
+#70	AnnotatorNotes T71	lemma = 'the'
+T72	pos_NN 275 279	rock
+#71	AnnotatorNotes T72	lemma = 'rock'
+T73	pos_NN 280 284	fall
+#72	AnnotatorNotes T73	lemma = 'fall'
+T74	pos_IN 285 289	into
+#73	AnnotatorNotes T74	lemma = 'into'
+T75	pos_DT 290 292	an
+#74	AnnotatorNotes T75	lemma = 'a'
+T76	pos_NN 293 298	ocean
+#75	AnnotatorNotes T76	lemma = 'ocean'
+T77	pos_Fp 298 299	.
+#76	AnnotatorNotes T77	lemma = '.'
+T78	pos_DT 300 304	That
+#77	AnnotatorNotes T78	lemma = 'that'
+T79	pos_VBZ 305 307	is
+#78	AnnotatorNotes T79	lemma = 'be'
+T80	pos_WRB 308 311	how
+#79	AnnotatorNotes T80	lemma = 'how'
+T81	pos_EX 312 317	there
+#80	AnnotatorNotes T81	lemma = 'there'
+T82	pos_VBZ 318 325	appears
+#81	AnnotatorNotes T82	lemma = 'appear'
+T83	pos_DT 326 334	a lot of
+#82	AnnotatorNotes T83	lemma = 'a_lot_of'
+T84	pos_NNS 335 344	materials
+#83	AnnotatorNotes T84	lemma = 'material'
+T85	pos_IN 345 348	for
+#84	AnnotatorNotes T85	lemma = 'for'
+T86	pos_NN 349 361	construction
+#85	AnnotatorNotes T86	lemma = 'construction'
+T87	pos_IN 362 364	of
+#86	AnnotatorNotes T87	lemma = 'of'
+T88	pos_JJ 365 371	future
+#87	AnnotatorNotes T88	lemma = 'future'
+T89	pos_JJ 372 383	sedimentary
+#88	AnnotatorNotes T89	lemma = 'sedimentary'
+T90	pos_NN 384 388	rock
+#89	AnnotatorNotes T90	lemma = 'rock'
+T91	pos_Fp 388 389	.
+#90	AnnotatorNotes T91	lemma = '.'
+T92	pos_RB 391 399	Secondly
+#91	AnnotatorNotes T92	lemma = 'secondly'
+T93	pos_Fc 399 400	,
+#92	AnnotatorNotes T93	lemma = ','
+T94	pos_WRB 401 405	when
+#93	AnnotatorNotes T94	lemma = 'when'
+T95	pos_EX 406 411	there
+#94	AnnotatorNotes T95	lemma = 'there'
+T96	pos_VBP 412 415	are
+#95	AnnotatorNotes T96	lemma = 'be'
+T97	pos_JJ 416 422	enough
+#96	AnnotatorNotes T97	lemma = 'enough'
+T98	pos_NNS 423 430	amounts
+#97	AnnotatorNotes T98	lemma = 'amount'
+T99	pos_IN 431 433	of
+#98	AnnotatorNotes T99	lemma = 'of'
+T100	pos_NNS 434 440	stones
+#99	AnnotatorNotes T100	lemma = 'stone'
+T101	pos_CC 441 444	and
+#100	AnnotatorNotes T101	lemma = 'and'
+T102	pos_NN 445 449	rock
+#101	AnnotatorNotes T102	lemma = 'rock'
+T103	pos_NNS 450 459	fragments
+#102	AnnotatorNotes T103	lemma = 'fragment'
+T104	pos_Fc 459 460	,
+#103	AnnotatorNotes T104	lemma = ','
+T105	pos_PRP 461 465	they
+#104	AnnotatorNotes T105	lemma = 'they'
+T106	pos_VBP 466 469	are
+#105	AnnotatorNotes T106	lemma = 'be'
+T107	pos_VBN 470 475	mixed
+#106	AnnotatorNotes T107	lemma = 'mix'
+T108	pos_IN 476 480	with
+#107	AnnotatorNotes T108	lemma = 'with'
+T109	pos_NN 481 484	sea
+#108	AnnotatorNotes T109	lemma = 'sea'
+T110	pos_NN 485 489	salt
+#109	AnnotatorNotes T110	lemma = 'salt'
+T111	pos_CC 490 493	and
+#110	AnnotatorNotes T111	lemma = 'and'
+T112	pos_VBD 494 499	moved
+#111	AnnotatorNotes T112	lemma = 'move'
+T113	pos_TO 500 502	to
+#112	AnnotatorNotes T113	lemma = 'to'
+T114	pos_DT 503 506	the
+#113	AnnotatorNotes T114	lemma = 'the'
+T115	pos_NN 507 512	coast
+#114	AnnotatorNotes T115	lemma = 'coast'
+T116	pos_Fc 512 513	,
+#115	AnnotatorNotes T116	lemma = ','
+T117	pos_VBG 514 520	making
+#116	AnnotatorNotes T117	lemma = 'make'
+T118	pos_RP 521 523	up
+#117	AnnotatorNotes T118	lemma = 'up'
+T119	pos_NN 524 527	bed
+#118	AnnotatorNotes T119	lemma = 'bed'
+T120	pos_Fc 527 528	,
+#119	AnnotatorNotes T120	lemma = ','
+T121	pos_NN 529 532	one
+#120	AnnotatorNotes T121	lemma = 'one'
+T122	pos_IN 533 538	after
+#121	AnnotatorNotes T122	lemma = 'after'
+T123	pos_DT 539 546	another
+#122	AnnotatorNotes T123	lemma = 'another'
+T124	pos_Fp 546 547	.
+#123	AnnotatorNotes T124	lemma = '.'
+T125	pos_DT 549 557	A lot of
+#124	AnnotatorNotes T125	lemma = 'a_lot_of'
+T126	pos_NNS 558 562	beds
+#125	AnnotatorNotes T126	lemma = 'bed'
+T127	pos_VBP 563 566	are
+#126	AnnotatorNotes T127	lemma = 'be'
+T128	pos_VBN 567 576	organized
+#127	AnnotatorNotes T128	lemma = 'organize'
+T129	pos_IN 577 580	for
+#128	AnnotatorNotes T129	lemma = 'for'
+T130	pos_DT 581 582	a
+#129	AnnotatorNotes T130	lemma = 'a'
+T131	pos_JJ 583 587	long
+#130	AnnotatorNotes T131	lemma = 'long'
+T132	pos_NN 588 594	period
+#131	AnnotatorNotes T132	lemma = 'period'
+T133	pos_IN 595 597	of
+#132	AnnotatorNotes T133	lemma = 'of'
+T134	pos_NN 598 602	time
+#133	AnnotatorNotes T134	lemma = 'time'
+T135	pos_Fp 602 603	.
+#134	AnnotatorNotes T135	lemma = '.'
+T136	pos_DT 604 608	This
+#135	AnnotatorNotes T136	lemma = 'this'
+T137	pos_VBZ 609 611	is
+#136	AnnotatorNotes T137	lemma = 'be'
+T138	pos_DT 612 615	the
+#137	AnnotatorNotes T138	lemma = 'the'
+T139	pos_NN 616 619	way
+#138	AnnotatorNotes T139	lemma = 'way'
+T140	pos_WRB 620 623	how
+#139	AnnotatorNotes T140	lemma = 'how'
+T141	pos_JJ 624 635	sedimentary
+#140	AnnotatorNotes T141	lemma = 'sedimentary'
+T142	pos_NN 636 640	rock
+#141	AnnotatorNotes T142	lemma = 'rock'
+T143	pos_VBZ 641 643	is
+#142	AnnotatorNotes T143	lemma = 'be'
+T144	pos_VBN 644 650	formed
+#143	AnnotatorNotes T144	lemma = 'form'
+T145	pos_Fp 650 651	.
+#144	AnnotatorNotes T145	lemma = '.'
+T146	pos_TO 652 654	To
+#145	AnnotatorNotes T146	lemma = 'to'
+T147	pos_VB 655 658	sum
+#146	AnnotatorNotes T147	lemma = 'sum'
+T148	pos_RP 659 661	up
+#147	AnnotatorNotes T148	lemma = 'up'
+T149	pos_Fc 661 662	,
+#148	AnnotatorNotes T149	lemma = ','
+T150	pos_VBN 663 669	united
+#149	AnnotatorNotes T150	lemma = 'unite'
+T151	pos_NNS 670 677	actions
+#150	AnnotatorNotes T151	lemma = 'action'
+T152	pos_IN 678 680	of
+#151	AnnotatorNotes T152	lemma = 'of'
+T153	pos_JJ 681 690	different
+#152	AnnotatorNotes T153	lemma = 'different'
+T154	pos_NNS 691 697	powers
+#153	AnnotatorNotes T154	lemma = 'power'
+T155	pos_IN 698 700	of
+#154	AnnotatorNotes T155	lemma = 'of'
+T156	pos_NN 701 707	nature
+#155	AnnotatorNotes T156	lemma = 'nature'
+T157	pos_CC 708 711	and
+#156	AnnotatorNotes T157	lemma = 'and'
+T158	pos_JJ 712 716	long
+#157	AnnotatorNotes T158	lemma = 'long'
+T159	pos_NN 717 723	period
+#158	AnnotatorNotes T159	lemma = 'period'
+T160	pos_IN 724 726	of
+#159	AnnotatorNotes T160	lemma = 'of'
+T161	pos_NN 727 731	time
+#160	AnnotatorNotes T161	lemma = 'time'
+T162	pos_VBP 732 735	are
+#161	AnnotatorNotes T162	lemma = 'be'
+T163	pos_DT 736 737	a
+#162	AnnotatorNotes T163	lemma = 'a'
+T164	pos_JJ 738 747	necessary
+#163	AnnotatorNotes T164	lemma = 'necessary'
+T165	pos_NN 748 753	thing
+#164	AnnotatorNotes T165	lemma = 'thing'
+T166	pos_CC 754 765	in order to
+#165	AnnotatorNotes T166	lemma = 'in_order_to'
+T167	pos_VB 766 772	create
+#166	AnnotatorNotes T167	lemma = 'create'
+T168	pos_DT 773 774	a
+#167	AnnotatorNotes T168	lemma = 'a'
+T169	pos_JJ 775 786	sedimentary
+#168	AnnotatorNotes T169	lemma = 'sedimentary'
+T170	pos_NN 787 791	rock
+#169	AnnotatorNotes T170	lemma = 'rock'
+T171	pos_Fp 791 792	.
+#170	AnnotatorNotes T171	lemma = '.'

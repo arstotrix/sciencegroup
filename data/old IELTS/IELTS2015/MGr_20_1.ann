@@ -1,0 +1,22 @@
+T1	Agreement_errors 119 123	give
+T2	Determiners 142 148	things
+#1	AnnotatorNotes T2	the things
+T3	Spelling 205 210	deman
+#2	AnnotatorNotes T3	demand
+T4	Articles 205 210	deman
+#3	AnnotatorNotes T4	the demand
+T5	Absence_comp_sent 237 249	is much more
+A1	Cause T5 L1_interference
+#4	AnnotatorNotes T5	is much more bigger
+T6	Spelling 919 926	whether
+#5	AnnotatorNotes T6	wheather
+T7	Determiners 37 57	typical daily demand
+#6	AnnotatorNotes T7	the typical daily demand
+T10	Possessive 270 278	winter’s
+#9	AnnotatorNotes T10	winter
+T11	Tense 279 284	reach
+#10	AnnotatorNotes T11	was reached
+T12	Confusion_of_structures 266 289	The winter’s reach peak
+#11	AnnotatorNotes T12	The winter peak was reached
+T8	Absence_comp_sent 432 459	the winter demand at 35000.
+#7	AnnotatorNotes T8	the winter demand started at 35000

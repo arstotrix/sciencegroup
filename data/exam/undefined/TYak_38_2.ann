@@ -1,0 +1,57 @@
+T1	Noun_number 32 41	student’s
+A1	Cause T1 Other
+#1	AnnotatorNotes T1	students'
+T2	Possessive 32 41	student’s
+A2	Cause T2 Other
+#2	AnnotatorNotes T2	students'
+T3	Noun_number 97 103	school
+A3	Cause T3 Other
+#3	AnnotatorNotes T3	schools
+T4	Voice 275 287	could caused
+A4	Cause T4 Other
+#4	AnnotatorNotes T4	could be caused
+T5	Absence_comp_sent 275 287	could caused
+A5	Cause T5 Other
+#5	AnnotatorNotes T5	could be caused
+T6	Articles 291 292	a
+A6	Cause T6 Absence_of_Category_in_L1
+#6	AnnotatorNotes T6	the
+T7	Spelling 472 481	desisions
+A7	Cause T7 Typo
+#7	AnnotatorNotes T7	decisions
+T8	Spelling 494 500	privat
+A8	Cause T8 Typo
+#8	AnnotatorNotes T8	private
+T9	Agreement_errors 624 630	become
+A9	Cause T9 Other
+#9	AnnotatorNotes T9	becomes
+T10	Agreement_errors 675 681	follow
+A10	Cause T10 Other
+#10	AnnotatorNotes T10	follows
+T11	Noun_number 770 776	parent
+A11	Cause T11 Other
+#11	AnnotatorNotes T11	parents
+T12	Comparative_adj 777 781	then
+A12	Cause T12 Other
+#12	AnnotatorNotes T12	than
+T13	Noun_number 788 797	childrens
+A13	Cause T13 L1_interference
+#13	AnnotatorNotes T13	children 
+T14	Noun_number 846 855	childrens
+A14	Cause T14 L1_interference
+#14	AnnotatorNotes T14	children
+T15	Noun_number 971 977	parent
+A15	Cause T15 Other
+#15	AnnotatorNotes T15	parents
+T16	Absence_explanation 1095 1100	their
+A16	Cause T16 L1_interference
+#16	AnnotatorNotes T16	student
+T17	Agreement_errors 1111 1115	have
+A17	Cause T17 Other
+#17	AnnotatorNotes T17	has
+T18	Possessive 1306 1314	students
+A18	Cause T18 Other
+#18	AnnotatorNotes T18	student
+T19	Spelling 1333 1340	seriour
+A19	Cause T19 Typo
+#19	AnnotatorNotes T19	serious

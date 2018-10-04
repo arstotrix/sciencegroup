@@ -1,0 +1,38 @@
+T1	Category_confusion 78 84	travel
+#1	AnnotatorNotes T1	traveling
+T2	Articles 114 117	air
+#2	AnnotatorNotes T2	the air
+T3	Articles 147 164	greenhouse effect
+#3	AnnotatorNotes T3	the greenhouse effect
+T4	Linking_device 400 413	exceptionally
+#4	AnnotatorNotes T4	especially
+T5	lex_part_choice 414 437	human Right of Movement
+#5	AnnotatorNotes T5	the right to freedom of movement
+T6	Agreement_errors 459 462	are
+#6	AnnotatorNotes T6	is
+T7	Articles 463 511	incredibly great amount of fabrics and factories
+#7	AnnotatorNotes T7	an incredibly great amount of fabrics and factories
+T8	Spelling 687 699	further more
+#8	AnnotatorNotes T8	furthermore
+T9	Superlative_adj 715 723	the most
+T10	Superlative_adj 752 759	fastest
+#9	AnnotatorNotes T10	fast
+R1	Dependent_change Arg1:T9 Arg2:T10	
+T11	Category_confusion 879 888	the ruins
+#10	AnnotatorNotes T11	ruining
+T12	Absence_comp_colloc 1061 1066	their
+#11	AnnotatorNotes T12	their own
+T13	Linking_device 1067 1071	with
+A1	Delete T13
+T14	Prepositions 1185 1199	different ways
+#12	AnnotatorNotes T14	in different ways
+T15	Punctuation 1273 1274	,
+A2	Delete T15
+T16	Absence_comp_sent 1399 1418	the ordinary people
+#13	AnnotatorNotes T16	the ordinary people should too
+T17	Spelling 1570 1575	redce
+#14	AnnotatorNotes T17	reduce
+T18	Negation 1613 1637	haven’t to be introduced
+#15	AnnotatorNotes T18	do not have to be introduced
+T19	Determiners 1662 1677	another methods
+#16	AnnotatorNotes T19	other methods

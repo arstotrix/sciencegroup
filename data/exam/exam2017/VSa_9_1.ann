@@ -1,0 +1,38 @@
+T2	Category_confusion 272 279	persent
+#2	AnnotatorNotes T2	percentage of
+T7	Lack_par_constr 336 343	by rail
+#6	AnnotatorNotes T7	is carried by rail
+T8	lex_item_choice 379 383	rake
+T9	Numerals 404 413	12% goods
+#7	AnnotatorNotes T9	12% of goods
+T10	Spelling 465 469	good
+#8	AnnotatorNotes T10	goods
+T11	Word_choice 475 489	nearly similar
+T12	Tense_form 566 584	mainly transported
+#9	AnnotatorNotes T12	are mainly transported
+T13	Tense_form 637 648	transported
+#10	AnnotatorNotes T13	are transported
+T14	Punctuation 658 669	for example
+#11	AnnotatorNotes T14	for example,
+T1	Redundant_comp 0 2	On
+#1	AnnotatorNotes T1	In
+#12	AnnotatorNotes T11	nearly the same
+A1	Delete T1
+T3	Confusion_of_structures 22 27	there
+A2	Delete T3
+T16	lex_item_choice 47 52	about
+#3	AnnotatorNotes T16	showing
+T4	Prepositions 127 149	Concerning the data on
+#4	AnnotatorNotes T4	For
+T15	Redundant_comp 251 259	hoped to
+A3	Delete T15
+T17	Tense_form 260 262	be
+#13	AnnotatorNotes T17	is
+R1	Dependent_change Arg1:T15 Arg2:T17	
+#5	AnnotatorNotes T8	transportation
+T5	Punctuation 621 624	and
+#14	AnnotatorNotes T5	, and
+T6	Word_choice 625 630	small
+#15	AnnotatorNotes T6	smaller size
+T18	note 625 630	small
+#16	AnnotatorNotes T18	лучше перечислить остальные категории

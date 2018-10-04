@@ -1,0 +1,477 @@
+T1	lex_item_choice 126 133	regular
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	popular
+T2	Absence_explanation 204 213	number of
+A4	Addition T2
+A5	Cause T2 Other
+A6	Weight-language T2 Major
+A7	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	number of people with
+T3	Determiners 251 254	two
+A8	Cause T3 Other
+A9	Weight-language T3 Major
+A10	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	both
+T4	lex_item_choice 326 344	going in for sport
+A11	Cause T4 Other
+A12	Weight-language T4 Major
+#4	AnnotatorNotes T4	workout
+T5	lex_item_choice 354 366	consisted of
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	were
+T6	Articles 367 376	employees
+A16	Addition T6
+A17	Cause T6 Absence_of_Category_in_L1
+A18	Weight-language T6 Critical
+A19	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	the employees
+T7	Tense_choice 407 412	It is
+A20	Cause T7 Other
+A21	Weight-language T7 Major
+A22	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	There were
+T8	Standard 413 422	sharp 50%
+#8	AnnotatorNotes T8	50% sharp
+T9	Standard 459 510	in the Birmingham department was big almost by half
+A23	Cause T9 Other
+A24	Weight-language T9 Critical
+A25	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	was twice as big in the Birmingham department
+T10	Numerical 492 510	big almost by half
+A26	Cause T10 Other
+A27	Weight-language T10 Major
+A28	Weight-understanding T10 Major
+#10	AnnotatorNotes T10	twice as big
+T11	Spelling 443 458	no- absent-hour
+A29	Cause T11 Other
+A30	Weight-language T11 Minor
+A31	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	no-absent-hour
+T13	Absence_explanation 564 570	number
+A36	Addition T13
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Major
+#12	AnnotatorNotes T13	bigger number
+T14	Absence_comp_sent 607 612	doing
+A40	Addition T14
+A41	Cause T14 Other
+A42	Weight-language T14 Critical
+A43	Weight-understanding T14 Major
+#13	AnnotatorNotes T14	were doing
+T15	Countable_uncountable 613 622	exercises
+A44	Cause T15 Other
+A45	Weight-language T15 Minor
+A46	Weight-understanding T15 Minor
+#14	AnnotatorNotes T15	exercise
+T16	Prepositions 623 649	less than 5 hours per week
+A47	Addition T16
+A48	Cause T16 L1_interference
+A49	Weight-language T16 Major
+A50	Weight-understanding T16 Major
+#15	AnnotatorNotes T16	for less than 5 hours a week
+T17	Ref_device 706 713	another
+A51	Cause T17 Other
+A52	Weight-language T17 Minor
+A53	Weight-understanding T17 Minor
+#16	AnnotatorNotes T17	the other
+T12	Defining 601 606	, who
+#17	AnnotatorNotes T12	who
+T18	Numerical 696 699	big
+#18	AnnotatorNotes T18	much
+T19	pos_DT 0 3	The
+#19	AnnotatorNotes T19	lemma = 'the'
+T20	pos_NN 4 9	chart
+#20	AnnotatorNotes T20	lemma = 'chart'
+T21	pos_CC 10 13	and
+#21	AnnotatorNotes T21	lemma = 'and'
+T22	pos_NN 14 19	table
+#22	AnnotatorNotes T22	lemma = 'table'
+T23	pos_VB 20 27	compare
+#23	AnnotatorNotes T23	lemma = 'compare'
+T24	pos_NNS 28 35	results
+#24	AnnotatorNotes T24	lemma = 'result'
+T25	pos_IN 36 38	of
+#25	AnnotatorNotes T25	lemma = 'of'
+T26	pos_NN 39 47	exercise
+#26	AnnotatorNotes T26	lemma = 'exercise'
+T27	pos_NNS 48 53	hours
+#27	AnnotatorNotes T27	lemma = 'hour'
+T28	pos_CC 54 57	and
+#28	AnnotatorNotes T28	lemma = 'and'
+T29	pos_NN 58 68	attendance
+#29	AnnotatorNotes T29	lemma = 'attendance'
+T30	pos_IN 69 71	in
+#30	AnnotatorNotes T30	lemma = 'in'
+T31	pos_Z 72 75	two
+#31	AnnotatorNotes T31	lemma = '2'
+T32	pos_JJ 76 79	big
+#32	AnnotatorNotes T32	lemma = 'big'
+T33	pos_NNS 80 89	companies
+#33	AnnotatorNotes T33	lemma = 'company'
+T34	pos_IN 90 92	in
+#34	AnnotatorNotes T34	lemma = 'in'
+T35	pos_W 93 97	2012
+#35	AnnotatorNotes T35	lemma = '[??:??/??/2012:??.??:??]'
+T36	pos_Fp 97 98	.
+#36	AnnotatorNotes T36	lemma = '.'
+T37	pos_PRP 100 102	It
+#37	AnnotatorNotes T37	lemma = 'it'
+T38	pos_VBZ 103 105	is
+#38	AnnotatorNotes T38	lemma = 'be'
+T39	pos_JJ 106 111	clear
+#39	AnnotatorNotes T39	lemma = 'clear'
+T40	pos_IN 112 116	that
+#40	AnnotatorNotes T40	lemma = 'that'
+T41	pos_DT 117 120	the
+#41	AnnotatorNotes T41	lemma = 'the'
+T42	pos_RBS 121 125	most
+#42	AnnotatorNotes T42	lemma = 'many'
+T43	pos_JJ 126 133	regular
+#43	AnnotatorNotes T43	lemma = 'regular'
+T44	pos_NNS 134 139	hours
+#44	AnnotatorNotes T44	lemma = 'hour'
+T45	pos_IN 140 143	for
+#45	AnnotatorNotes T45	lemma = 'for'
+T46	pos_VBG 144 154	exercising
+#46	AnnotatorNotes T46	lemma = 'exercise'
+T47	pos_VBD 155 159	were
+#47	AnnotatorNotes T47	lemma = 'be'
+T48	pos_IN 160 167	between
+#48	AnnotatorNotes T48	lemma = 'between'
+T49	pos_Z 168 169	5
+#49	AnnotatorNotes T49	lemma = '5'
+T50	pos_CC 170 173	and
+#50	AnnotatorNotes T50	lemma = 'and'
+T51	pos_Z 174 176	10
+#51	AnnotatorNotes T51	lemma = '10'
+T52	pos_IN 177 179	in
+#52	AnnotatorNotes T52	lemma = 'in'
+T53	pos_DT 180 184	both
+#53	AnnotatorNotes T53	lemma = 'both'
+T54	pos_NNS 185 194	companies
+#54	AnnotatorNotes T54	lemma = 'company'
+T55	pos_Fp 194 195	.
+#55	AnnotatorNotes T55	lemma = '.'
+T56	pos_CC 196 199	And
+#56	AnnotatorNotes T56	lemma = 'and'
+T57	pos_DT 200 203	the
+#57	AnnotatorNotes T57	lemma = 'the'
+T58	pos_NN 204 210	number
+#58	AnnotatorNotes T58	lemma = 'number'
+T59	pos_IN 211 213	of
+#59	AnnotatorNotes T59	lemma = 'of'
+T60	pos_Z 214 221	15-hour
+#60	AnnotatorNotes T60	lemma = '15-hour'
+T61	pos_VBG 222 232	exercising
+#61	AnnotatorNotes T61	lemma = 'exercise'
+T62	pos_VBD 233 236	was
+#62	AnnotatorNotes T62	lemma = 'be'
+T63	pos_DT 237 240	the
+#63	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJS 241 247	lowest
+#64	AnnotatorNotes T64	lemma = 'low'
+T65	pos_IN 248 250	in
+#65	AnnotatorNotes T65	lemma = 'in'
+T66	pos_Z 251 254	two
+#66	AnnotatorNotes T66	lemma = '2'
+T67	pos_NNS 255 264	companies
+#67	AnnotatorNotes T67	lemma = 'company'
+T68	pos_RB 265 272	as well
+#68	AnnotatorNotes T68	lemma = 'as_well'
+T69	pos_Fp 272 273	.
+#69	AnnotatorNotes T69	lemma = '.'
+T70	pos_RB 275 282	However
+#70	AnnotatorNotes T70	lemma = 'however'
+T71	pos_Fc 282 283	,
+#71	AnnotatorNotes T71	lemma = ','
+T72	pos_DT 284 287	the
+#72	AnnotatorNotes T72	lemma = 'the'
+T73	pos_JJS 288 295	largest
+#73	AnnotatorNotes T73	lemma = 'large'
+T74	pos_NN 296 300	part
+#74	AnnotatorNotes T74	lemma = 'part'
+T75	pos_IN 301 303	of
+#75	AnnotatorNotes T75	lemma = 'of'
+T76	pos_NNS 304 310	people
+#76	AnnotatorNotes T76	lemma = 'people'
+T77	pos_IN 311 315	with
+#77	AnnotatorNotes T77	lemma = 'with'
+T78	pos_Z 316 325	5-10-hour
+#78	AnnotatorNotes T78	lemma = '5-10-hour'
+T79	pos_VBG 326 331	going
+#79	AnnotatorNotes T79	lemma = 'go'
+T80	pos_IN 332 334	in
+#80	AnnotatorNotes T80	lemma = 'in'
+T81	pos_IN 335 338	for
+#81	AnnotatorNotes T81	lemma = 'for'
+T82	pos_NN 339 344	sport
+#82	AnnotatorNotes T82	lemma = 'sport'
+T83	pos_IN 345 348	per
+#83	AnnotatorNotes T83	lemma = 'per'
+T84	pos_NN 349 353	week
+#84	AnnotatorNotes T84	lemma = 'week'
+T85	pos_VBN 354 363	consisted
+#85	AnnotatorNotes T85	lemma = 'consist'
+T86	pos_IN 364 366	of
+#86	AnnotatorNotes T86	lemma = 'of'
+T87	pos_NNS 367 376	employees
+#87	AnnotatorNotes T87	lemma = 'employee'
+T88	pos_IN 377 379	of
+#88	AnnotatorNotes T88	lemma = 'of'
+T89	pos_DT 380 383	the
+#89	AnnotatorNotes T89	lemma = 'the'
+T90	pos_NP 384 394	Birmingham
+#90	AnnotatorNotes T90	lemma = 'birmingham'
+T91	pos_NN 395 405	department
+#91	AnnotatorNotes T91	lemma = 'department'
+T92	pos_Fp 405 406	.
+#92	AnnotatorNotes T92	lemma = '.'
+T93	pos_PRP 407 409	It
+#93	AnnotatorNotes T93	lemma = 'it'
+T94	pos_VBZ 410 412	is
+#94	AnnotatorNotes T94	lemma = 'be'
+T95	pos_JJ 413 418	sharp
+#95	AnnotatorNotes T95	lemma = 'sharp'
+T96	pos_Zp 419 422	50%
+#96	AnnotatorNotes T96	lemma = '50/100'
+T97	pos_Fp 422 423	.
+#97	AnnotatorNotes T97	lemma = '.'
+T98	pos_RB 424 428	Also
+#98	AnnotatorNotes T98	lemma = 'also'
+T99	pos_DT 429 432	the
+#99	AnnotatorNotes T99	lemma = 'the'
+T100	pos_NN 433 439	number
+#100	AnnotatorNotes T100	lemma = 'number'
+T101	pos_IN 440 442	of
+#101	AnnotatorNotes T101	lemma = 'of'
+T102	pos_DT 443 445	no
+#102	AnnotatorNotes T102	lemma = 'no'
+T103	pos_Fg 445 446	-
+#103	AnnotatorNotes T103	lemma = '-'
+T104	pos_JJ 447 458	absent-hour
+#104	AnnotatorNotes T104	lemma = 'absent-hour'
+T105	pos_IN 459 461	in
+#105	AnnotatorNotes T105	lemma = 'in'
+T106	pos_DT 462 465	the
+#106	AnnotatorNotes T106	lemma = 'the'
+T107	pos_NP 466 476	Birmingham
+#107	AnnotatorNotes T107	lemma = 'birmingham'
+T108	pos_NN 477 487	department
+#108	AnnotatorNotes T108	lemma = 'department'
+T109	pos_VBD 488 491	was
+#109	AnnotatorNotes T109	lemma = 'be'
+T110	pos_JJ 492 495	big
+#110	AnnotatorNotes T110	lemma = 'big'
+T111	pos_RB 496 502	almost
+#111	AnnotatorNotes T111	lemma = 'almost'
+T112	pos_IN 503 505	by
+#112	AnnotatorNotes T112	lemma = 'by'
+T113	pos_NN 506 510	half
+#113	AnnotatorNotes T113	lemma = 'half'
+T114	pos_Fp 510 511	.
+#114	AnnotatorNotes T114	lemma = '.'
+T115	pos_IN 513 515	On
+#115	AnnotatorNotes T115	lemma = 'on'
+T116	pos_DT 516 519	the
+#116	AnnotatorNotes T116	lemma = 'the'
+T117	pos_NN 520 528	contrary
+#117	AnnotatorNotes T117	lemma = 'contrary'
+T118	pos_Fc 528 529	,
+#118	AnnotatorNotes T118	lemma = ','
+T119	pos_DT 530 533	the
+#119	AnnotatorNotes T119	lemma = 'the'
+T120	pos_JJ 534 539	other
+#120	AnnotatorNotes T120	lemma = 'other'
+T121	pos_JJ 540 550	noticeable
+#121	AnnotatorNotes T121	lemma = 'noticeable'
+T122	pos_NN 551 556	thing
+#122	AnnotatorNotes T122	lemma = 'thing'
+T123	pos_VBZ 557 559	is
+#123	AnnotatorNotes T123	lemma = 'be'
+T124	pos_DT 560 563	the
+#124	AnnotatorNotes T124	lemma = 'the'
+T125	pos_NN 564 570	number
+#125	AnnotatorNotes T125	lemma = 'number'
+T126	pos_IN 571 573	of
+#126	AnnotatorNotes T126	lemma = 'of'
+T127	pos_NP 574 580	London
+#127	AnnotatorNotes T127	lemma = 'london'
+T128	pos_NN 581 591	department
+#128	AnnotatorNotes T128	lemma = 'department'
+T129	pos_NNS 592 601	employees
+#129	AnnotatorNotes T129	lemma = 'employee'
+T130	pos_Fc 601 602	,
+#130	AnnotatorNotes T130	lemma = ','
+T131	pos_WP 603 606	who
+#131	AnnotatorNotes T131	lemma = 'who'
+T132	pos_NN 607 612	doing
+#132	AnnotatorNotes T132	lemma = 'doing'
+T133	pos_VBZ 613 622	exercises
+#133	AnnotatorNotes T133	lemma = 'exercise'
+T134	pos_IN 623 627	less
+#134	AnnotatorNotes T134	lemma = 'less'
+T135	pos_IN 628 632	than
+#135	AnnotatorNotes T135	lemma = 'than'
+T136	pos_Z 419 420	5
+#136	AnnotatorNotes T136	lemma = '5'
+T137	pos_NNS 635 640	hours
+#137	AnnotatorNotes T137	lemma = 'hour'
+T138	pos_IN 641 644	per
+#138	AnnotatorNotes T138	lemma = 'per'
+T139	pos_NN 645 649	week
+#139	AnnotatorNotes T139	lemma = 'week'
+T140	pos_Fp 649 650	.
+#140	AnnotatorNotes T140	lemma = '.'
+T141	pos_PRP 651 653	It
+#141	AnnotatorNotes T141	lemma = 'it'
+T142	pos_VBZ 654 656	is
+#142	AnnotatorNotes T142	lemma = 'be'
+T143	pos_JJ 657 662	sharp
+#143	AnnotatorNotes T143	lemma = 'sharp'
+T144	pos_Zp 663 666	35%
+#144	AnnotatorNotes T144	lemma = '35/100'
+T145	pos_Fc 666 667	,
+#145	AnnotatorNotes T145	lemma = ','
+T146	pos_WDT 668 673	which
+#146	AnnotatorNotes T146	lemma = 'which'
+T147	pos_VBZ 674 676	is
+#147	AnnotatorNotes T147	lemma = 'be'
+T148	pos_RBR 677 681	more
+#148	AnnotatorNotes T148	lemma = 'many'
+T149	pos_IN 682 686	than
+#149	AnnotatorNotes T149	lemma = 'than'
+T150	pos_RB 687 692	twice
+#150	AnnotatorNotes T150	lemma = 'twice'
+T151	pos_RB 693 695	as
+#151	AnnotatorNotes T151	lemma = 'as'
+T152	pos_JJ 696 699	big
+#152	AnnotatorNotes T152	lemma = 'big'
+T153	pos_IN 700 702	as
+#153	AnnotatorNotes T153	lemma = 'as'
+T154	pos_IN 703 705	in
+#154	AnnotatorNotes T154	lemma = 'in'
+T155	pos_DT 706 713	another
+#155	AnnotatorNotes T155	lemma = 'another'
+T156	pos_NN 714 721	company
+#156	AnnotatorNotes T156	lemma = 'company'
+T157	pos_Fp 721 722	.
+#157	AnnotatorNotes T157	lemma = '.'
+T158	pos_DT 723 726	The
+#158	AnnotatorNotes T158	lemma = 'the'
+T159	pos_JJ 727 734	similar
+#159	AnnotatorNotes T159	lemma = 'similar'
+T160	pos_NN 735 744	situation
+#160	AnnotatorNotes T160	lemma = 'situation'
+T161	pos_VBZ 745 747	is
+#161	AnnotatorNotes T161	lemma = 'be'
+T162	pos_IN 748 752	with
+#162	AnnotatorNotes T162	lemma = 'with'
+T163	pos_DT 753 756	the
+#163	AnnotatorNotes T163	lemma = 'the'
+T164	pos_NN 757 768	absenteeism
+#164	AnnotatorNotes T164	lemma = 'absenteeism'
+T165	pos_IN 769 771	of
+#165	AnnotatorNotes T165	lemma = 'of'
+T166	pos_NNS 772 781	employees
+#166	AnnotatorNotes T166	lemma = 'employee'
+T167	pos_IN 782 784	in
+#167	AnnotatorNotes T167	lemma = 'in'
+T168	pos_DT 785 788	the
+#168	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NP 789 795	London
+#169	AnnotatorNotes T169	lemma = 'london'
+T170	pos_NN 796 806	department
+#170	AnnotatorNotes T170	lemma = 'department'
+T171	pos_IN 807 811	less
+#171	AnnotatorNotes T171	lemma = 'less'
+T172	pos_IN 812 816	than
+#172	AnnotatorNotes T172	lemma = 'than'
+T173	pos_IN 817 820	for
+#173	AnnotatorNotes T173	lemma = 'for'
+T174	pos_Z 633 634	5
+#174	AnnotatorNotes T174	lemma = '5'
+T175	pos_NNS 823 827	days
+#175	AnnotatorNotes T175	lemma = 'day'
+T176	pos_DT 828 829	a
+#176	AnnotatorNotes T176	lemma = 'a'
+T177	pos_NN 830 834	year
+#177	AnnotatorNotes T177	lemma = 'year'
+T178	pos_Fp 834 835	.
+#178	AnnotatorNotes T178	lemma = '.'
+T179	pos_PRP 836 838	It
+#179	AnnotatorNotes T179	lemma = 'it'
+T180	pos_VBZ 839 841	is
+#180	AnnotatorNotes T180	lemma = 'be'
+T181	pos_RB 842 848	nearly
+#181	AnnotatorNotes T181	lemma = 'nearly'
+T182	pos_RB 849 858	two times
+#182	AnnotatorNotes T182	lemma = '2_times'
+T183	pos_RB 859 861	as
+#183	AnnotatorNotes T183	lemma = 'as'
+T184	pos_JJ 862 865	big
+#184	AnnotatorNotes T184	lemma = 'big'
+T185	pos_IN 866 868	as
+#185	AnnotatorNotes T185	lemma = 'as'
+T186	pos_IN 869 871	in
+#186	AnnotatorNotes T186	lemma = 'in'
+T187	pos_DT 872 875	the
+#187	AnnotatorNotes T187	lemma = 'the'
+T188	pos_NP 876 886	Birmingham
+#188	AnnotatorNotes T188	lemma = 'birmingham'
+T189	pos_NN 887 897	department
+#189	AnnotatorNotes T189	lemma = 'department'
+T190	pos_Fp 897 898	.
+#190	AnnotatorNotes T190	lemma = '.'
+T191	pos_DT 901 908	Another
+#191	AnnotatorNotes T191	lemma = 'another'
+T192	pos_VBG 909 920	interesting
+#192	AnnotatorNotes T192	lemma = 'interest'
+T193	pos_NN 921 927	result
+#193	AnnotatorNotes T193	lemma = 'result'
+T194	pos_VBD 928 931	was
+#194	AnnotatorNotes T194	lemma = 'be'
+T195	pos_VBN 932 941	connected
+#195	AnnotatorNotes T195	lemma = 'connect'
+T196	pos_IN 942 946	with
+#196	AnnotatorNotes T196	lemma = 'with'
+T197	pos_NN 947 958	absenteeism
+#197	AnnotatorNotes T197	lemma = 'absenteeism'
+T198	pos_IN 959 962	for
+#198	AnnotatorNotes T198	lemma = 'for'
+T199	pos_RBR 963 967	more
+#199	AnnotatorNotes T199	lemma = 'many'
+T200	pos_IN 968 972	than
+#200	AnnotatorNotes T200	lemma = 'than'
+T201	pos_Z 664 665	5
+#201	AnnotatorNotes T201	lemma = '5'
+T202	pos_NNS 975 979	days
+#202	AnnotatorNotes T202	lemma = 'day'
+T203	pos_DT 980 981	a
+#203	AnnotatorNotes T203	lemma = 'a'
+T204	pos_NN 982 986	year
+#204	AnnotatorNotes T204	lemma = 'year'
+T205	pos_Fp 986 987	.
+#205	AnnotatorNotes T205	lemma = '.'
+T206	pos_DT 988 991	The
+#206	AnnotatorNotes T206	lemma = 'the'
+T207	pos_NNS 992 999	results
+#207	AnnotatorNotes T207	lemma = 'result'
+T208	pos_IN 1000 1002	of
+#208	AnnotatorNotes T208	lemma = 'of'
+T209	pos_DT 1003 1007	both
+#209	AnnotatorNotes T209	lemma = 'both'
+T210	pos_NNS 1008 1017	companies
+#210	AnnotatorNotes T210	lemma = 'company'
+T211	pos_VBD 1018 1022	were
+#211	AnnotatorNotes T211	lemma = 'be'
+T212	pos_RB 1023 1034	practically
+#212	AnnotatorNotes T212	lemma = 'practically'
+T213	pos_JJ 1035 1040	equal
+#213	AnnotatorNotes T213	lemma = 'equal'
+T214	pos_Fp 1040 1041	.
+#214	AnnotatorNotes T214	lemma = '.'

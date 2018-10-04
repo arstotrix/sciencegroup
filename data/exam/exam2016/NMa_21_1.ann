@@ -1,0 +1,27 @@
+T1	Numerals 463 471	millions
+#1	AnnotatorNotes T1	million
+T2	Numerals 424 432	millions
+A1	Cause T2 L1_interference
+#2	AnnotatorNotes T2	million
+T3	Punctuation 488 489	)
+A2	Cause T3 Typo
+T4	suggestion 7 16	gistogram
+T5	Spelling 56 66	accessment
+A3	Cause T5 Typo
+#3	AnnotatorNotes T5	assessment
+T6	Spelling 160 172	degreasement
+A4	Cause T6 Typo
+#4	AnnotatorNotes T6	decreasement
+T7	Spelling 357 366	degreased
+A5	Cause T7 Typo
+#5	AnnotatorNotes T7	decreased
+T8	suggestion 202 207	don't
+A6	Cause T8 Other
+#6	AnnotatorNotes T8	do not
+T9	note 186 188	of
+#7	AnnotatorNotes T9	там было одно of, и надо вставить the
+T10	suggestion 17 22	below
+T11	Numerals 326 329	5,1
+#8	AnnotatorNotes T11	5.1
+T12	Prepositional_noun 262 278	from this period
+#9	AnnotatorNotes T12	during this peroid

@@ -1,0 +1,13 @@
+T1	lex_item_choice 142 145	men
+#1	AnnotatorNotes T1	people
+T2	Prepositional_verb 460 463	for
+#2	AnnotatorNotes T2	to
+T3	Prepositional_verb 432 442	contribute
+#3	AnnotatorNotes T3	contribute to
+R1	Dependent_change Arg1:T3 Arg2:T2	
+T4	suggestion 505 509	lead
+#4	AnnotatorNotes T4	lead to
+T5	Tense_choice 751 756	broke
+#5	AnnotatorNotes T5	break
+T6	lex_item_choice 825 828	men
+#6	AnnotatorNotes T6	people

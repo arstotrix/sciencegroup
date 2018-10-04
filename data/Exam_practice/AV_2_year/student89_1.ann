@@ -1,0 +1,112 @@
+T3	Absence_comp_colloc 475 483	given us
+T6	Spelling 718 723	favor
+T7	Linking_device 733 735	is
+T8	lex_item_choice 793 799	number
+T10	Prefix 1094 1105	unsatisfied
+T11	Prepositional_verb 1283 1295	delight with
+T2	lex_part_choice 255 265	in details
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	in detail
+T13	Adjectives 375 381	bigger
+A10	Cause T13 Other
+A11	Weight-language T13 Major
+A12	Weight-understanding T13 Major
+#4	AnnotatorNotes T13	big
+T14	lex_item_choice 382 388	amount
+A13	Cause T14 L1_interference
+A14	Weight-language T14 Minor
+A15	Weight-understanding T14 Minor
+#5	AnnotatorNotes T14	part
+A16	Cause T3 L1_interference
+A17	Weight-language T3 Minor
+A18	Weight-understanding T3 Minor
+#6	AnnotatorNotes T3	given to us
+T4	Category_confusion 492 497	enjoy
+A19	Cause T4 Other
+A20	Weight-language T4 Critical
+A21	Weight-understanding T4 Minor
+#7	AnnotatorNotes T4	enjoyment
+T15	Prepositional_verb 548 560	delight with
+A22	Cause T15 Other
+A23	Weight-language T15 Major
+A24	Weight-understanding T15 Minor
+#8	AnnotatorNotes T15	delight in
+T16	note 548 560	delight with
+#9	AnnotatorNotes T16	Alternatively, you could say "be delighted with"
+T5	Coherence 513 531	Their job bringing
+A25	Cause T5 Other
+A26	Weight-language T5 Major
+A27	Weight-understanding T5 Minor
+#10	AnnotatorNotes T5	If their job brings
+T17	note 513 531	Their job bringing
+#11	AnnotatorNotes T17	Your variant means "because their job brings joy"
+T18	Standard 661 680	significant no less
+A28	Cause T18 L1_interference
+A29	Weight-language T18 Major
+A30	Weight-understanding T18 Minor
+#12	AnnotatorNotes T18	no less significant 
+T19	lex_item_choice 771 777	before
+A31	Cause T19 Other
+A32	Weight-language T19 Major
+A33	Weight-understanding T19 Minor
+#13	AnnotatorNotes T19	until
+A34	Cause T8 Other
+A35	Weight-language T8 Major
+A36	Weight-understanding T8 Minor
+#14	AnnotatorNotes T8	amount
+T20	note 793 799	number
+#15	AnnotatorNotes T20	"A number of" is used with countable nouns
+T21	Prepositional_verb 927 950	waste all your time for
+A37	Cause T21 Other
+A38	Weight-language T21 Major
+A39	Weight-understanding T21 Minor
+#16	AnnotatorNotes T21	waste all your time on
+A40	Cause T6 Other
+A41	Weight-language T6 Minor
+A42	Weight-understanding T6 Minor
+#17	AnnotatorNotes T6	favour
+T22	note 718 723	favor
+#18	AnnotatorNotes T22	If you have a choice between American English and British English spelling, you should go for British English (as IELTS is a British exam).
+A43	Cause T7 Other
+A44	Weight-language T7 Major
+A45	Weight-understanding T7 Minor
+#19	AnnotatorNotes T7	is that
+T23	Articles 997 1011	vicious circle
+A46	Cause T23 Absence_of_Category_in_L1
+#20	AnnotatorNotes T23	a vicious circle
+A47	Cause T10 Other
+A48	Weight-language T10 Minor
+A49	Weight-understanding T10 Minor
+#21	AnnotatorNotes T10	dissatisfied
+T9	Tense_choice 1146 1154	is going
+A50	Cause T9 Other
+A51	Weight-language T9 Minor
+A52	Weight-understanding T9 Minor
+#22	AnnotatorNotes T9	goes
+#23	AnnotatorNotes T11	delight in
+T24	Linking_device 1166 1173	Overall
+A53	Cause T24 Other
+A54	Weight-language T24 Minor
+A55	Weight-understanding T24 Minor
+#24	AnnotatorNotes T24	To sum it up,
+T25	note 1166 1173	Overall
+#25	AnnotatorNotes T25	"Overall" means "in general", "on the whole"
+T26	note 62 73	twice lucky
+#26	AnnotatorNotes T26	Alternatively, you could say "double lucky"
+A56	Cause T11 Other
+A57	Weight-language T11 Major
+A58	Weight-understanding T11 Minor
+T27	note 1283 1295	delight with
+#27	AnnotatorNotes T27	Alternatively, you could say "be delighted with"
+T12	Prepositions 315 317	of
+A7	Cause T12 Other
+A8	Weight-language T12 Major
+A9	Weight-understanding T12 Minor
+#3	AnnotatorNotes T12	with
+T1	Numerical 62 73	twice lucky
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	twice as lucky

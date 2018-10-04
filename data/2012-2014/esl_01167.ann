@@ -1,0 +1,270 @@
+T1	Tense_form 2 21	am absolutely agree
+#1	AnnotatorNotes T1	I absolutely agree
+T2	Prepositions 40 42	of
+#2	AnnotatorNotes T2	between
+T3	Articles 58 64	family
+#3	AnnotatorNotes T3	a family
+T4	Punctuation 81 86	both,
+#4	AnnotatorNotes T4	both
+T5	lex_part_choice 105 118	On my opinion
+#5	AnnotatorNotes T5	In my opinion,
+T6	Punctuation 105 118	On my opinion
+#6	AnnotatorNotes T6	In my opinion,
+T7	Defining 160 161	,
+A1	Delete T7
+T8	Prepositional_verb 168 179	happen with
+#7	AnnotatorNotes T8	happen to
+T9	Tense_choice 168 174	happen
+#8	AnnotatorNotes T9	are happening
+T10	lex_item_choice 224 229	adult
+#9	AnnotatorNotes T10	mature
+T11	lex_item_choice 257 264	liberty
+#10	AnnotatorNotes T11	freedom
+T12	Word_choice 298 317	as adult with adult
+#11	AnnotatorNotes T12	as equals
+T13	Category_confusion 332 343	respectable
+#12	AnnotatorNotes T13	respected
+T14	suggestion 327 349	have respectable voice
+#13	AnnotatorNotes T14	be respected
+T15	Category_confusion 396 400	teen
+#14	AnnotatorNotes T15	a teenager
+T16	Articles 396 400	teen
+#15	AnnotatorNotes T16	a teenager
+T17	lex_item_choice 416 430	get along with
+#16	AnnotatorNotes T17	treat
+T18	Pronouns 438 441	she
+#17	AnnotatorNotes T18	her
+T19	suggestion 445 449	with
+A2	Delete T19
+T20	Articles 450 461	silly child
+#18	AnnotatorNotes T20	a silly child
+T21	Prepositional_verb 480 486	listen
+#19	AnnotatorNotes T21	listen to
+T22	note 565 566	.
+#20	AnnotatorNotes T22	The development is insufficient - you give statements but don't support them. The grade is 5.
+T23	pos_PRP 0 1	I
+#21	AnnotatorNotes T23	lemma = 'i'
+T24	pos_VBP 2 4	am
+#22	AnnotatorNotes T24	lemma = 'be'
+T25	pos_RB 5 15	absolutely
+#23	AnnotatorNotes T25	lemma = 'absolutely'
+T26	pos_VB 16 21	agree
+#24	AnnotatorNotes T26	lemma = 'agree'
+T27	pos_IN 22 26	that
+#25	AnnotatorNotes T27	lemma = 'that'
+T28	pos_DT 27 30	the
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	pos_NN 31 39	conflict
+#27	AnnotatorNotes T29	lemma = 'conflict'
+T30	pos_IN 40 42	of
+#28	AnnotatorNotes T30	lemma = 'of'
+T31	pos_NNS 43 54	generations
+#29	AnnotatorNotes T31	lemma = 'generation'
+T32	pos_IN 55 57	in
+#30	AnnotatorNotes T32	lemma = 'in'
+T33	pos_NN 58 64	family
+#31	AnnotatorNotes T33	lemma = 'family'
+T34	pos_VBZ 65 67	is
+#32	AnnotatorNotes T34	lemma = 'be'
+T35	pos_DT 68 71	the
+#33	AnnotatorNotes T35	lemma = 'the'
+T36	pos_NN 72 77	fault
+#34	AnnotatorNotes T36	lemma = 'fault'
+T37	pos_IN 78 80	of
+#35	AnnotatorNotes T37	lemma = 'of'
+T38	pos_DT 81 85	both
+#36	AnnotatorNotes T38	lemma = 'both'
+T39	pos_Fc 85 86	,
+#37	AnnotatorNotes T39	lemma = ','
+T40	pos_NNS 87 92	teens
+#38	AnnotatorNotes T40	lemma = 'teens'
+T41	pos_CC 93 96	and
+#39	AnnotatorNotes T41	lemma = 'and'
+T42	pos_NNS 97 103	adults
+#40	AnnotatorNotes T42	lemma = 'adult'
+T43	pos_Fp 103 104	.
+#41	AnnotatorNotes T43	lemma = '.'
+T44	pos_IN 105 107	On
+#42	AnnotatorNotes T44	lemma = 'on'
+T45	pos_PRP2 108 110	my
+#43	AnnotatorNotes T45	lemma = 'my'
+T46	pos_NN 111 118	opinion
+#44	AnnotatorNotes T46	lemma = 'opinion'
+T47	pos_DT 119 122	the
+#45	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 123 128	cause
+#46	AnnotatorNotes T48	lemma = 'cause'
+T49	pos_IN 129 131	of
+#47	AnnotatorNotes T49	lemma = 'of'
+T50	pos_DT 132 136	this
+#48	AnnotatorNotes T50	lemma = 'this'
+T51	pos_NN 137 145	conflict
+#49	AnnotatorNotes T51	lemma = 'conflict'
+T52	pos_VBZ 146 148	is
+#50	AnnotatorNotes T52	lemma = 'be'
+T53	pos_DT 149 152	the
+#51	AnnotatorNotes T53	lemma = 'the'
+T54	pos_NNS 153 160	changes
+#52	AnnotatorNotes T54	lemma = 'change'
+T55	pos_Fc 160 161	,
+#53	AnnotatorNotes T55	lemma = ','
+T56	pos_WDT 162 167	which
+#54	AnnotatorNotes T56	lemma = 'which'
+T57	pos_VBP 168 174	happen
+#55	AnnotatorNotes T57	lemma = 'happen'
+T58	pos_IN 175 179	with
+#56	AnnotatorNotes T58	lemma = 'with'
+T59	pos_NNS 180 189	teenagers
+#57	AnnotatorNotes T59	lemma = 'teenager'
+T60	pos_Fp 189 190	.
+#58	AnnotatorNotes T60	lemma = '.'
+T61	pos_PRP 191 195	They
+#59	AnnotatorNotes T61	lemma = 'they'
+T62	pos_VBP 196 201	think
+#60	AnnotatorNotes T62	lemma = 'think'
+T63	pos_IN 202 206	that
+#61	AnnotatorNotes T63	lemma = 'that'
+T64	pos_PRP 207 211	they
+#62	AnnotatorNotes T64	lemma = 'they'
+T65	pos_VBP 212 215	are
+#63	AnnotatorNotes T65	lemma = 'be'
+T66	pos_RB 216 223	already
+#64	AnnotatorNotes T66	lemma = 'already'
+T67	pos_NN 224 229	adult
+#65	AnnotatorNotes T67	lemma = 'adult'
+T68	pos_CC 230 233	and
+#66	AnnotatorNotes T68	lemma = 'and'
+T69	pos_PRP 234 238	they
+#67	AnnotatorNotes T69	lemma = 'they'
+T70	pos_VBP 239 243	want
+#68	AnnotatorNotes T70	lemma = 'want'
+T71	pos_TO 244 246	to
+#69	AnnotatorNotes T71	lemma = 'to'
+T72	pos_VB 247 251	have
+#70	AnnotatorNotes T72	lemma = 'have'
+T73	pos_RBR 252 256	more
+#71	AnnotatorNotes T73	lemma = 'many'
+T74	pos_NN 257 264	liberty
+#72	AnnotatorNotes T74	lemma = 'liberty'
+T75	pos_Fc 264 265	,
+#73	AnnotatorNotes T75	lemma = ','
+T76	pos_VBP 266 270	want
+#74	AnnotatorNotes T76	lemma = 'want'
+T77	pos_TO 271 273	to
+#75	AnnotatorNotes T77	lemma = 'to'
+T78	pos_VB 274 278	talk
+#76	AnnotatorNotes T78	lemma = 'talk'
+T79	pos_IN 279 283	with
+#77	AnnotatorNotes T79	lemma = 'with'
+T80	pos_PRP2 284 289	their
+#78	AnnotatorNotes T80	lemma = 'their'
+T81	pos_NNS 290 297	parents
+#79	AnnotatorNotes T81	lemma = 'parent'
+T82	pos_IN 298 300	as
+#80	AnnotatorNotes T82	lemma = 'as'
+T83	pos_NN 301 306	adult
+#81	AnnotatorNotes T83	lemma = 'adult'
+T84	pos_IN 307 311	with
+#82	AnnotatorNotes T84	lemma = 'with'
+T85	pos_NN 312 317	adult
+#83	AnnotatorNotes T85	lemma = 'adult'
+T86	pos_Fc 317 318	,
+#84	AnnotatorNotes T86	lemma = ','
+T87	pos_VBP 319 323	want
+#85	AnnotatorNotes T87	lemma = 'want'
+T88	pos_TO 324 326	to
+#86	AnnotatorNotes T88	lemma = 'to'
+T89	pos_VB 327 331	have
+#87	AnnotatorNotes T89	lemma = 'have'
+T90	pos_JJ 332 343	respectable
+#88	AnnotatorNotes T90	lemma = 'respectable'
+T91	pos_NN 344 349	voice
+#89	AnnotatorNotes T91	lemma = 'voice'
+T92	pos_IN 350 352	in
+#90	AnnotatorNotes T92	lemma = 'in'
+T93	pos_DT 353 356	the
+#91	AnnotatorNotes T93	lemma = 'the'
+T94	pos_NN 357 363	family
+#92	AnnotatorNotes T94	lemma = 'family'
+T95	pos_Fp 363 364	.
+#93	AnnotatorNotes T95	lemma = '.'
+T96	pos_CC 365 368	But
+#94	AnnotatorNotes T96	lemma = 'but'
+T97	pos_NNS 369 376	parents
+#95	AnnotatorNotes T97	lemma = 'parent'
+T98	pos_RB 377 382	still
+#96	AnnotatorNotes T98	lemma = 'still'
+T99	pos_VB 383 390	suppose
+#97	AnnotatorNotes T99	lemma = 'suppose'
+T100	pos_DT 391 395	that
+#98	AnnotatorNotes T100	lemma = 'that'
+T101	pos_JJ 396 400	teen
+#99	AnnotatorNotes T101	lemma = 'teen'
+T102	pos_VBZ 401 403	is
+#100	AnnotatorNotes T102	lemma = 'be'
+T103	pos_DT 404 405	a
+#101	AnnotatorNotes T103	lemma = 'a'
+T104	pos_NN 406 411	child
+#102	AnnotatorNotes T104	lemma = 'child'
+T105	pos_CC 412 415	and
+#103	AnnotatorNotes T105	lemma = 'and'
+T106	pos_VB 416 419	get
+#104	AnnotatorNotes T106	lemma = 'get'
+T107	pos_IN 420 430	along with
+#105	AnnotatorNotes T107	lemma = 'along_with'
+T108	pos_PRP 431 434	him
+#106	AnnotatorNotes T108	lemma = 'him'
+T109	pos_CC 435 437	or
+#107	AnnotatorNotes T109	lemma = 'or'
+T110	pos_PRP 438 441	she
+#108	AnnotatorNotes T110	lemma = 'she'
+T111	pos_RB 442 444	as
+#109	AnnotatorNotes T111	lemma = 'as'
+T112	pos_IN 445 449	with
+#110	AnnotatorNotes T112	lemma = 'with'
+T113	pos_JJ 450 455	silly
+#111	AnnotatorNotes T113	lemma = 'silly'
+T114	pos_NN 456 461	child
+#112	AnnotatorNotes T114	lemma = 'child'
+T115	pos_Fp 461 462	.
+#113	AnnotatorNotes T115	lemma = '.'
+T116	pos_IN 463 465	If
+#114	AnnotatorNotes T116	lemma = 'if'
+T117	pos_PRP 466 470	they
+#115	AnnotatorNotes T117	lemma = 'they'
+T118	pos_RB 471 475	both
+#116	AnnotatorNotes T118	lemma = 'both'
+T119	pos_MD 476 479	can
+#117	AnnotatorNotes T119	lemma = 'can'
+T120	pos_VB 480 486	listen
+#118	AnnotatorNotes T120	lemma = 'listen'
+T121	pos_DT 487 491	each
+#119	AnnotatorNotes T121	lemma = 'each'
+T122	pos_NN 492 497	other
+#120	AnnotatorNotes T122	lemma = 'other'
+T123	pos_Fc 497 498	,
+#121	AnnotatorNotes T123	lemma = ','
+T124	pos_MD 499 502	can
+#122	AnnotatorNotes T124	lemma = 'can'
+T125	pos_VB 503 508	adopt
+#123	AnnotatorNotes T125	lemma = 'adopt'
+T126	pos_DT 509 512	the
+#124	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 513 521	position
+#125	AnnotatorNotes T127	lemma = 'position'
+T128	pos_IN 522 524	of
+#126	AnnotatorNotes T128	lemma = 'of'
+T129	pos_DT 525 532	another
+#127	AnnotatorNotes T129	lemma = 'another'
+T130	pos_NN 533 537	side
+#128	AnnotatorNotes T130	lemma = 'side'
+T131	pos_DT 538 541	the
+#129	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 542 550	conflict
+#130	AnnotatorNotes T132	lemma = 'conflict'
+T133	pos_MD 551 555	will
+#131	AnnotatorNotes T133	lemma = 'will'
+T134	pos_VB 556 565	disappear
+#132	AnnotatorNotes T134	lemma = 'disappear'
+T135	pos_Fp 565 566	.
+#133	AnnotatorNotes T135	lemma = '.'

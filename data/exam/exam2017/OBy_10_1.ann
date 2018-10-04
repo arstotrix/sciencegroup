@@ -1,0 +1,102 @@
+T1	Spelling 84 90	Easten
+#1	AnnotatorNotes T1	Eastern
+T2	Agreement_errors 146 148	is
+#2	AnnotatorNotes T2	are
+T5	Spelling 258 260	in
+#5	AnnotatorNotes T5	is
+T6	Agreement_errors 479 484	takes
+#6	AnnotatorNotes T6	take
+T7	Agreement_errors 509 514	takes
+#7	AnnotatorNotes T7	constitute
+T9	Agreement_errors 568 570	is
+#9	AnnotatorNotes T9	are
+T13	Agreement_errors 721 723	is
+#13	AnnotatorNotes T13	are
+T14	Punctuation 747 754	However
+#14	AnnotatorNotes T14	However,
+T15	Absence_comp_sent 755 757	it
+#15	AnnotatorNotes T15	the percentage is
+T16	Articles 777 785	per cent
+#16	AnnotatorNotes T16	the percentage
+T17	Spelling 799 801	if
+#17	AnnotatorNotes T17	in
+T18	Agreement_errors 866 868	is
+#18	AnnotatorNotes T18	are
+T19	Articles 910 922	most popular
+#19	AnnotatorNotes T19	the most popular
+T20	Ref_device 898 905	this is
+#20	AnnotatorNotes T20	they are
+R2	Dependent_change Arg1:T20 Arg2:T18	
+T21	Agreement_errors 937 942	takes
+#21	AnnotatorNotes T21	reach
+T22	Category_confusion 955 963	per cent
+#22	AnnotatorNotes T22	percentage
+T23	Agreement_errors 1011 1015	hits
+#23	AnnotatorNotes T23	hit
+T24	Articles 131 137	charts
+#24	AnnotatorNotes T24	the charts
+T25	Absence_comp_sent 568 570	is
+#25	AnnotatorNotes T25	there are
+T26	Absence_explanation 755 757	it
+#26	AnnotatorNotes T26	the percentage
+T28	Absence_explanation 149 153	most
+#28	AnnotatorNotes T28	most often
+T3	lex_item_choice 154 162	provided
+#3	AnnotatorNotes T3	delivered
+T29	Redundant_comp 163 172	materials
+A1	Delete T29
+T30	Ref_device 184 186	It
+#29	AnnotatorNotes T30	they
+T31	Agreement_errors 187 192	takes
+#30	AnnotatorNotes T31	make up
+T32	lex_item_choice 187 192	takes
+#31	AnnotatorNotes T32	make up
+R3	Dependent_change Arg1:T30 Arg2:T31	
+T33	Absence_explanation 297 305	demanded
+#4	AnnotatorNotes T33	most often demanded
+T34	Agreement_errors 338 341	are
+#32	AnnotatorNotes T34	is
+T35	Absence_comp_sent 376 401	which approximately equal
+#33	AnnotatorNotes T35	which is aproximately equal
+T36	Punctuation 447 459	In this case
+#34	AnnotatorNotes T36	To be precise,
+T37	Linking_device 447 459	In this case
+#35	AnnotatorNotes T37	To be precise, 
+T38	lex_item_choice 509 514	takes
+#36	AnnotatorNotes T38	constitute
+T39	lex_item_choice 527 567	middle of road transportation statistics
+#37	AnnotatorNotes T39	centre of the statistical range for goods transported by road
+T8	Linking_device 615 618	and
+#8	AnnotatorNotes T8	, while
+T10	Punctuation 615 618	and
+#10	AnnotatorNotes T10	, while
+T40	Absence_comp_sent 619 657	machinery, chemicals and food products
+#38	AnnotatorNotes T40	machinery, chemicals and food products are
+T11	Punctuation 604 607	and
+#11	AnnotatorNotes T11	, and
+T41	Punctuation 640 643	and
+#39	AnnotatorNotes T41	, and
+T42	lex_item_choice 661 670	middle of
+#40	AnnotatorNotes T42	the centre of the range in
+T43	Articles 661 670	middle of
+#41	AnnotatorNotes T43	the cenre of the range in
+T44	Absence_explanation 661 670	middle of
+#42	AnnotatorNotes T44	the centre of the range in
+T12	Category_confusion 777 785	per cent
+#12	AnnotatorNotes T12	the percentage
+T27	Ref_device 822 824	It
+#27	AnnotatorNotes T27	They
+T45	Agreement_errors 825 830	takes
+#43	AnnotatorNotes T45	make up
+T46	lex_item_choice 825 830	takes
+#44	AnnotatorNotes T46	make up
+T47	lex_item_choice 869 877	demanded
+#45	AnnotatorNotes T47	delivered
+T48	lex_item_choice 937 942	takes
+#46	AnnotatorNotes T48	reach
+T49	Word_choice 1047 1066	The most undemanded
+#47	AnnotatorNotes T49	The least demanded goods
+T50	Spelling 1107 1110	1st
+#48	AnnotatorNotes T50	first
+T51	Spelling 1138 1141	2nd
+#49	AnnotatorNotes T51	second

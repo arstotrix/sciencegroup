@@ -1,0 +1,115 @@
+T1	Noun_number 49 55	degree
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	degrees
+T2	Standard 62 79	had men and women
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	men and women had
+T3	Noun_number 20 30	difference
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	differences
+T4	Defining 182 209	, which we can distinguish,
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	which we can distinguish
+T5	Ref_device 422 426	That
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	This
+T6	lex_item_choice 440 454	most unpopular
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	lowest
+T7	Ref_device 459 463	that
+A19	Cause T7 Other
+A20	Weight-language T7 Major
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	this
+T8	Spelling 386 393	choosed
+A22	Cause T8 Other
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	chose
+T9	Tense_choice 505 512	achieve
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	achieved
+T10	lex_item_choice 493 498	point
+A28	Cause T10 Other
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	percentage
+T11	Absence_comp_sent 516 538	undergraduate diplomas
+A31	Cause T11 Other
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	having undergraduate diplomas
+T12	Absence_comp_sent 546 570	The second on popularity
+A34	Cause T12 L1_interference
+A35	Weight-language T12 Critical
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	The second on popularity qualification
+T13	Articles 639 646	the men
+A37	Cause T13 Absence_of_Category_in_L1
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	men
+T14	Absence_comp_sent 677 683	ignore
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	ignore the fact
+T15	Tense_choice 722 724	is
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Major
+#15	AnnotatorNotes T15	was
+T16	Punctuation 759 769	Futhermore
+A46	Cause T16 Other
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	Furthermore,
+T17	Redundant_comp 796 808	than females
+A49	Cause T17 Other
+A50	Weight-language T17 Minor
+A51	Weight-understanding T17 Minor
+A52	Delete T17
+T18	Tense_choice 845 852	achieve
+A53	Cause T18 Other
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Major
+#17	AnnotatorNotes T18	achieved
+T19	lex_item_choice 879 883	with
+A56	Cause T19 Other
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	where there proportion was
+T20	Tense_choice 931 935	have
+A59	Cause T20 Other
+A60	Weight-language T20 Major
+A61	Weight-understanding T20 Major
+#19	AnnotatorNotes T20	had
+T21	Spelling 957 967	percantege
+A62	Cause T21 Typo
+A63	Weight-language T21 Critical
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	percentage
+T22	Defining 905 967	, where females and males have practically the same percantege
+A65	Cause T22 L1_interference
+A66	Weight-language T22 Major
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	where females and males had practically the same percentage
+T23	Tense_choice 968 970	is
+A68	Cause T23 Other
+A69	Weight-language T23 Major
+A70	Weight-understanding T23 Major
+#22	AnnotatorNotes T23	was

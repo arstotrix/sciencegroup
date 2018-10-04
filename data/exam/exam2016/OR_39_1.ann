@@ -1,0 +1,47 @@
+T1	Determiners 27 33	number
+#1	AnnotatorNotes T1	the number
+T2	Category_confusion 44 47	use
+#2	AnnotatorNotes T2	using
+T3	Redundant 60 75	different years
+A1	Delete T3
+T4	Prepositions 170 172	On
+#3	AnnotatorNotes T4	In
+T5	Determiners 205 211	amount
+#4	AnnotatorNotes T5	the amount
+T6	Prepositions 253 268	millions people
+A2	Addition T6
+#5	AnnotatorNotes T6	millions of people
+T7	Determiners 273 279	number
+#6	AnnotatorNotes T7	the number
+T8	Agreement_errors 367 375	millions
+#7	AnnotatorNotes T8	million
+T9	Agreement_errors 307 315	millions
+#8	AnnotatorNotes T9	million
+T10	Determiners 328 334	amount
+#9	AnnotatorNotes T10	the amount
+T11	Linking_device 156 168	respectively
+A3	Delete T11
+T12	Tense_choice 353 357	grow
+#10	AnnotatorNotes T12	grew
+T13	Spelling 250 252	to
+#11	AnnotatorNotes T13	80
+T14	lex_item_choice 229 240	become less
+#12	AnnotatorNotes T14	decreased
+T15	Tense_choice 296 300	rise
+#13	AnnotatorNotes T15	rose
+T16	Numerals 402 414	Second chart
+#14	AnnotatorNotes T16	The second chart
+T17	Spelling 452 459	fcebook
+#15	AnnotatorNotes T17	facebook
+T18	Agreement_errors 539 542	Man
+#16	AnnotatorNotes T18	Men
+T19	Punctuation 636 637	,
+A4	Delete T19
+T20	Determiners 643 653	percentage
+#17	AnnotatorNotes T20	the percentage
+T21	Category_confusion 682 690	learning
+#18	AnnotatorNotes T21	learn
+T22	Agreement_errors 745 748	man
+#19	AnnotatorNotes T22	men
+T23	Prepositions 749 751	on
+#20	AnnotatorNotes T23	by

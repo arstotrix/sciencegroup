@@ -1,0 +1,134 @@
+T1	Noun_number 281 284	sex
+T3	Spelling 552 561	emphosise
+T4	Spelling 847 854	complet
+T5	Spelling 914 921	apporat
+T7	Spelling 1255 1262	abormal
+T8	Spelling 1268 1276	magasine
+T9	Inappropriate_register 1408 1417	I’ve read
+T10	Word_choice 1565 1588	And least , but no less
+T11	Spelling 1832 1836	korn
+T14	Articles 825 843	current revolution
+T15	Noun_number 1304 1311	the men
+T16	Articles 1424 1430	person
+T17	Comparative_constr 1461 1465	that
+T18	Articles 1526 1533	society
+T19	Ref_device 1555 1563	male one
+T20	Articles 1593 1613	phyhological problem
+T21	Articles 1649 1656	society
+T22	Noun_number 1741 1749	attitude
+T23	Defining 1890 1895	, who
+T26	Articles 2063 2074	healthy way
+#1	AnnotatorNotes T23	who
+T27	Ref_device 1466 1479	female’s ones
+#2	AnnotatorNotes T27	female
+#3	AnnotatorNotes T18	the society
+#5	AnnotatorNotes T26	a healthy way
+#6	AnnotatorNotes T20	a psychological problem
+T28	Spelling 1593 1605	phyhological
+#7	AnnotatorNotes T28	psychological 
+#8	AnnotatorNotes T21	a society
+T30	Redundant_comp 134 151	are truly believe
+T31	lex_item_choice 466 471	being
+T33	Lack_par_constr 669 676	to have
+T34	Agreement_errors 754 763	have told
+T36	Noun_number 979 986	subject
+T38	Agreement_errors 1484 1490	behave
+T39	Articles 1512 1517	rules
+T40	Spelling 1541 1551	consideres
+#11	AnnotatorNotes T30	truly believe
+#12	AnnotatorNotes T31	lead to
+#13	AnnotatorNotes T34	has told
+#14	AnnotatorNotes T14	the current revolution
+#16	AnnotatorNotes T15	the man
+#17	AnnotatorNotes T16	a woman
+#18	AnnotatorNotes T17	than
+#19	AnnotatorNotes T38	behaves
+#20	AnnotatorNotes T39	the rules
+#21	AnnotatorNotes T40	considers
+#22	AnnotatorNotes T22	attitudes
+#23	AnnotatorNotes T33	have
+T24	Word_choice 91 97	raises
+T42	Punctuation 98 99	,
+#25	AnnotatorNotes T1	sexes
+T43	Punctuation 284 285	,
+A1	Delete T43
+A2	Delete T42
+T45	suggestion 499 512	decreasing of
+#28	AnnotatorNotes T45	a decrease in 
+T46	Punctuation 562 563	,
+A3	Delete T46
+T47	Voice 631 637	taking
+#29	AnnotatorNotes T47	taken
+T48	Word_choice 641 649	politics
+#30	AnnotatorNotes T48	politicians
+T49	Punctuation 654 668	what is more ,
+#31	AnnotatorNotes T49	, what is more,
+T50	Derivation 680 690	essense of
+#32	AnnotatorNotes T50	essentially
+T51	Punctuation 766 767	,
+A4	Delete T51
+#33	AnnotatorNotes T4	completely
+T52	Derivation 855 868	misunderstand
+#34	AnnotatorNotes T52	misunderstood
+T53	Voice 885 895	connecting
+#35	AnnotatorNotes T53	connected
+#36	AnnotatorNotes T5	apparatus
+T54	Articles 901 921	governmental apporat
+#37	AnnotatorNotes T54	the governmental apparatus
+T55	Redundant_comp 960 978	diversification of
+A5	Delete T55
+#38	AnnotatorNotes T36	subjects
+T56	Word_choice 987 1019	regarding to their so-called use
+#39	AnnotatorNotes T56	appropriate
+#15	AnnotatorNotes T7	abnormal
+T6	Punctuation 1297 1298	,
+A6	Delete T6
+T37	Word_choice 1377 1381	mess
+#40	AnnotatorNotes T37	mix up
+T57	Defining 1431 1436	, who
+#41	AnnotatorNotes T57	who
+T58	Redundant_comp 1491 1498	herself
+A7	Delete T58
+T59	Defining 1518 1525	, which
+#42	AnnotatorNotes T59	which
+T60	Verb_Inf 1541 1554	consideres as
+#43	AnnotatorNotes T60	considers to be
+#44	AnnotatorNotes T19	male 
+T61	Coherence 1424 1430	person
+#45	AnnotatorNotes T61	a woman
+#46	AnnotatorNotes T9	I have read
+#47	AnnotatorNotes T10	last, but not least
+T41	lex_item_choice 1677 1682	taken
+#48	AnnotatorNotes T41	distributed
+T62	Punctuation 1947 1948	,
+A8	Delete T62
+T63	Word_choice 1757 1762	times
+#49	AnnotatorNotes T63	of situations in life
+T64	Punctuation 1804 1807	and
+#50	AnnotatorNotes T64	, and
+#51	AnnotatorNotes T11	adopt
+T66	Punctuation 2008 2009	,
+A10	Delete T66
+T67	Verb_Inf 2049 2062	considered as
+#52	AnnotatorNotes T67	considered to be
+T68	Modals 2091 2098	mustn’t
+#53	AnnotatorNotes T68	should
+T69	Negation 2091 2098	mustn’t
+#54	AnnotatorNotes T69	should
+T2	Articles 979 986	subject
+#26	AnnotatorNotes T2	the subjects
+#27	AnnotatorNotes T24	gets worse
+T12	suggestion 617 619	in
+T35	suggestion 276 284	both sex
+A11	Cause T48 L1_interference
+A12	Cause T68 L1_interference
+A9	Cause T42 L1_interference
+A13	Cause T63 L1_interference
+A14	Cause T66 L1_interference
+A15	Cause T62 L1_interference
+A16	Cause T6 L1_interference
+T44	Spelling 680 687	essense
+#24	AnnotatorNotes T44	essence
+#10	AnnotatorNotes T3	empahsize
+#9	AnnotatorNotes T12	with
+#4	AnnotatorNotes T8	magazine

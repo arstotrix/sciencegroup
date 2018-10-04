@@ -1,0 +1,95 @@
+T1	Agreement_errors 0 4	This
+#1	AnnotatorNotes T1	These
+T2	Agreement_errors 14 19	shows
+#2	AnnotatorNotes T2	show
+T3	Punctuation 89 90	,
+A1	Delete T3
+T4	Redundant_comp 116 134	of the aged groups
+A2	Delete T4
+T5	Standard 139 148	2050 year
+#3	AnnotatorNotes T5	the year 2050 // 2050
+T6	Spelling 228 237	childrens
+#4	AnnotatorNotes T6	children
+T7	Absence_comp_colloc 248 253	years
+#5	AnnotatorNotes T7	years old
+T8	Noun_number 218 224	number
+#6	AnnotatorNotes T8	numbers
+T9	Articles 311 321	population
+#7	AnnotatorNotes T9	the population
+T10	Spelling 386 395	childrens
+#8	AnnotatorNotes T10	children
+T11	Agreement_errors 396 400	were
+#9	AnnotatorNotes T11	was
+T12	Punctuation 411 415	Also
+#10	AnnotatorNotes T12	Also ,
+T13	Redundant_comp 416 419	and
+A3	Delete T13
+T14	Redundant_comp 440 444	aged
+A4	Delete T14
+T15	Often_confused 469 476	various
+#11	AnnotatorNotes T15	different
+T16	Agreement_errors 480 484	this
+#12	AnnotatorNotes T16	these
+T17	Absence_explanation 518 539	difference roughly in
+#13	AnnotatorNotes T17	difference of roughly
+T18	Articles 573 583	population
+#14	AnnotatorNotes T18	the population
+T19	Articles 619 627	big part
+#15	AnnotatorNotes T19	a big part
+T20	Absence_comp_sent 663 665	is
+#16	AnnotatorNotes T20	it is
+T21	Redundant_comp 686 697	And besides
+#17	AnnotatorNotes T21	Besides , 
+T22	Articles 748 758	population
+#18	AnnotatorNotes T22	the population
+T23	Prepositions 768 770	in
+#19	AnnotatorNotes T23	at
+T24	Articles 796 807	projections
+#20	AnnotatorNotes T24	the projections
+T25	Absence_comp_colloc 849 854	years
+#21	AnnotatorNotes T25	years old
+T26	Prepositions 891 906	and it leads to
+#22	AnnotatorNotes T26	at
+T27	Spelling 931 940	childrens
+#23	AnnotatorNotes T27	children
+T28	Redundant_comp 956 959	are
+A5	Delete T28
+T29	Punctuation 912 974	But other groups – childrens and old people are still differ –
+#24	AnnotatorNotes T29	But other groups, children and old people, still differ;
+T30	Agreement_errors 1008 1011	are
+#25	AnnotatorNotes T30	is
+T31	Articles 1029 1039	population
+#26	AnnotatorNotes T31	the population
+T32	Spelling 1049 1058	childrens
+#27	AnnotatorNotes T32	children
+T33	Absence_comp_sent 1049 1058	childrens
+#28	AnnotatorNotes T33	the number of children
+T34	lex_item_choice 1059 1063	have
+#29	AnnotatorNotes T34	is
+T35	Articles 1087 1096	situation
+#30	AnnotatorNotes T35	the
+T36	Articles 1114 1125	projections
+#31	AnnotatorNotes T36	the projections
+T37	Articles 1126 1136	population
+#32	AnnotatorNotes T37	the population
+T38	Absence_comp_colloc 1187 1192	years
+#33	AnnotatorNotes T38	years old
+T39	Articles 1210 1215	parts
+#34	AnnotatorNotes T39	the parts
+T40	Articles 1219 1229	population
+#35	AnnotatorNotes T40	the populations
+T41	Noun_number 1219 1229	population
+#36	AnnotatorNotes T41	populations
+T42	lex_item_choice 1270 1273	are
+#37	AnnotatorNotes T42	do
+T43	Standard 1274 1289	not very differ
+#38	AnnotatorNotes T43	not differ very much
+T44	Infinitive_constr 1296 1305	increased
+#39	AnnotatorNotes T44	are expected to increase
+T45	Spelling 1332 1340	percents
+#40	AnnotatorNotes T45	per cent
+T46	Absence_comp_sent 1296 1305	increased
+#41	AnnotatorNotes T46	are expected to increase
+T47	Infinitive_constr 1309 1316	reduced
+#42	AnnotatorNotes T47	to reduce
+R1	Parallel_construction Arg1:T44 Arg2:T47	

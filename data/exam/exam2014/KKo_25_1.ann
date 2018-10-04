@@ -1,0 +1,50 @@
+T1	Tense_choice 14 25	illustrated
+#1	AnnotatorNotes T1	illustrates
+T2	Absence_comp_sent 169 173	more
+#2	AnnotatorNotes T2	was more
+T3	Comparative_constr 174 178	that
+#3	AnnotatorNotes T3	than
+T4	Adjectives 191 197	others
+#4	AnnotatorNotes T4	other
+T5	Noun_number 198 202	type
+#5	AnnotatorNotes T5	types
+T6	Prepositions 203 208	calls
+#6	AnnotatorNotes T6	of calls
+T7	Nouns 222 229	calling
+#7	AnnotatorNotes T7	calls
+T8	Determiners 352 360	billions
+#8	AnnotatorNotes T8	billion
+T9	Word_choice 520 523	top
+#9	AnnotatorNotes T9	peak
+T10	Articles 516 519	the
+#10	AnnotatorNotes T10	a
+T11	Determiners 543 551	billions
+#11	AnnotatorNotes T11	billion
+T12	Word_choice 578 584	number
+#12	AnnotatorNotes T12	duration
+T13	Spelling 620 629	dicreased
+#13	AnnotatorNotes T13	decreased
+T14	Determiners 637 645	billions
+#14	AnnotatorNotes T14	billion
+T15	Redundant_comp 654 662	of calls
+T16	Prepositions 711 713	in
+A1	Cause T16 L1_interference
+A2	Delete T16
+T17	Word_order 706 722	less in 14 times
+#15	AnnotatorNotes T17	14 times less
+T18	Conjunctions 723 727	that
+#16	AnnotatorNotes T18	than
+T19	Noun_number 740 745	lines
+#17	AnnotatorNotes T19	line
+T20	Redundant_comp 829 838	telephone
+A3	Delete T20
+T21	Word_choice 796 825	number of minutes in billions
+#18	AnnotatorNotes T21	duration
+T22	Word_order 790 861	total number of minutes in billions by telephone local-fixed line calls
+#19	AnnotatorNotes T22	total duration of calls by local-fixed line
+T23	Spelling 895 902	industy
+A4	Cause T23 Typo
+#20	AnnotatorNotes T23	industry
+T24	Prepositions 887 889	at
+#21	AnnotatorNotes T24	in
+T25	suggestion 0 95	The bar chart illustrated the flactuation in the duration of conversations by phones in the UK.

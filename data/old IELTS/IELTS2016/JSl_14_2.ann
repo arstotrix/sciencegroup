@@ -1,0 +1,31 @@
+T1	lex_item_choice 123 149	give any bad things as and
+#1	AnnotatorNotes T1	make more harm 
+T2	Articles 266 272	planet
+#2	AnnotatorNotes T2	the planet
+T3	Punctuation 310 313	So,
+#3	AnnotatorNotes T3	So
+T4	Redundant_comp 363 368	thing
+T5	Agreement_errors 438 442	have
+#4	AnnotatorNotes T5	has
+T6	Category_confusion 464 473	pollution
+#5	AnnotatorNotes T6	pollute
+T7	Spelling 531 540	atmosfere
+#6	AnnotatorNotes T7	atmosphere
+T8	Punctuation 656 659	So,
+A1	Delete T8
+#7	AnnotatorNotes T8	So
+T9	Prepositions 668 671	for
+#8	AnnotatorNotes T9	with
+T10	lex_item_choice 672 677	think
+#9	AnnotatorNotes T10	idea
+T11	Punctuation 743 747	But,
+A2	Delete T11
+#10	AnnotatorNotes T11	But
+T12	Redundant_comp 758 760	to
+A3	Delete T12
+T13	Spelling 761 766	thing
+#11	AnnotatorNotes T13	think
+T14	Spelling 780 782	to
+#12	AnnotatorNotes T14	do
+T15	Determiners 783 787	this
+#13	AnnotatorNotes T15	these

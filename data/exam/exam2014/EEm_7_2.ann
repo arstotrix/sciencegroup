@@ -1,0 +1,45 @@
+T1	Articles 29 40	opportunity
+#1	AnnotatorNotes T1	an opportunity
+T2	Absence_comp_sent 50 58	everyone
+#2	AnnotatorNotes T2	to everyone
+T3	Articles 90 98	an exams
+#3	AnnotatorNotes T3	exams
+T4	Spelling 227 234	Nowdays
+#4	AnnotatorNotes T4	nowadays
+T5	Redundant_comp 247 251	that
+T6	Tense_form 329 340	not depends
+#5	AnnotatorNotes T6	does not depend
+T7	Linking_device 344 347	who
+#6	AnnotatorNotes T7	whether
+T8	Articles 356 361	woman
+#7	AnnotatorNotes T8	a woman
+T9	Articles 365 368	man
+#8	AnnotatorNotes T9	a man
+T11	Absence_comp_colloc 399 414	prepare an exam
+T12	Noun_number 407 414	an exam
+#10	AnnotatorNotes T12	exams
+T13	Agreement_errors 473 477	have
+T15	Word_choice 550 575	so famous and wide spread
+#12	AnnotatorNotes T15	so attractive or are more common
+T16	lex_part_choice 621 639	such subjects like
+#13	AnnotatorNotes T16	such subjects as
+T18	Spelling 0 7	Nowdays
+T19	Prepositions 99 101	on
+#14	AnnotatorNotes T19	with
+T20	Noun_number 8 22	the university
+#15	AnnotatorNotes T20	universities
+T21	Agreement_errors 23 28	gives
+#16	AnnotatorNotes T21	give
+R1	Dependent_change Arg1:T20 Arg2:T21	
+T22	Ref_device 63 66	you
+#17	AnnotatorNotes T22	they
+T23	Redundant_comp 81 84	you
+A1	Delete T23
+#18	AnnotatorNotes T11	prepare for exams
+T10	Word_choice 419 424	so on
+#9	AnnotatorNotes T10	some other factors
+#19	AnnotatorNotes T13	has
+T24	Word_choice 488 499	thoughts on
+#20	AnnotatorNotes T24	hopes for
+T25	Linking_device 519 520	,
+#21	AnnotatorNotes T25	and 

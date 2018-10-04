@@ -1,0 +1,94 @@
+T1	Punctuation 31 40	say, that
+#1	AnnotatorNotes T1	say that
+T2	Punctuation 51 57	, that
+#2	AnnotatorNotes T2	that
+T3	Inappropriate_register 159 164	can’t
+#3	AnnotatorNotes T3	cannot
+T4	Punctuation 170 176	, that
+#4	AnnotatorNotes T4	that
+T5	Capitalisation 219 227	internet
+#5	AnnotatorNotes T5	Internet
+T6	Prepositions 259 273	For my opinion
+#6	AnnotatorNotes T6	In my opinion
+T7	Punctuation 332 341	, sharing
+#7	AnnotatorNotes T7	sharing
+T8	Spelling 342 348	theire
+#8	AnnotatorNotes T8	their
+T9	Tense_choice 388 392	made
+#9	AnnotatorNotes T9	make
+T10	lex_item_choice 404 408	land
+#10	AnnotatorNotes T10	lot
+T11	lex_item_choice 412 422	commercial
+#11	AnnotatorNotes T11	promotion
+T12	lex_item_choice 440 452	not to agree
+#12	AnnotatorNotes T12	to disagree
+T13	Punctuation 452 458	, that
+#13	AnnotatorNotes T13	that
+T14	Inappropriate_register 476 483	doesn’t
+#14	AnnotatorNotes T14	does not
+T15	Absence_comp_sent 476 490	doesn’t matter
+#15	AnnotatorNotes T15	it does not matter
+T16	Inappropriate_register 527 531	smth
+#16	AnnotatorNotes T16	something
+T17	Punctuation 573 583	of course,
+#17	AnnotatorNotes T17	, of course,
+T18	Spelling 710 713	age
+#18	AnnotatorNotes T18	ago
+T19	Spelling 740 753	Transpporting
+#19	AnnotatorNotes T19	Transporting
+T20	Prepositions 755 770	in the Internet
+A1	Cause T20 L1_interference
+#20	AnnotatorNotes T20	on the Internet
+T21	Redundant_comp 807 811	then
+A2	Delete T21
+T22	lex_item_choice 854 864	went on it
+#21	AnnotatorNotes T22	went to see it
+T23	Spelling 880 886	May be
+#22	AnnotatorNotes T23	Maybe
+T24	Punctuation 880 887	May be,
+#23	AnnotatorNotes T24	Maybe
+T25	Conditionals 890 906	will never watch
+#24	AnnotatorNotes T25	would have never watched
+T26	Conditionals 923 934	didn’t find
+#25	AnnotatorNotes T26	had not found 
+T27	Prepositions 946 961	in the Internet
+A3	Cause T27 L1_interference
+#26	AnnotatorNotes T27	on the Internet
+T28	Inappropriate_register 969 977	wouldn’t
+#27	AnnotatorNotes T28	woud not 
+T29	Conditionals 969 980	wouldn’t go
+#28	AnnotatorNotes T29	would not have gone
+T30	Spelling 1000 1002	at
+#29	AnnotatorNotes T30	as
+T31	Conditionals 1028 1038	didn’t get
+#30	AnnotatorNotes T31	would not have got
+T32	Absence_comp_sent 1054 1072	The same situation
+#31	AnnotatorNotes T32	The same situation is
+T33	Prepositions 1109 1123	in the Interne
+A4	Cause T33 L1_interference
+#32	AnnotatorNotes T33	on the Internet
+T34	Spelling 1116 1123	Interne
+#33	AnnotatorNotes T34	Internet
+T35	lex_item_choice 1181 1186	there
+#34	AnnotatorNotes T35	their
+T36	Redundant_comp 1199 1210	in the end,
+A5	Delete T36
+T37	Inappropriate_register 1365 1370	don’t
+#35	AnnotatorNotes T37	do not
+T38	Punctuation 1376 1382	, that
+#36	AnnotatorNotes T38	that
+T39	Punctuation 1460 1466	, that
+#37	AnnotatorNotes T39	that
+T40	Spelling 1472 1480	becauise
+#38	AnnotatorNotes T40	because
+T41	Inappropriate_register 1516 1525	shouldn’t
+#39	AnnotatorNotes T41	should not
+T42	Noun_number 1501 1507	a kind
+#40	AnnotatorNotes T42	kinds
+T43	Agreement_errors 1498 1500	is
+#41	AnnotatorNotes T43	are
+R1	Dependent_change Arg1:T43 Arg2:T42	
+T44	Ref_device 1578 1580	it
+#42	AnnotatorNotes T44	them
+T45	Articles 1553 1564	the artists
+#43	AnnotatorNotes T45	artists

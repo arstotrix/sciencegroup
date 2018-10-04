@@ -1,0 +1,53 @@
+T1	Agreement_errors 11 16	shows
+#1	AnnotatorNotes T1	show
+T2	Often_confused 57 64	percent
+#2	AnnotatorNotes T2	percentages
+T3	Category_confusion 93 102	different
+#3	AnnotatorNotes T3	differ
+T4	Punctuation 103 108	exept
+#4	AnnotatorNotes T4	, except
+T5	Punctuation 175 177	so
+#5	AnnotatorNotes T5	, so
+T6	lex_item_choice 178 202	number of transportation
+#6	AnnotatorNotes T6	the proportions
+T7	Standard 203 225	almost does not change
+#7	AnnotatorNotes T7	do not amost change
+T8	Agreement_errors 210 214	does
+#8	AnnotatorNotes T8	do
+T9	Spelling 233 238	girst
+#9	AnnotatorNotes T9	first
+T10	Superlative_adj 256 270	the most large
+#10	AnnotatorNotes T10	the largest
+T11	Absence_explanation 271 285	transportation
+#11	AnnotatorNotes T11	percentage of goods transported
+T12	Absence_explanation 339 353	transportation
+#12	AnnotatorNotes T12	types of transportation
+T13	Spelling 434 439	girst
+#13	AnnotatorNotes T13	first
+T14	Articles 494 506	Second graph
+#14	AnnotatorNotes T14	The second graph
+T15	Tense_choice 507 515	informed
+#15	AnnotatorNotes T15	informs
+T16	Absence_explanation 524 550	the biggest transportation
+#16	AnnotatorNotes T16	the biggest percentage of goods transported
+T17	Category_confusion 536 550	transportation
+#17	AnnotatorNotes T17	transported
+T18	Punctuation 573 577	Also
+#18	AnnotatorNotes T18	Also,
+T19	Absence_comp_sent 611 623	the smallest
+#19	AnnotatorNotes T19	has the smallest proportions
+T20	Prepositions 624 643	from both of graphs
+#20	AnnotatorNotes T20	in both graphs
+T21	Punctuation 647 660	In conclusion
+#21	AnnotatorNotes T21	In conclusion,
+T22	Noun_number 679 693	transportation
+#22	AnnotatorNotes T22	transportations
+T23	Articles 702 710	the rail
+#23	AnnotatorNotes T23	rail
+T24	Articles 715 723	the road
+#24	AnnotatorNotes T24	road
+T25	Prepositions 694 723	through the rail and the road
+#25	AnnotatorNotes T25	by rail and road
+T26	Agreement_errors 724 727	has
+#26	AnnotatorNotes T26	have
+R1	Dependent_change Arg1:T26 Arg2:T22	

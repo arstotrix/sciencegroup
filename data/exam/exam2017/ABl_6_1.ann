@@ -1,0 +1,33 @@
+T2	Prepositions 243 246	for
+#2	AnnotatorNotes T2	by
+T3	Spelling 261 269	percents
+#3	AnnotatorNotes T3	percent
+T4	lex_item_choice 400 403	had
+#4	AnnotatorNotes T4	get
+T5	lex_item_choice 431 442	tendency of
+#5	AnnotatorNotes T5	situation at
+T9	Punctuation 785 796	for example
+#8	AnnotatorNotes T9	for example,
+T10	Spelling 838 844	crises
+#9	AnnotatorNotes T10	crisis
+T12	Punctuation 893 894	,
+T13	lex_item_choice 949 953	seen
+#12	AnnotatorNotes T13	demonstrated
+T14	lex_item_choice 959 969	because of
+#13	AnnotatorNotes T14	by example of
+R2	Dependent_change Arg1:T13 Arg2:T14	
+T15	Punctuation 920 926	Anyway
+#14	AnnotatorNotes T15	Anyway,
+T8	Standard 617 638	globalization process
+#15	AnnotatorNotes T8	the process of globalization
+T16	Word_choice 535 546	be employed
+#16	AnnotatorNotes T16	get jobs
+T6	lex_item_choice 553 559	effect
+#6	AnnotatorNotes T6	situation
+T17	note 1004 1005	.
+#17	AnnotatorNotes T17	ABl
+T1	suggestion 313 324	increase of
+#1	AnnotatorNotes T1	increase in
+T18	suggestion 467 479	was becoming
+#18	AnnotatorNotes T18	became
+A1	Delete T12

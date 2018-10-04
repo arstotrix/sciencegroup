@@ -1,0 +1,70 @@
+T1	Noun_number 231 236	right
+#1	AnnotatorNotes T1	rights
+T2	Spelling 375 378	nit
+#2	AnnotatorNotes T2	not
+T3	Prepositions 1187 1189	of
+A1	Addition T3
+#3	AnnotatorNotes T3	out of
+T4	Spelling 1210 1213	oll
+#4	AnnotatorNotes T4	all
+T5	Often_confused 1354 1367	controversary
+#5	AnnotatorNotes T5	controversy
+T6	Spelling 1513 1519	rivaly
+#6	AnnotatorNotes T6	rivalry
+T9	Spelling 1618 1623	famly
+#9	AnnotatorNotes T9	family
+T10	lex_part_choice 1624 1642	sector of politics
+#10	AnnotatorNotes T10	policy
+T11	Articles 1689 1698	agreement
+A2	Addition T11
+#11	AnnotatorNotes T11	an agreement
+T12	Noun_number 1710 1716	amount
+#12	AnnotatorNotes T12	amounts
+T13	Punctuation 1894 1895	,
+A3	Delete T13
+T14	Noun_number 87 91	male
+#13	AnnotatorNotes T14	males
+T15	Noun_number 96 102	female
+#14	AnnotatorNotes T15	females
+R1	Parallel_construction Arg1:T14 Arg2:T15	
+T16	Noun_number 336 340	male
+#15	AnnotatorNotes T16	males
+T17	Noun_number 345 351	female
+#16	AnnotatorNotes T17	females
+R2	Parallel_construction Arg1:T16 Arg2:T17	
+T18	Noun_attribute 699 723	a faculty of engeneering
+#17	AnnotatorNotes T18	an engineering faculty
+T19	Articles 690 695	woman
+#18	AnnotatorNotes T19	a woman
+T20	Prepositions 696 698	in
+#19	AnnotatorNotes T20	at
+T21	Standard 678 730	you can see woman in a faculty of engeneering rarely
+#20	AnnotatorNotes T21	you can rarely see a woman at an engineering faculty
+T22	Prepositions 765 775	50% places
+A4	Addition T22
+#21	AnnotatorNotes T22	50% of places
+T23	Ref_device 776 781	their
+#22	AnnotatorNotes T23	reserved for them
+T24	Articles 896 899	the
+A5	Delete T24
+T25	lex_item_choice 947 951	make
+#23	AnnotatorNotes T25	cause
+T26	Suffix 1140 1147	imagine
+#24	AnnotatorNotes T26	imaginary
+T27	Articles 1415 1416	a
+#25	AnnotatorNotes T27	an
+T28	Redundant_comp 1412 1430	in a everyday life
+A6	Delete T28
+T29	Noun_number 1493 1497	male
+#26	AnnotatorNotes T29	males
+T30	Noun_number 1502 1508	female
+#27	AnnotatorNotes T30	females
+R3	Parallel_construction Arg1:T29 Arg2:T30	
+T7	Redundant 1509 1541	and rivaly trend between genders
+T8	Word_order 1513 1525	rivaly trend
+#7	AnnotatorNotes T8	growing rivalry
+T31	Word_choice 1520 1525	trend
+#8	AnnotatorNotes T31	growing
+T32	Participial_constr 1520 1525	trend
+#28	AnnotatorNotes T32	growing
+A7	Delete T7

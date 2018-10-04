@@ -1,0 +1,27 @@
+T1	Noun_number 76 79	way
+#1	AnnotatorNotes T1	ways
+T2	Noun_number 83 94	travellings
+#2	AnnotatorNotes T2	travelling
+T3	Spelling 345 357	enviromental
+#3	AnnotatorNotes T3	environmental
+T4	Agreement_errors 416 421	makes
+#4	AnnotatorNotes T4	make
+T5	Agreement_errors 373 378	gazes
+R1	Dependent_change Arg1:T4 Arg2:T5	
+T6	Articles 472 475	the
+A1	Delete T6
+T7	Possessive 499 504	cars'
+#5	AnnotatorNotes T7	car
+T8	Spelling 847 856	goverment
+#6	AnnotatorNotes T8	government
+T9	Pronouns 873 878	which
+#7	AnnotatorNotes T9	that
+T10	Spelling 1031 1041	conuntries
+#8	AnnotatorNotes T10	countries
+T11	Coordinate 1041 1092	, which are placed in different parts of our planet
+T12	Spelling 1167 1174	peddals
+#9	AnnotatorNotes T12	pedals
+T13	lex_item_choice 1286 1291	cause
+#10	AnnotatorNotes T13	reason
+T14	note 1415 1416	t
+#11	AnnotatorNotes T14	Zavyalov

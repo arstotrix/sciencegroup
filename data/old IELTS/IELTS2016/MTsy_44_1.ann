@@ -1,0 +1,19 @@
+T2	Absence_comp_sent 71 85	primary school
+#1	AnnotatorNotes T2	primary school education
+T3	Word_order 150 245	that in Africa, South Asia and Rest of World there is a tendency of declining primary education
+#2	AnnotatorNotes T3	that there is a tendency of declining primary education in Africa, South Asia and Rest of World
+T1	Redundant_comp 271 330	there is a lower percentage in 2012 in comparison with 2000
+#3	AnnotatorNotes T1	percentage is lower in 2012 in comparison with 2000
+T4	Word_order 271 330	there is a lower percentage in 2012 in comparison with 2000
+#4	AnnotatorNotes T4	percentage is lower in 2012 in comparison with 2000
+T5	Redundant_comp 392 406	To add to this
+#5	AnnotatorNotes T5	In addition
+T6	lex_item_choice 392 398	To add
+#6	AnnotatorNotes T6	In addition
+T7	lex_item_choice 415 421	resume
+#7	AnnotatorNotes T7	notice
+T8	Tense_choice 485 491	do not
+#8	AnnotatorNotes T8	did not
+T9	Tense_choice 823 829	do not
+#9	AnnotatorNotes T9	did not
+R1	Parallel_construction Arg1:T8 Arg2:T9	

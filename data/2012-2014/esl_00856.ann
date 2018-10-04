@@ -1,0 +1,360 @@
+T1	Word_order 142 194	significantly increased the total number of students
+#1	AnnotatorNotes T1	the total number of students increased significantly
+T2	Absence_comp_sent 197 201	says
+#2	AnnotatorNotes T2	which says
+T3	Verb_pattern 197 201	says
+#3	AnnotatorNotes T3	says something about
+T4	Word_choice 267 282	students of men
+#4	AnnotatorNotes T4	male students
+T5	Tense_choice 369 375	become
+#5	AnnotatorNotes T5	became OR have become
+T6	Word_choice 392 398	amount
+#6	AnnotatorNotes T6	in number
+T7	Articles 415 416	a
+A1	Delete T7
+T8	Word_order 475 546	decreased number of students who came within 30 miles of Bristol on 49%
+#7	AnnotatorNotes T8	the proportion of students who came from within 30 miles of Bristol decreased from 49%
+T9	Absence_comp_sent 543 546	49%
+#8	AnnotatorNotes T9	49% in 1928
+T10	lex_item_choice 485 491	number
+#9	AnnotatorNotes T10	proportion
+T11	Word_order 551 602	increased the number of people from other countries
+#10	AnnotatorNotes T11	the percentage of people from other countries increased
+T12	lex_item_choice 565 571	number
+#11	AnnotatorNotes T12	percentage
+T13	Coherence 604 608	What
+#12	AnnotatorNotes T13	This
+T14	lex_item_choice 614 618	said
+#13	AnnotatorNotes T14	proves
+T15	Ref_device 640 649	Institute
+#14	AnnotatorNotes T15	University OR institution
+T16	lex_item_choice 658 665	release
+#15	AnnotatorNotes T16	significance
+T17	Prepositions 666 668	to
+#16	AnnotatorNotes T17	on
+T18	note 686 884	Significantly increased the total number of students, number of women and people from other countries, says the extension of the Institute and the General trend to higher education, also among women
+#17	AnnotatorNotes T18	THE SAME VIOLATIONS OF WORD ORDER AND OF THE VOCABULARY USES AS THOSE CORRECTED ABOVE
+T19	pos_DT 0 3	The
+#18	AnnotatorNotes T19	lemma = 'the'
+T20	pos_NN 4 9	table
+#19	AnnotatorNotes T20	lemma = 'table'
+T21	pos_VBZ 10 18	reflects
+#20	AnnotatorNotes T21	lemma = 'reflect'
+T22	pos_DT 19 22	the
+#21	AnnotatorNotes T22	lemma = 'the'
+T23	pos_NN 23 29	number
+#22	AnnotatorNotes T23	lemma = 'number'
+T24	pos_IN 30 32	of
+#23	AnnotatorNotes T24	lemma = 'of'
+T25	pos_NNS 33 41	students
+#24	AnnotatorNotes T25	lemma = 'student'
+T26	pos_VBN 42 50	enrolled
+#25	AnnotatorNotes T26	lemma = 'enroll'
+T27	pos_IN 51 53	at
+#26	AnnotatorNotes T27	lemma = 'at'
+T28	pos_NP 54 72	Bristol University
+#27	AnnotatorNotes T28	lemma = 'bristol_university'
+T29	pos_RB 73 80	as well
+#28	AnnotatorNotes T29	lemma = 'as_well'
+T30	pos_IN 81 83	as
+#29	AnnotatorNotes T30	lemma = 'as'
+T31	pos_PRP2 84 89	their
+#30	AnnotatorNotes T31	lemma = 'their'
+T32	pos_NN 90 102	distribution
+#31	AnnotatorNotes T32	lemma = 'distribution'
+T33	pos_IN 103 105	by
+#32	AnnotatorNotes T33	lemma = 'by'
+T34	pos_NN 106 109	sex
+#33	AnnotatorNotes T34	lemma = 'sex'
+T35	pos_CC 110 113	and
+#34	AnnotatorNotes T35	lemma = 'and'
+T36	pos_NN 114 119	place
+#35	AnnotatorNotes T36	lemma = 'place'
+T37	pos_IN 120 122	of
+#36	AnnotatorNotes T37	lemma = 'of'
+T38	pos_NN 123 132	residence
+#37	AnnotatorNotes T38	lemma = 'residence'
+T39	pos_Fp 132 133	.
+#38	AnnotatorNotes T39	lemma = '.'
+T40	pos_IN 134 136	In
+#39	AnnotatorNotes T40	lemma = 'in'
+T41	pos_W 137 141	2008
+#40	AnnotatorNotes T41	lemma = '[??:??/??/2008:??.??:??]'
+T42	pos_RB 142 155	significantly
+#41	AnnotatorNotes T42	lemma = 'significantly'
+T43	pos_VBD 156 165	increased
+#42	AnnotatorNotes T43	lemma = 'increase'
+T44	pos_DT 166 169	the
+#43	AnnotatorNotes T44	lemma = 'the'
+T45	pos_JJ 170 175	total
+#44	AnnotatorNotes T45	lemma = 'total'
+T46	pos_NN 176 182	number
+#45	AnnotatorNotes T46	lemma = 'number'
+T47	pos_IN 183 185	of
+#46	AnnotatorNotes T47	lemma = 'of'
+T48	pos_NNS 186 194	students
+#47	AnnotatorNotes T48	lemma = 'student'
+T49	pos_Fc 195 196	,
+#48	AnnotatorNotes T49	lemma = ','
+T50	pos_VBZ 197 201	says
+#49	AnnotatorNotes T50	lemma = 'say'
+T51	pos_DT 202 205	the
+#50	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 206 215	expansion
+#51	AnnotatorNotes T52	lemma = 'expansion'
+T53	pos_IN 216 218	of
+#52	AnnotatorNotes T53	lemma = 'of'
+T54	pos_DT 219 222	the
+#53	AnnotatorNotes T54	lemma = 'the'
+T55	pos_NP 223 233	University
+#54	AnnotatorNotes T55	lemma = 'university'
+T56	pos_Fp 233 234	.
+#55	AnnotatorNotes T56	lemma = '.'
+T57	pos_IN 235 237	In
+#56	AnnotatorNotes T57	lemma = 'in'
+T58	pos_W 238 242	1928
+#57	AnnotatorNotes T58	lemma = '[??:??/??/1928:??.??:??]'
+T59	pos_CC 243 246	and
+#58	AnnotatorNotes T59	lemma = 'and'
+T60	pos_Z 247 251	1958
+#59	AnnotatorNotes T60	lemma = '1958'
+T61	pos_Fc 251 252	,
+#60	AnnotatorNotes T61	lemma = ','
+T62	pos_DT 253 256	the
+#61	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 257 263	number
+#62	AnnotatorNotes T63	lemma = 'number'
+T64	pos_IN 264 266	of
+#63	AnnotatorNotes T64	lemma = 'of'
+T65	pos_NNS 267 275	students
+#64	AnnotatorNotes T65	lemma = 'student'
+T66	pos_IN 276 278	of
+#65	AnnotatorNotes T66	lemma = 'of'
+T67	pos_NNS 279 282	men
+#66	AnnotatorNotes T67	lemma = 'man'
+T68	pos_VBZ 283 285	is
+#67	AnnotatorNotes T68	lemma = 'be'
+T69	pos_JJR 286 293	greater
+#68	AnnotatorNotes T69	lemma = 'great'
+T70	pos_IN 294 298	than
+#69	AnnotatorNotes T70	lemma = 'than'
+T71	pos_DT 299 302	the
+#70	AnnotatorNotes T71	lemma = 'the'
+T72	pos_NN 303 309	number
+#71	AnnotatorNotes T72	lemma = 'number'
+T73	pos_IN 310 312	of
+#72	AnnotatorNotes T73	lemma = 'of'
+T74	pos_NNS 313 318	women
+#73	AnnotatorNotes T74	lemma = 'woman'
+T75	pos_Fp 318 319	.
+#74	AnnotatorNotes T75	lemma = '.'
+T76	pos_IN 320 322	In
+#75	AnnotatorNotes T76	lemma = 'in'
+T77	pos_W 323 327	2008
+#76	AnnotatorNotes T77	lemma = '[??:??/??/2008:??.??:??]'
+T78	pos_DT 328 331	the
+#77	AnnotatorNotes T78	lemma = 'the'
+T79	pos_NN 332 341	situation
+#78	AnnotatorNotes T79	lemma = 'situation'
+T80	pos_VBZ 342 344	is
+#79	AnnotatorNotes T80	lemma = 'be'
+T81	pos_VBG 345 353	changing
+#80	AnnotatorNotes T81	lemma = 'change'
+T82	pos_Fp 353 354	.
+#81	AnnotatorNotes T82	lemma = '.'
+T83	pos_NNS 355 360	Women
+#82	AnnotatorNotes T83	lemma = 'woman'
+T84	pos_CC 361 364	and
+#83	AnnotatorNotes T84	lemma = 'and'
+T85	pos_NNS 365 368	men
+#84	AnnotatorNotes T85	lemma = 'man'
+T86	pos_VBP 369 375	become
+#85	AnnotatorNotes T86	lemma = 'become'
+T87	pos_RB 376 382	almost
+#86	AnnotatorNotes T87	lemma = 'almost'
+T88	pos_DT 383 386	the
+#87	AnnotatorNotes T88	lemma = 'the'
+T89	pos_JJ 387 391	same
+#88	AnnotatorNotes T89	lemma = 'same'
+T90	pos_NN 392 398	amount
+#89	AnnotatorNotes T90	lemma = 'amount'
+T91	pos_Fp 398 399	.
+#90	AnnotatorNotes T91	lemma = '.'
+T92	pos_DT 400 404	This
+#91	AnnotatorNotes T92	lemma = 'this'
+T93	pos_VBZ 405 407	is
+#92	AnnotatorNotes T93	lemma = 'be'
+T94	pos_JJ 408 411	due
+#93	AnnotatorNotes T94	lemma = 'due'
+T95	pos_TO 412 414	to
+#94	AnnotatorNotes T95	lemma = 'to'
+T96	pos_DT 415 416	a
+#95	AnnotatorNotes T96	lemma = 'a'
+T97	pos_JJ 417 423	recent
+#96	AnnotatorNotes T97	lemma = 'recent'
+T98	pos_NNS 424 430	trends
+#97	AnnotatorNotes T98	lemma = 'trend'
+T99	pos_IN 431 436	among
+#98	AnnotatorNotes T99	lemma = 'among'
+T100	pos_NNS 437 442	women
+#99	AnnotatorNotes T100	lemma = 'woman'
+T101	pos_IN 443 445	in
+#100	AnnotatorNotes T101	lemma = 'in'
+T102	pos_JJR 446 452	higher
+#101	AnnotatorNotes T102	lemma = 'high'
+T103	pos_NN 453 462	education
+#102	AnnotatorNotes T103	lemma = 'education'
+T104	pos_Fp 462 463	.
+#103	AnnotatorNotes T104	lemma = '.'
+T105	pos_RB 464 473	Similarly
+#104	AnnotatorNotes T105	lemma = 'similarly'
+T106	pos_Fc 473 474	,
+#105	AnnotatorNotes T106	lemma = ','
+T107	pos_VBD 475 484	decreased
+#106	AnnotatorNotes T107	lemma = 'decrease'
+T108	pos_NN 485 491	number
+#107	AnnotatorNotes T108	lemma = 'number'
+T109	pos_IN 492 494	of
+#108	AnnotatorNotes T109	lemma = 'of'
+T110	pos_NNS 495 503	students
+#109	AnnotatorNotes T110	lemma = 'student'
+T111	pos_WP 504 507	who
+#110	AnnotatorNotes T111	lemma = 'who'
+T112	pos_VBD 508 512	came
+#111	AnnotatorNotes T112	lemma = 'come'
+T113	pos_RB 513 519	within
+#112	AnnotatorNotes T113	lemma = 'within'
+T114	pos_Z 520 522	30
+#113	AnnotatorNotes T114	lemma = '30'
+T115	pos_NNS 523 528	miles
+#114	AnnotatorNotes T115	lemma = 'mile'
+T116	pos_IN 529 531	of
+#115	AnnotatorNotes T116	lemma = 'of'
+T117	pos_NP 532 539	Bristol
+#116	AnnotatorNotes T117	lemma = 'bristol'
+T118	pos_IN 540 542	on
+#117	AnnotatorNotes T118	lemma = 'on'
+T119	pos_Zp 543 546	49%
+#118	AnnotatorNotes T119	lemma = '49/100'
+T120	pos_CC 547 550	and
+#119	AnnotatorNotes T120	lemma = 'and'
+T121	pos_VBD 551 560	increased
+#120	AnnotatorNotes T121	lemma = 'increase'
+T122	pos_DT 561 564	the
+#121	AnnotatorNotes T122	lemma = 'the'
+T123	pos_NN 565 571	number
+#122	AnnotatorNotes T123	lemma = 'number'
+T124	pos_IN 572 574	of
+#123	AnnotatorNotes T124	lemma = 'of'
+T125	pos_NNS 575 581	people
+#124	AnnotatorNotes T125	lemma = 'people'
+T126	pos_IN 582 586	from
+#125	AnnotatorNotes T126	lemma = 'from'
+T127	pos_JJ 587 592	other
+#126	AnnotatorNotes T127	lemma = 'other'
+T128	pos_NNS 593 602	countries
+#127	AnnotatorNotes T128	lemma = 'country'
+T129	pos_Fp 602 603	.
+#128	AnnotatorNotes T129	lemma = '.'
+T130	pos_WP 604 608	What
+#129	AnnotatorNotes T130	lemma = 'what'
+T131	pos_RB 609 613	also
+#130	AnnotatorNotes T131	lemma = 'also'
+T132	pos_VBD 614 618	said
+#131	AnnotatorNotes T132	lemma = 'say'
+T133	pos_DT 619 622	the
+#132	AnnotatorNotes T133	lemma = 'the'
+T134	pos_NN 623 632	expansion
+#133	AnnotatorNotes T134	lemma = 'expansion'
+T135	pos_IN 633 635	of
+#134	AnnotatorNotes T135	lemma = 'of'
+T136	pos_DT 636 639	the
+#135	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NP 640 649	Institute
+#136	AnnotatorNotes T137	lemma = 'institute'
+T138	pos_CC 650 653	and
+#137	AnnotatorNotes T138	lemma = 'and'
+T139	pos_PRP2 654 657	its
+#138	AnnotatorNotes T139	lemma = 'its'
+T140	pos_NN 658 665	release
+#139	AnnotatorNotes T140	lemma = 'release'
+T141	pos_TO 666 668	to
+#140	AnnotatorNotes T141	lemma = 'to'
+T142	pos_DT 669 672	the
+#141	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NN 673 678	world
+#142	AnnotatorNotes T143	lemma = 'world'
+T144	pos_NN 679 684	arena
+#143	AnnotatorNotes T144	lemma = 'arena'
+T145	pos_Fp 684 685	.
+#144	AnnotatorNotes T145	lemma = '.'
+T146	pos_RB 686 699	Significantly
+#145	AnnotatorNotes T146	lemma = 'significantly'
+T147	pos_VBD 700 709	increased
+#146	AnnotatorNotes T147	lemma = 'increase'
+T148	pos_DT 710 713	the
+#147	AnnotatorNotes T148	lemma = 'the'
+T149	pos_JJ 714 719	total
+#148	AnnotatorNotes T149	lemma = 'total'
+T150	pos_NN 720 726	number
+#149	AnnotatorNotes T150	lemma = 'number'
+T151	pos_IN 727 729	of
+#150	AnnotatorNotes T151	lemma = 'of'
+T152	pos_NNS 730 738	students
+#151	AnnotatorNotes T152	lemma = 'student'
+T153	pos_Fc 738 739	,
+#152	AnnotatorNotes T153	lemma = ','
+T154	pos_NN 740 746	number
+#153	AnnotatorNotes T154	lemma = 'number'
+T155	pos_IN 747 749	of
+#154	AnnotatorNotes T155	lemma = 'of'
+T156	pos_NNS 750 755	women
+#155	AnnotatorNotes T156	lemma = 'woman'
+T157	pos_CC 756 759	and
+#156	AnnotatorNotes T157	lemma = 'and'
+T158	pos_NNS 760 766	people
+#157	AnnotatorNotes T158	lemma = 'people'
+T159	pos_IN 767 771	from
+#158	AnnotatorNotes T159	lemma = 'from'
+T160	pos_JJ 772 777	other
+#159	AnnotatorNotes T160	lemma = 'other'
+T161	pos_NNS 778 787	countries
+#160	AnnotatorNotes T161	lemma = 'country'
+T162	pos_Fc 787 788	,
+#161	AnnotatorNotes T162	lemma = ','
+T163	pos_VBZ 789 793	says
+#162	AnnotatorNotes T163	lemma = 'say'
+T164	pos_DT 794 797	the
+#163	AnnotatorNotes T164	lemma = 'the'
+T165	pos_NN 798 807	extension
+#164	AnnotatorNotes T165	lemma = 'extension'
+T166	pos_IN 808 810	of
+#165	AnnotatorNotes T166	lemma = 'of'
+T167	pos_DT 811 814	the
+#166	AnnotatorNotes T167	lemma = 'the'
+T168	pos_NP 815 824	Institute
+#167	AnnotatorNotes T168	lemma = 'institute'
+T169	pos_CC 825 828	and
+#168	AnnotatorNotes T169	lemma = 'and'
+T170	pos_DT 829 832	the
+#169	AnnotatorNotes T170	lemma = 'the'
+T171	pos_NP 833 840	General
+#170	AnnotatorNotes T171	lemma = 'general'
+T172	pos_NN 841 846	trend
+#171	AnnotatorNotes T172	lemma = 'trend'
+T173	pos_TO 847 849	to
+#172	AnnotatorNotes T173	lemma = 'to'
+T174	pos_JJR 850 856	higher
+#173	AnnotatorNotes T174	lemma = 'high'
+T175	pos_NN 857 866	education
+#174	AnnotatorNotes T175	lemma = 'education'
+T176	pos_Fc 866 867	,
+#175	AnnotatorNotes T176	lemma = ','
+T177	pos_RB 868 872	also
+#176	AnnotatorNotes T177	lemma = 'also'
+T178	pos_IN 873 878	among
+#177	AnnotatorNotes T178	lemma = 'among'
+T179	pos_NNS 879 884	women
+#178	AnnotatorNotes T179	lemma = 'woman'
+T180	pos_Fp 884 885	.
+#179	AnnotatorNotes T180	lemma = '.'
